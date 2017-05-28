@@ -1,0 +1,11 @@
+<map id="src/plugins/images/lua/pixmap_wrapper.h" name="src/plugins/images/lua/pixmap_wrapper.h">
+<area shape="rect" id="node4" href="$datatypes_2pixmap_8h.html" title="datatypes/pixmap.h" alt="" coords="1203,95,1339,121"/>
+<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="229,169,337,196"/>
+<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="35,393,197,420"/>
+<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="401,244,490,271"/>
+<area shape="rect" id="node14" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="453,319,630,345"/>
+<area shape="rect" id="node21" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="273,319,429,345"/>
+<area shape="rect" id="node22" href="$json_8h.html" title="io/json.h" alt="" coords="1451,319,1522,345"/>
+<area shape="rect" id="node17" href="$data_8h.html" title="data.h" alt="" coords="272,393,331,420"/>
+<area shape="rect" id="node20" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="355,393,450,420"/>
+</map>

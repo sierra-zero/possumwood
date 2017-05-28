@@ -1,0 +1,10 @@
+<map id="src/plugins/maths/interval.h" name="src/plugins/maths/interval.h">
+<area shape="rect" id="node2" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1344,155,1433,181"/>
+<area shape="rect" id="node38" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1381,80,1489,107"/>
+<area shape="rect" id="node6" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="149,304,311,331"/>
+<area shape="rect" id="node9" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="360,229,537,256"/>
+<area shape="rect" id="node17" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="1812,229,1968,256"/>
+<area shape="rect" id="node18" href="$json_8h.html" title="io/json.h" alt="" coords="1353,304,1424,331"/>
+<area shape="rect" id="node12" href="$data_8h.html" title="data.h" alt="" coords="2254,304,2313,331"/>
+<area shape="rect" id="node16" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="444,304,539,331"/>
+</map>

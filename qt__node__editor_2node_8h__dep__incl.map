@@ -1,0 +1,21 @@
+<map id="src/libs/qt_node_editor/node.h" name="src/libs/qt_node_editor/node.h">
+<area shape="rect" id="node2" href="$apps_2node__editor__sandbox_2main_8cpp.html" title="src/apps/node_editor\l_sandbox/main.cpp" alt="" coords="308,273,451,315"/>
+<area shape="rect" id="node3" href="$apps_2possumwood_2main_8cpp.html" title="src/apps/possumwood\l/main.cpp" alt="" coords="615,452,768,493"/>
+<area shape="rect" id="node4" href="$apps_2possumwood_2properties_8h.html" title="src/apps/possumwood\l/properties.h" alt="" coords="185,95,339,136"/>
+<area shape="rect" id="node9" href="$index_8h.html" title="src/libs/possumwood\l_sdk/index.h" alt="" coords="528,95,673,136"/>
+<area shape="rect" id="node14" href="$graph__scene_8h.html" title="src/libs/qt_node_editor\l/graph_scene.h" alt="" coords="868,95,1021,136"/>
+<area shape="rect" id="node16" href="$graph__scene_8cpp.html" title="src/libs/qt_node_editor\l/graph_scene.cpp" alt="" coords="1045,184,1199,225"/>
+<area shape="rect" id="node17" href="$graph__widget_8h.html" title="src/libs/qt_node_editor\l/graph_widget.h" alt="" coords="639,184,792,225"/>
+<area shape="rect" id="node19" href="$qt__node__editor_2node_8cpp.html" title="src/libs/qt_node_editor\l/node.cpp" alt="" coords="1223,184,1376,225"/>
+<area shape="rect" id="node20" href="$qt__node__editor_2port_8cpp.html" title="src/libs/qt_node_editor\l/port.cpp" alt="" coords="1148,95,1301,136"/>
+<area shape="rect" id="node5" href="$main__window_8h.html" title="src/apps/possumwood\l/main_window.h" alt="" coords="68,363,221,404"/>
+<area shape="rect" id="node8" href="$apps_2possumwood_2properties_8cpp.html" title="src/apps/possumwood\l/properties.cpp" alt="" coords="185,184,339,225"/>
+<area shape="rect" id="node6" href="$main__window_8cpp.html" title="src/apps/possumwood\l/main_window.cpp" alt="" coords="183,452,336,493"/>
+<area shape="rect" id="node7" href="$toolbar_8cpp.html" title="src/apps/possumwood\l/toolbar.cpp" alt="" coords="5,452,159,493"/>
+<area shape="rect" id="node10" href="$adaptor_8h.html" title="src/apps/possumwood\l/adaptor.h" alt="" coords="475,273,628,315"/>
+<area shape="rect" id="node13" href="$index_8cpp.html" title="src/libs/possumwood\l_sdk/index.cpp" alt="" coords="417,184,563,225"/>
+<area shape="rect" id="node11" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="475,363,628,404"/>
+<area shape="rect" id="node12" href="$tree__widget_8cpp.html" title="src/apps/possumwood\l/tree_widget.cpp" alt="" coords="297,363,451,404"/>
+<area shape="rect" id="node15" href="$edge_8cpp.html" title="src/libs/qt_node_editor\l/edge.cpp" alt="" coords="868,184,1021,225"/>
+<area shape="rect" id="node18" href="$graph__widget_8cpp.html" title="src/libs/qt_node_editor\l/graph_widget.cpp" alt="" coords="704,273,857,315"/>
+</map>

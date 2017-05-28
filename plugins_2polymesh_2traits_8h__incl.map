@@ -1,0 +1,14 @@
+<map id="src/plugins/polymesh/traits.h" name="src/plugins/polymesh/traits.h">
+<area shape="rect" id="node2" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2075,95,2183,121"/>
+<area shape="rect" id="node39" href="$generic__polymesh_8h.html" title="generic_polymesh.h" alt="" coords="2429,95,2567,121"/>
+<area shape="rect" id="node4" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2051,333,2212,360"/>
+<area shape="rect" id="node8" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1965,169,2055,196"/>
+<area shape="rect" id="node11" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1620,251,1797,278"/>
+<area shape="rect" id="node18" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="1873,251,2029,278"/>
+<area shape="rect" id="node19" href="$json_8h.html" title="io/json.h" alt="" coords="1199,333,1269,360"/>
+<area shape="rect" id="node14" href="$data_8h.html" title="data.h" alt="" coords="1917,333,1975,360"/>
+<area shape="rect" id="node17" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1661,333,1756,360"/>
+<area shape="rect" id="node40" href="$generic__container_8h.html" title="generic_container.h" alt="" coords="2496,169,2631,196"/>
+<area shape="rect" id="node41" href="$generic__base_8h.html" title="generic_base.h" alt="" coords="2555,251,2665,278"/>
+<area shape="rect" id="node43" href="$generic__array_8h.html" title="generic_array.h" alt="" coords="2440,333,2551,360"/>
+</map>

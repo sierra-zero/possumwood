@@ -1,0 +1,10 @@
+<map id="src/plugins/anim/datatypes/subset_selection.h" name="src/plugins/anim/datatypes/subset_selection.h">
+<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2400,102,2508,129"/>
+<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="1976,333,2137,360"/>
+<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2219,184,2308,211"/>
+<area shape="rect" id="node13" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1824,259,2001,285"/>
+<area shape="rect" id="node20" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2128,259,2284,285"/>
+<area shape="rect" id="node21" href="$json_8h.html" title="io/json.h" alt="" coords="1184,333,1255,360"/>
+<area shape="rect" id="node16" href="$data_8h.html" title="data.h" alt="" coords="2177,333,2235,360"/>
+<area shape="rect" id="node19" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1780,333,1875,360"/>
+</map>

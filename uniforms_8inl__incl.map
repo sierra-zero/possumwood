@@ -1,0 +1,18 @@
+<map id="src/plugins/render/datatypes/uniforms.inl" name="src/plugins/render/datatypes/uniforms.inl">
+<area shape="rect" id="node2" href="$datatypes_2uniforms_8h.html" title="uniforms.h" alt="" coords="506,95,589,121"/>
+<area shape="rect" id="node49" href="$glsl__traits_8h.html" title="glsl_traits.h" alt="" coords="3085,319,3175,345"/>
+<area shape="rect" id="node10" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="3185,169,3293,196"/>
+<area shape="rect" id="node42" href="$drawable_8h.html" title="possumwood_sdk/drawable.h" alt="" coords="374,244,569,271"/>
+<area shape="rect" id="node48" href="$texture_8h.html" title="texture.h" alt="" coords="95,169,168,196"/>
+<area shape="rect" id="node12" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="3209,393,3371,420"/>
+<area shape="rect" id="node15" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2613,244,2703,271"/>
+<area shape="rect" id="node16" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2633,319,2811,345"/>
+<area shape="rect" id="node23" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2401,319,2557,345"/>
+<area shape="rect" id="node24" href="$json_8h.html" title="io/json.h" alt="" coords="1621,319,1692,345"/>
+<area shape="rect" id="node19" href="$data_8h.html" title="data.h" alt="" coords="2449,393,2507,420"/>
+<area shape="rect" id="node22" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2723,393,2817,420"/>
+<area shape="rect" id="node43" href="$dependency__graph_2values_8h.html" title="dependency_graph/values.h" alt="" coords="263,319,447,345"/>
+<area shape="rect" id="node45" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="523,319,585,345"/>
+<area shape="rect" id="node46" href="$viewport__state_8h.html" title="viewport_state.h" alt="" coords="2836,319,2955,345"/>
+<area shape="rect" id="node44" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="415,393,477,420"/>
+</map>

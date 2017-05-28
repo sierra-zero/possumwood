@@ -1,0 +1,20 @@
+<map id="src/plugins/anim/datatypes/filter.cpp" name="src/plugins/anim/datatypes/filter.cpp">
+<area shape="rect" id="node2" href="$filter_8h.html" title="filter.h" alt="" coords="2983,169,3042,196"/>
+<area shape="rect" id="node49" href="$datatypes_2motion__map_8h.html" title="motion_map.h" alt="" coords="3039,95,3143,121"/>
+<area shape="rect" id="node3" href="$animation_8h.html" title="animation.h" alt="" coords="3001,244,3091,271"/>
+<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2293,393,2401,420"/>
+<area shape="rect" id="node41" href="$datatypes_2skeleton_8h.html" title="skeleton.h" alt="" coords="2847,319,2930,345"/>
+<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2291,617,2452,644"/>
+<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1883,468,1972,495"/>
+<area shape="rect" id="node14" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1933,543,2111,569"/>
+<area shape="rect" id="node21" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="1753,543,1909,569"/>
+<area shape="rect" id="node22" href="$json_8h.html" title="io/json.h" alt="" coords="1133,543,1204,569"/>
+<area shape="rect" id="node17" href="$data_8h.html" title="data.h" alt="" coords="1851,617,1910,644"/>
+<area shape="rect" id="node20" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2172,617,2267,644"/>
+<area shape="rect" id="node42" href="$hierarchy_8h.html" title="hierarchy.h" alt="" coords="2688,393,2775,420"/>
+<area shape="rect" id="node46" href="$transform_8h.html" title="transform.h" alt="" coords="2911,393,2999,420"/>
+<area shape="rect" id="node43" href="$children_8h.html" title="children.h" alt="" coords="2140,543,2219,569"/>
+<area shape="rect" id="node44" href="$attributes_8h.html" title="attributes.h" alt="" coords="2559,468,2645,495"/>
+<area shape="rect" id="node45" href="$attribute_8h.html" title="attribute.h" alt="" coords="2629,543,2709,569"/>
+<area shape="rect" id="node50" href="$metric_8h.html" title="metric.h" alt="" coords="3117,169,3186,196"/>
+</map>

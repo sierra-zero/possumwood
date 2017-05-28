@@ -1,0 +1,12 @@
+<map id="src/plugins/lua/datatypes/context.h" name="src/plugins/lua/datatypes/context.h">
+<area shape="rect" id="node2" href="$images_2nodes_2lua_2extract_8cpp.html" title="src/plugins/images\l/nodes/lua/extract.cpp" alt="" coords="5,184,156,225"/>
+<area shape="rect" id="node3" href="$images_2nodes_2lua_2inject_8cpp.html" title="src/plugins/images\l/nodes/lua/inject.cpp" alt="" coords="789,184,932,225"/>
+<area shape="rect" id="node4" href="$module_8cpp.html" title="src/plugins/images\l/nodes/lua/module.cpp" alt="" coords="288,95,441,136"/>
+<area shape="rect" id="node5" href="$context_8cpp.html" title="src/plugins/lua/datatypes\l/context.cpp" alt="" coords="465,95,632,136"/>
+<area shape="rect" id="node6" href="$plugins_2lua_2datatypes_2state_8cpp.html" title="src/plugins/lua/datatypes\l/state.cpp" alt="" coords="656,95,823,136"/>
+<area shape="rect" id="node7" href="$extract_8h.html" title="src/plugins/lua/nodes\l/extract.h" alt="" coords="119,95,264,136"/>
+<area shape="rect" id="node9" href="$inject_8h.html" title="src/plugins/lua/nodes\l/inject.h" alt="" coords="899,95,1044,136"/>
+<area shape="rect" id="node11" href="$script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="1068,95,1213,136"/>
+<area shape="rect" id="node8" href="$lua_2nodes_2extract_8cpp.html" title="src/plugins/lua/nodes\l/extract.cpp" alt="" coords="180,184,325,225"/>
+<area shape="rect" id="node10" href="$lua_2nodes_2inject_8cpp.html" title="src/plugins/lua/nodes\l/inject.cpp" alt="" coords="956,184,1101,225"/>
+</map>

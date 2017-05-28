@@ -1,0 +1,15 @@
+<map id="src/plugins/cgal/meshes.h" name="src/plugins/cgal/meshes.h">
+<area shape="rect" id="node2" href="$datatypes_2meshes_8h.html" title="src/plugins/cgal/datatypes\l/meshes.h" alt="" coords="765,80,939,121"/>
+<area shape="rect" id="node4" href="$cgal_2nodes_2loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="5,169,157,211"/>
+<area shape="rect" id="node12" href="$meshes_8cpp.html" title="src/plugins/cgal/meshes.cpp" alt="" coords="963,87,1151,114"/>
+<area shape="rect" id="node13" href="$meshes__ui_8h.html" title="src/plugins/cgal/ui\l/meshes_ui.h" alt="" coords="1454,80,1581,121"/>
+<area shape="rect" id="node3" href="$anim_2nodes_2mesh_2cgal_8cpp.html" title="src/plugins/anim/nodes\l/mesh/cgal.cpp" alt="" coords="182,169,338,211"/>
+<area shape="rect" id="node5" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="362,169,521,211"/>
+<area shape="rect" id="node6" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="545,169,751,211"/>
+<area shape="rect" id="node7" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="776,169,928,211"/>
+<area shape="rect" id="node8" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="952,169,1139,211"/>
+<area shape="rect" id="node9" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="1163,169,1315,211"/>
+<area shape="rect" id="node10" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="1339,169,1498,211"/>
+<area shape="rect" id="node11" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="1523,169,1709,211"/>
+<area shape="rect" id="node14" href="$meshes__ui_8cpp.html" title="src/plugins/cgal/ui\l/meshes_ui.cpp" alt="" coords="1734,169,1861,211"/>
+</map>

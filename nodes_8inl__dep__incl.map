@@ -1,0 +1,18 @@
+<map id="src/libs/dependency_graph/nodes.inl" name="src/libs/dependency_graph/nodes.inl">
+<area shape="rect" id="node2" href="$adaptor_8cpp.html" title="src/apps/possumwood\l/adaptor.cpp" alt="" coords="5,95,159,136"/>
+<area shape="rect" id="node3" href="$path__widget_8cpp.html" title="src/apps/possumwood\l/path_widget.cpp" alt="" coords="183,95,336,136"/>
+<area shape="rect" id="node4" href="$libs_2actions_2actions_8cpp.html" title="src/libs/actions/actions.cpp" alt="" coords="361,102,542,129"/>
+<area shape="rect" id="node5" href="$actions_2detail_2connections_8cpp.html" title="src/libs/actions/detail\l/connections.cpp" alt="" coords="567,95,712,136"/>
+<area shape="rect" id="node6" href="$actions_2detail_2values_8cpp.html" title="src/libs/actions/detail\l/values.cpp" alt="" coords="736,95,881,136"/>
+<area shape="rect" id="node7" href="$graph_8cpp.html" title="src/libs/dependency\l_graph/graph.cpp" alt="" coords="906,95,1045,136"/>
+<area shape="rect" id="node8" href="$network_8cpp.html" title="src/libs/dependency\l_graph/network.cpp" alt="" coords="1069,95,1207,136"/>
+<area shape="rect" id="node9" href="$dependency__graph_2nodes_8cpp.html" title="src/libs/dependency\l_graph/nodes.cpp" alt="" coords="1231,95,1370,136"/>
+<area shape="rect" id="node10" href="$arithmetic_8cpp.html" title="src/tests/dependency\l_graph/arithmetic.cpp" alt="" coords="1394,95,1541,136"/>
+<area shape="rect" id="node11" href="$graph__connections_8cpp.html" title="src/tests/dependency\l_graph/graph_connections.cpp" alt="" coords="1565,95,1764,136"/>
+<area shape="rect" id="node12" href="$graph__instantiation_8cpp.html" title="src/tests/dependency\l_graph/graph_instantiation.cpp" alt="" coords="1788,95,1987,136"/>
+<area shape="rect" id="node13" href="$network__connections_8cpp.html" title="src/tests/dependency\l_graph/network_connections.cpp" alt="" coords="2011,95,2225,136"/>
+<area shape="rect" id="node14" href="$network__nodes_8cpp.html" title="src/tests/dependency\l_graph/network_nodes.cpp" alt="" coords="2249,95,2427,136"/>
+<area shape="rect" id="node15" href="$json_8cpp.html" title="src/tests/possumwood\l/json.cpp" alt="" coords="2451,95,2606,136"/>
+<area shape="rect" id="node16" href="$nested_8cpp.html" title="src/tests/possumwood\l/nested.cpp" alt="" coords="2630,95,2785,136"/>
+<area shape="rect" id="node17" href="$subnetwork__rename_8cpp.html" title="src/tests/possumwood\l/subnetwork_rename.cpp" alt="" coords="2809,95,2977,136"/>
+</map>

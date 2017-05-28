@@ -1,0 +1,16 @@
+<map id="src/libs/actions/detail/values.h" name="src/libs/actions/detail/values.h">
+<area shape="rect" id="node3" href="$network_8h.html" title="dependency_graph/network.h" alt="" coords="1103,244,1295,271"/>
+<area shape="rect" id="node22" href="$json_8h.html" title="actions/io/json.h" alt="" coords="1893,401,2011,427"/>
+<area shape="rect" id="node44" href="$undo__stack_8h.html" title="../undo_stack.h" alt="" coords="1553,401,1665,427"/>
+<area shape="rect" id="node45" href="$node__data_8h.html" title="../node_data.h" alt="" coords="1902,95,2007,121"/>
+<area shape="rect" id="node4" href="$dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="1165,319,1233,345"/>
+<area shape="rect" id="node16" href="$dependency__graph_2connections_8h.html" title="connections.h" alt="" coords="435,319,538,345"/>
+<area shape="rect" id="node9" href="$data_8h.html" title="data.h" alt="" coords="1471,401,1529,427"/>
+<area shape="rect" id="node13" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="964,401,1025,427"/>
+<area shape="rect" id="node15" href="$nodes__iterator_8h.html" title="nodes_iterator.h" alt="" coords="1217,401,1332,427"/>
+<area shape="rect" id="node20" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="237,401,325,427"/>
+<area shape="rect" id="node46" href="$libs_2actions_2io_8h.html" title="io.h" alt="" coords="2003,244,2045,271"/>
+<area shape="rect" id="node50" href="$libs_2actions_2traits_8h.html" title="traits.h" alt="" coords="1923,169,1986,196"/>
+<area shape="rect" id="node48" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2034,401,2195,427"/>
+<area shape="rect" id="node49" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2062,319,2239,345"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="src/libs/possumwood_sdk/metadata.h" name="src/libs/possumwood_sdk/metadata.h">
+<area shape="rect" id="node7" href="$dependency__graph_2metadata_8inl.html" title="dependency_graph/metadata.inl" alt="" coords="541,393,748,420"/>
+<area shape="rect" id="node30" href="$drawable_8h.html" title="drawable.h" alt="" coords="1811,95,1896,121"/>
+<area shape="rect" id="node40" href="$editor_8h.html" title="editor.h" alt="" coords="2094,95,2160,121"/>
+<area shape="rect" id="node42" href="$attr__flags_8h.html" title="attr_flags.h" alt="" coords="2574,95,2661,121"/>
+<area shape="rect" id="node8" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1157,468,1244,495"/>
+<area shape="rect" id="node24" href="$data_8inl.html" title="data.inl" alt="" coords="240,468,304,495"/>
+<area shape="rect" id="node13" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="1430,550,1493,577"/>
+<area shape="rect" id="node15" href="$data_8h.html" title="data.h" alt="" coords="739,632,798,659"/>
+<area shape="rect" id="node20" href="$attr_8h.html" title="attr.h" alt="" coords="920,550,972,577"/>
+<area shape="rect" id="node22" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="807,550,895,577"/>
+<area shape="rect" id="node27" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="26,550,121,577"/>
+<area shape="rect" id="node28" href="$rtti_8h.html" title="rtti.h" alt="" coords="996,550,1044,577"/>
+<area shape="rect" id="node31" href="$dependency__graph_2values_8h.html" title="dependency_graph/values.h" alt="" coords="1971,169,2155,196"/>
+<area shape="rect" id="node38" href="$viewport__state_8h.html" title="viewport_state.h" alt="" coords="1105,169,1224,196"/>
+<area shape="rect" id="node32" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="1971,244,2032,271"/>
+<area shape="rect" id="node34" href="$node__base_8h.html" title="node_base.h" alt="" coords="1518,319,1614,345"/>
+<area shape="rect" id="node37" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1910,468,1965,495"/>
+<area shape="rect" id="node36" href="$datablock_8h.html" title="datablock.h" alt="" coords="1756,393,1845,420"/>
+</map>

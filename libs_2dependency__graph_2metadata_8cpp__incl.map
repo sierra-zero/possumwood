@@ -1,0 +1,15 @@
+<map id="src/libs/dependency_graph/metadata.cpp" name="src/libs/dependency_graph/metadata.cpp">
+<area shape="rect" id="node2" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1497,483,1583,509"/>
+<area shape="rect" id="node18" href="$attr_8h.html" title="attr.h" alt="" coords="1014,565,1066,591"/>
+<area shape="rect" id="node23" href="$network_8h.html" title="network.h" alt="" coords="1414,95,1493,121"/>
+<area shape="rect" id="node11" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="1670,565,1733,591"/>
+<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="1859,647,1917,673"/>
+<area shape="rect" id="node20" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="1245,565,1333,591"/>
+<area shape="rect" id="node24" href="$dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="1975,169,2043,196"/>
+<area shape="rect" id="node35" href="$dependency__graph_2connections_8h.html" title="connections.h" alt="" coords="425,483,527,509"/>
+<area shape="rect" id="node26" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="865,244,927,271"/>
+<area shape="rect" id="node32" href="$nodes__iterator_8h.html" title="nodes_iterator.h" alt="" coords="2047,244,2161,271"/>
+<area shape="rect" id="node28" href="$node__base_8h.html" title="node_base.h" alt="" coords="1584,326,1680,353"/>
+<area shape="rect" id="node30" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="949,483,1003,509"/>
+<area shape="rect" id="node29" href="$datablock_8h.html" title="datablock.h" alt="" coords="1827,408,1917,435"/>
+</map>

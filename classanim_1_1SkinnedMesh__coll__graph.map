@@ -1,0 +1,4 @@
+<map id="anim::SkinnedMesh" name="anim::SkinnedMesh">
+<area shape="rect" id="node2" href="$classanim_1_1Polygons.html" title="anim::Polygons" alt="" coords="5,5,117,32"/>
+<area shape="rect" id="node3" href="$classanim_1_1SkinnedVertices.html" title="anim::SkinnedVertices" alt="" coords="141,5,294,32"/>
+</map>

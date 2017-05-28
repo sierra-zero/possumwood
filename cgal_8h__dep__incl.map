@@ -1,0 +1,19 @@
+<map id="src/plugins/cgal/cgal.h" name="src/plugins/cgal/cgal.h">
+<area shape="rect" id="node2" href="$anim_2nodes_2mesh_2cgal_8cpp.html" title="src/plugins/anim/nodes\l/mesh/cgal.cpp" alt="" coords="5,319,161,360"/>
+<area shape="rect" id="node3" href="$cgal_2cgal_8cpp.html" title="src/plugins/cgal/cgal.cpp" alt="" coords="1119,80,1285,107"/>
+<area shape="rect" id="node4" href="$meshes_8h.html" title="src/plugins/cgal/meshes.h" alt="" coords="619,155,793,181"/>
+<area shape="rect" id="node8" href="$simplification_8cpp.html" title="src/plugins/cgal/nodes\l/simplification/simplification.cpp" alt="" coords="1479,319,1685,360"/>
+<area shape="rect" id="node11" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="1710,319,1862,360"/>
+<area shape="rect" id="node17" href="$mesh_8h.html" title="src/plugins/cgal/mesh.h" alt="" coords="825,80,985,107"/>
+<area shape="rect" id="node5" href="$datatypes_2meshes_8h.html" title="src/plugins/cgal/datatypes\l/meshes.h" alt="" coords="781,229,956,271"/>
+<area shape="rect" id="node6" href="$cgal_2nodes_2loader_8cpp.html" title="src/plugins/cgal/nodes\l/loader.cpp" alt="" coords="337,319,489,360"/>
+<area shape="rect" id="node14" href="$meshes_8cpp.html" title="src/plugins/cgal/meshes.cpp" alt="" coords="480,237,668,263"/>
+<area shape="rect" id="node15" href="$meshes__ui_8h.html" title="src/plugins/cgal/ui\l/meshes_ui.h" alt="" coords="257,229,384,271"/>
+<area shape="rect" id="node7" href="$normals__generator_8cpp.html" title="src/plugins/cgal/nodes\l/normals_generator.cpp" alt="" coords="513,319,672,360"/>
+<area shape="rect" id="node9" href="$tetrahedron_8cpp.html" title="src/plugins/cgal/nodes\l/tetrahedron.cpp" alt="" coords="697,319,849,360"/>
+<area shape="rect" id="node10" href="$stitch__borders_8cpp.html" title="src/plugins/cgal/nodes\l/topology/stitch_borders.cpp" alt="" coords="873,319,1059,360"/>
+<area shape="rect" id="node12" href="$polymesh_2nodes_2vertex__data_8cpp.html" title="src/plugins/polymesh\l/nodes/vertex_data.cpp" alt="" coords="1084,319,1243,360"/>
+<area shape="rect" id="node13" href="$render_2nodes_2vertex__data_2cgal_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/cgal.cpp" alt="" coords="1267,319,1454,360"/>
+<area shape="rect" id="node16" href="$meshes__ui_8cpp.html" title="src/plugins/cgal/ui\l/meshes_ui.cpp" alt="" coords="185,319,312,360"/>
+<area shape="rect" id="node18" href="$mesh_8cpp.html" title="src/plugins/cgal/mesh.cpp" alt="" coords="817,155,992,181"/>
+</map>

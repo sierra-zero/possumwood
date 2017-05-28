@@ -1,0 +1,24 @@
+<map id="src/libs/dependency_graph/network.cpp" name="src/libs/dependency_graph/network.cpp">
+<area shape="rect" id="node2" href="$network_8h.html" title="network.h" alt="" coords="1953,393,2031,420"/>
+<area shape="rect" id="node36" href="$graph_8h.html" title="graph.h" alt="" coords="1858,319,1923,345"/>
+<area shape="rect" id="node37" href="$metadata__register_8h.html" title="metadata_register.h" alt="" coords="2557,169,2694,196"/>
+<area shape="rect" id="node38" href="$nodes_8inl.html" title="nodes.inl" alt="" coords="2157,95,2232,121"/>
+<area shape="rect" id="node39" href="$node__base_8inl.html" title="node_base.inl" alt="" coords="2094,244,2197,271"/>
+<area shape="rect" id="node3" href="$dependency__graph_2nodes_8h.html" title="nodes.h" alt="" coords="2131,468,2199,495"/>
+<area shape="rect" id="node34" href="$dependency__graph_2connections_8h.html" title="connections.h" alt="" coords="1021,781,1123,808"/>
+<area shape="rect" id="node9" href="$data_8h.html" title="data.h" alt="" coords="1976,945,2035,972"/>
+<area shape="rect" id="node13" href="$dependency__graph_2node_8h.html" title="node.h" alt="" coords="568,543,629,569"/>
+<area shape="rect" id="node31" href="$nodes__iterator_8h.html" title="nodes_iterator.h" alt="" coords="2476,543,2591,569"/>
+<area shape="rect" id="node15" href="$node__base_8h.html" title="node_base.h" alt="" coords="1583,625,1679,651"/>
+<area shape="rect" id="node22" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="1751,781,1838,808"/>
+<area shape="rect" id="node26" href="$attr_8h.html" title="attr.h" alt="" coords="603,863,655,890"/>
+<area shape="rect" id="node29" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="538,781,593,808"/>
+<area shape="rect" id="node17" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="1694,863,1757,890"/>
+<area shape="rect" id="node20" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="1312,863,1400,890"/>
+<area shape="rect" id="node28" href="$datablock_8h.html" title="datablock.h" alt="" coords="2531,707,2621,733"/>
+<area shape="rect" id="node46" href="$nodes__iterator_8inl.html" title="nodes_iterator.inl" alt="" coords="2311,169,2433,196"/>
+<area shape="rect" id="node40" href="$rtti_8h.html" title="rtti.h" alt="" coords="2355,781,2403,808"/>
+<area shape="rect" id="node41" href="$datablock_8inl.html" title="datablock.inl" alt="" coords="2799,625,2894,651"/>
+<area shape="rect" id="node43" href="$data_8inl.html" title="data.inl" alt="" coords="2833,707,2897,733"/>
+<area shape="rect" id="node45" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2943,781,3038,808"/>
+</map>
