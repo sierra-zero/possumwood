@@ -30,7 +30,7 @@ var classpossumwood_1_1io_1_1basic__json_1_1lexer =
     [ "get_number_unsigned", "classpossumwood_1_1io_1_1basic__json_1_1lexer.html#af7e8b79bba23ec6799efd32f2ba088d8", null ],
     [ "get_position", "classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a72cdaba611da36dd3a12720ca88e087c", null ],
     [ "get_string", "classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a6964619383e95f95cc758b1e184bd504", null ],
-    [ "get_token_string", "classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a491479a016e549b7d967c5b03ccde666", null ],
+    [ "get_token_string", "classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a8a8937b4821a8e3cb7d82066109e3838", null ],
     [ "reset", "classpossumwood_1_1io_1_1basic__json_1_1lexer.html#aeb6ab647442f23e3e0df3764afbe0a99", null ],
     [ "scan", "classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a50986f6ccb3cabd32f7bb7de26edaff3", null ],
     [ "scan_false", "classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a8690d92f61051860404e1e5f258743f1", null ],

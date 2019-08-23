@@ -11,7 +11,7 @@ var classdependency__graph_1_1BaseData =
     [ "isEqual", "classdependency__graph_1_1BaseData.html#aa7e5d66ae922534a090eb70aacd55bb1", null ],
     [ "operator=", "classdependency__graph_1_1BaseData.html#a618c43d895de6d0e97177346ef7cafd3", null ],
     [ "toString", "classdependency__graph_1_1BaseData.html#a6c82e42e73ece01cc6b2d1d0a1ebbd48", null ],
-    [ "type", "classdependency__graph_1_1BaseData.html#a0a2f69c8591b977e5b4889eaedf32506", null ],
+    [ "type", "classdependency__graph_1_1BaseData.html#a0d4aca9cdc79876c8f04a340f98253ce", null ],
     [ "typeinfo", "classdependency__graph_1_1BaseData.html#acd27b8b5a3e1fc664a8e049bee95d5f4", null ],
     [ "operator<<", "classdependency__graph_1_1BaseData.html#ae2c87bcbab5db29739c05f4e0c5853ff", null ]
 ];

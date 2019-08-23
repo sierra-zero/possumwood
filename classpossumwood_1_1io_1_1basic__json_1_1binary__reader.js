@@ -1,7 +1,7 @@
 var classpossumwood_1_1io_1_1basic__json_1_1binary__reader =
 [
     [ "binary_reader", "classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#ae99d5707aff1fb0915e0e881241a9ff7", null ],
-    [ "check_eof", "classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a886ed7b913fa80e3906018bbc3eae7e9", null ],
+    [ "check_eof", "classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a7223d02db2f2d6f826ef4273834f9cda", null ],
     [ "get", "classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a5b44ba3504394ba28cc782f481a29f20", null ],
     [ "get_cbor_string", "classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a61b620d9d7d0614e6c6f3aaf153d97f0", null ],
     [ "get_msgpack_string", "classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html#a09b21472dd0b592c1fb0fecbefb30f55", null ],

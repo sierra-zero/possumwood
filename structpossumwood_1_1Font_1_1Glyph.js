@@ -1,7 +1,7 @@
 var structpossumwood_1_1Font_1_1Glyph =
 [
-    [ "operator!=", "structpossumwood_1_1Font_1_1Glyph.html#abfdec4094af876fca78fa790ff2a8e62", null ],
-    [ "operator==", "structpossumwood_1_1Font_1_1Glyph.html#accffc3e7895c3c22527e7e3a197de525", null ],
+    [ "operator!=", "structpossumwood_1_1Font_1_1Glyph.html#a07edf353787fe560718f7ad2d92b35a1", null ],
+    [ "operator==", "structpossumwood_1_1Font_1_1Glyph.html#ad907ca855cd84c8985a1733c78ae7c90", null ],
     [ "advance", "structpossumwood_1_1Font_1_1Glyph.html#aa30648f83424781f81c3bd9d38f863dd", null ],
     [ "height", "structpossumwood_1_1Font_1_1Glyph.html#aeda790f2fa8417eb43a1d90b4129a7dc", null ],
     [ "originX", "structpossumwood_1_1Font_1_1Glyph.html#a0b81c28e825d138e5b506965f956bc7e", null ],

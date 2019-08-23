@@ -1,7 +1,7 @@
 <map id="src/plugins/opencv/camera_response.h" name="src/plugins/opencv/camera_response.h">
-<area shape="rect" id="node2" href="$camera__response_8cpp.html" title="src/plugins/opencv\l/camera_response.cpp" alt="" coords="5,102,160,143"/>
-<area shape="rect" id="node3" href="$calibrate__debevec_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/calibrate\l_debevec.cpp" alt="" coords="184,95,320,151"/>
-<area shape="rect" id="node4" href="$calibrate__robertson_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/calibrate\l_robertson.cpp" alt="" coords="344,95,480,151"/>
-<area shape="rect" id="node5" href="$merge__debevec_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_debevec.cpp" alt="" coords="505,102,709,143"/>
-<area shape="rect" id="node6" href="$merge__robertson_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_robertson.cpp" alt="" coords="733,102,942,143"/>
+<area shape="rect" id="node2" href="$camera__response_8cpp.html" title="src/plugins/opencv\l/camera_response.cpp" alt="" coords="5,102,173,143"/>
+<area shape="rect" id="node3" href="$calibrate__debevec_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/calibrate\l_debevec.cpp" alt="" coords="198,95,349,151"/>
+<area shape="rect" id="node4" href="$calibrate__robertson_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/calibrate\l_robertson.cpp" alt="" coords="373,95,523,151"/>
+<area shape="rect" id="node5" href="$merge__debevec_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_debevec.cpp" alt="" coords="547,102,773,143"/>
+<area shape="rect" id="node6" href="$merge__robertson_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_robertson.cpp" alt="" coords="797,102,1029,143"/>
 </map>

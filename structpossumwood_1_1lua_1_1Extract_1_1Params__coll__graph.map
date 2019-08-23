@@ -1,7 +1,7 @@
 <map id="possumwood::lua::Extract&lt; T, HOLDER &gt;::Params" name="possumwood::lua::Extract&lt; T, HOLDER &gt;::Params">
-<area shape="rect" id="node2" href="$classdependency__graph_1_1InAttr.html" title="dependency_graph::InAttr\l\&lt; std::string \&gt;" alt="" coords="499,5,669,47"/>
-<area shape="rect" id="node3" href="$classdependency__graph_1_1TypedAttr.html" title="dependency_graph::TypedAttr\l\&lt; std::string \&gt;" alt="" coords="223,5,419,47"/>
-<area shape="rect" id="node4" href="$classdependency__graph_1_1Attr.html" title="dependency_graph::Attr" alt="" coords="5,47,165,74"/>
-<area shape="rect" id="node6" href="$classdependency__graph_1_1TypedAttr.html" title="dependency_graph::TypedAttr\l\&lt; std::shared_ptr\&lt; const\l possumwood::lua::possumwood\l::lua::State \&gt; \&gt;" alt="" coords="215,71,428,141"/>
-<area shape="rect" id="node5" href="$classdependency__graph_1_1InAttr.html" title="dependency_graph::InAttr\l\&lt; std::shared_ptr\&lt; const\l possumwood::lua::possumwood\l::lua::State \&gt; \&gt;" alt="" coords="477,71,691,141"/>
+<area shape="rect" id="node2" href="$classdependency__graph_1_1InAttr.html" title="dependency_graph::InAttr\l\&lt; std::string \&gt;" alt="" coords="507,5,697,47"/>
+<area shape="rect" id="node3" href="$classdependency__graph_1_1TypedAttr.html" title="dependency_graph::TypedAttr\l\&lt; std::string \&gt;" alt="" coords="232,5,447,47"/>
+<area shape="rect" id="node4" href="$classdependency__graph_1_1Attr.html" title="dependency_graph::Attr" alt="" coords="5,50,183,77"/>
+<area shape="rect" id="node6" href="$classdependency__graph_1_1TypedAttr.html" title="dependency_graph::TypedAttr\l\&lt; std::shared_ptr\&lt; const\l possumwood::lua::State \&gt; \&gt;" alt="" coords="232,71,447,127"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1InAttr.html" title="dependency_graph::InAttr\l\&lt; std::shared_ptr\&lt; const\l possumwood::lua::State \&gt; \&gt;" alt="" coords="496,71,708,127"/>
 </map>

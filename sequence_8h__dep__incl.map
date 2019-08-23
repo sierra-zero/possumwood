@@ -1,9 +1,9 @@
 <map id="src/plugins/opencv/sequence.h" name="src/plugins/opencv/sequence.h">
-<area shape="rect" id="node2" href="$calibrate__debevec_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/calibrate\l_debevec.cpp" alt="" coords="5,95,141,151"/>
-<area shape="rect" id="node3" href="$calibrate__robertson_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/calibrate\l_robertson.cpp" alt="" coords="165,95,301,151"/>
-<area shape="rect" id="node4" href="$merge__debevec_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_debevec.cpp" alt="" coords="326,102,530,143"/>
-<area shape="rect" id="node5" href="$merge__mertens_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_mertens.cpp" alt="" coords="555,102,757,143"/>
-<area shape="rect" id="node6" href="$merge__robertson_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_robertson.cpp" alt="" coords="782,102,991,143"/>
-<area shape="rect" id="node7" href="$add__frame_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/add\l_frame.cpp" alt="" coords="1016,95,1163,151"/>
-<area shape="rect" id="node8" href="$sequence_8cpp.html" title="src/plugins/opencv\l/sequence.cpp" alt="" coords="1187,102,1317,143"/>
+<area shape="rect" id="node2" href="$calibrate__debevec_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/calibrate\l_debevec.cpp" alt="" coords="5,95,156,151"/>
+<area shape="rect" id="node3" href="$calibrate__robertson_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/calibrate\l_robertson.cpp" alt="" coords="180,95,331,151"/>
+<area shape="rect" id="node4" href="$merge__debevec_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_debevec.cpp" alt="" coords="355,102,580,143"/>
+<area shape="rect" id="node5" href="$merge__mertens_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_mertens.cpp" alt="" coords="603,102,827,143"/>
+<area shape="rect" id="node6" href="$merge__robertson_8cpp.html" title="src/plugins/opencv\l/nodes/hdr/merge_robertson.cpp" alt="" coords="851,102,1083,143"/>
+<area shape="rect" id="node7" href="$add__frame_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/add\l_frame.cpp" alt="" coords="1108,95,1267,151"/>
+<area shape="rect" id="node8" href="$sequence_8cpp.html" title="src/plugins/opencv\l/sequence.cpp" alt="" coords="1291,102,1433,143"/>
 </map>

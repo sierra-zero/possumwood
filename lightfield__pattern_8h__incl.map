@@ -1,11 +1,11 @@
 <map id="src/plugins/opencv/lightfield_pattern.h" name="src/plugins/opencv/lightfield_pattern.h">
-<area shape="rect" id="node2" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1181,95,1289,121"/>
-<area shape="rect" id="node39" href="$pattern_8h.html" title="lightfields/pattern.h" alt="" coords="1355,95,1487,121"/>
-<area shape="rect" id="node4" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2180,319,2341,345"/>
-<area shape="rect" id="node8" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1252,169,1341,196"/>
-<area shape="rect" id="node11" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2232,244,2409,271"/>
-<area shape="rect" id="node18" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="711,244,867,271"/>
-<area shape="rect" id="node19" href="$json_8h.html" title="io/json.h" alt="" coords="1303,319,1373,345"/>
-<area shape="rect" id="node14" href="$data_8h.html" title="data.h" alt="" coords="402,319,461,345"/>
-<area shape="rect" id="node17" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2468,319,2563,345"/>
+<area shape="rect" id="node2" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1289,95,1407,121"/>
+<area shape="rect" id="node39" href="$pattern_8h.html" title="lightfields/pattern.h" alt="" coords="1451,95,1600,121"/>
+<area shape="rect" id="node4" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2337,319,2517,345"/>
+<area shape="rect" id="node8" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1346,169,1443,196"/>
+<area shape="rect" id="node11" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2391,244,2590,271"/>
+<area shape="rect" id="node18" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="769,244,943,271"/>
+<area shape="rect" id="node19" href="$json_8h.html" title="io/json.h" alt="" coords="1396,319,1473,345"/>
+<area shape="rect" id="node14" href="$data_8h.html" title="data.h" alt="" coords="438,319,501,345"/>
+<area shape="rect" id="node17" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2643,319,2747,345"/>
 </map>

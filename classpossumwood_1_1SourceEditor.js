@@ -2,8 +2,8 @@ var classpossumwood_1_1SourceEditor =
 [
     [ "SourceEditor", "classpossumwood_1_1SourceEditor.html#aa0a9aa73b48dafe0b83c6ea1f8ac1265", null ],
     [ "~SourceEditor", "classpossumwood_1_1SourceEditor.html#ab2eb254a596e940ec3fe408456d82f69", null ],
-    [ "buttonsLayout", "classpossumwood_1_1SourceEditor.html#a0f8a82c8f695bfabddb4ce97c21ed222", null ],
-    [ "editorWidget", "classpossumwood_1_1SourceEditor.html#ac9ce605532fadfcf7d43ec0d98206b8d", null ],
+    [ "buttonsLayout", "classpossumwood_1_1SourceEditor.html#a6182a1faf23e9a63c301cf6a8ae2c124", null ],
+    [ "editorWidget", "classpossumwood_1_1SourceEditor.html#a5264e99405411f1463dcf290a5bb1b9c", null ],
     [ "valueChanged", "classpossumwood_1_1SourceEditor.html#aca3888fcf8dd1b3d5f7edc722cdfc55d", null ],
     [ "m_blockedSignals", "classpossumwood_1_1SourceEditor.html#a4de3c1174e4b89975de07c2ec0483e89", null ],
     [ "m_buttonsLayout", "classpossumwood_1_1SourceEditor.html#ae1d23d46f502395dcd50ec47ff3ba75c", null ],

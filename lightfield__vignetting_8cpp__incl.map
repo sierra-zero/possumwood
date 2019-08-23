@@ -1,15 +1,15 @@
 <map id="src/plugins/opencv/lightfield_vignetting.cpp" name="src/plugins/opencv/lightfield_vignetting.cpp">
-<area shape="rect" id="node2" href="$lightfield__vignetting_8h.html" title="lightfield_vignetting.h" alt="" coords="2748,95,2892,121"/>
-<area shape="rect" id="node46" href="$bspline_8inl.html" title="bspline.inl" alt="" coords="3059,95,3139,121"/>
-<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1718,244,1826,271"/>
-<area shape="rect" id="node41" href="$lightfield__pattern_8h.html" title="lightfield_pattern.h" alt="" coords="1708,169,1836,196"/>
-<area shape="rect" id="node44" href="$bspline_8h.html" title="bspline.h" alt="" coords="2965,169,3040,196"/>
-<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="249,468,410,495"/>
-<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="513,319,602,345"/>
-<area shape="rect" id="node14" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="717,393,894,420"/>
-<area shape="rect" id="node20" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="537,393,693,420"/>
-<area shape="rect" id="node21" href="$json_8h.html" title="io/json.h" alt="" coords="1713,393,1783,420"/>
-<area shape="rect" id="node17" href="$data_8h.html" title="data.h" alt="" coords="536,468,595,495"/>
-<area shape="rect" id="node19" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="619,468,714,495"/>
-<area shape="rect" id="node42" href="$pattern_8h.html" title="lightfields/pattern.h" alt="" coords="406,244,538,271"/>
+<area shape="rect" id="node2" href="$lightfield__vignetting_8h.html" title="lightfield_vignetting.h" alt="" coords="2908,95,3072,121"/>
+<area shape="rect" id="node46" href="$bspline_8inl.html" title="bspline.inl" alt="" coords="3252,95,3341,121"/>
+<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1124,244,1243,271"/>
+<area shape="rect" id="node41" href="$lightfield__pattern_8h.html" title="lightfield_pattern.h" alt="" coords="1111,169,1256,196"/>
+<area shape="rect" id="node44" href="$bspline_8h.html" title="bspline.h" alt="" coords="3132,169,3213,196"/>
+<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="252,468,432,495"/>
+<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="535,319,632,345"/>
+<area shape="rect" id="node14" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="756,393,955,420"/>
+<area shape="rect" id="node20" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="558,393,731,420"/>
+<area shape="rect" id="node21" href="$json_8h.html" title="io/json.h" alt="" coords="1811,393,1889,420"/>
+<area shape="rect" id="node17" href="$data_8h.html" title="data.h" alt="" coords="559,468,621,495"/>
+<area shape="rect" id="node19" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="646,468,750,495"/>
+<area shape="rect" id="node42" href="$pattern_8h.html" title="lightfields/pattern.h" alt="" coords="538,244,687,271"/>
 </map>

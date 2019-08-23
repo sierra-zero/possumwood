@@ -1,5 +1,5 @@
 <map id="possumwood::Shader" name="possumwood::Shader">
-<area shape="rect" id="node3" href="$classpossumwood_1_1FragmentShader.html" title="Concrete type for a Fragment shader &#45; to allow explicit type checking. " alt="" coords="5,155,208,181"/>
-<area shape="rect" id="node4" href="$classpossumwood_1_1GeometryShader.html" title="Concrete type for a Vertex shader &#45; to allow explicit type checking. " alt="" coords="232,155,437,181"/>
-<area shape="rect" id="node5" href="$classpossumwood_1_1VertexShader.html" title="Concrete type for a Vertex shader &#45; to allow explicit type checking. " alt="" coords="461,155,648,181"/>
+<area shape="rect" id="node3" href="$classpossumwood_1_1FragmentShader.html" title="Concrete type for a Fragment shader &#45; to allow explicit type checking. " alt="" coords="5,155,228,181"/>
+<area shape="rect" id="node4" href="$classpossumwood_1_1GeometryShader.html" title="Concrete type for a Vertex shader &#45; to allow explicit type checking. " alt="" coords="253,155,479,181"/>
+<area shape="rect" id="node5" href="$classpossumwood_1_1VertexShader.html" title="Concrete type for a Vertex shader &#45; to allow explicit type checking. " alt="" coords="503,155,706,181"/>
 </map>

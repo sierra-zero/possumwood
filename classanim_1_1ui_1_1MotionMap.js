@@ -1,7 +1,7 @@
 var classanim_1_1ui_1_1MotionMap =
 [
     [ "MotionMap", "classanim_1_1ui_1_1MotionMap.html#a75d8304c3bf4f9336e4bd84abf500cf8", null ],
-    [ "height", "classanim_1_1ui_1_1MotionMap.html#a0172f248ff359be31a8d613577a30ceb", null ],
+    [ "height", "classanim_1_1ui_1_1MotionMap.html#a03b45063311dde76d439e3b8699fde26", null ],
     [ "init", "classanim_1_1ui_1_1MotionMap.html#a923c747a7c4d62b257b45a00ee0e6534", null ],
     [ "mouseMove", "classanim_1_1ui_1_1MotionMap.html#a13f6e4c6d4e49cd20ac9b04ea434438d", null ],
     [ "mouseMoveEvent", "classanim_1_1ui_1_1MotionMap.html#af706846498a4457c34635f8e5d3fb8a3", null ],
@@ -12,7 +12,7 @@ var classanim_1_1ui_1_1MotionMap =
     [ "paintEvent", "classanim_1_1ui_1_1MotionMap.html#a68c68a50ac7b6846f237efc9d47d60af", null ],
     [ "setPixel", "classanim_1_1ui_1_1MotionMap.html#a9e4b1a70c85c3c6a2e4b74e6d2cf33c1", null ],
     [ "wheelEvent", "classanim_1_1ui_1_1MotionMap.html#a2b22e6a11c1ae9072b7413f3113e9acd", null ],
-    [ "width", "classanim_1_1ui_1_1MotionMap.html#a2acddfaf433156eb38150fa57a49be59", null ],
+    [ "width", "classanim_1_1ui_1_1MotionMap.html#ada3184f6e519ad0b58c704ce25ce2af7", null ],
     [ "m_image", "classanim_1_1ui_1_1MotionMap.html#a29c55bb7c90b9869fca21660db335c16", null ],
     [ "m_imageChanged", "classanim_1_1ui_1_1MotionMap.html#aa4dbed24469da277c7b6a48e89450754", null ],
     [ "m_mousePos", "classanim_1_1ui_1_1MotionMap.html#a9132bd35136d7a5d42b4f81c9cff2c64", null ],

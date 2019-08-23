@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['action',['Action',['../classAction.html',1,'']]],
-  ['action',['Action',['../classpossumwood_1_1UndoStack_1_1Action.html',1,'possumwood::UndoStack']]],
+  ['action',['Action',['../classAction.html',1,'Action'],['../classpossumwood_1_1UndoStack_1_1Action.html',1,'possumwood::UndoStack::Action']]],
   ['adaptor',['Adaptor',['../classAdaptor.html',1,'']]],
   ['adl_5fserializer',['adl_serializer',['../structpossumwood_1_1io_1_1adl__serializer.html',1,'possumwood::io']]],
   ['animation',['Animation',['../classanim_1_1Animation.html',1,'anim']]],

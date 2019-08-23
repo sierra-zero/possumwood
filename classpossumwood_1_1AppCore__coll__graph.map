@@ -1,12 +1,12 @@
 <map id="possumwood::AppCore" name="possumwood::AppCore">
-<area shape="rect" id="node10" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="157,107,335,133"/>
-<area shape="rect" id="node11" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="903,77,1115,104"/>
-<area shape="rect" id="node12" href="$classpossumwood_1_1UndoStack.html" title="possumwood::UndoStack" alt="" coords="367,221,539,248"/>
-<area shape="rect" id="node3" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="921,167,1096,193"/>
-<area shape="rect" id="node4" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="568,152,756,179"/>
-<area shape="rect" id="node5" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="909,348,1109,375"/>
-<area shape="rect" id="node6" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="567,481,757,508"/>
-<area shape="rect" id="node7" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="149,338,343,379"/>
-<area shape="rect" id="node8" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="563,317,761,344"/>
-<area shape="rect" id="node9" href="$classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="577,431,747,457"/>
+<area shape="rect" id="node10" href="$classdependency__graph_1_1Nodes.html" title="dependency_graph::Nodes" alt="" coords="170,112,365,139"/>
+<area shape="rect" id="node11" href="$classdependency__graph_1_1Connections.html" title="dependency_graph::Connections" alt="" coords="979,77,1212,104"/>
+<area shape="rect" id="node12" href="$classpossumwood_1_1UndoStack.html" title="possumwood::UndoStack" alt="" coords="399,224,585,251"/>
+<area shape="rect" id="node3" href="$classdependency__graph_1_1Graph.html" title="The graph data structure &#45; holds node instances and connections. " alt="" coords="999,167,1191,193"/>
+<area shape="rect" id="node4" href="$classdependency__graph_1_1Network.html" title="dependency_graph::Network" alt="" coords="615,157,823,184"/>
+<area shape="rect" id="node5" href="$classdependency__graph_1_1NodeBase.html" title="dependency_graph::NodeBase" alt="" coords="986,347,1205,373"/>
+<area shape="rect" id="node6" href="$classdependency__graph_1_1UniqueId.html" title="dependency_graph::UniqueId" alt="" coords="613,481,824,508"/>
+<area shape="rect" id="node7" href="$classdependency__graph_1_1MetadataHandle.html" title="dependency_graph::Metadata\lHandle" alt="" coords="160,339,375,381"/>
+<area shape="rect" id="node8" href="$classdependency__graph_1_1Datablock.html" title="dependency_graph::Datablock" alt="" coords="609,317,828,344"/>
+<area shape="rect" id="node9" href="$classdependency__graph_1_1State.html" title="dependency_graph::State" alt="" coords="625,431,812,457"/>
 </map>

@@ -1,9 +1,9 @@
 <map id="src/libs/actions/traits.h" name="src/libs/actions/traits.h">
-<area shape="rect" id="node3" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2395,229,2556,256"/>
-<area shape="rect" id="node7" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1267,80,1356,107"/>
-<area shape="rect" id="node10" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2089,155,2267,181"/>
-<area shape="rect" id="node17" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="760,155,916,181"/>
-<area shape="rect" id="node18" href="$json_8h.html" title="io/json.h" alt="" coords="1276,229,1347,256"/>
-<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="402,229,461,256"/>
-<area shape="rect" id="node16" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2173,229,2268,256"/>
+<area shape="rect" id="node3" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2566,229,2746,256"/>
+<area shape="rect" id="node7" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1361,80,1458,107"/>
+<area shape="rect" id="node10" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="2245,155,2443,181"/>
+<area shape="rect" id="node17" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="840,155,1013,181"/>
+<area shape="rect" id="node18" href="$json_8h.html" title="io/json.h" alt="" coords="1371,229,1448,256"/>
+<area shape="rect" id="node13" href="$data_8h.html" title="data.h" alt="" coords="438,229,501,256"/>
+<area shape="rect" id="node16" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="2336,229,2440,256"/>
 </map>

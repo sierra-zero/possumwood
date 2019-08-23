@@ -11,10 +11,10 @@ var hierarchy =
       [ "dependency_graph::TypedAttr< T >", "classdependency__graph_1_1TypedAttr.html", [
         [ "dependency_graph::InAttr< T >", "classdependency__graph_1_1InAttr.html", null ],
         [ "dependency_graph::OutAttr< T >", "classdependency__graph_1_1OutAttr.html", null ],
-        [ "dependency_graph::InAttr< possumwood::lua::possumwood::lua::Context >", "classdependency__graph_1_1InAttr.html", null ],
-        [ "dependency_graph::InAttr< std::shared_ptr< const possumwood::lua::possumwood::lua::State > >", "classdependency__graph_1_1InAttr.html", null ],
+        [ "dependency_graph::InAttr< possumwood::lua::Context >", "classdependency__graph_1_1InAttr.html", null ],
+        [ "dependency_graph::InAttr< std::shared_ptr< const possumwood::lua::State > >", "classdependency__graph_1_1InAttr.html", null ],
         [ "dependency_graph::InAttr< std::string >", "classdependency__graph_1_1InAttr.html", null ],
-        [ "dependency_graph::OutAttr< possumwood::lua::possumwood::lua::Context >", "classdependency__graph_1_1OutAttr.html", null ]
+        [ "dependency_graph::OutAttr< possumwood::lua::Context >", "classdependency__graph_1_1OutAttr.html", null ]
       ] ],
       [ "dependency_graph::TypedAttr< void >", "classdependency__graph_1_1TypedAttr_3_01void_01_4.html", [
         [ "dependency_graph::InAttr< void >", "classdependency__graph_1_1InAttr_3_01void_01_4.html", null ],
@@ -266,9 +266,9 @@ var hierarchy =
         [ "possumwood::IO< anim::JointMappingEditorData >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< anim::SubsetSelection >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< Imath::Vec3< float > >", "classpossumwood_1_1IO.html", null ],
-        [ "possumwood::IO< maths::Interval >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Enum >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::Filename >", "classpossumwood_1_1IO.html", null ],
+        [ "possumwood::IO< possumwood::maths::Interval >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< possumwood::NodeData >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< std::string >", "classpossumwood_1_1IO.html", null ],
         [ "possumwood::IO< T >", "classpossumwood_1_1IO.html", null ]
@@ -549,8 +549,8 @@ var hierarchy =
     [ "possumwood::VBOTraits< Imath::Vec3< T > >", "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html", null ],
     [ "possumwood::VBOTraits< std::array< T, WIDTH > >", "structpossumwood_1_1VBOTraits_3_01std_1_1array_3_01T_00_01WIDTH_01_4_01_4.html", null ],
     [ "possumwood::VBOTraits< std::vector< T > >", "structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4.html", null ],
-    [ "anim::SkinnedVertices::Vertex", "classanim_1_1SkinnedVertices_1_1Vertex.html", null ],
     [ "possumwood::polymesh::GenericPolymesh::Vertex", "classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Vertex.html", null ],
+    [ "anim::SkinnedVertices::Vertex", "classanim_1_1SkinnedVertices_1_1Vertex.html", null ],
     [ "possumwood::CGALItems::Vertex_wrapper< Refs, Traits >", "structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html", null ],
     [ "possumwood::VertexExtractor< VAL >", "structpossumwood_1_1VertexExtractor.html", null ],
     [ "possumwood::ViewportState", "classpossumwood_1_1ViewportState.html", null ],

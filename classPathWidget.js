@@ -7,7 +7,7 @@ var classPathWidget =
     [ "goBack", "classPathWidget.html#aeea7ad7f79ea2d754a2061ee602fad45", null ],
     [ "goForward", "classPathWidget.html#ab6bc24d1e2b717eb9e29d868c9054303", null ],
     [ "goToPath", "classPathWidget.html#a5a901f2b6e110891ce480b4a205226ba", null ],
-    [ "path", "classPathWidget.html#a376959079540a2b6200638fb06ed0719", null ],
+    [ "path", "classPathWidget.html#aba064882654e88f36dbddc6393664e9d", null ],
     [ "setPath", "classPathWidget.html#adae6fdba9cde316e754350e43a1729fd", null ],
     [ "m_back", "classPathWidget.html#a5bd637498151871df17399d80e4f26d5", null ],
     [ "m_forward", "classPathWidget.html#ab618e2f9350a5165c5d11dbfc258311e", null ],
