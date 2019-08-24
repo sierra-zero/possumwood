@@ -28,5 +28,6 @@ var searchData=
   ['motion_5fgraph_2eh',['motion_graph.h',['../motion__graph_8h.html',1,'']]],
   ['motion_5fmap_2ecpp',['motion_map.cpp',['../datatypes_2motion__map_8cpp.html',1,'(Global Namespace)'],['../ui_2motion__map_8cpp.html',1,'(Global Namespace)']]],
   ['motion_5fmap_2eh',['motion_map.h',['../datatypes_2motion__map_8h.html',1,'(Global Namespace)'],['../ui_2motion__map_8h.html',1,'(Global Namespace)']]],
-  ['mult_2ecpp',['mult.cpp',['../mult_8cpp.html',1,'']]]
+  ['mult_2ecpp',['mult.cpp',['../mult_8cpp.html',1,'']]],
+  ['multiply_2ecpp',['multiply.cpp',['../multiply_8cpp.html',1,'']]]
 ];

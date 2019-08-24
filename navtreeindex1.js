@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classAdaptor.html#ac38f19e6d003aaab91ead642037e4d37":[2,0,8,32],
 "classAdaptor.html#ac80772f4040a3e51a7724e4135a96758":[2,0,8,18],
 "classAdaptor.html#aca23153024e9284c9fc997868a84c368":[2,0,8,31],
 "classAdaptor.html#ad249445938a48a061efff21471706a2f":[2,0,8,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "classTimelineWidget.html#a3f617c3941912a7c46c05423e543ae22":[2,0,40,4],
 "classTimelineWidget.html#a44ac90364d29a0d07eadf8fad02c6538":[2,0,40,3],
 "classTimelineWidget.html#a455d840f716e5c391ce9307660f4aed5":[2,0,40,7],
-"classTimelineWidget.html#a550cb72129824ed0db56a04db1b3814d":[2,0,40,5],
-"classTimelineWidget.html#a5683d379f9eda800b60d47987de0c98a":[2,0,40,1]
+"classTimelineWidget.html#a550cb72129824ed0db56a04db1b3814d":[2,0,40,5]
 };

@@ -1,5 +1,15 @@
 var NAVTREEINDEX17 =
 {
+"structlightfields_1_1Block.html#acc3becfcd7985a904c56875b855a00aa":[2,0,2,0,0],
+"structlightfields_1_1Raw_1_1Pimpl.html":[2,0,2,2,0],
+"structlightfields_1_1Raw_1_1Pimpl.html#a25533fcc0dd1e0f2642bc29a2609dc7a":[2,0,2,2,0,0],
+"structlightfields_1_1Raw_1_1Pimpl.html#a7eb30d789c0c4d518f35b240356da693":[2,0,2,2,0,1],
+"structlightfields_1_1Raw_1_1Pimpl.html#ac19b63c4d098b19117a351945817d394":[2,0,2,2,0,3],
+"structlightfields_1_1Raw_1_1Pimpl.html#ad1f895a413c854d825e40600675368af":[2,0,2,2,0,2],
+"structnode__editor_1_1GraphScene_1_1Selection.html":[2,0,3,2,0],
+"structnode__editor_1_1GraphScene_1_1Selection.html#ac4b44f9d9bf585a6d170487ba177ae2e":[2,0,3,2,0,0],
+"structnode__editor_1_1GraphScene_1_1Selection.html#ac4d32a5ba0fd72f7b7520d1d3cb5a96f":[2,0,3,2,0,1],
+"structnode__editor_1_1Node_1_1PortDefinition.html":[2,0,3,4,0],
 "structnode__editor_1_1Node_1_1PortDefinition.html#a2cc13b6cb01be56f86e91ef923338f0d":[2,0,3,4,0,4],
 "structnode__editor_1_1Node_1_1PortDefinition.html#a4603847537b64f0e6b7d707abcc06f11":[2,0,3,4,0,2],
 "structnode__editor_1_1Node_1_1PortDefinition.html#a6582da153181d276efb7c061edcf8cab":[2,0,3,4,0,3],
@@ -239,15 +249,5 @@ var NAVTREEINDEX17 =
 "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html#aac50436b5b43f28507c84903033b84d3":[2,0,5,116,1],
 "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html#af61481d3afffde5150571b71cdfc3fb3":[2,0,5,116,0],
 "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html":[2,0,5,117],
-"structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html#a14fd8a403273f0c058df0d7d64de1323":[2,0,5,117,1],
-"structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html#a1835686883738b71e68e4d63a4d6496c":[2,0,5,117,0],
-"structpossumwood_1_1VBOTraits_3_01std_1_1array_3_01T_00_01WIDTH_01_4_01_4.html":[2,0,5,118],
-"structpossumwood_1_1VBOTraits_3_01std_1_1array_3_01T_00_01WIDTH_01_4_01_4.html#a4fe84222b16fe66de82fc7a01d406540":[2,0,5,118,0],
-"structpossumwood_1_1VBOTraits_3_01std_1_1array_3_01T_00_01WIDTH_01_4_01_4.html#a8576888f95b95c8606023b286697e7a7":[2,0,5,118,1],
-"structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4.html":[2,0,5,119],
-"structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4.html#a25a03244c02808b98094670577d3ecdf":[2,0,5,119,0],
-"structpossumwood_1_1VBOTraits_3_01std_1_1vector_3_01T_01_4_01_4.html#af4e4b93e5db73999f46c9aa4d799553e":[2,0,5,119,1],
-"structpossumwood_1_1VertexData_1_1VBOHolder.html":[2,0,5,120,0],
-"structpossumwood_1_1VertexData_1_1VBOHolder.html#a039456da13c543973f7083041bad0ef6":[2,0,5,120,0,2],
-"structpossumwood_1_1VertexData_1_1VBOHolder.html#a1429bca75cc9b8b73f11c94accb84b6c":[2,0,5,120,0,4]
+"structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html#a14fd8a403273f0c058df0d7d64de1323":[2,0,5,117,1]
 };
