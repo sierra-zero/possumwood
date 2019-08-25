@@ -16,6 +16,7 @@ var dir_6fbb2b0cf2748b8d62c4ec7b696c8057 =
     [ "convert.cpp", "convert_8cpp.html", null ],
     [ "demosaic.cpp", "demosaic_8cpp.html", null ],
     [ "denoising.cpp", "denoising_8cpp.html", null ],
+    [ "dilate_erode.cpp", "dilate__erode_8cpp.html", null ],
     [ "divide.cpp", "divide_8cpp.html", null ],
     [ "equalize.cpp", "equalize_8cpp.html", null ],
     [ "gamma.cpp", "gamma_8cpp.html", null ],
@@ -26,5 +27,6 @@ var dir_6fbb2b0cf2748b8d62c4ec7b696c8057 =
     [ "resize.cpp", "resize_8cpp.html", null ],
     [ "split.cpp", "split_8cpp.html", null ],
     [ "subtract.cpp", "subtract_8cpp.html", null ],
-    [ "texture.cpp", "opencv_2nodes_2texture_8cpp.html", null ]
+    [ "texture.cpp", "opencv_2nodes_2texture_8cpp.html", null ],
+    [ "threshold.cpp", "threshold_8cpp.html", null ]
 ];

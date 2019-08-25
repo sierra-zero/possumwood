@@ -14,6 +14,7 @@ var searchData=
   ['dense_2ecpp',['dense.cpp',['../dense_8cpp.html',1,'']]],
   ['detail_2eh',['detail.h',['../detail_8h.html',1,'']]],
   ['detect_5fstationary_2ecpp',['detect_stationary.cpp',['../detect__stationary_8cpp.html',1,'']]],
+  ['dilate_5ferode_2ecpp',['dilate_erode.cpp',['../dilate__erode_8cpp.html',1,'']]],
   ['display_2ecpp',['display.cpp',['../animation_2constraints_2display_8cpp.html',1,'(Global Namespace)'],['../frame_2display_8cpp.html',1,'(Global Namespace)'],['../mesh_2display_8cpp.html',1,'(Global Namespace)']]],
   ['divide_2ecpp',['divide.cpp',['../divide_8cpp.html',1,'']]],
   ['draw_2ecpp',['draw.cpp',['../draw_8cpp.html',1,'']]],

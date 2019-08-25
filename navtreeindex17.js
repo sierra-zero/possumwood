@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"structlightfields_1_1Block.html#ac2c780e4446215b5a305fddb36599270":[2,0,2,0,2],
 "structlightfields_1_1Block.html#acc3becfcd7985a904c56875b855a00aa":[2,0,2,0,0],
 "structlightfields_1_1Raw_1_1Pimpl.html":[2,0,2,2,0],
 "structlightfields_1_1Raw_1_1Pimpl.html#a25533fcc0dd1e0f2642bc29a2609dc7a":[2,0,2,2,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html":[2,0,5,116],
 "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html#aac50436b5b43f28507c84903033b84d3":[2,0,5,116,1],
 "structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec2_3_01T_01_4_01_4.html#af61481d3afffde5150571b71cdfc3fb3":[2,0,5,116,0],
-"structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html":[2,0,5,117],
-"structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html#a14fd8a403273f0c058df0d7d64de1323":[2,0,5,117,1]
+"structpossumwood_1_1VBOTraits_3_01Imath_1_1Vec3_3_01T_01_4_01_4.html":[2,0,5,117]
 };

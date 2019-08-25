@@ -44,6 +44,7 @@ var searchData=
   ['detect_5fstationary_2ecpp',['detect_stationary.cpp',['../detect__stationary_8cpp.html',1,'']]],
   ['diff',['diff',['../classpossumwood_1_1io_1_1basic__json.html#aa4ebc1ee9b921d809c402e69b7cd7fd6',1,'possumwood::io::basic_json']]],
   ['difference_5ftype',['difference_type',['../classpossumwood_1_1io_1_1basic__json.html#a5ee01efd26392965886f22306bf13dd5',1,'possumwood::io::basic_json::difference_type()'],['../classpossumwood_1_1io_1_1basic__json_1_1iter__impl.html#ad179d39d1e3af6f371e8d6e550cbd6de',1,'possumwood::io::basic_json::iter_impl::difference_type()']]],
+  ['dilate_5ferode_2ecpp',['dilate_erode.cpp',['../dilate__erode_8cpp.html',1,'']]],
   ['dirtychanged',['dirtyChanged',['../classdependency__graph_1_1Graph.html#ae5c920d8acb5ec793504ae397cbf8927',1,'dependency_graph::Graph']]],
   ['discarded',['discarded',['../namespacepossumwood_1_1io_1_1detail.html#aa40554911e67592dfc384f43766fd4bea94708897ec9db8647dfe695714c98e46',1,'possumwood::io::detail']]],
   ['disconnect',['disconnect',['../classdependency__graph_1_1Port.html#ae76c4c8d4e4ed18a0de29c53e9a66b86',1,'dependency_graph::Port::disconnect()'],['../classnode__editor_1_1GraphScene.html#af21e49b710c3690b4cac4207c994b230',1,'node_editor::GraphScene::disconnect(Port &amp;p1, Port &amp;p2)'],['../classnode__editor_1_1GraphScene.html#a22196eac8403ac72ffa0acab02603450',1,'node_editor::GraphScene::disconnect(ConnectedEdge &amp;e)'],['../namespacepossumwood_1_1actions.html#a8efc21c35ab2c51066a08009167d558d',1,'possumwood::actions::disconnect()']]],
