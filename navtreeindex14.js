@@ -1,5 +1,6 @@
 var NAVTREEINDEX14 =
 {
+"functions_vars_v.html":[2,3,2,18],
 "functions_vars_w.html":[2,3,2,19],
 "functions_vars_x.html":[2,3,2,20],
 "functions_vars_y.html":[2,3,2,21],
@@ -7,7 +8,7 @@ var NAVTREEINDEX14 =
 "functions_x.html":[2,3,0,23],
 "functions_y.html":[2,3,0,24],
 "functions_z.html":[2,3,0,25],
-"gamma_8cpp.html":[3,0,0,2,5,0,19],
+"gamma_8cpp.html":[3,0,0,2,5,0,20],
 "gaussian__refocus_8cpp.html":[3,0,0,2,5,0,6,1],
 "generate_8cpp.html":[3,0,0,2,2,2,1],
 "generic__array_8cpp.html":[3,0,0,2,6,2],
@@ -99,7 +100,7 @@ var NAVTREEINDEX14 =
 "influences_8cpp.html#ab37437287a5110493ecd000e11308269":[3,0,0,3,1,9,1],
 "inject_8h.html":[3,0,0,2,3,1,3],
 "inject_8h_source.html":[3,0,0,2,3,1,3],
-"inpaint_8cpp.html":[3,0,0,2,5,0,20],
+"inpaint_8cpp.html":[3,0,0,2,5,0,21],
 "input_8cpp.html":[3,0,0,1,3,1,1],
 "integrate__bezier_8cpp.html":[3,0,0,2,5,0,6,2],
 "integrate__gaussian_8cpp.html":[3,0,0,2,5,0,6,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX14 =
 "lightfield__samples_8h.html":[3,0,0,2,5,22],
 "lightfield__samples_8h.html#a3a7d7db39cb0994e72d8126e4bf5ccc1":[3,0,0,2,5,22,3],
 "lightfield__samples_8h_source.html":[3,0,0,2,5,22],
-"lightfield__vignetting_8cpp.html":[3,0,0,2,5,23],
-"lightfield__vignetting_8cpp.html#a134a6dee3e1caeaccb7c0a4c3dc49c51":[3,0,0,2,5,23,0]
+"lightfield__vignetting_8cpp.html":[3,0,0,2,5,23]
 };
