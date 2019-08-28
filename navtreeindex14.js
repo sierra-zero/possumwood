@@ -101,6 +101,8 @@ var NAVTREEINDEX14 =
 "inject_8h.html":[3,0,0,2,3,1,3],
 "inject_8h_source.html":[3,0,0,2,3,1,3],
 "inpaint_8cpp.html":[3,0,0,2,5,0,21],
+"inpaint__laplacian_8cpp.html":[3,0,0,2,5,0,22],
+"inpaint__laplacian_8cpp.html#aa69893f50bcb8cec4064f6bc1017497f":[3,0,0,2,5,0,22,0],
 "input_8cpp.html":[3,0,0,1,3,1,1],
 "integrate__bezier_8cpp.html":[3,0,0,2,5,0,6,2],
 "integrate__gaussian_8cpp.html":[3,0,0,2,5,0,6,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX14 =
 "lightfield__samples_8cpp.html":[3,0,0,2,5,21],
 "lightfield__samples_8cpp.html#a3a7d7db39cb0994e72d8126e4bf5ccc1":[3,0,0,2,5,21,1],
 "lightfield__samples_8h.html":[3,0,0,2,5,22],
-"lightfield__samples_8h.html#a3a7d7db39cb0994e72d8126e4bf5ccc1":[3,0,0,2,5,22,3],
-"lightfield__samples_8h_source.html":[3,0,0,2,5,22],
-"lightfield__vignetting_8cpp.html":[3,0,0,2,5,23]
+"lightfield__samples_8h.html#a3a7d7db39cb0994e72d8126e4bf5ccc1":[3,0,0,2,5,22,3]
 };
