@@ -22,7 +22,6 @@ var dir_6fbb2b0cf2748b8d62c4ec7b696c8057 =
     [ "equalize.cpp", "equalize_8cpp.html", null ],
     [ "gamma.cpp", "gamma_8cpp.html", null ],
     [ "inpaint.cpp", "inpaint_8cpp.html", null ],
-    [ "inpaint_laplacian.cpp", "inpaint__laplacian_8cpp.html", "inpaint__laplacian_8cpp" ],
     [ "merge.cpp", "merge_8cpp.html", null ],
     [ "metadata.cpp", "plugins_2opencv_2nodes_2metadata_8cpp.html", null ],
     [ "multiply.cpp", "multiply_8cpp.html", null ],
