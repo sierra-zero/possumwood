@@ -13,6 +13,7 @@ var annotated_dup =
     [ "ColourWidget", "classColourWidget.html", "classColourWidget" ],
     [ "ConfigDialog", "classConfigDialog.html", "classConfigDialog" ],
     [ "enum_ui", "classenum__ui.html", "classenum__ui" ],
+    [ "ErrorDialog", "classErrorDialog.html", "classErrorDialog" ],
     [ "ExpressionExpansion", "classExpressionExpansion.html", "classExpressionExpansion" ],
     [ "filename_ui", "classfilename__ui.html", "classfilename__ui" ],
     [ "float_ui", "classfloat__ui.html", "classfloat__ui" ],

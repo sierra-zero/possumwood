@@ -5,6 +5,7 @@ var searchData=
   ['element',['Element',['../classpossumwood_1_1BufferTemplated_1_1Element.html',1,'possumwood::BufferTemplated']]],
   ['enum',['Enum',['../classpossumwood_1_1Enum.html',1,'possumwood']]],
   ['enum_5fui',['enum_ui',['../classenum__ui.html',1,'']]],
+  ['errordialog',['ErrorDialog',['../classErrorDialog.html',1,'']]],
   ['exception',['exception',['../classpossumwood_1_1io_1_1detail_1_1exception.html',1,'possumwood::io::detail']]],
   ['exif',['Exif',['../classpossumwood_1_1opencv_1_1Exif.html',1,'possumwood::opencv']]],
   ['exifsequence',['ExifSequence',['../classpossumwood_1_1opencv_1_1ExifSequence.html',1,'possumwood::opencv']]],

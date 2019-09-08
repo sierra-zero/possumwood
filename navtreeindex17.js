@@ -1,7 +1,12 @@
 var NAVTREEINDEX17 =
 {
-"structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,1],
+"structdependency__graph_1_1detail_1_1MetadataAccess.html#a44ede2a579b164cb9303eb9797c61131":[2,0,1,0,0,1],
+"structdependency__graph_1_1detail_1_1MetadataAccess.html#ab43af5c6d5a699d6beb02a9248a005d8":[2,0,1,0,0,0],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html":[2,0,1,1,0],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,2],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,3],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,1],
 "structlightfields_1_1Block.html":[2,0,2,0],
 "structlightfields_1_1Block.html#a09d5fde22944f1a9f31f5205678fc053":[2,0,2,0,1],
 "structlightfields_1_1Block.html#ac2c780e4446215b5a305fddb36599270":[2,0,2,0,2],
@@ -244,10 +249,5 @@ var NAVTREEINDEX17 =
 "structpossumwood_1_1Uniforms_1_1UniformHolder.html#ae3870648498c76866c26f4e49f8d36a7":[2,0,5,111,3,5],
 "structpossumwood_1_1Uniforms_1_1UniformHolder.html#ae4e70efa4a9798ebcca247339a8d0ac0":[2,0,5,111,3,1],
 "structpossumwood_1_1Uniforms_1_1UniformHolder.html#aeaafb4ce9945732f2308797ab057fa92":[2,0,5,111,3,7],
-"structpossumwood_1_1VBOTraits.html":[2,0,5,114],
-"structpossumwood_1_1VBOTraits.html#a4001f4ccbdd9495d199f3e82a711b280":[2,0,5,114,0],
-"structpossumwood_1_1VBOTraits.html#afcb389218b785193ccb34b0c5678a1f3":[2,0,5,114,1],
-"structpossumwood_1_1VBOTraits_3_01CGAL_1_1Point__3_3_01CGAL_1_1Simple__cartesian_3_01T_01_4_01_4_01_4.html":[2,0,5,115],
-"structpossumwood_1_1VBOTraits_3_01CGAL_1_1Point__3_3_01CGAL_1_1Simple__cartesian_3_01T_01_4_01_4_01_4.html#aeb744fb9cf1a6586410c319faf13057d":[2,0,5,115,1],
-"structpossumwood_1_1VBOTraits_3_01CGAL_1_1Point__3_3_01CGAL_1_1Simple__cartesian_3_01T_01_4_01_4_01_4.html#aed97d3b43106bf5ff522af9c36293343":[2,0,5,115,0]
+"structpossumwood_1_1VBOTraits.html":[2,0,5,114]
 };

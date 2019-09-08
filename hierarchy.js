@@ -412,6 +412,7 @@ var hierarchy =
     [ "possumwood::PropertyKey", "classpossumwood_1_1PropertyKey.html", null ],
     [ "QDialog", null, [
       [ "ConfigDialog", "classConfigDialog.html", null ],
+      [ "ErrorDialog", "classErrorDialog.html", null ],
       [ "IntervalDialog", "classIntervalDialog.html", null ]
     ] ],
     [ "QGraphicsItem", null, [

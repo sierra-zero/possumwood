@@ -8,7 +8,7 @@ var searchData=
   ['pattern',['Pattern',['../classlightfields_1_1Pattern.html',1,'lightfields']]],
   ['pimpl',['Pimpl',['../structlightfields_1_1Raw_1_1Pimpl.html',1,'lightfields::Raw::Pimpl'],['../structpossumwood_1_1opencv_1_1LightfieldSamples_1_1Pimpl.html',1,'possumwood::opencv::LightfieldSamples::Pimpl']]],
   ['pixel',['Pixel',['../classpossumwood_1_1Pixel.html',1,'possumwood']]],
-  ['pixmap',['Pixmap',['../classPixmap.html',1,'Pixmap'],['../classpossumwood_1_1Pixmap.html',1,'possumwood::Pixmap&lt; PIXEL &gt;']]],
+  ['pixmap',['Pixmap',['../classpossumwood_1_1Pixmap.html',1,'possumwood::Pixmap&lt; PIXEL &gt;'],['../classPixmap.html',1,'Pixmap']]],
   ['pixmapwrapper',['PixmapWrapper',['../classpossumwood_1_1images_1_1PixmapWrapper.html',1,'possumwood::images']]],
   ['pluginsraii',['PluginsRAII',['../classPluginsRAII.html',1,'']]],
   ['point',['Point',['../structpossumwood_1_1NodeData_1_1Point.html',1,'possumwood::NodeData']]],

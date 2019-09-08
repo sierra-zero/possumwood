@@ -114,8 +114,8 @@ Classes</h2></td></tr>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a93498adfabd1a7cd9fc1af4a4bdf6848"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#a93498adfabd1a7cd9fc1af4a4bdf6848">UndoStack</a> ()</td></tr>
 <tr class="separator:a93498adfabd1a7cd9fc1af4a4bdf6848"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aeffb318f4fa38e00b1169925b2253192"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#aeffb318f4fa38e00b1169925b2253192">execute</a> (const <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a> &amp;action)</td></tr>
-<tr class="separator:aeffb318f4fa38e00b1169925b2253192"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab090be41384a7ee7c669f3e50b31b09e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1State.html">dependency_graph::State</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#ab090be41384a7ee7c669f3e50b31b09e">execute</a> (const <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a> &amp;action, bool haltOnError=true)</td></tr>
+<tr class="separator:ab090be41384a7ee7c669f3e50b31b09e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae4f12d93b8a6280136d62b1538a3cc12"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#ae4f12d93b8a6280136d62b1538a3cc12">undo</a> ()</td></tr>
 <tr class="separator:ae4f12d93b8a6280136d62b1538a3cc12"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a443c8d84ecfc87b81cc4b4e7a952fffd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack.html#a443c8d84ecfc87b81cc4b4e7a952fffd">redo</a> ()</td></tr>
@@ -193,22 +193,32 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="aeffb318f4fa38e00b1169925b2253192"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aeffb318f4fa38e00b1169925b2253192">&#9670;&nbsp;</a></span>execute()</h2>
+<a id="ab090be41384a7ee7c669f3e50b31b09e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab090be41384a7ee7c669f3e50b31b09e">&#9670;&nbsp;</a></span>execute()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void possumwood::UndoStack::execute </td>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1State.html">dependency_graph::State</a> possumwood::UndoStack::execute </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a> &amp;&#160;</td>
-          <td class="paramname"><em>action</em></td><td>)</td>
+          <td class="paramname"><em>action</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>haltOnError</em> = <code>true</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Executes an action and puts it to the undo stack to make it undoable. Any potential exceptions thrown from an action are handled (assuming they are based on std::exception) - an error during a command will assume that command has not been finished (and any remaining state is rolled back), and all previously finished commands of an action needs rolling back. Exception is then forwared to the caller. </p>
+<p>Executes an action and puts it to the undo stack to make it undoable. Any potential exceptions thrown from an action are handled (assuming they are based on std::exception) - with haltOnError=true, any error during a command will assume that command has not been finished (and any remaining state is rolled back), and all previously finished commands of an action needs rolling back. Exception is then forwared to the caller. When haltOnError is set to false, any errorring action is simply skipped, with the execution continuing (undo stack will not contain this failing action). Useful for actions that are expected to sometimes partially fail, like file loading. </p>
 
 </div>
 </div>
@@ -359,7 +369,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1UndoStack.html">UndoStack</a></li>
-    <li class="footer">Generated on Wed Aug 28 2019 20:43:37 for possumwood by
+    <li class="footer">Generated on Sun Sep 8 2019 17:52:55 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

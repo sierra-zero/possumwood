@@ -1,5 +1,7 @@
 var NAVTREEINDEX8 =
 {
+"classpossumwood_1_1Properties.html#a53dc578ade836dfe2814fe650ed5fbdc":[2,0,5,56,12],
+"classpossumwood_1_1Properties.html#a5853841d2bde640bf6c9914a2193cd7c":[2,0,5,56,5],
 "classpossumwood_1_1Properties.html#a5869b681ac8e09cdc600b463f8175ab6":[2,0,5,56,7],
 "classpossumwood_1_1Properties.html#a5d351fd9a661463221ed347bb7f79ef4":[2,0,5,56,13],
 "classpossumwood_1_1Properties.html#a680fc341273ad9b2577bb1970214d4f5":[2,0,5,56,4],
@@ -113,11 +115,11 @@ var NAVTREEINDEX8 =
 "classpossumwood_1_1UndoStack.html#a443c8d84ecfc87b81cc4b4e7a952fffd":[2,0,5,110,5],
 "classpossumwood_1_1UndoStack.html#a51b9ad30ba9d9a92b171bcc522b3bd22":[2,0,5,110,6],
 "classpossumwood_1_1UndoStack.html#a93498adfabd1a7cd9fc1af4a4bdf6848":[2,0,5,110,1],
+"classpossumwood_1_1UndoStack.html#ab090be41384a7ee7c669f3e50b31b09e":[2,0,5,110,4],
 "classpossumwood_1_1UndoStack.html#ac4338acf55d21e495eafefc45d4adb99":[2,0,5,110,3],
 "classpossumwood_1_1UndoStack.html#ad239436d7efff7a0398fe7126377c4a3":[2,0,5,110,11],
 "classpossumwood_1_1UndoStack.html#ae4f12d93b8a6280136d62b1538a3cc12":[2,0,5,110,7],
 "classpossumwood_1_1UndoStack.html#ae6e29a106e89dde75bfd308ff9431d65":[2,0,5,110,10],
-"classpossumwood_1_1UndoStack.html#aeffb318f4fa38e00b1169925b2253192":[2,0,5,110,4],
 "classpossumwood_1_1UndoStack_1_1Action.html":[2,0,5,110,0],
 "classpossumwood_1_1UndoStack_1_1Action.html#a315b2fed7f921c4dd6104be7f4d8b00d":[2,0,5,110,0,5],
 "classpossumwood_1_1UndoStack_1_1Action.html#aa511a43d61693c080c90e829de561834":[2,0,5,110,0,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX8 =
 "classpossumwood_1_1io_1_1basic__json.html#a40f23bc4b9b4a950518728aa63dfbef5":[2,0,5,2,2,80],
 "classpossumwood_1_1io_1_1basic__json.html#a412895af9a582869a4d369a64fb1b6d6":[2,0,5,2,2,208],
 "classpossumwood_1_1io_1_1basic__json.html#a413815b2716ac338ddd341c16d43893d":[2,0,5,2,2,53],
-"classpossumwood_1_1io_1_1basic__json.html#a44a9460c64c0b970f0dc96e5501c3bdd":[2,0,5,2,2,160],
-"classpossumwood_1_1io_1_1basic__json.html#a4507c225e2acb5961b5104679bef8d75":[2,0,5,2,2,177],
-"classpossumwood_1_1io_1_1basic__json.html#a4507d4c082ad91511a5151ab89a5594d":[2,0,5,2,2,216]
+"classpossumwood_1_1io_1_1basic__json.html#a44a9460c64c0b970f0dc96e5501c3bdd":[2,0,5,2,2,160]
 };

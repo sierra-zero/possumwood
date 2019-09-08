@@ -8,6 +8,10 @@ var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
     [ "config_dialog.h", "config__dialog_8h.html", [
       [ "ConfigDialog", "classConfigDialog.html", "classConfigDialog" ]
     ] ],
+    [ "error_dialog.cpp", "error__dialog_8cpp.html", null ],
+    [ "error_dialog.h", "error__dialog_8h.html", [
+      [ "ErrorDialog", "classErrorDialog.html", "classErrorDialog" ]
+    ] ],
     [ "generic_property.cpp", "generic__property_8cpp.html", null ],
     [ "generic_property.h", "generic__property_8h.html", [
       [ "GenericProperty", "classGenericProperty.html", "classGenericProperty" ]
