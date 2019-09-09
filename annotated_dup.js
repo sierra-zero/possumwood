@@ -21,6 +21,7 @@ var annotated_dup =
     [ "GenericMeshUI", "classGenericMeshUI.html", "classGenericMeshUI" ],
     [ "GenericProperty", "classGenericProperty.html", "classGenericProperty" ],
     [ "GlDebug", "classGlDebug.html", "classGlDebug" ],
+    [ "int_ui", "classint__ui.html", "classint__ui" ],
     [ "interval_ui", "classinterval__ui.html", "classinterval__ui" ],
     [ "IntervalDialog", "classIntervalDialog.html", "classIntervalDialog" ],
     [ "JointMappingEditor", "classJointMappingEditor.html", "classJointMappingEditor" ],
@@ -47,6 +48,8 @@ var annotated_dup =
     [ "Uniforms", "classUniforms.html", "classUniforms" ],
     [ "unsigned_ui", "classunsigned__ui.html", "classunsigned__ui" ],
     [ "VBO", "classVBO.html", "classVBO" ],
+    [ "vec2_ui", "classvec2__ui.html", "classvec2__ui" ],
+    [ "vec2u_ui", "classvec2u__ui.html", "classvec2u__ui" ],
     [ "vec3_ui", "classvec3__ui.html", "classvec3__ui" ],
     [ "Viewport", "classViewport.html", "classViewport" ]
 ];

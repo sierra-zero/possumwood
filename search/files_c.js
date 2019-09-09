@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['naive_5frefocus_2ecpp',['naive_refocus.cpp',['../naive__refocus_8cpp.html',1,'']]],
   ['nested_2ecpp',['nested.cpp',['../nested_8cpp.html',1,'']]],
   ['network_2ecpp',['network.cpp',['../network_8cpp.html',1,'']]],
   ['network_2eh',['network.h',['../network_8h.html',1,'']]],

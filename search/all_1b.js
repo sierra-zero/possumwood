@@ -40,6 +40,7 @@ var searchData=
   ['_7egraphscene',['~GraphScene',['../classnode__editor_1_1GraphScene.html#aad44ea9c1747e76d1129a05f125e6c9d',1,'node_editor::GraphScene']]],
   ['_7eholderbase',['~HolderBase',['../structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html#a4739bac64f685125ea87a258fb889f65',1,'possumwood::lua::Variable::HolderBase']]],
   ['_7einput_5fadapter',['~input_adapter',['../classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a893a90875bbc35700de6c092c5170d03',1,'possumwood::io::basic_json::input_adapter']]],
+  ['_7eint_5fui',['~int_ui',['../classint__ui.html#a15c8c55a783a3e31925654b85ae72c0b',1,'int_ui']]],
   ['_7einterval_5fui',['~interval_ui',['../classinterval__ui.html#ab7d660cba3218b1deccc02c91271279b',1,'interval_ui']]],
   ['_7eiobase',['~IOBase',['../classpossumwood_1_1IOBase.html#a3e1f55847240ef7e9b8c73df915ba850',1,'possumwood::IOBase']]],
   ['_7ejointmappingeditor',['~JointMappingEditor',['../classJointMappingEditor.html#aca2b1d6e8e2527982aecc544aeb35e63',1,'JointMappingEditor']]],
@@ -85,6 +86,8 @@ var searchData=
   ['_7evariable',['~Variable',['../classpossumwood_1_1lua_1_1Variable.html#afc6d9cfe9eb4727cc398ff86bbf2d4d2',1,'possumwood::lua::Variable']]],
   ['_7evbo',['~VBO',['../classpossumwood_1_1GLRenderable_1_1VBO.html#a1b6092f78043b15b9724caa0ae40c00b',1,'possumwood::GLRenderable::VBO::~VBO()'],['../classpossumwood_1_1VBO.html#a93bf0ba823d72f6b870b00e782eed0c2',1,'possumwood::VBO::~VBO()'],['../classVBO.html#aa1f948bfcd73951c3a8369f5443f4678',1,'VBO::~VBO()']]],
   ['_7evbobase',['~VBOBase',['../classpossumwood_1_1VBOBase.html#a1e7d45d2ed87cf9be6880184f15a1059',1,'possumwood::VBOBase']]],
+  ['_7evec2_5fui',['~vec2_ui',['../classvec2__ui.html#ad4111277eab61ff4c1832adc1bd74dbf',1,'vec2_ui']]],
+  ['_7evec2u_5fui',['~vec2u_ui',['../classvec2u__ui.html#aa240e61729b6a7ea6014b59ba867cf58',1,'vec2u_ui']]],
   ['_7evec3_5fui',['~vec3_ui',['../classvec3__ui.html#a3a0249a69009357bd02cc57cdb2a6728',1,'vec3_ui']]],
   ['_7eviewport',['~Viewport',['../classViewport.html#a1e18a1ff4a52be33ef63d25034561850',1,'Viewport']]]
 ];

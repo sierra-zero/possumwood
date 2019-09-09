@@ -3,6 +3,8 @@ var searchData=
   ['main_2ecpp',['main.cpp',['../apps_2node__editor__sandbox_2main_8cpp.html',1,'(Global Namespace)'],['../apps_2possumwood_2main_8cpp.html',1,'(Global Namespace)'],['../apps_2possumwood__cli_2main_8cpp.html',1,'(Global Namespace)'],['../tests_2anim_2main_8cpp.html',1,'(Global Namespace)'],['../tests_2dependency__graph_2main_8cpp.html',1,'(Global Namespace)'],['../tests_2possumwood_2main_8cpp.html',1,'(Global Namespace)']]],
   ['main_5fwindow_2ecpp',['main_window.cpp',['../main__window_8cpp.html',1,'']]],
   ['main_5fwindow_2eh',['main_window.h',['../main__window_8h.html',1,'']]],
+  ['make_5fvec2_2ecpp',['make_vec2.cpp',['../make__vec2_8cpp.html',1,'']]],
+  ['make_5fvec3_2ecpp',['make_vec3.cpp',['../make__vec3_8cpp.html',1,'']]],
   ['merge_2ecpp',['merge.cpp',['../merge_8cpp.html',1,'']]],
   ['merge_5fdebevec_2ecpp',['merge_debevec.cpp',['../merge__debevec_8cpp.html',1,'']]],
   ['merge_5fmertens_2ecpp',['merge_mertens.cpp',['../merge__mertens_8cpp.html',1,'']]],

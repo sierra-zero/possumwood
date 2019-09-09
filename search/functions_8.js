@@ -22,6 +22,7 @@ var searchData=
   ['instance',['instance',['../classpossumwood_1_1AppCore.html#a0e7f4789a777b0cb1874998d5bc9f1bc',1,'possumwood::AppCore::instance()'],['../classpossumwood_1_1Clipboard.html#aa0a623840c4fafd6dec51b4d164ae8ca',1,'possumwood::Clipboard::instance()'],['../classpossumwood_1_1App.html#a79de45776da6485465bf4d1b22507199',1,'possumwood::App::instance()']]],
   ['instantiate',['instantiate',['../structdependency__graph_1_1MetadataFactory.html#a32bd7955b68b75094138163774d8c29e',1,'dependency_graph::MetadataFactory']]],
   ['instantiatemetadata',['instantiateMetadata',['../namespacedependency__graph.html#ae82707007ef7a6933c70336fa0975f5f',1,'dependency_graph']]],
+  ['int_5fui',['int_ui',['../classint__ui.html#a4846197cc458212654921c950acb1073',1,'int_ui']]],
   ['intadditionnode',['intAdditionNode',['../tests_2possumwood_2common_8cpp.html#ae53c796bba5c409b124c09479d1c06cf',1,'intAdditionNode():&#160;common.cpp'],['../tests_2possumwood_2common_8h.html#ae53c796bba5c409b124c09479d1c06cf',1,'intAdditionNode():&#160;common.cpp']]],
   ['internal_5fiterator',['internal_iterator',['../structpossumwood_1_1io_1_1basic__json_1_1internal__iterator.html#ad9947274c4ec6c224a0a4bb2fdb8c6ba',1,'possumwood::io::basic_json::internal_iterator']]],
   ['interval',['Interval',['../classpossumwood_1_1maths_1_1Interval.html#a32c35aa2d29f67d3731a01c9485e601c',1,'possumwood::maths::Interval']]],

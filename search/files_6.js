@@ -1,7 +1,6 @@
 var searchData=
 [
   ['gamma_2ecpp',['gamma.cpp',['../gamma_8cpp.html',1,'']]],
-  ['gaussian_5frefocus_2ecpp',['gaussian_refocus.cpp',['../gaussian__refocus_8cpp.html',1,'']]],
   ['generate_2ecpp',['generate.cpp',['../generate_8cpp.html',1,'']]],
   ['generic_5farray_2ecpp',['generic_array.cpp',['../generic__array_8cpp.html',1,'']]],
   ['generic_5farray_2eh',['generic_array.h',['../generic__array_8h.html',1,'']]],

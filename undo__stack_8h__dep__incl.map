@@ -39,7 +39,7 @@
 <area shape="rect" id="node23" href="$ui_2rgb_8h.html" title="src/plugins/images\l/ui/rgb.h" alt="" coords="2600,363,2744,404"/>
 <area shape="rect" id="node24" href="$bool__ui_8h.html" title="src/plugins/maths/ui\l/bool_ui.h" alt="" coords="2769,363,2922,404"/>
 <area shape="rect" id="node25" href="$float__ui_8h.html" title="src/plugins/maths/ui\l/float_ui.h" alt="" coords="2946,363,3099,404"/>
-<area shape="rect" id="node26" href="$ui_2interval_8h.html" title="src/plugins/maths/ui\l/interval.h" alt="" coords="3123,363,3277,404"/>
+<area shape="rect" id="node26" href="$int__ui_8h.html" title="src/plugins/maths/ui\l/int_ui.h" alt="" coords="3123,363,3277,404"/>
 <area shape="rect" id="node36" href="$actions_2detail_2nodes_8cpp.html" title="src/libs/actions/detail\l/nodes.cpp" alt="" coords="709,184,869,225"/>
 <area shape="rect" id="node38" href="$actions_2detail_2connections_8cpp.html" title="src/libs/actions/detail\l/connections.cpp" alt="" coords="240,184,400,225"/>
 <area shape="rect" id="node39" href="$libs_2actions_2detail_2metadata_8cpp.html" title="src/libs/actions/detail\l/metadata.cpp" alt="" coords="424,184,584,225"/>
