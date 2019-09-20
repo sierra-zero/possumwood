@@ -360,6 +360,7 @@ var searchData=
   ['modelview',['modelview',['../classpossumwood_1_1ViewportState.html#aa34783ab3e705014882108f7ad3d86cd',1,'possumwood::ViewportState']]],
   ['module_2ecpp',['module.cpp',['../module_8cpp.html',1,'']]],
   ['modules',['modules',['../classpossumwood_1_1lua_1_1Context.html#a67b4d6b3394d1b8fa68861835da35727',1,'possumwood::lua::Context']]],
+  ['mosaic_5fsuperres_2ecpp',['mosaic_superres.cpp',['../mosaic__superres_8cpp.html',1,'']]],
   ['motion_5fgraph_2ecpp',['motion_graph.cpp',['../motion__graph_8cpp.html',1,'']]],
   ['motion_5fgraph_2eh',['motion_graph.h',['../motion__graph_8h.html',1,'']]],
   ['motion_5fmap_2ecpp',['motion_map.cpp',['../datatypes_2motion__map_8cpp.html',1,'(Global Namespace)'],['../ui_2motion__map_8cpp.html',1,'(Global Namespace)']]],

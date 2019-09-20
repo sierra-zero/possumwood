@@ -1,5 +1,6 @@
 var NAVTREEINDEX19 =
 {
+"tests_2dependency__graph_2attr__map_8cpp.html#ad50bf12af692a64bdd1bc2f8abf10c7e":[3,0,0,3,1,1,2],
 "tests_2dependency__graph_2common_8cpp.html":[3,0,0,3,1,3],
 "tests_2dependency__graph_2common_8cpp.html#a1de568a9050aafb46d6948cbed945e81":[3,0,0,3,1,3,1],
 "tests_2dependency__graph_2common_8cpp.html#a7b270cb1596f1cf6fc1626fb89d08907":[3,0,0,3,1,3,3],
@@ -176,8 +177,8 @@ var NAVTREEINDEX19 =
 "viewport__state_8cpp.html":[3,0,0,1,3,32],
 "viewport__state_8h.html":[3,0,0,1,3,33],
 "viewport__state_8h_source.html":[3,0,0,1,3,33],
-"vignetting__create_8cpp.html":[3,0,0,2,5,0,6,6],
-"vignetting__mosaic_8cpp.html":[3,0,0,2,5,0,6,7],
+"vignetting__create_8cpp.html":[3,0,0,2,5,0,6,7],
+"vignetting__mosaic_8cpp.html":[3,0,0,2,5,0,6,8],
 "void__evaluation_8cpp.html":[3,0,0,3,1,14],
 "void__evaluation_8cpp.html#a0311b620fb8873e3804f0ee23591fc7f":[3,0,0,3,1,14,7],
 "void__evaluation_8cpp.html#a13925ab21991044decb5cadbff6deb20":[3,0,0,3,1,14,1],

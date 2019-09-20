@@ -26,6 +26,7 @@ var searchData=
   ['metric_2ecpp',['metric.cpp',['../metric_8cpp.html',1,'']]],
   ['metric_2eh',['metric.h',['../metric_8h.html',1,'']]],
   ['module_2ecpp',['module.cpp',['../module_8cpp.html',1,'']]],
+  ['mosaic_5fsuperres_2ecpp',['mosaic_superres.cpp',['../mosaic__superres_8cpp.html',1,'']]],
   ['motion_5fgraph_2ecpp',['motion_graph.cpp',['../motion__graph_8cpp.html',1,'']]],
   ['motion_5fgraph_2eh',['motion_graph.h',['../motion__graph_8h.html',1,'']]],
   ['motion_5fmap_2ecpp',['motion_map.cpp',['../datatypes_2motion__map_8cpp.html',1,'(Global Namespace)'],['../ui_2motion__map_8cpp.html',1,'(Global Namespace)']]],

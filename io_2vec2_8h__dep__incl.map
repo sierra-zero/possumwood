@@ -9,6 +9,7 @@
 <area shape="rect" id="node9" href="$integrate__gaussian_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_gaussian.cpp" alt="" coords="1387,95,1583,151"/>
 <area shape="rect" id="node10" href="$integrate__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_mosaic.cpp" alt="" coords="1607,95,1803,151"/>
 <area shape="rect" id="node11" href="$integrate__nearest_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_nearest.cpp" alt="" coords="1827,95,2023,151"/>
-<area shape="rect" id="node12" href="$vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="2048,95,2251,151"/>
-<area shape="rect" id="node13" href="$plugins_2opencv_2nodes_2metadata_8cpp.html" title="src/plugins/opencv\l/nodes/metadata.cpp" alt="" coords="2275,102,2434,143"/>
+<area shape="rect" id="node12" href="$mosaic__superres_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/mosaic\l_superres.cpp" alt="" coords="2048,95,2232,151"/>
+<area shape="rect" id="node13" href="$vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="2256,95,2459,151"/>
+<area shape="rect" id="node14" href="$plugins_2opencv_2nodes_2metadata_8cpp.html" title="src/plugins/opencv\l/nodes/metadata.cpp" alt="" coords="2483,102,2642,143"/>
 </map>

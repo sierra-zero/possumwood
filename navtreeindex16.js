@@ -1,5 +1,6 @@
 var NAVTREEINDEX16 =
 {
+"plugins_2lua_2datatypes_2state_8h_source.html":[3,0,0,2,3,0,3],
 "plugins_2opencv_2frame_8cpp.html":[3,0,0,2,5,17],
 "plugins_2opencv_2frame_8cpp.html#aff65c0f35b2db42795fa30e227164d27":[3,0,0,2,5,17,0],
 "plugins_2opencv_2nodes_2metadata_8cpp.html":[3,0,0,2,5,0,24],
@@ -99,7 +100,7 @@ var NAVTREEINDEX16 =
 "rtti_8h.html#ab7167919051a09eabc58d568d6ad3d90":[3,0,0,1,1,41,0],
 "rtti_8h.html#acf25cc560904d8461499b516d370ab89":[3,0,0,1,1,41,2],
 "rtti_8h_source.html":[3,0,0,1,1,41],
-"samples__refocus_8cpp.html":[3,0,0,2,5,0,6,5],
+"samples__refocus_8cpp.html":[3,0,0,2,5,0,6,6],
 "script_8cpp.html":[3,0,0,2,3,1,4],
 "searchable__menu_8cpp.html":[3,0,0,0,1,21],
 "searchable__menu_8h.html":[3,0,0,0,1,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX16 =
 "structdependency__graph_1_1Data_3_01void_01_4.html#a6833c0d92333eb52cd3ebbad664d2de5":[2,0,1,7,6],
 "structdependency__graph_1_1Data_3_01void_01_4.html#a8ec8b168fbf2e535581fc20bb10b5f12":[2,0,1,7,0],
 "structdependency__graph_1_1Data_3_01void_01_4.html#ac2e51e71605c2a7e5990736d04b52849":[2,0,1,7,3],
-"structdependency__graph_1_1Data_3_01void_01_4.html#add67888f9074f388c78dfdc776e2ac04":[2,0,1,7,7],
-"structdependency__graph_1_1Data_3_01void_01_4.html#afc52a0a51e681e357f352ea6da740fe0":[2,0,1,7,1]
+"structdependency__graph_1_1Data_3_01void_01_4.html#add67888f9074f388c78dfdc776e2ac04":[2,0,1,7,7]
 };
