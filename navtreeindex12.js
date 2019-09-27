@@ -191,12 +191,13 @@ var NAVTREEINDEX12 =
 "clipboard_8h.html":[3,0,0,1,0,7],
 "clipboard_8h_source.html":[3,0,0,1,0,7],
 "color_8cpp.html":[3,0,0,2,5,0,12],
+"colormap_8cpp.html":[3,0,0,2,5,0,13],
 "colours_8cpp.html":[3,0,0,1,3,7],
 "colours_8h.html":[3,0,0,1,3,8],
 "colours_8h_source.html":[3,0,0,1,3,8],
 "compute__dirty_8cpp.html":[3,0,0,3,1,5],
 "compute__dirty_8cpp.html#a3f47d551ef913113ed03113bbe72bf69":[3,0,0,3,1,5,0],
-"concat_8cpp.html":[3,0,0,2,5,0,13],
+"concat_8cpp.html":[3,0,0,2,5,0,14],
 "config_8cpp.html":[3,0,0,1,3,9],
 "config_8cpp.html#a9b45b3e13bd9167aab02e17e08916231":[3,0,0,1,3,9,0],
 "config_8h.html":[3,0,0,1,3,10],
@@ -221,7 +222,7 @@ var NAVTREEINDEX12 =
 "context_8h.html":[3,0,0,2,3,0,1],
 "context_8h.html#a3052bb822dcf9ea3c5757cf8c561960c":[3,0,0,2,3,0,1,2],
 "context_8h_source.html":[3,0,0,2,3,0,1],
-"convert_8cpp.html":[3,0,0,2,5,0,14],
+"convert_8cpp.html":[3,0,0,2,5,0,15],
 "createPattern_8cpp.html":[3,0,0,2,5,0,1,2],
 "create_8cpp.html":[3,0,0,2,0,1,0,1,0],
 "cube_8cpp.html":[3,0,0,2,4,1,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX12 =
 "datatypes_2motion__map_8cpp.html":[3,0,0,2,0,0,22],
 "datatypes_2motion__map_8cpp.html#aa3e635e7f1850d1bdb77f06e8411e87e":[3,0,0,2,0,0,22,0],
 "datatypes_2motion__map_8h.html":[3,0,0,2,0,0,23],
-"datatypes_2motion__map_8h.html#aa3e635e7f1850d1bdb77f06e8411e87e":[3,0,0,2,0,0,23,2],
-"datatypes_2motion__map_8h_source.html":[3,0,0,2,0,0,23]
+"datatypes_2motion__map_8h.html#aa3e635e7f1850d1bdb77f06e8411e87e":[3,0,0,2,0,0,23,2]
 };

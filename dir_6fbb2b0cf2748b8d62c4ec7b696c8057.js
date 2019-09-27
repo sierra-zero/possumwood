@@ -13,6 +13,7 @@ var dir_6fbb2b0cf2748b8d62c4ec7b696c8057 =
     [ "add.cpp", "opencv_2nodes_2add_8cpp.html", null ],
     [ "blend.cpp", "blend_8cpp.html", null ],
     [ "color.cpp", "color_8cpp.html", null ],
+    [ "colormap.cpp", "colormap_8cpp.html", null ],
     [ "concat.cpp", "concat_8cpp.html", null ],
     [ "convert.cpp", "convert_8cpp.html", null ],
     [ "demosaic.cpp", "demosaic_8cpp.html", null ],

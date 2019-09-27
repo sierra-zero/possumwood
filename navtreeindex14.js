@@ -1,5 +1,6 @@
 var NAVTREEINDEX14 =
 {
+"functions_h.html":[2,3,0,8],
 "functions_i.html":[2,3,0,9],
 "functions_j.html":[2,3,0,10],
 "functions_k.html":[2,3,0,11],
@@ -15,8 +16,8 @@ var NAVTREEINDEX14 =
 "functions_type.html":[2,3,3],
 "functions_u.html":[2,3,0,20],
 "functions_v.html":[2,3,0,21],
-"functions_vars.html":[2,3,2,0],
 "functions_vars.html":[2,3,2],
+"functions_vars.html":[2,3,2,0],
 "functions_vars_b.html":[2,3,2,1],
 "functions_vars_c.html":[2,3,2,2],
 "functions_vars_d.html":[2,3,2,3],
@@ -42,7 +43,7 @@ var NAVTREEINDEX14 =
 "functions_x.html":[2,3,0,23],
 "functions_y.html":[2,3,0,24],
 "functions_z.html":[2,3,0,25],
-"gamma_8cpp.html":[3,0,0,2,5,0,20],
+"gamma_8cpp.html":[3,0,0,2,5,0,21],
 "generate_8cpp.html":[3,0,0,2,2,2,1],
 "generic__array_8cpp.html":[3,0,0,2,6,2],
 "generic__array_8h.html":[3,0,0,2,6,3],
@@ -133,9 +134,9 @@ var NAVTREEINDEX14 =
 "influences_8cpp.html#ab37437287a5110493ecd000e11308269":[3,0,0,3,1,9,1],
 "inject_8h.html":[3,0,0,2,3,1,3],
 "inject_8h_source.html":[3,0,0,2,3,1,3],
-"inpaint_8cpp.html":[3,0,0,2,5,0,21],
-"inpaint__laplacian_8cpp.html":[3,0,0,2,5,0,22],
-"inpaint__laplacian_8cpp.html#aa69893f50bcb8cec4064f6bc1017497f":[3,0,0,2,5,0,22,0],
+"inpaint_8cpp.html":[3,0,0,2,5,0,22],
+"inpaint__laplacian_8cpp.html":[3,0,0,2,5,0,23],
+"inpaint__laplacian_8cpp.html#aa69893f50bcb8cec4064f6bc1017497f":[3,0,0,2,5,0,23,0],
 "input_8cpp.html":[3,0,0,1,3,1,1],
 "int__ui_8cpp.html":[3,0,0,2,4,2,4],
 "int__ui_8h.html":[3,0,0,2,4,2,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX14 =
 "libs_2actions_2detail_2tools_8cpp.html#a820b3ce9135bb3ad6c533ad6b8451404":[3,0,0,1,0,0,8,0],
 "libs_2actions_2detail_2tools_8h.html":[3,0,0,1,0,0,9],
 "libs_2actions_2detail_2tools_8h.html#a820b3ce9135bb3ad6c533ad6b8451404":[3,0,0,1,0,0,9,0],
-"libs_2actions_2detail_2tools_8h_source.html":[3,0,0,1,0,0,9],
-"libs_2actions_2io_8cpp.html":[3,0,0,1,0,8]
+"libs_2actions_2detail_2tools_8h_source.html":[3,0,0,1,0,0,9]
 };

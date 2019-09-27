@@ -22,6 +22,7 @@ var searchData=
   ['clipboard_2ecpp',['clipboard.cpp',['../libs_2actions_2clipboard_8cpp.html',1,'(Global Namespace)'],['../tests_2possumwood_2clipboard_8cpp.html',1,'(Global Namespace)']]],
   ['clipboard_2eh',['clipboard.h',['../clipboard_8h.html',1,'']]],
   ['color_2ecpp',['color.cpp',['../color_8cpp.html',1,'']]],
+  ['colormap_2ecpp',['colormap.cpp',['../colormap_8cpp.html',1,'']]],
   ['colours_2ecpp',['colours.cpp',['../colours_8cpp.html',1,'']]],
   ['colours_2eh',['colours.h',['../colours_8h.html',1,'']]],
   ['common_2ecpp',['common.cpp',['../apps_2common_8cpp.html',1,'(Global Namespace)'],['../tests_2dependency__graph_2common_8cpp.html',1,'(Global Namespace)'],['../tests_2possumwood_2common_8cpp.html',1,'(Global Namespace)']]],
