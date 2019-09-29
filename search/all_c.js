@@ -1,6 +1,7 @@
 var searchData=
 [
   ['labeldistance',['labelDistance',['../classTimeline.html#a365fe535feca08a731b1097cdb215339',1,'Timeline']]],
+  ['laplacian_5fsmoothness_2ecpp',['laplacian_smoothness.cpp',['../laplacian__smoothness_8cpp.html',1,'']]],
   ['last_5ftoken',['last_token',['../classpossumwood_1_1io_1_1basic__json_1_1parser.html#af55379ae9a2d580081ab36f73a0004d2',1,'possumwood::io::basic_json::parser']]],
   ['layer',['Layer',['../classpossumwood_1_1opencv_1_1CalibrationPoints_1_1Layer.html',1,'possumwood::opencv::CalibrationPoints']]],
   ['ldrpixel',['LDRPixel',['../namespacepossumwood.html#ac72857387a88be977862069f86f7174b',1,'possumwood']]],

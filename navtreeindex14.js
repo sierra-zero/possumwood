@@ -219,6 +219,7 @@ var NAVTREEINDEX14 =
 "json_8h.html#ae393559fc7700d719187da4e26b682b7":[3,0,0,1,0,1,0,78],
 "json_8h.html#afddf7b55511947aba4cb977ac7dcc78e":[3,0,0,1,0,1,0,69],
 "json_8h_source.html":[3,0,0,1,0,1,0],
+"laplacian__smoothness_8cpp.html":[3,0,0,2,5,0,24],
 "lexical__cast_8h.html":[3,0,0,2,0,3],
 "lexical__cast_8h.html#a49e4ef6318f18f90d765b4e127e65e76":[3,0,0,2,0,3,4],
 "lexical__cast_8h_source.html":[3,0,0,2,0,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX14 =
 "libs_2actions_2detail_2tools_8cpp.html":[3,0,0,1,0,0,8],
 "libs_2actions_2detail_2tools_8cpp.html#a820b3ce9135bb3ad6c533ad6b8451404":[3,0,0,1,0,0,8,0],
 "libs_2actions_2detail_2tools_8h.html":[3,0,0,1,0,0,9],
-"libs_2actions_2detail_2tools_8h.html#a820b3ce9135bb3ad6c533ad6b8451404":[3,0,0,1,0,0,9,0],
-"libs_2actions_2detail_2tools_8h_source.html":[3,0,0,1,0,0,9]
+"libs_2actions_2detail_2tools_8h.html#a820b3ce9135bb3ad6c533ad6b8451404":[3,0,0,1,0,0,9,0]
 };
