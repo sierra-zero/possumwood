@@ -28,6 +28,7 @@ var namespacepossumwood =
     [ "Clipboard", "classpossumwood_1_1Clipboard.html", "classpossumwood_1_1Clipboard" ],
     [ "Colours", "classpossumwood_1_1Colours.html", "classpossumwood_1_1Colours" ],
     [ "Config", "classpossumwood_1_1Config.html", "classpossumwood_1_1Config" ],
+    [ "Description", "classpossumwood_1_1Description.html", "classpossumwood_1_1Description" ],
     [ "Drawable", "classpossumwood_1_1Drawable.html", "classpossumwood_1_1Drawable" ],
     [ "DrawableFunctor", "classpossumwood_1_1DrawableFunctor.html", "classpossumwood_1_1DrawableFunctor" ],
     [ "Editor", "classpossumwood_1_1Editor.html", "classpossumwood_1_1Editor" ],

@@ -60,6 +60,7 @@ var hierarchy =
     ] ],
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
     [ "dependency_graph::DataTraits< T >", "structdependency__graph_1_1DataTraits.html", null ],
+    [ "possumwood::Description", "classpossumwood_1_1Description.html", null ],
     [ "possumwood::BufferTemplated< T >::Element", "classpossumwood_1_1BufferTemplated_1_1Element.html", null ],
     [ "enable_shared_from_this", null, [
       [ "dependency_graph::Metadata", "classdependency__graph_1_1Metadata.html", [
@@ -166,8 +167,8 @@ var hierarchy =
     [ "possumwood::io::detail::is_compatible_integer_type_impl< true, RealIntegerType, CompatibleNumberIntegerType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308.html", null ],
     [ "possumwood::io::detail::is_compatible_object_type< BasicJsonType, CompatibleObjectType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type.html", null ],
     [ "possumwood::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01RealType_00_01CompatibleObjectType_01_4.html", null ],
-    [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
     [ "dependency_graph::NodesIterator< ITERATOR >::Item", "structdependency__graph_1_1NodesIterator_1_1Item.html", null ],
+    [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
     [ "Options::Item", "structOptions_1_1Item.html", null ],
     [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
@@ -480,8 +481,8 @@ var hierarchy =
     [ "openanim::RigData", "structopenanim_1_1RigData.html", null ],
     [ "possumwood::opencv::LightfieldSamples::Sample", "structpossumwood_1_1opencv_1_1LightfieldSamples_1_1Sample.html", null ],
     [ "dependency_graph::io::SaveableRegistration", "structdependency__graph_1_1io_1_1SaveableRegistration.html", null ],
-    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
+    [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
     [ "possumwood::opencv::Sequence", "classpossumwood_1_1opencv_1_1Sequence.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classpossumwood_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "dependency_graph::Graph::Signals", "structdependency__graph_1_1Graph_1_1Signals.html", null ],

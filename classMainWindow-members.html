@@ -88,8 +88,10 @@ $(document).ready(function(){initNavTree('classMainWindow.html','');});
 <table class="directory">
   <tr class="even"><td class="entry"><a class="el" href="classMainWindow.html#a87442ae7464d08f68a7ec32a8469773c">adaptor</a>()</td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"></td></tr>
   <tr><td class="entry"><a class="el" href="classMainWindow.html#ad97adcaeec86c2d2094443d45f65ff07">draw</a>(float dt)</td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">slot</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="classMainWindow.html#a23c49ceae064122d44b98592aa1ac4ff">m_adaptor</a></td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr><td class="entry"><a class="el" href="classMainWindow.html#a55dda73fa7a10bb4b1c665feaab25165">m_editor</a></td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classMainWindow.html#a5b465ad4bfb6726b130c4bc2d93be83e">loadFile</a>(const boost::filesystem::path &amp;filename, bool updateFilename=true)</td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"></td></tr>
+  <tr><td class="entry"><a class="el" href="classMainWindow.html#a23c49ceae064122d44b98592aa1ac4ff">m_adaptor</a></td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classMainWindow.html#a55dda73fa7a10bb4b1c665feaab25165">m_editor</a></td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr><td class="entry"><a class="el" href="classMainWindow.html#af3b254442372262f660e989afd7d7ddb">m_editorDock</a></td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classMainWindow.html#a91549a0c5e19b556e3e1c9e50dc55867">m_newNodeMenu</a></td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
   <tr><td class="entry"><a class="el" href="classMainWindow.html#a22f004bec556234a5eb739cfa1819647">m_properties</a></td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classMainWindow.html#a9b6351507b5ce0cf250e536433c686e4">m_statusBar</a></td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
@@ -101,14 +103,15 @@ $(document).ready(function(){initNavTree('classMainWindow.html','');});
   <tr class="even"><td class="entry"><a class="el" href="classMainWindow.html#a050021dcc60a80d9b15cb7b9b1e8aba9">m_timeline</a></td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
   <tr><td class="entry"><a class="el" href="classMainWindow.html#ad33afa9553e94ddf7a78ba5706c26233">m_viewport</a></td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
   <tr class="even"><td class="entry"><a class="el" href="classMainWindow.html#a34c4b4207b46d11a4100c9b19f0e81bb">MainWindow</a>()</td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"></td></tr>
-  <tr><td class="entry"><a class="el" href="classMainWindow.html#ad62e8427ddc79384e22bccaa2eb1fa1b">updateStatusBar</a>()</td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="classMainWindow.html#ae98d00a93bc118200eeef9f9bba1dba7">~MainWindow</a>()</td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"></td></tr>
+  <tr><td class="entry"><a class="el" href="classMainWindow.html#a79dfd859fe10154c7a0104fd7970a0cb">selectionChanged</a>(const dependency_graph::Selection &amp;selection)</td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classMainWindow.html#ad62e8427ddc79384e22bccaa2eb1fa1b">updateStatusBar</a>()</td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr><td class="entry"><a class="el" href="classMainWindow.html#ae98d00a93bc118200eeef9f9bba1dba7">~MainWindow</a>()</td><td class="entry"><a class="el" href="classMainWindow.html">MainWindow</a></td><td class="entry"></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sat Oct 5 2019 13:21:35 for possumwood by
+    <li class="footer">Generated on Sat Oct 5 2019 17:23:22 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

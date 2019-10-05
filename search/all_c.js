@@ -42,7 +42,7 @@ var searchData=
   ['load_2ecpp',['load.cpp',['../load_8cpp.html',1,'']]],
   ['load_5fhdr_2ecpp',['load_hdr.cpp',['../load__hdr_8cpp.html',1,'']]],
   ['loader_2ecpp',['loader.cpp',['../cgal_2nodes_2loader_8cpp.html',1,'(Global Namespace)'],['../polymesh_2nodes_2loader_8cpp.html',1,'(Global Namespace)']]],
-  ['loadfile',['loadFile',['../classpossumwood_1_1App.html#aac05aa4e4ac248b5e4c66f938ff94185',1,'possumwood::App::loadFile(const boost::filesystem::path &amp;fn)'],['../classpossumwood_1_1App.html#a98000471b954e27deae9d14a51f4ddfb',1,'possumwood::App::loadFile(const possumwood::io::json &amp;json)']]],
+  ['loadfile',['loadFile',['../classMainWindow.html#a5b465ad4bfb6726b130c4bc2d93be83e',1,'MainWindow::loadFile()'],['../classpossumwood_1_1App.html#ac6f48be4e4466552b74ec4257a34593e',1,'possumwood::App::loadFile(const boost::filesystem::path &amp;fn, bool alterCurrentFilename=true)'],['../classpossumwood_1_1App.html#a98000471b954e27deae9d14a51f4ddfb',1,'possumwood::App::loadFile(const possumwood::io::json &amp;json)']]],
   ['loadobj',['loadObj',['../namespacepossumwood_1_1polymesh.html#a3591b8ca89d5b26262213d0a6a956409',1,'possumwood::polymesh']]],
   ['loadscene',['loadScene',['../apps_2possumwood__cli_2main_8cpp.html#aa09934fca2d602843d8935091652cac4',1,'main.cpp']]],
   ['loc',['loc',['../classpossumwood_1_1io_1_1basic__json_1_1serializer.html#a9658cc48ec5787055cc653716d5af098',1,'possumwood::io::basic_json::serializer']]],
