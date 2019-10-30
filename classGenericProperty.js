@@ -2,6 +2,7 @@ var classGenericProperty =
 [
     [ "GenericProperty", "classGenericProperty.html#aa884f3ca59067088bc9595a8b0bd1997", null ],
     [ "~GenericProperty", "classGenericProperty.html#ad367a73ddcb3a5161616b584e1847952", null ],
+    [ "setValue", "classGenericProperty.html#abed3044971c6781fe18e6b9a4380d3bc", null ],
     [ "type", "classGenericProperty.html#aa4e2e6edb737fc2722247dae031d161c", null ],
     [ "valueFromPort", "classGenericProperty.html#a51a539288a29de8c8efc73e89e1a651f", null ],
     [ "valueToPort", "classGenericProperty.html#aa1e82bba690992bcec00ef3b0f3577b1", null ],

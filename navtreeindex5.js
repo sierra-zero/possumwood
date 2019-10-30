@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"classdependency__graph_1_1NodeBase.html#a01972785a38d0ac62d8d08a2b8d8d28c":[2,0,1,19,42],
 "classdependency__graph_1_1NodeBase.html#a08117e63252622a983c0cef55b9b263f":[2,0,1,19,30],
 "classdependency__graph_1_1NodeBase.html#a0964578fc47253586570c617adaaa0c8":[2,0,1,19,8],
 "classdependency__graph_1_1NodeBase.html#a0b9dad93a19621550814b33fb0d08502":[2,0,1,19,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX5 =
 "classlightfields_1_1Pattern.html#ae77dc75dec848d971f85ddc5fdf30ac8":[2,0,2,1,7],
 "classlightfields_1_1Pattern.html#af7c93c8cd1af676a209d1f05c17498c4":[2,0,2,1,10],
 "classlightfields_1_1Pattern.html#afd0d185045fa403e06964d7c02a7ac16":[2,0,2,1,2],
-"classlightfields_1_1Raw.html":[2,0,2,2],
-"classlightfields_1_1Raw.html#a02385d02fab748db884899e92f7bf26e":[2,0,2,2,5]
+"classlightfields_1_1Raw.html":[2,0,2,2]
 };
