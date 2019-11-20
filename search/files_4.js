@@ -10,6 +10,7 @@ var searchData=
   ['enum_2eh',['enum.h',['../enum_8h.html',1,'']]],
   ['enum_5fui_2ecpp',['enum_ui.cpp',['../enum__ui_8cpp.html',1,'']]],
   ['enum_5fui_2eh',['enum_ui.h',['../enum__ui_8h.html',1,'']]],
+  ['epi_2ecpp',['epi.cpp',['../epi_8cpp.html',1,'']]],
   ['equalize_2ecpp',['equalize.cpp',['../equalize_8cpp.html',1,'']]],
   ['error_5fdialog_2ecpp',['error_dialog.cpp',['../error__dialog_8cpp.html',1,'']]],
   ['error_5fdialog_2eh',['error_dialog.h',['../error__dialog_8h.html',1,'']]],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX17 =
 {
+"structdependency__graph_1_1Data.html":[2,0,1,6],
+"structdependency__graph_1_1Data.html#a05da8c6a62ae6bfb971e9e9e67548eb2":[2,0,1,6,0],
 "structdependency__graph_1_1Data.html#a09138467119aa8660b9d7eb05e74b221":[2,0,1,6,3],
 "structdependency__graph_1_1Data.html#a1cd263f2a8ea32c847b6c99f90d85d02":[2,0,1,6,4],
 "structdependency__graph_1_1Data.html#a33982ca47fc2f5437a0ba3788a5156ee":[2,0,1,6,2],
@@ -60,8 +62,8 @@ var NAVTREEINDEX17 =
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#a44ede2a579b164cb9303eb9797c61131":[2,0,1,0,0,1],
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#ab43af5c6d5a699d6beb02a9248a005d8":[2,0,1,0,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html":[2,0,1,1,0],
-"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,2],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,1],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,3],
 "structlightfields_1_1Block.html":[2,0,2,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX17 =
 "structpossumwood_1_1Traits_3_01maths_1_1Interval_01_4.html#a3ff8e21a331222e412568ff29782d0ab":[2,0,5,86,1],
 "structpossumwood_1_1Traits_3_01maths_1_1Interval_01_4.html#a6c006853721602a16cfa846844699bc4":[2,0,5,86,0],
 "structpossumwood_1_1Traits_3_01opencv_1_1CalibrationPattern_01_4.html":[2,0,5,89],
-"structpossumwood_1_1Traits_3_01opencv_1_1CalibrationPattern_01_4.html#ae1745f0794bc53035c464c7354754414":[2,0,5,89,0],
-"structpossumwood_1_1Traits_3_01opencv_1_1CalibrationPoints_01_4.html":[2,0,5,90],
-"structpossumwood_1_1Traits_3_01opencv_1_1CalibrationPoints_01_4.html#a1a8901830e09a0bab29bb6de10f5b414":[2,0,5,90,0]
+"structpossumwood_1_1Traits_3_01opencv_1_1CalibrationPattern_01_4.html#ae1745f0794bc53035c464c7354754414":[2,0,5,89,0]
 };

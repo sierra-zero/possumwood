@@ -15,6 +15,7 @@ var dir_6fbb2b0cf2748b8d62c4ec7b696c8057 =
     [ "color.cpp", "color_8cpp.html", null ],
     [ "colormap.cpp", "colormap_8cpp.html", null ],
     [ "concat.cpp", "concat_8cpp.html", null ],
+    [ "concat_3.cpp", "concat__3_8cpp.html", null ],
     [ "convert.cpp", "convert_8cpp.html", null ],
     [ "demosaic.cpp", "demosaic_8cpp.html", null ],
     [ "denoising.cpp", "denoising_8cpp.html", null ],

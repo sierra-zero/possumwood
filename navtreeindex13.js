@@ -1,5 +1,6 @@
 var NAVTREEINDEX13 =
 {
+"datablock_8h.html":[3,0,0,1,1,12],
 "datablock_8h_source.html":[3,0,0,1,1,12],
 "datablock_8inl.html":[3,0,0,1,1,13],
 "datatypes_2filename_8cpp.html":[3,0,0,1,3,0,2],
@@ -50,8 +51,8 @@ var NAVTREEINDEX13 =
 "default__shaders_8h.html#a82623ad55b0ad222d977cb8f77169034":[3,0,0,2,7,4,0],
 "default__shaders_8h.html#a8d4ba66d139cce3139d2214544be641a":[3,0,0,2,7,4,1],
 "default__shaders_8h_source.html":[3,0,0,2,7,4],
-"demosaic_8cpp.html":[3,0,0,2,5,0,16],
-"denoising_8cpp.html":[3,0,0,2,5,0,17],
+"demosaic_8cpp.html":[3,0,0,2,5,0,17],
+"denoising_8cpp.html":[3,0,0,2,5,0,18],
 "dense_8cpp.html":[3,0,0,2,5,0,7,0],
 "dependency__graph_2connections_8cpp.html":[3,0,0,1,1,5],
 "dependency__graph_2connections_8h.html":[3,0,0,1,1,6],
@@ -79,7 +80,7 @@ var NAVTREEINDEX13 =
 "detail_8h.html":[3,0,0,1,1,14],
 "detail_8h_source.html":[3,0,0,1,1,14],
 "detect__stationary_8cpp.html":[3,0,0,2,0,1,0,0,0],
-"dilate__erode_8cpp.html":[3,0,0,2,5,0,18],
+"dilate__erode_8cpp.html":[3,0,0,2,5,0,19],
 "dir_067ec789fe4ee714648ed1e4f195e2d2.html":[3,0,0,2,5,0,2],
 "dir_068c6f471759ddb0d8325b8ee9e22bb1.html":[3,0,0,3,0],
 "dir_132e0d0ac4fd1d0f91a74b141fc7179d.html":[3,0,0,2,0,1,0,1],
@@ -154,7 +155,7 @@ var NAVTREEINDEX13 =
 "dir_f87b3e47b914d2d36342688a5494dad5.html":[3,0,0,2,4,0],
 "dir_f90779b2810e1e6bcc06f912924d8251.html":[3,0,0,2,0,1,0,2],
 "dir_fa78b2d97ac95cd34a332196f1c8f8e5.html":[3,0,0,2,2,0],
-"divide_8cpp.html":[3,0,0,2,5,0,19],
+"divide_8cpp.html":[3,0,0,2,5,0,20],
 "drawFeatures_8cpp.html":[3,0,0,2,5,0,3,1],
 "drawPattern_8cpp.html":[3,0,0,2,5,0,1,3],
 "draw_8cpp.html":[3,0,0,2,7,1,2],
@@ -181,7 +182,8 @@ var NAVTREEINDEX13 =
 "enum__ui_8cpp.html":[3,0,0,1,3,3,0],
 "enum__ui_8h.html":[3,0,0,1,3,3,1],
 "enum__ui_8h_source.html":[3,0,0,1,3,3,1],
-"equalize_8cpp.html":[3,0,0,2,5,0,20],
+"epi_8cpp.html":[3,0,0,2,5,0,6,1],
+"equalize_8cpp.html":[3,0,0,2,5,0,21],
 "error__dialog_8cpp.html":[3,0,0,0,1,4],
 "error__dialog_8h.html":[3,0,0,0,1,5],
 "error__dialog_8h_source.html":[3,0,0,0,1,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX13 =
 "functions_func_0x7e.html":[2,3,1,23],
 "functions_func_b.html":[2,3,1,1],
 "functions_func_c.html":[2,3,1,2],
-"functions_func_d.html":[2,3,1,3],
-"functions_func_e.html":[2,3,1,4],
-"functions_func_f.html":[2,3,1,5]
+"functions_func_d.html":[2,3,1,3]
 };

@@ -1,7 +1,7 @@
 var classpossumwood_1_1Enum =
 [
-    [ "Enum", "classpossumwood_1_1Enum.html#a2e13d30a9f9d6f78bbd16f075b292af4", null ],
-    [ "Enum", "classpossumwood_1_1Enum.html#a14283f59a63023b6680f0e2715882d07", null ],
+    [ "Enum", "classpossumwood_1_1Enum.html#aabcf590915d12eb43ae6d56382584ef5", null ],
+    [ "Enum", "classpossumwood_1_1Enum.html#ad5b7330aa314aae98dafb97feac9cd42", null ],
     [ "Enum", "classpossumwood_1_1Enum.html#aff091db1a4dfd0c9f24059cdee5c3505", null ],
     [ "fromJson", "classpossumwood_1_1Enum.html#a25adf120db744995498da88bc186b393", null ],
     [ "intValue", "classpossumwood_1_1Enum.html#a03e89ff72c0b887f6ad08a93e7bd6125", null ],
