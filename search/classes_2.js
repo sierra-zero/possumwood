@@ -14,6 +14,7 @@ var searchData=
   ['children',['Children',['../classanim_1_1Children.html',1,'anim']]],
   ['clipboard',['Clipboard',['../classpossumwood_1_1Clipboard.html',1,'possumwood']]],
   ['colours',['Colours',['../classpossumwood_1_1Colours.html',1,'possumwood']]],
+  ['colourwidget',['ColourWidget',['../classColourWidget.html',1,'']]],
   ['compare',['Compare',['../structdependency__graph_1_1Nodes_1_1Compare.html',1,'dependency_graph::Nodes::Compare'],['../structpossumwood_1_1polymesh_1_1GenericBase_1_1Handles_1_1Compare.html',1,'possumwood::polymesh::GenericBase::Handles::Compare'],['../structdependency__graph_1_1MetadataRegister_1_1Compare.html',1,'dependency_graph::MetadataRegister::Compare']]],
   ['config',['Config',['../classpossumwood_1_1Config.html',1,'possumwood']]],
   ['configdialog',['ConfigDialog',['../classConfigDialog.html',1,'']]],

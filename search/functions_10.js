@@ -31,6 +31,7 @@ var searchData=
   ['resettransform',['resetTransform',['../classanim_1_1FrameEditorData.html#aa30a8f5b21be38a9b713f4dfdf2ffc3e',1,'anim::FrameEditorData']]],
   ['resize',['resize',['../classpossumwood_1_1ViewportState.html#a838ccaf9c2674b5d1059f5a5a3ec1e22',1,'possumwood::ViewportState::resize()'],['../structpossumwood_1_1polymesh_1_1ArrayBase.html#ae03f4f39b5617c88fd606eaa49ba20cc',1,'possumwood::polymesh::ArrayBase::resize()'],['../classpossumwood_1_1polymesh_1_1Array.html#a4b72b8bc9fc6937a56227d154004c7e5',1,'possumwood::polymesh::Array::resize()'],['../classpossumwood_1_1polymesh_1_1GenericBase.html#a50b5fbc7d59b12240b613e6c7cbcdae1',1,'possumwood::polymesh::GenericBase::resize()']]],
   ['resizegl',['resizeGL',['../classViewport.html#abc211b07c8fb075cd24a3d9e55666aae',1,'Viewport']]],
+  ['rgb',['RGB',['../classRGB.html#ac82f37558b845c294de41eb2558c6619',1,'RGB']]],
   ['rightclicked',['rightClicked',['../classnode__editor_1_1GraphScene.html#add144fcba9f342b4945641db771d873a',1,'node_editor::GraphScene']]],
   ['run',['run',['../classRenderContext.html#ab81b950531948f8e558fce27df0e4856',1,'RenderContext']]]
 ];
