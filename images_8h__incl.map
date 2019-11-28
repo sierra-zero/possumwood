@@ -1,13 +1,11 @@
 <map id="src/plugins/images/lua/images.h" name="src/plugins/images/lua/images.h">
-<area shape="rect" id="node2" href="$plugins_2lua_2datatypes_2state_8h.html" title="lua/datatypes/state.h" alt="" coords="164,169,324,196"/>
-<area shape="rect" id="node42" href="$pixmap__wrapper_8h.html" title="pixmap_wrapper.h" alt="" coords="1693,95,1835,121"/>
-<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="263,244,382,271"/>
-<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="147,468,327,495"/>
-<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="342,319,439,345"/>
-<area shape="rect" id="node13" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="651,393,850,420"/>
-<area shape="rect" id="node20" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="453,393,627,420"/>
-<area shape="rect" id="node21" href="$json_8h.html" title="io/json.h" alt="" coords="1576,393,1653,420"/>
-<area shape="rect" id="node16" href="$data_8h.html" title="data.h" alt="" coords="454,468,517,495"/>
-<area shape="rect" id="node19" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="541,468,645,495"/>
-<area shape="rect" id="node43" href="$datatypes_2pixmap_8h.html" title="datatypes/pixmap.h" alt="" coords="1632,169,1784,196"/>
+<area shape="rect" id="node2" href="$plugins_2lua_2datatypes_2state_8h.html" title="lua/datatypes/state.h" alt="" coords="2675,95,2835,121"/>
+<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2480,169,2599,196"/>
+<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2116,393,2296,420"/>
+<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2379,244,2476,271"/>
+<area shape="rect" id="node13" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1956,319,2155,345"/>
+<area shape="rect" id="node20" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2279,319,2453,345"/>
+<area shape="rect" id="node21" href="$json_8h.html" title="io/json.h" alt="" coords="1274,393,1351,420"/>
+<area shape="rect" id="node16" href="$data_8h.html" title="data.h" alt="" coords="2335,393,2397,420"/>
+<area shape="rect" id="node19" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1914,393,2018,420"/>
 </map>
