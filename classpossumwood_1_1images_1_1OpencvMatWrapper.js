@@ -1,17 +1,17 @@
 var classpossumwood_1_1images_1_1OpencvMatWrapper =
 [
-    [ "OpencvMatWrapper", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a3d801dee5d9cf8fc1018cd33d749924f", null ],
-    [ "OpencvMatWrapper", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#ab34049917a9d6151641057b71225f229", null ],
-    [ "OpencvMatWrapper", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a3fd40e8bc532792f3d17e277730b9b6d", null ],
-    [ "OpencvMatWrapper", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a5734e5122e339722c08893d24dc88366", null ],
-    [ "height", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a839694406e4ecf8d1ab3c6ee85b5e518", null ],
-    [ "operator opencv::Frame", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a809b77224a2b72b7b41137300ff7491b", null ],
-    [ "operator=", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a52882e50ca6e4c3d1d75be16dea1031c", null ],
-    [ "operator=", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a0c361f04e175cb356ac4e05e03028032", null ],
-    [ "operator==", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a5bf6d418cc86849d5fa422a7fbb8ad9c", null ],
-    [ "pixel", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#ada95abcf37cf079cfa3f3dfc66cc1eb0", null ],
-    [ "setPixel", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a7f3ebaa5e7ac9fe1a8aa5743487c56c2", null ],
-    [ "width", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a5af9f8dbb7c70cd9304c3a6ea9a4db10", null ],
-    [ "m_constMat", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a36e73b7b79e5172775d2220a875d493e", null ],
-    [ "m_mat", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a260496320f77d5aef0d11b09df41b278", null ]
+    [ "OpencvMatWrapper", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a657c4557f0365e142e7dfbfd4d8136b7", null ],
+    [ "OpencvMatWrapper", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a6acee4f1a3f38b487aa8f64daf3c86c9", null ],
+    [ "OpencvMatWrapper", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a1cdc465ffa2296362a918c32d8698c11", null ],
+    [ "OpencvMatWrapper", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#ac1d398c6edd8dc44401f87172440d85d", null ],
+    [ "height", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#ab71a944a2178c26fa09d773f87f83998", null ],
+    [ "operator opencv::Frame", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a2f766f0b0e6917ff6b423248a79ce92c", null ],
+    [ "operator=", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#ae240a34433e9a13cfa1cf700c4ddf445", null ],
+    [ "operator=", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a2e463fe4c1d61ec62f0cdf2df51db8be", null ],
+    [ "operator==", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#ac6f877cb7fd8a0d72685557459826672", null ],
+    [ "pixel", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#af8dbfe7557c84075fe0e0f2d5cdc63d7", null ],
+    [ "setPixel", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#ae2016ad20aecf48d638a1a16e7d5e618", null ],
+    [ "width", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#afc190b58c6b117bb096878b3d8013830", null ],
+    [ "m_constMat", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a6a857b741de0e90a07a7d8f49886f4d6", null ],
+    [ "m_mat", "classpossumwood_1_1images_1_1OpencvMatWrapper.html#a4b1ec0ad1f16be5d439db855bc0fa253", null ]
 ];

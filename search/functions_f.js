@@ -21,7 +21,7 @@ var searchData=
   ['pen',['pen',['../classnode__editor_1_1Edge.html#a9ff501b03af7f6c527a3645dcec9dd37',1,'node_editor::Edge']]],
   ['perspective',['perspective',['../classpossumwood_1_1ViewportState.html#a70fb9066450ed07594bfc90c33277865',1,'possumwood::ViewportState']]],
   ['pimpl',['Pimpl',['../structpossumwood_1_1opencv_1_1LightfieldSamples_1_1Pimpl.html#acaee27a7df46732326d46049da84e820',1,'possumwood::opencv::LightfieldSamples::Pimpl']]],
-  ['pixel',['pixel',['../classpossumwood_1_1images_1_1OpencvMatWrapper.html#ada95abcf37cf079cfa3f3dfc66cc1eb0',1,'possumwood::images::OpencvMatWrapper']]],
+  ['pixel',['pixel',['../classpossumwood_1_1images_1_1OpencvMatWrapper.html#af8dbfe7557c84075fe0e0f2d5cdc63d7',1,'possumwood::images::OpencvMatWrapper']]],
   ['playaction',['playAction',['../classTimelineWidget.html#a550cb72129824ed0db56a04db1b3814d',1,'TimelineWidget']]],
   ['pluginsraii',['PluginsRAII',['../classPluginsRAII.html#aaab40a01e542aa229be8a7443244b618',1,'PluginsRAII::PluginsRAII()'],['../classPluginsRAII.html#ae8f586fe8d7e77c86b46406b1a4531a8',1,'PluginsRAII::PluginsRAII(const PluginsRAII &amp;)=delete']]],
   ['point',['point',['../classpossumwood_1_1CGALVertex.html#ad6899cdc9f8718f30443f0c9b8b57a0f',1,'possumwood::CGALVertex::point()'],['../classpossumwood_1_1CGALVertex.html#a7c8e85f2284c6f92bc89bfea780d063a',1,'possumwood::CGALVertex::point() const']]],

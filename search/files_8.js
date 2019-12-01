@@ -1,8 +1,6 @@
 var searchData=
 [
   ['image_2ecpp',['image.cpp',['../image_8cpp.html',1,'']]],
-  ['images_2ecpp',['images.cpp',['../images_8cpp.html',1,'']]],
-  ['images_2eh',['images.h',['../images_8h.html',1,'']]],
   ['index_2ecpp',['index.cpp',['../index_8cpp.html',1,'']]],
   ['index_2eh',['index.h',['../index_8h.html',1,'']]],
   ['influences_2ecpp',['influences.cpp',['../influences_8cpp.html',1,'']]],

@@ -8,8 +8,7 @@ var dir_404746ce63c98f4d4773045c31f922b0 =
     [ "inject.cpp", "lua_2nodes_2inject_8cpp.html", null ],
     [ "inject.h", "inject_8h.html", [
       [ "NullModule", "structpossumwood_1_1lua_1_1NullModule.html", "structpossumwood_1_1lua_1_1NullModule" ],
-      [ "Inject", "structpossumwood_1_1lua_1_1Inject.html", "structpossumwood_1_1lua_1_1Inject" ],
-      [ "Params", "structpossumwood_1_1lua_1_1Inject_1_1Params.html", "structpossumwood_1_1lua_1_1Inject_1_1Params" ]
+      [ "Inject", "structpossumwood_1_1lua_1_1Inject.html", "structpossumwood_1_1lua_1_1Inject" ]
     ] ],
     [ "script.cpp", "script_8cpp.html", null ]
 ];

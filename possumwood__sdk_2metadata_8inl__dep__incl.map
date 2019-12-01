@@ -41,7 +41,7 @@
 <area shape="rect" id="node41" href="$plugins_2cgal_2nodes_2transform_8cpp.html" title="src/plugins/cgal/nodes\l/transform.cpp" alt="" coords="6347,191,6513,233"/>
 <area shape="rect" id="node42" href="$images_2nodes_2lua_2extract_8cpp.html" title="src/plugins/images\l/nodes/lua/extract.cpp" alt="" coords="6604,288,6771,329"/>
 <area shape="rect" id="node43" href="$images_2nodes_2lua_2inject_8cpp.html" title="src/plugins/images\l/nodes/lua/inject.cpp" alt="" coords="6819,288,6975,329"/>
-<area shape="rect" id="node44" href="$module_8cpp.html" title="src/plugins/images\l/nodes/lua/module.cpp" alt="" coords="7007,191,7176,233"/>
+<area shape="rect" id="node44" href="$nodes_2lua_2module_8cpp.html" title="src/plugins/images\l/nodes/lua/module.cpp" alt="" coords="7007,191,7176,233"/>
 <area shape="rect" id="node45" href="$extract_8h.html" title="src/plugins/lua/nodes\l/extract.h" alt="" coords="6537,191,6696,233"/>
 <area shape="rect" id="node46" href="$inject_8h.html" title="src/plugins/lua/nodes\l/inject.h" alt="" coords="6772,191,6931,233"/>
 <area shape="rect" id="node47" href="$script_8cpp.html" title="src/plugins/lua/nodes\l/script.cpp" alt="" coords="7200,191,7359,233"/>

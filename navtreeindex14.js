@@ -1,6 +1,5 @@
 var NAVTREEINDEX14 =
 {
-"gamma_8cpp.html":[3,0,0,2,5,0,22],
 "generic__array_8cpp.html":[3,0,0,2,6,2],
 "generic__array_8h.html":[3,0,0,2,6,3],
 "generic__array_8h_source.html":[3,0,0,2,6,3],
@@ -75,10 +74,6 @@ var NAVTREEINDEX14 =
 "image_8cpp.html":[3,0,0,2,5,0,2,1],
 "images_2nodes_2lua_2extract_8cpp.html":[3,0,0,2,2,1,0,0],
 "images_2nodes_2lua_2inject_8cpp.html":[3,0,0,2,2,1,0,1],
-"images_8cpp.html":[3,0,0,2,2,0,0],
-"images_8h.html":[3,0,0,2,2,0,1],
-"images_8h.html#a9f33341845a68329ca2279b182f5f1c0":[3,0,0,2,2,0,1,0],
-"images_8h_source.html":[3,0,0,2,2,0,1],
 "index.html":[],
 "index_8cpp.html":[3,0,0,1,3,22],
 "index_8h.html":[3,0,0,1,3,23],
@@ -249,5 +244,10 @@ var NAVTREEINDEX14 =
 "lightfield__samples_8h.html#a3a7d7db39cb0994e72d8126e4bf5ccc1":[3,0,0,2,5,22,3],
 "lightfield__samples_8h_source.html":[3,0,0,2,5,22],
 "lightfield__vignetting_8cpp.html":[3,0,0,2,5,23],
-"lightfield__vignetting_8cpp.html#a134a6dee3e1caeaccb7c0a4c3dc49c51":[3,0,0,2,5,23,0]
+"lightfield__vignetting_8cpp.html#a134a6dee3e1caeaccb7c0a4c3dc49c51":[3,0,0,2,5,23,0],
+"lightfield__vignetting_8h.html":[3,0,0,2,5,24],
+"lightfield__vignetting_8h.html#a134a6dee3e1caeaccb7c0a4c3dc49c51":[3,0,0,2,5,24,2],
+"lightfield__vignetting_8h_source.html":[3,0,0,2,5,24],
+"links_8cpp.html":[3,0,0,1,0,0,2],
+"links_8cpp.html#a3400d42c83b99500a08182ec89df4871":[3,0,0,1,0,0,2,3]
 };

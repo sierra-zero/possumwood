@@ -55,7 +55,7 @@ var searchData=
   ['setoffset',['setOffset',['../classdependency__graph_1_1Attr.html#a1acf3bffdbb693f8c9134a1bebc198f5',1,'dependency_graph::Attr']]],
   ['setpath',['setPath',['../classPathWidget.html#adae6fdba9cde316e754350e43a1729fd',1,'PathWidget']]],
   ['setpen',['setPen',['../classnode__editor_1_1Edge.html#ab23ed257a202d984dcb87a5c5036617d',1,'node_editor::Edge']]],
-  ['setpixel',['setPixel',['../classanim_1_1ui_1_1MotionMap.html#a9e4b1a70c85c3c6a2e4b74e6d2cf33c1',1,'anim::ui::MotionMap::setPixel()'],['../classpossumwood_1_1images_1_1OpencvMatWrapper.html#a7f3ebaa5e7ac9fe1a8aa5743487c56c2',1,'possumwood::images::OpencvMatWrapper::setPixel()']]],
+  ['setpixel',['setPixel',['../classanim_1_1ui_1_1MotionMap.html#a9e4b1a70c85c3c6a2e4b74e6d2cf33c1',1,'anim::ui::MotionMap::setPixel()'],['../classpossumwood_1_1images_1_1OpencvMatWrapper.html#ae2016ad20aecf48d638a1a16e7d5e618',1,'possumwood::images::OpencvMatWrapper::setPixel()']]],
   ['setpoints',['setPoints',['../classnode__editor_1_1Edge.html#a7877ae836d1dbb17ef906c62bca59241',1,'node_editor::Edge']]],
   ['setpos',['setPos',['../classanim_1_1SkinnedVertices_1_1Vertex.html#a9981dabea58174bf3e785faead522a0a',1,'anim::SkinnedVertices::Vertex']]],
   ['setposition',['setPosition',['../classpossumwood_1_1NodeData.html#a2f9a62e78aa32409be2e027ee2d159b6',1,'possumwood::NodeData']]],
