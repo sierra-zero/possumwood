@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['magnitude_2ecpp',['magnitude.cpp',['../magnitude_8cpp.html',1,'']]],
   ['main_2ecpp',['main.cpp',['../apps_2node__editor__sandbox_2main_8cpp.html',1,'(Global Namespace)'],['../apps_2possumwood_2main_8cpp.html',1,'(Global Namespace)'],['../apps_2possumwood__cli_2main_8cpp.html',1,'(Global Namespace)'],['../tests_2anim_2main_8cpp.html',1,'(Global Namespace)'],['../tests_2dependency__graph_2main_8cpp.html',1,'(Global Namespace)'],['../tests_2possumwood_2main_8cpp.html',1,'(Global Namespace)']]],
   ['main_5fwindow_2ecpp',['main_window.cpp',['../main__window_8cpp.html',1,'']]],
   ['main_5fwindow_2eh',['main_window.h',['../main__window_8h.html',1,'']]],

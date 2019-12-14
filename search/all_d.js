@@ -301,6 +301,7 @@ var searchData=
   ['m_5fwindow',['m_window',['../classRenderContext.html#ad7112790de3a07c3ecae8b008fdc5114',1,'RenderContext']]],
   ['m_5fzfar',['m_zfar',['../classpossumwood_1_1ViewportState.html#a03e9e6d69a843d3cbfa6ae7df3acd424',1,'possumwood::ViewportState']]],
   ['m_5fznear',['m_znear',['../classpossumwood_1_1ViewportState.html#a1ddac9bb56312b28e72943af2f599b22',1,'possumwood::ViewportState']]],
+  ['magnitude_2ecpp',['magnitude.cpp',['../magnitude_8cpp.html',1,'']]],
   ['main',['main',['../apps_2node__editor__sandbox_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp'],['../apps_2possumwood__cli_2main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main(int argc, char *argv[]):&#160;main.cpp']]],
   ['main_2ecpp',['main.cpp',['../apps_2node__editor__sandbox_2main_8cpp.html',1,'(Global Namespace)'],['../apps_2possumwood_2main_8cpp.html',1,'(Global Namespace)'],['../apps_2possumwood__cli_2main_8cpp.html',1,'(Global Namespace)'],['../tests_2anim_2main_8cpp.html',1,'(Global Namespace)'],['../tests_2dependency__graph_2main_8cpp.html',1,'(Global Namespace)'],['../tests_2possumwood_2main_8cpp.html',1,'(Global Namespace)']]],
   ['main_5fwindow_2ecpp',['main_window.cpp',['../main__window_8cpp.html',1,'']]],

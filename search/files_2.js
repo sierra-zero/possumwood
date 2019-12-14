@@ -48,5 +48,6 @@ var searchData=
   ['convert_2ecpp',['convert.cpp',['../convert_8cpp.html',1,'']]],
   ['create_2ecpp',['create.cpp',['../create_8cpp.html',1,'']]],
   ['createpattern_2ecpp',['createPattern.cpp',['../createPattern_8cpp.html',1,'']]],
+  ['crop_2ecpp',['crop.cpp',['../crop_8cpp.html',1,'']]],
   ['cube_2ecpp',['cube.cpp',['../cube_8cpp.html',1,'']]]
 ];
