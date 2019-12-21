@@ -8,7 +8,6 @@ var classpossumwood_1_1properties_1_1property__base =
     [ "flags", "classpossumwood_1_1properties_1_1property__base.html#a44cda32e2ab1ade78e631d33541e07e4", null ],
     [ "onFlagsChanged", "classpossumwood_1_1properties_1_1property__base.html#adb47d01a87c05699ff7bacf5bf64f4b4", null ],
     [ "setFlags", "classpossumwood_1_1properties_1_1property__base.html#a252e3ae2d5bf69c1cfc925407d506f68", null ],
-    [ "type", "classpossumwood_1_1properties_1_1property__base.html#a338d071751a2ce8585c4cc7cb24d1d3a", null ],
     [ "valueCallback", "classpossumwood_1_1properties_1_1property__base.html#a3141f06c765c76dc4bd3ba9b86c7d7bb", null ],
     [ "valueFromPort", "classpossumwood_1_1properties_1_1property__base.html#a6ffd891850dd009812aba8a8a6b2d7a5", null ],
     [ "valueToPort", "classpossumwood_1_1properties_1_1property__base.html#a1d62e5f9303bb17f12dc4a4c30c8d2a4", null ],

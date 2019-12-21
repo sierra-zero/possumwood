@@ -6,9 +6,8 @@ var classpossumwood_1_1properties_1_1property =
     [ "~property", "classpossumwood_1_1properties_1_1property.html#a33e78604fe6d2d4aa7bc9c8c620703ae", null ],
     [ "get", "classpossumwood_1_1properties_1_1property.html#a13ea22cd2ce94259ac97938a483659a9", null ],
     [ "set", "classpossumwood_1_1properties_1_1property.html#ae414d7ea5dc067e67768367e5fed7409", null ],
-    [ "type", "classpossumwood_1_1properties_1_1property.html#a8922a3907ba9e91959cd2a4ab3d2cdd6", null ],
-    [ "valueFromPort", "classpossumwood_1_1properties_1_1property.html#a62b293c00e86ddaa515ca9e7849892e6", null ],
-    [ "valueToPort", "classpossumwood_1_1properties_1_1property.html#adbf003e5720215b0f368a681511d6284", null ],
+    [ "valueFromPort", "classpossumwood_1_1properties_1_1property.html#a65bbb06b6112d726e5be773f101170ef", null ],
+    [ "valueToPort", "classpossumwood_1_1properties_1_1property.html#a74f30d7b0b650455171eb5cc903ec922", null ],
     [ "m_blockedSignals", "classpossumwood_1_1properties_1_1property.html#a2bd3d65386fed94adb3c0b0c55a210fe", null ],
     [ "s_pf", "classpossumwood_1_1properties_1_1property.html#ac19491df7ca8e0f2c3e0014d957a3bfd", null ]
 ];

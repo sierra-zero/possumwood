@@ -1,7 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"classnode__editor_1_1Edge.html#ab23ed257a202d984dcb87a5c5036617d":[2,0,3,1,9],
-"classnode__editor_1_1Edge.html#ab7c0089d8c69d4358325a1080b57f5cc":[2,0,3,1,12],
 "classnode__editor_1_1Edge.html#abc3054daa79a985ad34812b9af4ccc11":[2,0,3,1,8],
 "classnode__editor_1_1Edge.html#abcc0d447abbc07ee50129e60eaa18739":[2,0,3,1,18],
 "classnode__editor_1_1Edge.html#ac7a61a1da8c4b7144a5e6d49f239529a":[2,0,3,1,17],
@@ -249,5 +247,7 @@ var NAVTREEINDEX6 =
 "classpossumwood_1_1Config_1_1Item.html#ad801d53034e4c593cebcd70d932f89e8":[2,0,5,23,0,6],
 "classpossumwood_1_1Config_1_1Item.html#adb1ab42549ff02f6f7e3e0fcef5ba73e":[2,0,5,23,0,4],
 "classpossumwood_1_1Config_1_1Item.html#af64f1c79e6dad62229e28a9ba87d2d36":[2,0,5,23,0,10],
-"classpossumwood_1_1Config_1_1Item.html#afc878cd2d601405b7f9e0aad2fcd8e4b":[2,0,5,23,0,11]
+"classpossumwood_1_1Config_1_1Item.html#afc878cd2d601405b7f9e0aad2fcd8e4b":[2,0,5,23,0,11],
+"classpossumwood_1_1Description.html":[2,0,5,24],
+"classpossumwood_1_1Description.html#a26656c5daae1485c5320704c14096c97":[2,0,5,24,3]
 };
