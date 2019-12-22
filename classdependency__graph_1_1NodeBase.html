@@ -201,8 +201,8 @@ Private Member Functions</h2></td></tr>
 <tr class="separator:a30ac99847f92e166c4b4fd9d2cfa96b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2e19ab5bae210508c604b1cc2c791be1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1NodeBase.html#a2e19ab5bae210508c604b1cc2c791be1">set</a> (size_t <a class="el" href="classdependency__graph_1_1NodeBase.html#a0e334224a71d3410007caa5655a38707">index</a>, const <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &amp;value)</td></tr>
 <tr class="separator:a2e19ab5bae210508c604b1cc2c791be1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abcf506d4c52ef20b65f13126d09082bb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1NodeBase.html#abcf506d4c52ef20b65f13126d09082bb">markAsDirty</a> (size_t <a class="el" href="classdependency__graph_1_1NodeBase.html#a0e334224a71d3410007caa5655a38707">index</a>)</td></tr>
-<tr class="separator:abcf506d4c52ef20b65f13126d09082bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6817f9e9aef7af50049c9b947ea1c08d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1NodeBase.html#a6817f9e9aef7af50049c9b947ea1c08d">markAsDirty</a> (size_t portIndex, bool dependantsOnly=false)</td></tr>
+<tr class="separator:a6817f9e9aef7af50049c9b947ea1c08d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0b9dad93a19621550814b33fb0d08502"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1NodeBase.html#a0b9dad93a19621550814b33fb0d08502">disconnectAll</a> ()</td></tr>
 <tr class="separator:a0b9dad93a19621550814b33fb0d08502"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -669,8 +669,8 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a id="abcf506d4c52ef20b65f13126d09082bb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abcf506d4c52ef20b65f13126d09082bb">&#9670;&nbsp;</a></span>markAsDirty()</h2>
+<a id="a6817f9e9aef7af50049c9b947ea1c08d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6817f9e9aef7af50049c9b947ea1c08d">&#9670;&nbsp;</a></span>markAsDirty()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -682,8 +682,18 @@ template&lt;typename T &gt; </div>
           <td class="memname">void dependency_graph::NodeBase::markAsDirty </td>
           <td>(</td>
           <td class="paramtype">size_t&#160;</td>
-          <td class="paramname"><em>index</em></td><td>)</td>
+          <td class="paramname"><em>portIndex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>dependantsOnly</em> = <code>false</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -1226,7 +1236,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1NodeBase.html">NodeBase</a></li>
-    <li class="footer">Generated on Sat Dec 21 2019 15:32:01 for possumwood by
+    <li class="footer">Generated on Sun Dec 22 2019 12:56:04 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

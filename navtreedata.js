@@ -47,7 +47,7 @@ var NAVTREEINDEX =
 "classUniforms.html#a52fe626a3fcc65f73f5f0668936ac2e3",
 "classanim_1_1Polygons.html#af2330d236aae7d1151ae3d9135671d41",
 "classanim_1_1ui_1_1MotionMap.html#a2ced0359e57b648cc2da9fce5352b37b",
-"classdependency__graph_1_1NodeBase.html#a9563ae74d03d999d63991dfd62bfa68e",
+"classdependency__graph_1_1NodeBase.html#a90363aa5da0080dcc1f6a07cc9f953b6",
 "classnode__editor_1_1Edge.html#abc3054daa79a985ad34812b9af4ccc11",
 "classpossumwood_1_1Description.html#a2d3bf1f18ce1cadddd129efe2c83a44b",
 "classpossumwood_1_1PropertyBase.html#a9e09dbc48d1a041024c632a42c396f84",
