@@ -1,0 +1,4 @@
+var structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01_1_1lightfields_1_1Pattern_01_4_01_4 =
+[
+    [ "colour", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01_1_1lightfields_1_1Pattern_01_4_01_4.html#a78562b3bbb5ddaa3c640d7b45c4a30c0", null ]
+];

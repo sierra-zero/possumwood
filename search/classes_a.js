@@ -11,5 +11,6 @@ var searchData=
   ['lightfieldvignetting',['LightfieldVignetting',['../classpossumwood_1_1opencv_1_1LightfieldVignetting.html',1,'possumwood::opencv']]],
   ['lineartransition',['LinearTransition',['../classanim_1_1filter_1_1LinearTransition.html',1,'anim::filter']]],
   ['link',['Link',['../structpossumwood_1_1actions_1_1detail_1_1Link.html',1,'possumwood::actions::detail']]],
-  ['localangle',['LocalAngle',['../classanim_1_1metric_1_1LocalAngle.html',1,'anim::metric']]]
+  ['localangle',['LocalAngle',['../classanim_1_1metric_1_1LocalAngle.html',1,'anim::metric']]],
+  ['lytropattern',['LytroPattern',['../classlightfields_1_1LytroPattern.html',1,'lightfields']]]
 ];

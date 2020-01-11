@@ -46,5 +46,6 @@ var searchData=
   ['localminima',['localMinima',['../classanim_1_1MotionMap.html#a916a5bf5fb3cfc870c81aab30144f0ef',1,'anim::MotionMap']]],
   ['log_2ecpp',['log.cpp',['../log_8cpp.html',1,'']]],
   ['lookat',['lookAt',['../classpossumwood_1_1ViewportState.html#aa73fd5031da5bf8b66d77a4d3a21c9cb',1,'possumwood::ViewportState']]],
-  ['lytro_5flightfield_2ecpp',['lytro_lightfield.cpp',['../lytro__lightfield_8cpp.html',1,'']]]
+  ['lytro_5flightfield_2ecpp',['lytro_lightfield.cpp',['../lytro__lightfield_8cpp.html',1,'']]],
+  ['lytropattern',['LytroPattern',['../classlightfields_1_1LytroPattern.html',1,'lightfields::LytroPattern'],['../classlightfields_1_1LytroPattern.html#a915c8ffe44ba6dd00590f7cf868f4355',1,'lightfields::LytroPattern::LytroPattern()']]]
 ];

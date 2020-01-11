@@ -25,7 +25,7 @@ var dir_859cd15f165bc207a0e60ea2880f7bf3 =
     [ "frame.h", "opencv_2frame_8h.html", "opencv_2frame_8h" ],
     [ "lightfield_pattern.cpp", "lightfield__pattern_8cpp.html", null ],
     [ "lightfield_pattern.h", "lightfield__pattern_8h.html", [
-      [ "Traits<::lightfields::Pattern >", "structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4.html", "structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4" ]
+      [ "Traits< std::shared_ptr< const ::lightfields::Pattern > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01_1_1lightfields_1_1Pattern_01_4_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01_1_1lightfields_1_1Pattern_01_4_01_4" ]
     ] ],
     [ "lightfield_samples.cpp", "lightfield__samples_8cpp.html", "lightfield__samples_8cpp" ],
     [ "lightfield_samples.h", "lightfield__samples_8h.html", "lightfield__samples_8h" ],

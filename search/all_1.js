@@ -18,6 +18,7 @@ var searchData=
   ['action_2eh',['action.h',['../action_8h.html',1,'']]],
   ['actions_2ecpp',['actions.cpp',['../libs_2actions_2actions_8cpp.html',1,'(Global Namespace)'],['../tests_2possumwood_2actions_8cpp.html',1,'(Global Namespace)']]],
   ['actions_2eh',['actions.h',['../actions_8h.html',1,'']]],
+  ['adaptive_5fthreshold_2ecpp',['adaptive_threshold.cpp',['../adaptive__threshold_8cpp.html',1,'']]],
   ['adaptor',['Adaptor',['../classAdaptor.html',1,'Adaptor'],['../classMainWindow.html#a87442ae7464d08f68a7ec32a8469773c',1,'MainWindow::adaptor()'],['../classAdaptor.html#a599d5b23fde59b81f7c72472d23c2150',1,'Adaptor::Adaptor()']]],
   ['adaptor_2ecpp',['adaptor.cpp',['../adaptor_8cpp.html',1,'']]],
   ['adaptor_2eh',['adaptor.h',['../adaptor_8h.html',1,'']]],

@@ -81,167 +81,170 @@ $(document).ready(function(){initNavTree('classlightfields_1_1Pattern.html','');
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="classlightfields_1_1Pattern-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">lightfields::Pattern Class Reference</div>  </div>
+<div class="title">lightfields::Pattern Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div>  </div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &lt;<a class="el" href="pattern_8h_source.html">pattern.h</a>&gt;</code></p>
+<div class="dynheader">
+Inheritance diagram for lightfields::Pattern:</div>
+<div class="dyncontent">
+<div class="center"><img src="classlightfields_1_1Pattern__inherit__graph.png" border="0" usemap="#lightfields_1_1Pattern_inherit__map" alt="Inheritance graph"/></div>
+<map name="lightfields_1_1Pattern_inherit__map" id="lightfields_1_1Pattern_inherit__map">
+<area shape="rect" id="node2" href="classlightfields_1_1LytroPattern.html" title="lightfields::LytroPattern" alt="" coords="5,80,177,107"/>
+<area shape="rect" id="node3" href="classlightfields_1_1NewPattern.html" title="lightfields::NewPattern" alt="" coords="201,80,371,107"/>
+</map>
+<center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ad15d0920f054ae64011424d98f2ba431"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#ad15d0920f054ae64011424d98f2ba431">Pattern</a> ()</td></tr>
-<tr class="separator:ad15d0920f054ae64011424d98f2ba431"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8a3bca393f182ca49d7afadc5a4956a5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#a8a3bca393f182ca49d7afadc5a4956a5">Pattern</a> (double lensPitch, double pixelPitch, double rotation, Imath::V2d scaleFactor, Imath::V3d sensorOffset, Imath::V2i <a class="el" href="classlightfields_1_1Pattern.html#a13ca918e062f094f740e00cf102a13cd">sensorResolution</a>)</td></tr>
-<tr class="separator:a8a3bca393f182ca49d7afadc5a4956a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae70f24c6526d84fedb7d97f313717a16"><td class="memItemLeft" align="right" valign="top">Imath::V4d&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#ae70f24c6526d84fedb7d97f313717a16">sample</a> (const Imath::V2i &amp;pixelPos) const</td></tr>
-<tr class="separator:ae70f24c6526d84fedb7d97f313717a16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab426618a7056692be2c5991cfafd264f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#ab426618a7056692be2c5991cfafd264f">Pattern</a> (const Imath::V2i &amp;resolution)</td></tr>
+<tr class="separator:ab426618a7056692be2c5991cfafd264f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59b121b7fcbe900952b5a46ae848a03a"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#a59b121b7fcbe900952b5a46ae848a03a">~Pattern</a> ()=0</td></tr>
+<tr class="separator:a59b121b7fcbe900952b5a46ae848a03a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf33a462194fd8d96ae5ec8563816a2a"><td class="memItemLeft" align="right" valign="top">virtual Imath::V4d&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#abf33a462194fd8d96ae5ec8563816a2a">sample</a> (const Imath::V2i &amp;pixelPos) const =0</td></tr>
+<tr class="separator:abf33a462194fd8d96ae5ec8563816a2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a13ca918e062f094f740e00cf102a13cd"><td class="memItemLeft" align="right" valign="top">const Imath::V2i &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#a13ca918e062f094f740e00cf102a13cd">sensorResolution</a> () const</td></tr>
 <tr class="separator:a13ca918e062f094f740e00cf102a13cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aac12ab50946c19fa5f1d4ada3e4cf38f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#aac12ab50946c19fa5f1d4ada3e4cf38f">operator==</a> (const <a class="el" href="classlightfields_1_1Pattern.html">Pattern</a> &amp;f) const</td></tr>
-<tr class="separator:aac12ab50946c19fa5f1d4ada3e4cf38f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afd0d185045fa403e06964d7c02a7ac16"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#afd0d185045fa403e06964d7c02a7ac16">operator!=</a> (const <a class="el" href="classlightfields_1_1Pattern.html">Pattern</a> &amp;f) const</td></tr>
-<tr class="separator:afd0d185045fa403e06964d7c02a7ac16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a5f44a5e5b2b464c94f6405b0a0cf064f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#a5f44a5e5b2b464c94f6405b0a0cf064f">Pattern</a> (const <a class="el" href="classlightfields_1_1Pattern.html">Pattern</a> &amp;)=delete</td></tr>
+<tr class="separator:a5f44a5e5b2b464c94f6405b0a0cf064f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0eba1c88180974aded4201cc4b34b765"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlightfields_1_1Pattern.html">Pattern</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#a0eba1c88180974aded4201cc4b34b765">operator=</a> (const <a class="el" href="classlightfields_1_1Pattern.html">Pattern</a> &amp;)=delete</td></tr>
+<tr class="separator:a0eba1c88180974aded4201cc4b34b765"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a1f85e3e98bfb54808c0fc1026941d521"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#a1f85e3e98bfb54808c0fc1026941d521">m_lensPitch</a></td></tr>
-<tr class="separator:a1f85e3e98bfb54808c0fc1026941d521"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae77dc75dec848d971f85ddc5fdf30ac8"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#ae77dc75dec848d971f85ddc5fdf30ac8">m_pixelPitch</a></td></tr>
-<tr class="separator:ae77dc75dec848d971f85ddc5fdf30ac8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9e4f5833f33a99585ed810ee6d70b727"><td class="memItemLeft" align="right" valign="top">double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#a9e4f5833f33a99585ed810ee6d70b727">m_rotation</a></td></tr>
-<tr class="separator:a9e4f5833f33a99585ed810ee6d70b727"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e00f80fb9c3ca79448a47e465aa5ae9"><td class="memItemLeft" align="right" valign="top">Imath::V2d&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#a4e00f80fb9c3ca79448a47e465aa5ae9">m_scaleFactor</a></td></tr>
-<tr class="separator:a4e00f80fb9c3ca79448a47e465aa5ae9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af7c93c8cd1af676a209d1f05c17498c4"><td class="memItemLeft" align="right" valign="top">Imath::V3d&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#af7c93c8cd1af676a209d1f05c17498c4">m_sensorOffset</a></td></tr>
-<tr class="separator:af7c93c8cd1af676a209d1f05c17498c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a33769e05149803f1a11ddfcd0c1cb8b0"><td class="memItemLeft" align="right" valign="top">Imath::V2i&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html#a33769e05149803f1a11ddfcd0c1cb8b0">m_sensorResolution</a></td></tr>
 <tr class="separator:a33769e05149803f1a11ddfcd0c1cb8b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad15d0920f054ae64011424d98f2ba431"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad15d0920f054ae64011424d98f2ba431">&#9670;&nbsp;</a></span>Pattern() <span class="overload">[1/2]</span></h2>
+<a id="ab426618a7056692be2c5991cfafd264f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab426618a7056692be2c5991cfafd264f">&#9670;&nbsp;</a></span>Pattern() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
           <td class="memname">lightfields::Pattern::Pattern </td>
+          <td>(</td>
+          <td class="paramtype">const Imath::V2i &amp;&#160;</td>
+          <td class="paramname"><em>resolution</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a59b121b7fcbe900952b5a46ae848a03a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a59b121b7fcbe900952b5a46ae848a03a">&#9670;&nbsp;</a></span>~Pattern()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">lightfields::Pattern::~Pattern </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="a8a3bca393f182ca49d7afadc5a4956a5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8a3bca393f182ca49d7afadc5a4956a5">&#9670;&nbsp;</a></span>Pattern() <span class="overload">[2/2]</span></h2>
+<a id="a5f44a5e5b2b464c94f6405b0a0cf064f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5f44a5e5b2b464c94f6405b0a0cf064f">&#9670;&nbsp;</a></span>Pattern() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
           <td class="memname">lightfields::Pattern::Pattern </td>
           <td>(</td>
-          <td class="paramtype">double&#160;</td>
-          <td class="paramname"><em>lensPitch</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype">const <a class="el" href="classlightfields_1_1Pattern.html">Pattern</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype">double&#160;</td>
-          <td class="paramname"><em>pixelPitch</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">double&#160;</td>
-          <td class="paramname"><em>rotation</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Imath::V2d&#160;</td>
-          <td class="paramname"><em>scaleFactor</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Imath::V3d&#160;</td>
-          <td class="paramname"><em>sensorOffset</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Imath::V2i&#160;</td>
-          <td class="paramname"><em>sensorResolution</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="afd0d185045fa403e06964d7c02a7ac16"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afd0d185045fa403e06964d7c02a7ac16">&#9670;&nbsp;</a></span>operator!=()</h2>
+<a id="a0eba1c88180974aded4201cc4b34b765"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0eba1c88180974aded4201cc4b34b765">&#9670;&nbsp;</a></span>operator=()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool lightfields::Pattern::operator!= </td>
+          <td class="memname"><a class="el" href="classlightfields_1_1Pattern.html">Pattern</a>&amp; lightfields::Pattern::operator= </td>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="classlightfields_1_1Pattern.html">Pattern</a> &amp;&#160;</td>
-          <td class="paramname"><em>f</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="aac12ab50946c19fa5f1d4ada3e4cf38f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac12ab50946c19fa5f1d4ada3e4cf38f">&#9670;&nbsp;</a></span>operator==()</h2>
+<a id="abf33a462194fd8d96ae5ec8563816a2a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf33a462194fd8d96ae5ec8563816a2a">&#9670;&nbsp;</a></span>sample()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool lightfields::Pattern::operator== </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="classlightfields_1_1Pattern.html">Pattern</a> &amp;&#160;</td>
-          <td class="paramname"><em>f</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae70f24c6526d84fedb7d97f313717a16"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae70f24c6526d84fedb7d97f313717a16">&#9670;&nbsp;</a></span>sample()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Imath::V4d lightfields::Pattern::sample </td>
+          <td class="memname">virtual Imath::V4d lightfields::Pattern::sample </td>
           <td>(</td>
           <td class="paramtype">const Imath::V2i &amp;&#160;</td>
           <td class="paramname"><em>pixelPos</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="classlightfields_1_1LytroPattern.html#a91e7a6724116e0776807d66c4f105e19">lightfields::LytroPattern</a>, and <a class="el" href="classlightfields_1_1NewPattern.html#add8576f460c518633cbc7b4755795b84">lightfields::NewPattern</a>.</p>
 
 </div>
 </div>
@@ -263,116 +266,6 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a1f85e3e98bfb54808c0fc1026941d521"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1f85e3e98bfb54808c0fc1026941d521">&#9670;&nbsp;</a></span>m_lensPitch</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">double lightfields::Pattern::m_lensPitch</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae77dc75dec848d971f85ddc5fdf30ac8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae77dc75dec848d971f85ddc5fdf30ac8">&#9670;&nbsp;</a></span>m_pixelPitch</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">double lightfields::Pattern::m_pixelPitch</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a9e4f5833f33a99585ed810ee6d70b727"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9e4f5833f33a99585ed810ee6d70b727">&#9670;&nbsp;</a></span>m_rotation</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">double lightfields::Pattern::m_rotation</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a4e00f80fb9c3ca79448a47e465aa5ae9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4e00f80fb9c3ca79448a47e465aa5ae9">&#9670;&nbsp;</a></span>m_scaleFactor</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">Imath::V2d lightfields::Pattern::m_scaleFactor</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="af7c93c8cd1af676a209d1f05c17498c4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7c93c8cd1af676a209d1f05c17498c4">&#9670;&nbsp;</a></span>m_sensorOffset</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">Imath::V3d lightfields::Pattern::m_sensorOffset</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="a33769e05149803f1a11ddfcd0c1cb8b0"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a33769e05149803f1a11ddfcd0c1cb8b0">&#9670;&nbsp;</a></span>m_sensorResolution</h2>
 
@@ -405,7 +298,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1Pattern.html">Pattern</a></li>
-    <li class="footer">Generated on Sun Dec 22 2019 13:53:16 for possumwood by
+    <li class="footer">Generated on Sat Jan 11 2020 00:47:00 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

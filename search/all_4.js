@@ -44,6 +44,7 @@ var searchData=
   ['detail',['detail',['../namespacedependency__graph_1_1detail.html',1,'dependency_graph']]],
   ['detail_2eh',['detail.h',['../detail_8h.html',1,'']]],
   ['detect',['detect',['../structpossumwood_1_1io_1_1detail_1_1has__from__json.html#a33dda7c18a80236fb9d3e29cc4db5ab4',1,'possumwood::io::detail::has_from_json::detect(U &amp;&amp;)'],['../structpossumwood_1_1io_1_1detail_1_1has__from__json.html#a21aa6ce54f62fc0205988362f0ce8659',1,'possumwood::io::detail::has_from_json::detect(...)'],['../structpossumwood_1_1io_1_1detail_1_1has__non__default__from__json.html#a4302f267dff515652825db9fb4a54996',1,'possumwood::io::detail::has_non_default_from_json::detect(U &amp;&amp;)'],['../structpossumwood_1_1io_1_1detail_1_1has__non__default__from__json.html#a19b150938156f11752ec6885837784bc',1,'possumwood::io::detail::has_non_default_from_json::detect(...)'],['../structpossumwood_1_1io_1_1detail_1_1has__to__json.html#af1019fff469c1bfb4a4cacaab95256e4',1,'possumwood::io::detail::has_to_json::detect(U &amp;&amp;)'],['../structpossumwood_1_1io_1_1detail_1_1has__to__json.html#a96de2e1fa6bbc4073042f43fb35cd2ab',1,'possumwood::io::detail::has_to_json::detect(...)']]],
+  ['detect_5fpattern_2ecpp',['detect_pattern.cpp',['../detect__pattern_8cpp.html',1,'']]],
   ['detect_5fstationary_2ecpp',['detect_stationary.cpp',['../detect__stationary_8cpp.html',1,'']]],
   ['dft_2ecpp',['dft.cpp',['../dft_8cpp.html',1,'']]],
   ['diff',['diff',['../classpossumwood_1_1io_1_1basic__json.html#aa4ebc1ee9b921d809c402e69b7cd7fd6',1,'possumwood::io::basic_json']]],

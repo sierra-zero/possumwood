@@ -15,6 +15,7 @@ var searchData=
   ['description_2ecpp',['description.cpp',['../description_8cpp.html',1,'']]],
   ['description_2eh',['description.h',['../description_8h.html',1,'']]],
   ['detail_2eh',['detail.h',['../detail_8h.html',1,'']]],
+  ['detect_5fpattern_2ecpp',['detect_pattern.cpp',['../detect__pattern_8cpp.html',1,'']]],
   ['detect_5fstationary_2ecpp',['detect_stationary.cpp',['../detect__stationary_8cpp.html',1,'']]],
   ['dft_2ecpp',['dft.cpp',['../dft_8cpp.html',1,'']]],
   ['dilate_5ferode_2ecpp',['dilate_erode.cpp',['../dilate__erode_8cpp.html',1,'']]],

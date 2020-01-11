@@ -18,5 +18,6 @@ var searchData=
   ['loadobj',['loadObj',['../namespacepossumwood_1_1polymesh.html#a3591b8ca89d5b26262213d0a6a956409',1,'possumwood::polymesh']]],
   ['loadscene',['loadScene',['../apps_2possumwood__cli_2main_8cpp.html#aa09934fca2d602843d8935091652cac4',1,'main.cpp']]],
   ['localminima',['localMinima',['../classanim_1_1MotionMap.html#a916a5bf5fb3cfc870c81aab30144f0ef',1,'anim::MotionMap']]],
-  ['lookat',['lookAt',['../classpossumwood_1_1ViewportState.html#aa73fd5031da5bf8b66d77a4d3a21c9cb',1,'possumwood::ViewportState']]]
+  ['lookat',['lookAt',['../classpossumwood_1_1ViewportState.html#aa73fd5031da5bf8b66d77a4d3a21c9cb',1,'possumwood::ViewportState']]],
+  ['lytropattern',['LytroPattern',['../classlightfields_1_1LytroPattern.html#a915c8ffe44ba6dd00590f7cf868f4355',1,'lightfields::LytroPattern']]]
 ];

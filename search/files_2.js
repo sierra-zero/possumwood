@@ -27,6 +27,7 @@ var searchData=
   ['colours_2eh',['colours.h',['../colours_8h.html',1,'']]],
   ['common_2ecpp',['common.cpp',['../apps_2common_8cpp.html',1,'(Global Namespace)'],['../tests_2dependency__graph_2common_8cpp.html',1,'(Global Namespace)'],['../tests_2possumwood_2common_8cpp.html',1,'(Global Namespace)']]],
   ['common_2eh',['common.h',['../apps_2common_8h.html',1,'(Global Namespace)'],['../tests_2dependency__graph_2common_8h.html',1,'(Global Namespace)'],['../tests_2possumwood_2common_8h.html',1,'(Global Namespace)']]],
+  ['compare_2ecpp',['compare.cpp',['../compare_8cpp.html',1,'']]],
   ['compute_5fdirty_2ecpp',['compute_dirty.cpp',['../compute__dirty_8cpp.html',1,'']]],
   ['concat_2ecpp',['concat.cpp',['../concat_8cpp.html',1,'']]],
   ['concat_5f3_2ecpp',['concat_3.cpp',['../concat__3_8cpp.html',1,'']]],

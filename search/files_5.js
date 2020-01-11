@@ -7,6 +7,7 @@ var searchData=
   ['filename_2eh',['filename.h',['../datatypes_2filename_8h.html',1,'(Global Namespace)'],['../ui_2filename_8h.html',1,'(Global Namespace)']]],
   ['filter_2ecpp',['filter.cpp',['../filter_8cpp.html',1,'']]],
   ['filter_2eh',['filter.h',['../filter_8h.html',1,'']]],
+  ['filter2d_2ecpp',['filter2d.cpp',['../filter2d_8cpp.html',1,'']]],
   ['filter_5fmedian_2ecpp',['filter_median.cpp',['../filter__median_8cpp.html',1,'']]],
   ['findpattern_2ecpp',['findPattern.cpp',['../findPattern_8cpp.html',1,'']]],
   ['float_2ecpp',['float.cpp',['../float_8cpp.html',1,'']]],

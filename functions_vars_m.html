@@ -511,7 +511,7 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 : <a class="el" href="classnode__editor_1_1GraphScene.html#af0d4d4f4a5aac1fceee20f76f07b46c3">node_editor::GraphScene</a>
 </li>
 <li>m_lensPitch
-: <a class="el" href="classlightfields_1_1Pattern.html#a1f85e3e98bfb54808c0fc1026941d521">lightfields::Pattern</a>
+: <a class="el" href="classlightfields_1_1LytroPattern.html#a69d46cf5e8bfd42edb7272cc0aaec88f">lightfields::LytroPattern</a>
 </li>
 <li>m_levels
 : <a class="el" href="classpossumwood_1_1opencv_1_1BSplineHierarchy.html#a871caf3aa7f8ae8857d3f9a6a61ef9f0">possumwood::opencv::BSplineHierarchy</a>
@@ -746,9 +746,6 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 : <a class="el" href="classlightfields_1_1Raw.html#a18df34e9fc292d4b7ea36d1a3740e4df">lightfields::Raw</a>
 , <a class="el" href="classpossumwood_1_1opencv_1_1LightfieldSamples.html#a6501b0e65c922638db3ee52b4b90ad2a">possumwood::opencv::LightfieldSamples</a>
 </li>
-<li>m_pixelPitch
-: <a class="el" href="classlightfields_1_1Pattern.html#ae77dc75dec848d971f85ddc5fdf30ac8">lightfields::Pattern</a>
-</li>
 <li>m_pixmap
 : <a class="el" href="classanim_1_1ui_1_1MotionMap.html#a888c5503ce8c52671ccb26fae77c47de">anim::ui::MotionMap</a>
 </li>
@@ -824,9 +821,6 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 <li>m_redoStack
 : <a class="el" href="classpossumwood_1_1UndoStack.html#ae6e29a106e89dde75bfd308ff9431d65">possumwood::UndoStack</a>
 </li>
-<li>m_rotation
-: <a class="el" href="classlightfields_1_1Pattern.html#a9e4f5833f33a99585ed810ee6d70b727">lightfields::Pattern</a>
-</li>
 <li>m_rowOffsets
 : <a class="el" href="structpossumwood_1_1opencv_1_1LightfieldSamples_1_1Pimpl.html#aef58facd66a155f500c1fa31a5a1f9fc">possumwood::opencv::LightfieldSamples::Pimpl</a>
 </li>
@@ -835,9 +829,6 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 </li>
 <li>m_samples
 : <a class="el" href="structpossumwood_1_1opencv_1_1LightfieldSamples_1_1Pimpl.html#a9b69485006b2c83c00f078005b9e9a14">possumwood::opencv::LightfieldSamples::Pimpl</a>
-</li>
-<li>m_scaleFactor
-: <a class="el" href="classlightfields_1_1Pattern.html#a4e00f80fb9c3ca79448a47e465aa5ae9">lightfields::Pattern</a>
 </li>
 <li>m_scene
 : <a class="el" href="classanim_1_1ui_1_1MotionMap.html#a6d77d1beb0cf45b1aeb1c17c0df8e755">anim::ui::MotionMap</a>
@@ -866,9 +857,6 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 </li>
 <li>m_selIt
 : <a class="el" href="classanim_1_1SubsetSelection_1_1const__iterator.html#a667ab5be421589780f6b0d1746242085">anim::SubsetSelection::const_iterator</a>
-</li>
-<li>m_sensorOffset
-: <a class="el" href="classlightfields_1_1Pattern.html#af7c93c8cd1af676a209d1f05c17498c4">lightfields::Pattern</a>
 </li>
 <li>m_sensorResolution
 : <a class="el" href="classlightfields_1_1Pattern.html#a33769e05149803f1a11ddfcd0c1cb8b0">lightfields::Pattern</a>
@@ -1003,6 +991,8 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 </li>
 <li>m_tr
 : <a class="el" href="classanim_1_1constraints_1_1Frame.html#aea749efc85a855672b3f080dc4a90e11">anim::constraints::Frame</a>
+, <a class="el" href="classlightfields_1_1LytroPattern.html#ad794d0e2dba8406558aa8f7ff76c637d">lightfields::LytroPattern</a>
+, <a class="el" href="classlightfields_1_1NewPattern.html#a129a448cd382b1aa3746ab538d032ecb">lightfields::NewPattern</a>
 </li>
 <li>m_transformation
 : <a class="el" href="classanim_1_1Skeleton_1_1Joint.html#ac7c107b7439e4775e2fbf3ad092ca52f">anim::Skeleton::Joint</a>
@@ -1018,6 +1008,10 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 </li>
 <li>m_treeWidget
 : <a class="el" href="classAdaptor.html#aeb293637f9886d6709bd044925e88683">Adaptor</a>
+</li>
+<li>m_trInv
+: <a class="el" href="classlightfields_1_1LytroPattern.html#a265a556af025ceb127a6e527664b8cc9">lightfields::LytroPattern</a>
+, <a class="el" href="classlightfields_1_1NewPattern.html#acb6d1d22e06cecc71b7ba7c4f288b896">lightfields::NewPattern</a>
 </li>
 <li>m_type
 : <a class="el" href="classdependency__graph_1_1Metadata.html#a73e48ae4cada097728171a4a477b86ae">dependency_graph::Metadata</a>
@@ -1188,7 +1182,7 @@ $(document).ready(function(){initNavTree('functions_vars_m.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sun Dec 22 2019 13:53:18 for possumwood by
+    <li class="footer">Generated on Sat Jan 11 2020 00:47:01 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

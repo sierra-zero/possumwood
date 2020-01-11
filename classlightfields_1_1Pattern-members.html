@@ -86,24 +86,19 @@ $(document).ready(function(){initNavTree('classlightfields_1_1Pattern.html','');
 
 <p>This is the complete list of members for <a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#a1f85e3e98bfb54808c0fc1026941d521">m_lensPitch</a></td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#ae77dc75dec848d971f85ddc5fdf30ac8">m_pixelPitch</a></td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#a9e4f5833f33a99585ed810ee6d70b727">m_rotation</a></td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#a4e00f80fb9c3ca79448a47e465aa5ae9">m_scaleFactor</a></td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#af7c93c8cd1af676a209d1f05c17498c4">m_sensorOffset</a></td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#a33769e05149803f1a11ddfcd0c1cb8b0">m_sensorResolution</a></td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#afd0d185045fa403e06964d7c02a7ac16">operator!=</a>(const Pattern &amp;f) const</td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"></td></tr>
-  <tr><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#aac12ab50946c19fa5f1d4ada3e4cf38f">operator==</a>(const Pattern &amp;f) const</td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#ad15d0920f054ae64011424d98f2ba431">Pattern</a>()</td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"></td></tr>
-  <tr><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#a8a3bca393f182ca49d7afadc5a4956a5">Pattern</a>(double lensPitch, double pixelPitch, double rotation, Imath::V2d scaleFactor, Imath::V3d sensorOffset, Imath::V2i sensorResolution)</td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#ae70f24c6526d84fedb7d97f313717a16">sample</a>(const Imath::V2i &amp;pixelPos) const</td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#a33769e05149803f1a11ddfcd0c1cb8b0">m_sensorResolution</a></td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#a0eba1c88180974aded4201cc4b34b765">operator=</a>(const Pattern &amp;)=delete</td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#ab426618a7056692be2c5991cfafd264f">Pattern</a>(const Imath::V2i &amp;resolution)</td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"></td></tr>
+  <tr><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#a5f44a5e5b2b464c94f6405b0a0cf064f">Pattern</a>(const Pattern &amp;)=delete</td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#abf33a462194fd8d96ae5ec8563816a2a">sample</a>(const Imath::V2i &amp;pixelPos) const =0</td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"><span class="mlabel">pure virtual</span></td></tr>
   <tr><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#a13ca918e062f094f740e00cf102a13cd">sensorResolution</a>() const</td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html#a59b121b7fcbe900952b5a46ae848a03a">~Pattern</a>()=0</td><td class="entry"><a class="el" href="classlightfields_1_1Pattern.html">lightfields::Pattern</a></td><td class="entry"><span class="mlabel">pure virtual</span></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sun Dec 22 2019 13:53:16 for possumwood by
+    <li class="footer">Generated on Sat Jan 11 2020 00:47:00 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>
