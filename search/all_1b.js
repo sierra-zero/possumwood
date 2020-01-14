@@ -43,6 +43,7 @@ var searchData=
   ['_7einterval_5fui',['~interval_ui',['../classinterval__ui.html#ab7d660cba3218b1deccc02c91271279b',1,'interval_ui']]],
   ['_7eiobase',['~IOBase',['../classpossumwood_1_1IOBase.html#a3e1f55847240ef7e9b8c73df915ba850',1,'possumwood::IOBase']]],
   ['_7ejointmappingeditor',['~JointMappingEditor',['../classJointMappingEditor.html#aca2b1d6e8e2527982aecc544aeb35e63',1,'JointMappingEditor']]],
+  ['_7elensletgraph',['~LensletGraph',['../classlightfields_1_1LensletGraph.html#a1a542a183b252d09cc7698dca0af5e1f',1,'lightfields::LensletGraph']]],
   ['_7elightfieldsamples',['~LightfieldSamples',['../classpossumwood_1_1opencv_1_1LightfieldSamples.html#a75e341765b622f7d42fe1269195a9264',1,'possumwood::opencv::LightfieldSamples']]],
   ['_7elocalangle',['~LocalAngle',['../classanim_1_1metric_1_1LocalAngle.html#acd8715f47854df550c2f9d1d9ba3dc4c',1,'anim::metric::LocalAngle']]],
   ['_7emainwindow',['~MainWindow',['../classMainWindow.html#ae98d00a93bc118200eeef9f9bba1dba7',1,'MainWindow']]],

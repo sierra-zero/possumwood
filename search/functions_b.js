@@ -1,6 +1,7 @@
 var searchData=
 [
   ['labeldistance',['labelDistance',['../classTimeline.html#a365fe535feca08a731b1097cdb215339',1,'Timeline']]],
+  ['lensletgraph',['LensletGraph',['../classlightfields_1_1LensletGraph.html#a6083ed80ac4fcb17cc70b2837f9edfed',1,'lightfields::LensletGraph::LensletGraph(cv::Vec2i sensorSize, int exclusionBorder)'],['../classlightfields_1_1LensletGraph.html#a5e1927a2d6ede86f3b50a7ac10996a3a',1,'lightfields::LensletGraph::LensletGraph(const LensletGraph &amp;)=delete']]],
   ['level',['level',['../classpossumwood_1_1opencv_1_1BSplineHierarchy.html#ae4c43cea0f28d3107f859ff3123a1398',1,'possumwood::opencv::BSplineHierarchy']]],
   ['lexer',['lexer',['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#abde406b1a279ca16bd9b3c8a25ab49e9',1,'possumwood::io::basic_json::lexer']]],
   ['lexical_5fcast',['lexical_cast',['../namespaceanim.html#a49e4ef6318f18f90d765b4e127e65e76',1,'anim']]],

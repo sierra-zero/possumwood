@@ -17,7 +17,7 @@ var searchData=
   ['vec2_5fui',['vec2_ui',['../classvec2__ui.html',1,'']]],
   ['vec2u_5fui',['vec2u_ui',['../classvec2u__ui.html',1,'']]],
   ['vec3_5fui',['vec3_ui',['../classvec3__ui.html',1,'']]],
-  ['vertex',['Vertex',['../classanim_1_1SkinnedVertices_1_1Vertex.html',1,'anim::SkinnedVertices::Vertex'],['../classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Vertex.html',1,'possumwood::polymesh::GenericPolymesh::Vertex']]],
+  ['vertex',['Vertex',['../classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Vertex.html',1,'possumwood::polymesh::GenericPolymesh::Vertex'],['../classanim_1_1SkinnedVertices_1_1Vertex.html',1,'anim::SkinnedVertices::Vertex']]],
   ['vertex_5fwrapper',['Vertex_wrapper',['../structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html',1,'possumwood::CGALItems']]],
   ['vertexdata',['VertexData',['../classpossumwood_1_1VertexData.html',1,'possumwood']]],
   ['vertexextractor',['VertexExtractor',['../structpossumwood_1_1VertexExtractor.html',1,'possumwood']]],

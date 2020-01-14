@@ -1,5 +1,15 @@
 var NAVTREEINDEX13 =
 {
+"default__shaders_8h.html#a36c6869cc11a99be4f30bbcffe270492":[3,0,0,2,7,4,5],
+"default__shaders_8h.html#a632428040c2d16a483198709d17e3569":[3,0,0,2,7,4,3],
+"default__shaders_8h.html#a6da494ebafbf3593616ba8336222eb9e":[3,0,0,2,7,4,4],
+"default__shaders_8h.html#a7692d7a41f86ad92efe1de1c7290d07f":[3,0,0,2,7,4,2],
+"default__shaders_8h.html#a82623ad55b0ad222d977cb8f77169034":[3,0,0,2,7,4,0],
+"default__shaders_8h.html#a8d4ba66d139cce3139d2214544be641a":[3,0,0,2,7,4,1],
+"default__shaders_8h_source.html":[3,0,0,2,7,4],
+"demosaic_8cpp.html":[3,0,0,2,5,0,21],
+"denoising_8cpp.html":[3,0,0,2,5,0,22],
+"dense_8cpp.html":[3,0,0,2,5,0,8,0],
 "dependency__graph_2connections_8cpp.html":[3,0,0,1,1,5],
 "dependency__graph_2connections_8h.html":[3,0,0,1,1,6],
 "dependency__graph_2connections_8h_source.html":[3,0,0,1,1,6],
@@ -239,15 +249,5 @@ var NAVTREEINDEX13 =
 "functions_vars_b.html":[2,3,2,1],
 "functions_vars_c.html":[2,3,2,2],
 "functions_vars_d.html":[2,3,2,3],
-"functions_vars_e.html":[2,3,2,4],
-"functions_vars_f.html":[2,3,2,5],
-"functions_vars_g.html":[2,3,2,6],
-"functions_vars_h.html":[2,3,2,7],
-"functions_vars_i.html":[2,3,2,8],
-"functions_vars_l.html":[2,3,2,9],
-"functions_vars_m.html":[2,3,2,10],
-"functions_vars_n.html":[2,3,2,11],
-"functions_vars_o.html":[2,3,2,12],
-"functions_vars_p.html":[2,3,2,13],
-"functions_vars_r.html":[2,3,2,14]
+"functions_vars_e.html":[2,3,2,4]
 };

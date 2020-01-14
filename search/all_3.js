@@ -27,6 +27,7 @@ var searchData=
   ['category',['Category',['../classdependency__graph_1_1Attr.html#a30547b00473bb62f306d3dcb442a219a',1,'dependency_graph::Attr::Category()'],['../structdependency__graph_1_1Attr_1_1AttrData.html#a7bec1914ad3f247eadc29f5b5fc3a6c9',1,'dependency_graph::Attr::AttrData::category()'],['../classdependency__graph_1_1Attr.html#a825594cad9745b3cdc53458652fed523',1,'dependency_graph::Attr::category()'],['../classdependency__graph_1_1Port.html#a217215ce4cd4279a2d94e83d867a1cdb',1,'dependency_graph::Port::category()']]],
   ['cbegin',['cbegin',['../classpossumwood_1_1io_1_1basic__json.html#a1fd06867bcfd1ee4e9818b7dbbb33a5c',1,'possumwood::io::basic_json']]],
   ['cend',['cend',['../classpossumwood_1_1io_1_1basic__json.html#ae50f021bbf424ea54c32d1059199f31f',1,'possumwood::io::basic_json']]],
+  ['center',['center',['../lenslet__graph_8cpp.html#a83ab8a0829691cae538f833becbe6018',1,'lenslet_graph.cpp']]],
   ['cgal_2ecpp',['cgal.cpp',['../anim_2nodes_2mesh_2cgal_8cpp.html',1,'(Global Namespace)'],['../cgal_2cgal_8cpp.html',1,'(Global Namespace)'],['../render_2nodes_2vertex__data_2cgal_8cpp.html',1,'(Global Namespace)']]],
   ['cgal_2eh',['cgal.h',['../cgal_8h.html',1,'']]],
   ['cgalbuilder',['CGALBuilder',['../classpossumwood_1_1CGALBuilder.html',1,'possumwood::CGALBuilder&lt; HDS, POINTS, FACES &gt;'],['../classpossumwood_1_1CGALBuilder.html#ab71c46f1a5fb2027d506e193bf289ecf',1,'possumwood::CGALBuilder::CGALBuilder()']]],

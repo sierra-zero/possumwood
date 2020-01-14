@@ -40,6 +40,7 @@ var searchData=
   ['additem',['addItem',['../classpossumwood_1_1Config.html#a4aa91ed52d0df63edc8b62ff5b99261b',1,'possumwood::Config']]],
   ['additionnode',['additionNode',['../tests_2dependency__graph_2common_8cpp.html#ad2bd88ddf798389cba47c6f786dbb65a',1,'additionNode():&#160;common.cpp'],['../tests_2dependency__graph_2common_8h.html#a335d2beabf999719cd9e844d92959855',1,'additionNode():&#160;common.cpp'],['../tests_2possumwood_2common_8cpp.html#a335d2beabf999719cd9e844d92959855',1,'additionNode():&#160;common.cpp'],['../tests_2possumwood_2common_8h.html#a335d2beabf999719cd9e844d92959855',1,'additionNode():&#160;common.cpp']]],
   ['addlayer',['addLayer',['../classpossumwood_1_1opencv_1_1CalibrationPoints.html#a323119110fb184bf4028088c311f46db',1,'possumwood::opencv::CalibrationPoints']]],
+  ['addlenslet',['addLenslet',['../classlightfields_1_1LensletGraph.html#a5f02e2ad00b78013a8f1e9cebb265e09',1,'lightfields::LensletGraph']]],
   ['addmesh',['addMesh',['../classpossumwood_1_1Meshes.html#ab75f4f1de3334483600e65926e061670',1,'possumwood::Meshes']]],
   ['addmodule',['addModule',['../classpossumwood_1_1lua_1_1Context.html#ac1f39beeba62ab97a33f6bc161b6ef9e',1,'possumwood::lua::Context']]],
   ['addnode',['addNode',['../classdependency__graph_1_1Selection.html#a3c7cfcf88bf62ec4a208080a4eebb9df',1,'dependency_graph::Selection::addNode()'],['../classnode__editor_1_1GraphScene.html#a0543a27b0b5b440f66395af79b69b4b3',1,'node_editor::GraphScene::addNode()']]],

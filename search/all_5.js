@@ -47,6 +47,7 @@ var searchData=
   ['evaluateoption',['evaluateOption',['../apps_2possumwood__cli_2main_8cpp.html#a47103616c75c5f4fd575c1e6d46549b2',1,'main.cpp']]],
   ['evaluateoptions',['evaluateOptions',['../apps_2possumwood__cli_2main_8cpp.html#afa6e64641343744026c34df74ef9f43e',1,'main.cpp']]],
   ['exception',['exception',['../classpossumwood_1_1io_1_1detail_1_1exception.html',1,'possumwood::io::detail::exception'],['../classpossumwood_1_1io_1_1basic__json.html#a99fcfc28cf60a48294540b5a65cd1d25',1,'possumwood::io::basic_json::exception()'],['../classpossumwood_1_1io_1_1detail_1_1exception.html#a835d5db1bfcfe14f0c358b1c225264a2',1,'possumwood::io::detail::exception::exception()']]],
+  ['exclusionborder',['exclusionBorder',['../structlightfields_1_1LensletGraph_1_1Pimpl.html#a5bbf03d5edfb81aa31de36859b433b24',1,'lightfields::LensletGraph::Pimpl']]],
   ['execute',['execute',['../classpossumwood_1_1UndoStack.html#ab090be41384a7ee7c669f3e50b31b09e',1,'possumwood::UndoStack']]],
   ['exif',['Exif',['../classpossumwood_1_1opencv_1_1Exif.html',1,'possumwood::opencv::Exif'],['../classpossumwood_1_1opencv_1_1Exif.html#a3ae5d15ed33fafc9e0623bfc7690c7da',1,'possumwood::opencv::Exif::Exif()'],['../classpossumwood_1_1opencv_1_1Exif.html#ab6156eff76b512b26c40afe4bbf506df',1,'possumwood::opencv::Exif::Exif(float exposure, float f, float iso)']]],
   ['exif_2ecpp',['exif.cpp',['../exif_8cpp.html',1,'']]],

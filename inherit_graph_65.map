@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structlightfields_1_1Raw_1_1Pimpl.html" title="lightfields::Raw::Pimpl" alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node1" href="$classlightfields_1_1Pattern.html" title="lightfields::Pattern" alt="" coords="5,31,145,57"/>
+<area shape="rect" id="node2" href="$classlightfields_1_1LytroPattern.html" title="lightfields::LytroPattern" alt="" coords="193,5,365,32"/>
+<area shape="rect" id="node3" href="$classlightfields_1_1NewPattern.html" title="lightfields::NewPattern" alt="" coords="195,56,364,83"/>
 </map>

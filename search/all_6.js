@@ -48,6 +48,7 @@ var searchData=
   ['findpattern_2ecpp',['findPattern.cpp',['../findPattern_8cpp.html',1,'']]],
   ['findsource',['findSource',['../classanim_1_1JointMappingEditorData.html#abf7f5cff4548f40b7832c0982e3ab2d8',1,'anim::JointMappingEditorData']]],
   ['findtarget',['findTarget',['../classanim_1_1JointMappingEditorData.html#a15b31580ed65cf958475b8e5b5c0695d',1,'anim::JointMappingEditorData']]],
+  ['fit',['fit',['../classlightfields_1_1LensletGraph.html#afebf6088cab05279abac8eecd6e9bd1f',1,'lightfields::LensletGraph']]],
   ['flags',['flags',['../structdependency__graph_1_1Attr_1_1AttrData.html#a3f180fb25e615235ff4df9847408780f',1,'dependency_graph::Attr::AttrData::flags()'],['../classdependency__graph_1_1Attr.html#ab8f823bea58db3fdc8e98bf5786ad326',1,'dependency_graph::Attr::flags()'],['../classpossumwood_1_1Config_1_1Item.html#ad801d53034e4c593cebcd70d932f89e8',1,'possumwood::Config::Item::flags()'],['../classpossumwood_1_1properties_1_1property__base.html#a44cda32e2ab1ade78e631d33541e07e4',1,'possumwood::properties::property_base::flags()'],['../classpossumwood_1_1Config_1_1Item.html#aa3b9e1881ba59e34c42d2f9d01233595',1,'possumwood::Config::Item::Flags()']]],
   ['flagscallback',['flagsCallback',['../classdependency__graph_1_1Port.html#a2ecd4f18c44bfee2fd369c740060954c',1,'dependency_graph::Port']]],
   ['flagsconnection',['flagsConnection',['../structProperties_1_1PropertyHolder.html#a72856e28f0328afa3b2599867d521fd0',1,'Properties::PropertyHolder']]],
