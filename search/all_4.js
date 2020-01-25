@@ -79,6 +79,7 @@ var searchData=
   ['drawedges',['drawEdges',['../classlightfields_1_1LensletGraph.html#a9b82b0bb1418b74b01e152c2648d31a7',1,'lightfields::LensletGraph']]],
   ['drawelementtype',['drawElementType',['../classpossumwood_1_1VertexData.html#ad55e5659dd151906bb4c3207b0f7300e',1,'possumwood::VertexData']]],
   ['drawfeatures_2ecpp',['drawFeatures.cpp',['../drawFeatures_8cpp.html',1,'']]],
+  ['drawfit',['drawFit',['../classlightfields_1_1LensletGraph.html#a5839df2f90dda4b94de62edb5326f8e8',1,'lightfields::LensletGraph']]],
   ['drawpattern_2ecpp',['drawPattern.cpp',['../drawPattern_8cpp.html',1,'']]],
   ['drawstate',['drawState',['../classpossumwood_1_1Drawable.html#aca3ff2534fdeb6ce66530795eb6550a5',1,'possumwood::Drawable']]],
   ['dummy_2ecpp',['dummy.cpp',['../dummy_8cpp.html',1,'']]],

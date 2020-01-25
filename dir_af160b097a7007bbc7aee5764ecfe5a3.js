@@ -6,18 +6,8 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     [ "lenslet_graph.h", "lenslet__graph_8h.html", [
       [ "LensletGraph", "classlightfields_1_1LensletGraph.html", "classlightfields_1_1LensletGraph" ]
     ] ],
-    [ "pattern.cpp", "pattern_8cpp.html", null ],
-    [ "pattern.h", "pattern_8h.html", [
-      [ "Pattern", "classlightfields_1_1Pattern.html", "classlightfields_1_1Pattern" ]
-    ] ],
-    [ "pattern_lytro.cpp", "pattern__lytro_8cpp.html", null ],
-    [ "pattern_lytro.h", "pattern__lytro_8h.html", [
-      [ "LytroPattern", "classlightfields_1_1LytroPattern.html", "classlightfields_1_1LytroPattern" ]
-    ] ],
-    [ "pattern_new.cpp", "pattern__new_8cpp.html", null ],
-    [ "pattern_new.h", "pattern__new_8h.html", [
-      [ "NewPattern", "classlightfields_1_1NewPattern.html", "classlightfields_1_1NewPattern" ]
-    ] ],
+    [ "pattern.cpp", "pattern_8cpp.html", "pattern_8cpp" ],
+    [ "pattern.h", "pattern_8h.html", "pattern_8h" ],
     [ "raw.cpp", "raw_8cpp.html", "raw_8cpp" ],
     [ "raw.h", "raw_8h.html", "raw_8h" ]
 ];

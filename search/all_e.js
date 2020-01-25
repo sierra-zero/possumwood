@@ -17,7 +17,6 @@ var searchData=
   ['network_5fnodes_2ecpp',['network_nodes.cpp',['../network__nodes_8cpp.html',1,'']]],
   ['networkcompute',['NetworkCompute',['../classpossumwood_1_1NetworkCompute.html',1,'possumwood']]],
   ['newfile',['newFile',['../classpossumwood_1_1App.html#a98e850c0f25c6db0e38b17746508c77a',1,'possumwood::App']]],
-  ['newpattern',['NewPattern',['../classlightfields_1_1NewPattern.html',1,'lightfields::NewPattern'],['../classlightfields_1_1NewPattern.html#a319cc874ae9e5d9048da893c7cd82318',1,'lightfields::NewPattern::NewPattern()']]],
   ['next',['next',['../classanim_1_1Tokenizer.html#ad1fa3cf1e1c2e625693ca79504f7f59c',1,'anim::Tokenizer']]],
   ['next_5funget',['next_unget',['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#aa8e074c72785d721a5b9adae1f7edc03',1,'possumwood::io::basic_json::lexer']]],
   ['nlohmann_5fjson_5fhas_5fhelper',['NLOHMANN_JSON_HAS_HELPER',['../json_8h.html#ac0c80a819c5b9029a9344b3841f1cfd7',1,'NLOHMANN_JSON_HAS_HELPER():&#160;json.h'],['../namespacepossumwood_1_1io_1_1detail.html#a13e4850c495f453620dfcf8c2bad8d50',1,'possumwood::io::detail::NLOHMANN_JSON_HAS_HELPER(mapped_type)'],['../namespacepossumwood_1_1io_1_1detail.html#a81acc8626944a2ded34ab2ac58c6a6c4',1,'possumwood::io::detail::NLOHMANN_JSON_HAS_HELPER(key_type)'],['../namespacepossumwood_1_1io_1_1detail.html#a8ed144e9cc72825d6c14cd69dfdaee01',1,'possumwood::io::detail::NLOHMANN_JSON_HAS_HELPER(value_type)'],['../namespacepossumwood_1_1io_1_1detail.html#a5db02ef2cb920211fd4039f751a2f167',1,'possumwood::io::detail::NLOHMANN_JSON_HAS_HELPER(iterator)']]],

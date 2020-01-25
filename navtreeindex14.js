@@ -1,10 +1,5 @@
 var NAVTREEINDEX14 =
 {
-"functions_vars_f.html":[2,3,2,5],
-"functions_vars_g.html":[2,3,2,6],
-"functions_vars_h.html":[2,3,2,7],
-"functions_vars_i.html":[2,3,2,8],
-"functions_vars_l.html":[2,3,2,9],
 "functions_vars_m.html":[2,3,2,10],
 "functions_vars_n.html":[2,3,2,11],
 "functions_vars_o.html":[2,3,2,12],
@@ -196,9 +191,10 @@ var NAVTREEINDEX14 =
 "json_8h_source.html":[3,0,0,1,0,1,0],
 "laplacian__smoothness_8cpp.html":[3,0,0,2,5,0,31],
 "lenslet__graph_8cpp.html":[3,0,0,1,2,2],
-"lenslet__graph_8cpp.html#a5e01c7feb7c8edd21472dc7d5d24dd24":[3,0,0,1,2,2,3],
+"lenslet__graph_8cpp.html#a28305710202d1824ace361a5ef4827b7":[3,0,0,1,2,2,2],
+"lenslet__graph_8cpp.html#a5e01c7feb7c8edd21472dc7d5d24dd24":[3,0,0,1,2,2,4],
 "lenslet__graph_8cpp.html#a83ab8a0829691cae538f833becbe6018":[3,0,0,1,2,2,1],
-"lenslet__graph_8cpp.html#aeb2c8eff63d2b3442d88fe7d1141e95b":[3,0,0,1,2,2,2],
+"lenslet__graph_8cpp.html#aeb2c8eff63d2b3442d88fe7d1141e95b":[3,0,0,1,2,2,3],
 "lenslet__graph_8h.html":[3,0,0,1,2,3],
 "lenslet__graph_8h_source.html":[3,0,0,1,2,3],
 "lexical__cast_8h.html":[3,0,0,2,0,3],
@@ -249,5 +245,9 @@ var NAVTREEINDEX14 =
 "libs_2dependency__graph_2io_8cpp.html#a9fdc8adee6223e548fc67bff8cb70834":[3,0,0,1,1,17,0],
 "libs_2dependency__graph_2io_8cpp.html#aaf98c8243eaebaca5036d0e96876eb20":[3,0,0,1,1,17,1],
 "libs_2dependency__graph_2io_8h.html":[3,0,0,1,1,18],
-"libs_2dependency__graph_2io_8h.html#a9fdc8adee6223e548fc67bff8cb70834":[3,0,0,1,1,18,0]
+"libs_2dependency__graph_2io_8h.html#a9fdc8adee6223e548fc67bff8cb70834":[3,0,0,1,1,18,0],
+"libs_2dependency__graph_2io_8h.html#aaf98c8243eaebaca5036d0e96876eb20":[3,0,0,1,1,18,1],
+"libs_2dependency__graph_2io_8h_source.html":[3,0,0,1,1,18],
+"libs_2dependency__graph_2metadata_8cpp.html":[3,0,0,1,1,19],
+"libs_2dependency__graph_2metadata_8cpp.html#ae82707007ef7a6933c70336fa0975f5f":[3,0,0,1,1,19,0]
 };

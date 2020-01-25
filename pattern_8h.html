@@ -81,12 +81,15 @@ $(document).ready(function(){initNavTree('pattern_8h.html','');});
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a>  </div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">pattern.h File Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;OpenEXR/ImathVec.h&gt;</code><br />
+<div class="textblock"><code>#include &lt;iostream&gt;</code><br />
+<code>#include &lt;OpenEXR/ImathVec.h&gt;</code><br />
+<code>#include &lt;OpenEXR/ImathMatrix.h&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for pattern.h:</div>
 <div class="dyncontent">
@@ -99,27 +102,24 @@ This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
 <div class="center"><img src="pattern_8h__dep__incl.png" border="0" usemap="#src_2libs_2lightfields_2pattern_8hdep" alt=""/></div>
 <map name="src_2libs_2lightfields_2pattern_8hdep" id="src_2libs_2lightfields_2pattern_8hdep">
-<area shape="rect" id="node2" href="pattern_8cpp.html" title="src/libs/lightfields\l/pattern.cpp" alt="" coords="5,95,141,136"/>
-<area shape="rect" id="node3" href="pattern__lytro_8h.html" title="src/libs/lightfields\l/pattern_lytro.h" alt="" coords="325,95,461,136"/>
-<area shape="rect" id="node6" href="pattern__new_8h.html" title="src/libs/lightfields\l/pattern_new.h" alt="" coords="165,95,301,136"/>
-<area shape="rect" id="node8" href="lightfield__pattern_8h.html" title="src/plugins/opencv\l/lightfield_pattern.h" alt="" coords="932,95,1081,136"/>
-<area shape="rect" id="node4" href="pattern__lytro_8cpp.html" title="src/libs/lightfields\l/pattern_lytro.cpp" alt="" coords="241,191,378,233"/>
-<area shape="rect" id="node5" href="lytro__lightfield_8cpp.html" title="src/plugins/opencv\l/nodes/capture/lytro\l_lightfield.cpp" alt="" coords="403,184,555,240"/>
-<area shape="rect" id="node7" href="pattern__new_8cpp.html" title="src/libs/lightfields\l/pattern_new.cpp" alt="" coords="80,191,216,233"/>
-<area shape="rect" id="node9" href="lightfield__pattern_8cpp.html" title="src/plugins/opencv\l/lightfield_pattern.cpp" alt="" coords="1445,191,1609,233"/>
-<area shape="rect" id="node10" href="lightfield__samples_8h.html" title="src/plugins/opencv\l/lightfield_samples.h" alt="" coords="1633,191,1791,233"/>
-<area shape="rect" id="node15" href="samples__refocus_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/samples\l_refocus.cpp" alt="" coords="1975,288,2167,344"/>
-<area shape="rect" id="node16" href="lightfield__vignetting_8h.html" title="src/plugins/opencv\l/lightfield_vignetting.h" alt="" coords="579,191,747,233"/>
-<area shape="rect" id="node18" href="vignetting__create_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_create.cpp" alt="" coords="731,288,933,344"/>
-<area shape="rect" id="node20" href="draw__pattern_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/draw\l_pattern.cpp" alt="" coords="822,184,991,240"/>
-<area shape="rect" id="node21" href="epi_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/epi.cpp" alt="" coords="1016,191,1200,233"/>
-<area shape="rect" id="node22" href="integrate__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_mosaic.cpp" alt="" coords="1225,184,1421,240"/>
-<area shape="rect" id="node11" href="lightfield__samples_8cpp.html" title="src/plugins/opencv\l/lightfield_samples.cpp" alt="" coords="1118,295,1290,337"/>
-<area shape="rect" id="node12" href="integrate__bezier_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_bezier.cpp" alt="" coords="1314,288,1510,344"/>
-<area shape="rect" id="node13" href="integrate__gaussian_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_gaussian.cpp" alt="" coords="1534,288,1730,344"/>
-<area shape="rect" id="node14" href="integrate__nearest_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_nearest.cpp" alt="" coords="1754,288,1950,344"/>
-<area shape="rect" id="node17" href="lightfield__vignetting_8cpp.html" title="src/plugins/opencv\l/lightfield_vignetting.cpp" alt="" coords="523,295,706,337"/>
-<area shape="rect" id="node19" href="vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="296,288,499,344"/>
+<area shape="rect" id="node2" href="pattern_8cpp.html" title="src/libs/lightfields\l/pattern.cpp" alt="" coords="950,95,1086,136"/>
+<area shape="rect" id="node3" href="lightfield__pattern_8h.html" title="src/plugins/opencv\l/lightfield_pattern.h" alt="" coords="1110,95,1259,136"/>
+<area shape="rect" id="node15" href="lytro__lightfield_8cpp.html" title="src/plugins/opencv\l/nodes/capture/lytro\l_lightfield.cpp" alt="" coords="1478,184,1630,240"/>
+<area shape="rect" id="node16" href="detect__pattern_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/detect\l_pattern.cpp" alt="" coords="1654,184,1833,240"/>
+<area shape="rect" id="node4" href="lightfield__pattern_8cpp.html" title="src/plugins/opencv\l/lightfield_pattern.cpp" alt="" coords="620,191,784,233"/>
+<area shape="rect" id="node5" href="lightfield__samples_8h.html" title="src/plugins/opencv\l/lightfield_samples.h" alt="" coords="809,191,966,233"/>
+<area shape="rect" id="node10" href="samples__refocus_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/samples\l_refocus.cpp" alt="" coords="862,288,1054,344"/>
+<area shape="rect" id="node11" href="lightfield__vignetting_8h.html" title="src/plugins/opencv\l/lightfield_vignetting.h" alt="" coords="1041,191,1209,233"/>
+<area shape="rect" id="node13" href="vignetting__create_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_create.cpp" alt="" coords="1513,288,1715,344"/>
+<area shape="rect" id="node17" href="draw__pattern_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/draw\l_pattern.cpp" alt="" coords="1284,184,1453,240"/>
+<area shape="rect" id="node18" href="epi_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/epi.cpp" alt="" coords="191,191,375,233"/>
+<area shape="rect" id="node19" href="integrate__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_mosaic.cpp" alt="" coords="400,184,596,240"/>
+<area shape="rect" id="node6" href="lightfield__samples_8cpp.html" title="src/plugins/opencv\l/lightfield_samples.cpp" alt="" coords="5,295,177,337"/>
+<area shape="rect" id="node7" href="integrate__bezier_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_bezier.cpp" alt="" coords="201,288,397,344"/>
+<area shape="rect" id="node8" href="integrate__gaussian_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_gaussian.cpp" alt="" coords="421,288,617,344"/>
+<area shape="rect" id="node9" href="integrate__nearest_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_nearest.cpp" alt="" coords="641,288,837,344"/>
+<area shape="rect" id="node12" href="lightfield__vignetting_8cpp.html" title="src/plugins/opencv\l/lightfield_vignetting.cpp" alt="" coords="1079,295,1261,337"/>
+<area shape="rect" id="node14" href="vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="1286,288,1489,344"/>
 </map>
 </div>
 </div>
@@ -134,6 +134,11 @@ Classes</h2></td></tr>
 Namespaces</h2></td></tr>
 <tr class="memitem:namespacelightfields"><td class="memItemLeft" align="right" valign="top"> &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelightfields.html">lightfields</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a0b0045aaa81b08547243cf44ab81392f"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelightfields.html#a0b0045aaa81b08547243cf44ab81392f">lightfields::operator&lt;&lt;</a> (std::ostream &amp;out, const Pattern &amp;p)</td></tr>
+<tr class="separator:a0b0045aaa81b08547243cf44ab81392f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -141,7 +146,7 @@ Namespaces</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_af160b097a7007bbc7aee5764ecfe5a3.html">lightfields</a></li><li class="navelem"><a class="el" href="pattern_8h.html">pattern.h</a></li>
-    <li class="footer">Generated on Tue Jan 14 2020 00:39:41 for possumwood by
+    <li class="footer">Generated on Sat Jan 25 2020 00:21:53 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

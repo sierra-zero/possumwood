@@ -2,6 +2,7 @@ var searchData=
 [
   ['labeldistance',['labelDistance',['../classTimeline.html#a365fe535feca08a731b1097cdb215339',1,'Timeline']]],
   ['lensletgraph',['LensletGraph',['../classlightfields_1_1LensletGraph.html#a6083ed80ac4fcb17cc70b2837f9edfed',1,'lightfields::LensletGraph::LensletGraph(cv::Vec2i sensorSize, int exclusionBorder)'],['../classlightfields_1_1LensletGraph.html#a5e1927a2d6ede86f3b50a7ac10996a3a',1,'lightfields::LensletGraph::LensletGraph(const LensletGraph &amp;)=delete']]],
+  ['lenspitch',['lensPitch',['../classlightfields_1_1LensletGraph.html#a8fae737ab00465d7ba587fc4c5f21f2c',1,'lightfields::LensletGraph']]],
   ['level',['level',['../classpossumwood_1_1opencv_1_1BSplineHierarchy.html#ae4c43cea0f28d3107f859ff3123a1398',1,'possumwood::opencv::BSplineHierarchy']]],
   ['lexer',['lexer',['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#abde406b1a279ca16bd9b3c8a25ab49e9',1,'possumwood::io::basic_json::lexer']]],
   ['lexical_5fcast',['lexical_cast',['../namespaceanim.html#a49e4ef6318f18f90d765b4e127e65e76',1,'anim']]],
@@ -19,6 +20,5 @@ var searchData=
   ['loadobj',['loadObj',['../namespacepossumwood_1_1polymesh.html#a3591b8ca89d5b26262213d0a6a956409',1,'possumwood::polymesh']]],
   ['loadscene',['loadScene',['../apps_2possumwood__cli_2main_8cpp.html#aa09934fca2d602843d8935091652cac4',1,'main.cpp']]],
   ['localminima',['localMinima',['../classanim_1_1MotionMap.html#a916a5bf5fb3cfc870c81aab30144f0ef',1,'anim::MotionMap']]],
-  ['lookat',['lookAt',['../classpossumwood_1_1ViewportState.html#aa73fd5031da5bf8b66d77a4d3a21c9cb',1,'possumwood::ViewportState']]],
-  ['lytropattern',['LytroPattern',['../classlightfields_1_1LytroPattern.html#a915c8ffe44ba6dd00590f7cf868f4355',1,'lightfields::LytroPattern']]]
+  ['lookat',['lookAt',['../classpossumwood_1_1ViewportState.html#aa73fd5031da5bf8b66d77a4d3a21c9cb',1,'possumwood::ViewportState']]]
 ];

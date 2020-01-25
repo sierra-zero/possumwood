@@ -8,6 +8,7 @@ var searchData=
   ['lenslet_5fgraph_2eh',['lenslet_graph.h',['../lenslet__graph_8h.html',1,'']]],
   ['lensletgraph',['LensletGraph',['../classlightfields_1_1LensletGraph.html',1,'lightfields::LensletGraph'],['../classlightfields_1_1LensletGraph.html#a6083ed80ac4fcb17cc70b2837f9edfed',1,'lightfields::LensletGraph::LensletGraph(cv::Vec2i sensorSize, int exclusionBorder)'],['../classlightfields_1_1LensletGraph.html#a5e1927a2d6ede86f3b50a7ac10996a3a',1,'lightfields::LensletGraph::LensletGraph(const LensletGraph &amp;)=delete']]],
   ['lenslets',['lenslets',['../structlightfields_1_1LensletGraph_1_1Pimpl.html#abde69c31211f9742c759093123225653',1,'lightfields::LensletGraph::Pimpl']]],
+  ['lenspitch',['lensPitch',['../classlightfields_1_1LensletGraph.html#a8fae737ab00465d7ba587fc4c5f21f2c',1,'lightfields::LensletGraph']]],
   ['less_3c_3a_3apossumwood_3a_3aio_3a_3adetail_3a_3avalue_5ft_20_3e',['less&lt;::possumwood::io::detail::value_t &gt;',['../structstd_1_1less_3_1_1possumwood_1_1io_1_1detail_1_1value__t_01_4.html',1,'std']]],
   ['level',['level',['../classpossumwood_1_1opencv_1_1BSplineHierarchy.html#ae4c43cea0f28d3107f859ff3123a1398',1,'possumwood::opencv::BSplineHierarchy']]],
   ['lexer',['lexer',['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html',1,'possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::lexer'],['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#abde406b1a279ca16bd9b3c8a25ab49e9',1,'possumwood::io::basic_json::lexer::lexer()']]],
@@ -50,6 +51,5 @@ var searchData=
   ['localminima',['localMinima',['../classanim_1_1MotionMap.html#a916a5bf5fb3cfc870c81aab30144f0ef',1,'anim::MotionMap']]],
   ['log_2ecpp',['log.cpp',['../log_8cpp.html',1,'']]],
   ['lookat',['lookAt',['../classpossumwood_1_1ViewportState.html#aa73fd5031da5bf8b66d77a4d3a21c9cb',1,'possumwood::ViewportState']]],
-  ['lytro_5flightfield_2ecpp',['lytro_lightfield.cpp',['../lytro__lightfield_8cpp.html',1,'']]],
-  ['lytropattern',['LytroPattern',['../classlightfields_1_1LytroPattern.html',1,'lightfields::LytroPattern'],['../classlightfields_1_1LytroPattern.html#a915c8ffe44ba6dd00590f7cf868f4355',1,'lightfields::LytroPattern::LytroPattern()']]]
+  ['lytro_5flightfield_2ecpp',['lytro_lightfield.cpp',['../lytro__lightfield_8cpp.html',1,'']]]
 ];

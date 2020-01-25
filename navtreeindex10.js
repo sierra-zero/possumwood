@@ -1,10 +1,5 @@
 var NAVTREEINDEX10 =
 {
-"classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy.html#ab387ab871d4784e166005176409548a7":[2,0,5,2,2,7,1],
-"classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html":[2,0,5,2,2,7,0],
-"classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html#a0ea04d7a42856ad2a08b0b4d57709303":[2,0,5,2,2,7,0,6],
-"classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html#a443d436781229e437a2685e883676e15":[2,0,5,2,2,7,0,7],
-"classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html#a46911482eccda2c401ed972af4005c25":[2,0,5,2,2,7,0,2],
 "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html#a4f48071c002bfd8dde21f2c93c59386c":[2,0,5,2,2,7,0,1],
 "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html#a6079242a57a0ccf5dd4ad7a7b826cb62":[2,0,5,2,2,7,0,5],
 "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html#a9aeddabeb2f67ca31cb064ce75d9ea75":[2,0,5,2,2,7,0,0],
@@ -249,5 +244,10 @@ var NAVTREEINDEX10 =
 "classpossumwood_1_1maths_1_1Interval.html#a2dd955622abab370b95d80fd1bc35548ad09cbea89a0d9a31e6d420031fb0f2ce":[2,0,5,4,0,0,1],
 "classpossumwood_1_1maths_1_1Interval.html#a32c35aa2d29f67d3731a01c9485e601c":[2,0,5,4,0,1],
 "classpossumwood_1_1maths_1_1Interval.html#a42fd280262ee194341c86a0187673225":[2,0,5,4,0,4],
-"classpossumwood_1_1maths_1_1Interval.html#a641b47d705d91877c17515465882ee5d":[2,0,5,4,0,11]
+"classpossumwood_1_1maths_1_1Interval.html#a641b47d705d91877c17515465882ee5d":[2,0,5,4,0,11],
+"classpossumwood_1_1maths_1_1Interval.html#a6ae1decaeaddfad5ec384020744a3715":[2,0,5,4,0,17],
+"classpossumwood_1_1maths_1_1Interval.html#a7c1e2c690b41c5a6b6e1d4fef98cee53":[2,0,5,4,0,9],
+"classpossumwood_1_1maths_1_1Interval.html#aa47ea80852ca65c63b1e29f2cc036cb0":[2,0,5,4,0,5],
+"classpossumwood_1_1maths_1_1Interval.html#ab01fa0c7a40c0f043715f0274a711e28":[2,0,5,4,0,18],
+"classpossumwood_1_1maths_1_1Interval.html#ab1ce50fe500f9048138c405abd1cd831":[2,0,5,4,0,2]
 };
