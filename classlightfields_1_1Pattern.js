@@ -7,6 +7,7 @@ var classlightfields_1_1Pattern =
     [ "operator!=", "classlightfields_1_1Pattern.html#af6ec16252b6f47f4b5c252a6999d8528", null ],
     [ "operator==", "classlightfields_1_1Pattern.html#a8aba9137a265b5dd6666e57c44098aed", null ],
     [ "sample", "classlightfields_1_1Pattern.html#ae70f24c6526d84fedb7d97f313717a16", null ],
+    [ "scale", "classlightfields_1_1Pattern.html#ab845c67ca5b418b7a900e5646d280a26", null ],
     [ "sensorResolution", "classlightfields_1_1Pattern.html#a13ca918e062f094f740e00cf102a13cd", null ],
     [ "operator<<", "classlightfields_1_1Pattern.html#a0f27de479988e5faeea7f4951ad8132e", null ],
     [ "m_lensPitch", "classlightfields_1_1Pattern.html#a1f85e3e98bfb54808c0fc1026941d521", null ],

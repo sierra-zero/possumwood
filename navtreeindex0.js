@@ -71,6 +71,7 @@ var NAVTREEINDEX0 =
 "adaptor_8h_source.html":[3,0,0,0,1,1],
 "add__exif_8cpp.html":[3,0,0,2,5,0,10,0],
 "add__frame_8cpp.html":[3,0,0,2,5,0,10,1],
+"adjust__pattern_8cpp.html":[3,0,0,2,5,0,7,0],
 "align__mtb_8cpp.html":[3,0,0,2,5,0,6,0],
 "amc_8cpp.html":[3,0,0,2,0,1,2,0],
 "and_8cpp.html":[3,0,0,2,5,0,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "classAdaptor.html#aa75672d3742fdaf9ed5e226a564ab45b":[2,0,8,15],
 "classAdaptor.html#aa7e2fdff488e5312b62dfdf8179c313f":[2,0,8,16],
 "classAdaptor.html#aabd623ddf306d5e8fd1d68613ba770a6":[2,0,8,26],
-"classAdaptor.html#ab07ed79dd83f170ebdd3127fd4202d9e":[2,0,8,5],
-"classAdaptor.html#ab0ec0c548a2baed6d9b2e167a2504168":[2,0,8,24]
+"classAdaptor.html#ab07ed79dd83f170ebdd3127fd4202d9e":[2,0,8,5]
 };

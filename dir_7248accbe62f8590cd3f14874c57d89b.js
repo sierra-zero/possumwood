@@ -1,5 +1,6 @@
 var dir_7248accbe62f8590cd3f14874c57d89b =
 [
+    [ "adjust_pattern.cpp", "adjust__pattern_8cpp.html", null ],
     [ "detect_pattern.cpp", "detect__pattern_8cpp.html", null ],
     [ "draw_pattern.cpp", "draw__pattern_8cpp.html", null ],
     [ "epi.cpp", "epi_8cpp.html", null ],

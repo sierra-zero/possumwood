@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"classAdaptor.html#ab0ec0c548a2baed6d9b2e167a2504168":[2,0,8,24],
 "classAdaptor.html#abe4df5967289b4474e2363326f90bfad":[2,0,8,9],
 "classAdaptor.html#ac38f19e6d003aaab91ead642037e4d37":[2,0,8,32],
 "classAdaptor.html#ac80772f4040a3e51a7724e4135a96758":[2,0,8,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX1 =
 "classTreeWidget.html#ade45909d2965d98564724cbfab06090c":[2,0,41,4],
 "classTreeWidget.html#af35759e6270da6c6da456a98a46d98a1":[2,0,41,10],
 "classUniforms.html":[2,0,42],
-"classUniforms.html#a0910250e744a7bd19a1ecde32e5d35f9":[2,0,42,5],
-"classUniforms.html#a0d284d0be637a082d2c96baf88720209":[2,0,42,4]
+"classUniforms.html#a0910250e744a7bd19a1ecde32e5d35f9":[2,0,42,5]
 };

@@ -117,6 +117,8 @@ Friends</h2></td></tr>
 <tr class="memitem:aa511a43d61693c080c90e829de561834"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html#aa511a43d61693c080c90e829de561834">UndoStack</a></td></tr>
 <tr class="memdesc:aa511a43d61693c080c90e829de561834"><td class="mdescLeft">&#160;</td><td class="mdescRight">the actual implementation is handled in <a class="el" href="classpossumwood_1_1UndoStack.html">UndoStack</a> code.  <a href="#aa511a43d61693c080c90e829de561834">More...</a><br /></td></tr>
 <tr class="separator:aa511a43d61693c080c90e829de561834"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae687b8ec4e7126a45b2a23218553e97f"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html#ae687b8ec4e7126a45b2a23218553e97f">operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">UndoStack::Action</a> &amp;action)</td></tr>
+<tr class="separator:ae687b8ec4e7126a45b2a23218553e97f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a> implementation - stores a stack of "things to be done". These are not executed on construction, but only after pushing onto a stack. Each action is atomic - if an exception is thrown while executing an action, all commands of a failed action are rolled back. </p>
@@ -176,6 +178,42 @@ Friends</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="ae687b8ec4e7126a45b2a23218553e97f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae687b8ec4e7126a45b2a23218553e97f">&#9670;&nbsp;</a></span>operator<<</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::ostream&amp; operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">std::ostream &amp;&#160;</td>
+          <td class="paramname"><em>out</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">UndoStack::Action</a> &amp;&#160;</td>
+          <td class="paramname"><em>action</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="aa511a43d61693c080c90e829de561834"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aa511a43d61693c080c90e829de561834">&#9670;&nbsp;</a></span>UndoStack</h2>
 
@@ -255,7 +293,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1UndoStack.html">UndoStack</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1UndoStack_1_1Action.html">Action</a></li>
-    <li class="footer">Generated on Sat Jan 25 2020 11:55:45 for possumwood by
+    <li class="footer">Generated on Sun Jan 26 2020 13:23:54 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

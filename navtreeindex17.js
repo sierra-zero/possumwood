@@ -1,5 +1,9 @@
 var NAVTREEINDEX17 =
 {
+"structdependency__graph_1_1MetadataRegister_1_1Compare.html":[2,0,1,16,0],
+"structdependency__graph_1_1MetadataRegister_1_1Compare.html#a09e2cd79b6fc2c2061dfb1ecfd58f014":[2,0,1,16,0,3],
+"structdependency__graph_1_1MetadataRegister_1_1Compare.html#ab2809557ff7cc75e36be5604cf1aa950":[2,0,1,16,0,1],
+"structdependency__graph_1_1MetadataRegister_1_1Compare.html#ae39f8b5c70214116d9161c393fb7f43f":[2,0,1,16,0,2],
 "structdependency__graph_1_1MetadataRegister_1_1Compare.html#aeca187c11d1ee20affceb6f8e31291e0":[2,0,1,16,0,0],
 "structdependency__graph_1_1NodesIterator_1_1Item.html":[2,0,1,21,0],
 "structdependency__graph_1_1NodesIterator_1_1Item.html#a3cc618e4bd8c670a59d0ccf9a5768190":[2,0,1,21,0,1],
@@ -21,10 +25,10 @@ var NAVTREEINDEX17 =
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#a44ede2a579b164cb9303eb9797c61131":[2,0,1,0,0,1],
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#ab43af5c6d5a699d6beb02a9248a005d8":[2,0,1,0,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html":[2,0,1,1,0],
-"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,2],
-"structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,3],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,1],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,3],
 "structlightfields_1_1Block.html":[2,0,2,0],
 "structlightfields_1_1Block.html#a09d5fde22944f1a9f31f5205678fc053":[2,0,2,0,1],
 "structlightfields_1_1Block.html#ac2c780e4446215b5a305fddb36599270":[2,0,2,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX17 =
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html#a6540a1e6c16b85c5f426690ed769f24a":[2,0,5,105,0],
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01lua_1_1State_01_4_01_4.html":[2,0,5,100],
 "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01lua_1_1State_01_4_01_4.html#a49163f264d7a077d6a8355aad0719e0c":[2,0,5,100,0],
-"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html":[2,0,5,102],
-"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html#a7ce6c558a70703e5eea7f72953bc3966":[2,0,5,102,0],
-"structpossumwood_1_1Traits_3_01std_1_1string_01_4.html":[2,0,5,106],
-"structpossumwood_1_1Traits_3_01std_1_1string_01_4.html#a9fadc0dd0f637ca8e14e7801248041f2":[2,0,5,106,0],
-"structpossumwood_1_1Traits_3_01std_1_1string_01_4.html#aa167bf0e006b2117486d6e2f49520219":[2,0,5,106,1]
+"structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html":[2,0,5,102]
 };

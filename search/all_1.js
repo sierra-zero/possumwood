@@ -61,6 +61,7 @@ var searchData=
   ['addwarning',['addWarning',['../classdependency__graph_1_1State.html#a0739f76573e05821822231ee28924a45',1,'dependency_graph::State']]],
   ['addweight',['addWeight',['../classanim_1_1Skinning.html#a185bdef1de326e040dad5bae989da742',1,'anim::Skinning']]],
   ['adjust',['adjust',['../classnode__editor_1_1ConnectedEdge.html#a6b9f13a6e037cb9503a0c8f0c9cffac3',1,'node_editor::ConnectedEdge']]],
+  ['adjust_5fpattern_2ecpp',['adjust_pattern.cpp',['../adjust__pattern_8cpp.html',1,'']]],
   ['adjustedges',['adjustEdges',['../classnode__editor_1_1Port.html#ac0aefa030e15260fa99ec7cd72f4c3d5',1,'node_editor::Port']]],
   ['adl_5fserializer',['adl_serializer',['../structpossumwood_1_1io_1_1adl__serializer.html',1,'possumwood::io']]],
   ['advance',['advance',['../structpossumwood_1_1Font_1_1Glyph.html#aa30648f83424781f81c3bd9d38f863dd',1,'possumwood::Font::Glyph::advance()'],['../classpossumwood_1_1polymesh_1_1GenericContainer_1_1iterator.html#a42ade81116d6a4c5d1ff23911905c822',1,'possumwood::polymesh::GenericContainer::iterator::advance()'],['../classpossumwood_1_1polymesh_1_1GenericContainer_1_1const__iterator.html#a25a5342d2cdb61237ba349c4887cf616',1,'possumwood::polymesh::GenericContainer::const_iterator::advance()']]],

@@ -23,10 +23,6 @@ var dir_39f6e4dc4b8664433288beae21406efc =
       [ "Traits< std::string >", "structpossumwood_1_1Traits_3_01std_1_1string_01_4.html", "structpossumwood_1_1Traits_3_01std_1_1string_01_4" ],
       [ "Traits< void >", "structpossumwood_1_1Traits_3_01void_01_4.html", "structpossumwood_1_1Traits_3_01void_01_4" ]
     ] ],
-    [ "undo_stack.cpp", "libs_2actions_2undo__stack_8cpp.html", null ],
-    [ "undo_stack.h", "undo__stack_8h.html", [
-      [ "UndoStack", "classpossumwood_1_1UndoStack.html", "classpossumwood_1_1UndoStack" ],
-      [ "Action", "classpossumwood_1_1UndoStack_1_1Action.html", "classpossumwood_1_1UndoStack_1_1Action" ],
-      [ "Data", "structpossumwood_1_1UndoStack_1_1Action_1_1Data.html", "structpossumwood_1_1UndoStack_1_1Action_1_1Data" ]
-    ] ]
+    [ "undo_stack.cpp", "libs_2actions_2undo__stack_8cpp.html", "libs_2actions_2undo__stack_8cpp" ],
+    [ "undo_stack.h", "undo__stack_8h.html", "undo__stack_8h" ]
 ];

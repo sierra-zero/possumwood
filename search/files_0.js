@@ -10,6 +10,7 @@ var searchData=
   ['add_2ecpp',['add.cpp',['../maths_2nodes_2add_8cpp.html',1,'(Global Namespace)'],['../opencv_2nodes_2add_8cpp.html',1,'(Global Namespace)']]],
   ['add_5fexif_2ecpp',['add_exif.cpp',['../add__exif_8cpp.html',1,'']]],
   ['add_5fframe_2ecpp',['add_frame.cpp',['../add__frame_8cpp.html',1,'']]],
+  ['adjust_5fpattern_2ecpp',['adjust_pattern.cpp',['../adjust__pattern_8cpp.html',1,'']]],
   ['align_5fmtb_2ecpp',['align_mtb.cpp',['../align__mtb_8cpp.html',1,'']]],
   ['amc_2ecpp',['amc.cpp',['../amc_8cpp.html',1,'']]],
   ['and_2ecpp',['and.cpp',['../and_8cpp.html',1,'']]],

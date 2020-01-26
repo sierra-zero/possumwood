@@ -1,5 +1,8 @@
 var NAVTREEINDEX14 =
 {
+"functions_vars_h.html":[2,3,2,7],
+"functions_vars_i.html":[2,3,2,8],
+"functions_vars_l.html":[2,3,2,9],
 "functions_vars_m.html":[2,3,2,10],
 "functions_vars_n.html":[2,3,2,11],
 "functions_vars_o.html":[2,3,2,12],
@@ -110,10 +113,10 @@ var NAVTREEINDEX14 =
 "int__ui_8cpp.html":[3,0,0,2,4,2,4],
 "int__ui_8h.html":[3,0,0,2,4,2,5],
 "int__ui_8h_source.html":[3,0,0,2,4,2,5],
-"integrate__bezier_8cpp.html":[3,0,0,2,5,0,7,3],
-"integrate__gaussian_8cpp.html":[3,0,0,2,5,0,7,4],
-"integrate__mosaic_8cpp.html":[3,0,0,2,5,0,7,5],
-"integrate__nearest_8cpp.html":[3,0,0,2,5,0,7,6],
+"integrate__bezier_8cpp.html":[3,0,0,2,5,0,7,4],
+"integrate__gaussian_8cpp.html":[3,0,0,2,5,0,7,5],
+"integrate__mosaic_8cpp.html":[3,0,0,2,5,0,7,6],
+"integrate__nearest_8cpp.html":[3,0,0,2,5,0,7,7],
 "interval_8cpp.html":[3,0,0,2,4,3],
 "interval_8h.html":[3,0,0,2,4,4],
 "interval_8h.html#a1d9c687534f08aeb9df80d3c0b2ffcdf":[3,0,0,2,4,4,2],
@@ -239,15 +242,12 @@ var NAVTREEINDEX14 =
 "libs_2actions_2traits_8h.html":[3,0,0,1,0,13],
 "libs_2actions_2traits_8h_source.html":[3,0,0,1,0,13],
 "libs_2actions_2undo__stack_8cpp.html":[3,0,0,1,0,14],
+"libs_2actions_2undo__stack_8cpp.html#a393aeb3b6d561a645991853785e4e14a":[3,0,0,1,0,14,0],
 "libs_2dependency__graph_2attr__map_8cpp.html":[3,0,0,1,1,3],
 "libs_2dependency__graph_2datablock_8cpp.html":[3,0,0,1,1,11],
 "libs_2dependency__graph_2io_8cpp.html":[3,0,0,1,1,17],
 "libs_2dependency__graph_2io_8cpp.html#a9fdc8adee6223e548fc67bff8cb70834":[3,0,0,1,1,17,0],
 "libs_2dependency__graph_2io_8cpp.html#aaf98c8243eaebaca5036d0e96876eb20":[3,0,0,1,1,17,1],
 "libs_2dependency__graph_2io_8h.html":[3,0,0,1,1,18],
-"libs_2dependency__graph_2io_8h.html#a9fdc8adee6223e548fc67bff8cb70834":[3,0,0,1,1,18,0],
-"libs_2dependency__graph_2io_8h.html#aaf98c8243eaebaca5036d0e96876eb20":[3,0,0,1,1,18,1],
-"libs_2dependency__graph_2io_8h_source.html":[3,0,0,1,1,18],
-"libs_2dependency__graph_2metadata_8cpp.html":[3,0,0,1,1,19],
-"libs_2dependency__graph_2metadata_8cpp.html#ae82707007ef7a6933c70336fa0975f5f":[3,0,0,1,1,19,0]
+"libs_2dependency__graph_2io_8h.html#a9fdc8adee6223e548fc67bff8cb70834":[3,0,0,1,1,18,0]
 };

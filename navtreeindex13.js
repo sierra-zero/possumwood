@@ -1,5 +1,8 @@
 var NAVTREEINDEX13 =
 {
+"default__shaders_8h.html#a6da494ebafbf3593616ba8336222eb9e":[3,0,0,2,7,4,4],
+"default__shaders_8h.html#a7692d7a41f86ad92efe1de1c7290d07f":[3,0,0,2,7,4,2],
+"default__shaders_8h.html#a82623ad55b0ad222d977cb8f77169034":[3,0,0,2,7,4,0],
 "default__shaders_8h.html#a8d4ba66d139cce3139d2214544be641a":[3,0,0,2,7,4,1],
 "default__shaders_8h_source.html":[3,0,0,2,7,4],
 "demosaic_8cpp.html":[3,0,0,2,5,0,21],
@@ -30,7 +33,7 @@ var NAVTREEINDEX13 =
 "description_8h_source.html":[3,0,0,1,3,13],
 "detail_8h.html":[3,0,0,1,1,14],
 "detail_8h_source.html":[3,0,0,1,1,14],
-"detect__pattern_8cpp.html":[3,0,0,2,5,0,7,0],
+"detect__pattern_8cpp.html":[3,0,0,2,5,0,7,1],
 "detect__stationary_8cpp.html":[3,0,0,2,0,1,0,0,0],
 "dft_8cpp.html":[3,0,0,2,5,0,4,0],
 "dilate__erode_8cpp.html":[3,0,0,2,5,0,23],
@@ -111,7 +114,7 @@ var NAVTREEINDEX13 =
 "drawFeatures_8cpp.html":[3,0,0,2,5,0,3,1],
 "drawPattern_8cpp.html":[3,0,0,2,5,0,1,3],
 "draw_8cpp.html":[3,0,0,2,7,1,2],
-"draw__pattern_8cpp.html":[3,0,0,2,5,0,7,1],
+"draw__pattern_8cpp.html":[3,0,0,2,5,0,7,2],
 "drawable_8cpp.html":[3,0,0,1,3,14],
 "drawable_8h.html":[3,0,0,1,3,15],
 "drawable_8h_source.html":[3,0,0,1,3,15],
@@ -134,7 +137,7 @@ var NAVTREEINDEX13 =
 "enum__ui_8cpp.html":[3,0,0,1,3,3,0],
 "enum__ui_8h.html":[3,0,0,1,3,3,1],
 "enum__ui_8h_source.html":[3,0,0,1,3,3,1],
-"epi_8cpp.html":[3,0,0,2,5,0,7,2],
+"epi_8cpp.html":[3,0,0,2,5,0,7,3],
 "equalize_8cpp.html":[3,0,0,2,5,0,25],
 "error__dialog_8cpp.html":[3,0,0,0,1,4],
 "error__dialog_8h.html":[3,0,0,0,1,5],
@@ -186,8 +189,8 @@ var NAVTREEINDEX13 =
 "frames_8cpp.html":[3,0,0,2,0,0,0,6],
 "frames_8h.html":[3,0,0,2,0,0,0,7],
 "frames_8h_source.html":[3,0,0,2,0,0,0,7],
-"functions.html":[2,3,0,0],
 "functions.html":[2,3,0],
+"functions.html":[2,3,0,0],
 "functions_0x7e.html":[2,3,0,26],
 "functions_a.html":[2,3,0,1],
 "functions_b.html":[2,3,0,2],
@@ -246,8 +249,5 @@ var NAVTREEINDEX13 =
 "functions_vars_d.html":[2,3,2,3],
 "functions_vars_e.html":[2,3,2,4],
 "functions_vars_f.html":[2,3,2,5],
-"functions_vars_g.html":[2,3,2,6],
-"functions_vars_h.html":[2,3,2,7],
-"functions_vars_i.html":[2,3,2,8],
-"functions_vars_l.html":[2,3,2,9]
+"functions_vars_g.html":[2,3,2,6]
 };
