@@ -1,4 +1,4 @@
 <map id="dependency_graph::BaseData" name="dependency_graph::BaseData">
-<area shape="rect" id="node2" href="$structdependency__graph_1_1Data.html" title="dependency_graph::Data\&lt; T \&gt;" alt="" coords="5,87,228,114"/>
-<area shape="rect" id="node3" href="$structdependency__graph_1_1Data_3_01void_01_4.html" title="dependency_graph::Data\l\&lt; void \&gt;" alt="" coords="253,80,437,121"/>
+<area shape="rect" id="node2" href="$classdependency__graph_1_1TypedData.html" title="dependency_graph::TypedData\&lt; T \&gt;" alt="" coords="5,87,265,114"/>
+<area shape="rect" id="node3" href="$structdependency__graph_1_1TypedData_3_01void_01_4.html" title="dependency_graph::TypedData\l\&lt; void \&gt;" alt="" coords="289,80,512,121"/>
 </map>

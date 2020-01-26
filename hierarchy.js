@@ -29,8 +29,8 @@ var hierarchy =
       [ "possumwood::io::detail::conjunction< B1 >", "structpossumwood_1_1io_1_1detail_1_1conjunction_3_01B1_01_4.html", null ]
     ] ],
     [ "dependency_graph::BaseData", "classdependency__graph_1_1BaseData.html", [
-      [ "dependency_graph::Data< T >", "structdependency__graph_1_1Data.html", null ],
-      [ "dependency_graph::Data< void >", "structdependency__graph_1_1Data_3_01void_01_4.html", null ]
+      [ "dependency_graph::TypedData< T >", "classdependency__graph_1_1TypedData.html", null ],
+      [ "dependency_graph::TypedData< void >", "structdependency__graph_1_1TypedData_3_01void_01_4.html", null ]
     ] ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >", "classpossumwood_1_1io_1_1basic__json.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_reader", "classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html", null ],
@@ -387,8 +387,8 @@ var hierarchy =
     ] ],
     [ "possumwood::lua::NullModule", "structpossumwood_1_1lua_1_1NullModule.html", null ],
     [ "possumwood::images::OpencvMatWrapper", "classpossumwood_1_1images_1_1OpencvMatWrapper.html", null ],
-    [ "anim::SubsetSelection::Options", "classanim_1_1SubsetSelection_1_1Options.html", null ],
     [ "Options", "classOptions.html", null ],
+    [ "anim::SubsetSelection::Options", "classanim_1_1SubsetSelection_1_1Options.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_adapter< CharType >", "classpossumwood_1_1io_1_1basic__json_1_1output__adapter.html", [
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_stream_adapter< CharType >", "classpossumwood_1_1io_1_1basic__json_1_1output__stream__adapter.html", null ],
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_string_adapter< CharType >", "classpossumwood_1_1io_1_1basic__json_1_1output__string__adapter.html", null ],
