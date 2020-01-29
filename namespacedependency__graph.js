@@ -4,8 +4,8 @@ var namespacedependency__graph =
     [ "io", "namespacedependency__graph_1_1io.html", "namespacedependency__graph_1_1io" ],
     [ "Attr", "classdependency__graph_1_1Attr.html", "classdependency__graph_1_1Attr" ],
     [ "AttrMap", "classdependency__graph_1_1AttrMap.html", "classdependency__graph_1_1AttrMap" ],
-    [ "BaseData", "classdependency__graph_1_1BaseData.html", "classdependency__graph_1_1BaseData" ],
     [ "Connections", "classdependency__graph_1_1Connections.html", "classdependency__graph_1_1Connections" ],
+    [ "Data", "classdependency__graph_1_1Data.html", "classdependency__graph_1_1Data" ],
     [ "Datablock", "classdependency__graph_1_1Datablock.html", "classdependency__graph_1_1Datablock" ],
     [ "DataTraits", "structdependency__graph_1_1DataTraits.html", "structdependency__graph_1_1DataTraits" ],
     [ "Graph", "classdependency__graph_1_1Graph.html", "classdependency__graph_1_1Graph" ],
@@ -27,8 +27,6 @@ var namespacedependency__graph =
     [ "State", "classdependency__graph_1_1State.html", "classdependency__graph_1_1State" ],
     [ "TypedAttr", "classdependency__graph_1_1TypedAttr.html", "classdependency__graph_1_1TypedAttr" ],
     [ "TypedAttr< void >", "classdependency__graph_1_1TypedAttr_3_01void_01_4.html", "classdependency__graph_1_1TypedAttr_3_01void_01_4" ],
-    [ "TypedData", "classdependency__graph_1_1TypedData.html", "classdependency__graph_1_1TypedData" ],
-    [ "TypedData< void >", "structdependency__graph_1_1TypedData_3_01void_01_4.html", "structdependency__graph_1_1TypedData_3_01void_01_4" ],
     [ "UniqueId", "classdependency__graph_1_1UniqueId.html", "classdependency__graph_1_1UniqueId" ],
     [ "Values", "classdependency__graph_1_1Values.html", "classdependency__graph_1_1Values" ]
 ];

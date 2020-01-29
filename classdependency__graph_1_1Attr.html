@@ -143,14 +143,14 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a076cac355324c95a2165820b2116b677"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4b35b4fa30e4c31b5a7e5111c753f996"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Attr.html#a4b35b4fa30e4c31b5a7e5111c753f996">operator!=</a> (const <a class="el" href="classdependency__graph_1_1Attr.html">Attr</a> &amp;a) const</td></tr>
 <tr class="separator:a4b35b4fa30e4c31b5a7e5111c753f996"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a13220825b623c53aa5a54a5ac5cffca1"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Attr.html#a13220825b623c53aa5a54a5ac5cffca1">createData</a> () const</td></tr>
-<tr class="memdesc:a13220825b623c53aa5a54a5ac5cffca1"><td class="mdescLeft">&#160;</td><td class="mdescRight">todo: make private - no need for it in public interface  <a href="#a13220825b623c53aa5a54a5ac5cffca1">More...</a><br /></td></tr>
-<tr class="separator:a13220825b623c53aa5a54a5ac5cffca1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abc79adc5784aa9e61a10fa84f523b2a2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classdependency__graph_1_1Data.html">Data</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Attr.html#abc79adc5784aa9e61a10fa84f523b2a2">createData</a> () const</td></tr>
+<tr class="memdesc:abc79adc5784aa9e61a10fa84f523b2a2"><td class="mdescLeft">&#160;</td><td class="mdescRight">todo: make private - no need for it in public interface  <a href="#abc79adc5784aa9e61a10fa84f523b2a2">More...</a><br /></td></tr>
+<tr class="separator:abc79adc5784aa9e61a10fa84f523b2a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:ae7e788c62861f8301f92b7d607879391"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Attr.html#ae7e788c62861f8301f92b7d607879391">Attr</a> (const std::string &amp;<a class="el" href="classdependency__graph_1_1Attr.html#ad92ff9a20f26b31cc1f27c2b07e9b8b1">name</a>, <a class="el" href="classdependency__graph_1_1Attr.html#a30547b00473bb62f306d3dcb442a219a">Category</a> cat, const <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &amp;data, unsigned <a class="el" href="classdependency__graph_1_1Attr.html#ab8f823bea58db3fdc8e98bf5786ad326">flags</a>)</td></tr>
-<tr class="separator:ae7e788c62861f8301f92b7d607879391"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acedd2c83f25e34efe0c7ee67ecccc0d6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Attr.html#acedd2c83f25e34efe0c7ee67ecccc0d6">Attr</a> (const std::string &amp;<a class="el" href="classdependency__graph_1_1Attr.html#ad92ff9a20f26b31cc1f27c2b07e9b8b1">name</a>, <a class="el" href="classdependency__graph_1_1Attr.html#a30547b00473bb62f306d3dcb442a219a">Category</a> cat, const <a class="el" href="classdependency__graph_1_1Data.html">Data</a> &amp;data, unsigned <a class="el" href="classdependency__graph_1_1Attr.html#ab8f823bea58db3fdc8e98bf5786ad326">flags</a>)</td></tr>
+<tr class="separator:acedd2c83f25e34efe0c7ee67ecccc0d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1acf3bffdbb693f8c9134a1bebc198f5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Attr.html#a1acf3bffdbb693f8c9134a1bebc198f5">setOffset</a> (unsigned o)</td></tr>
 <tr class="separator:a1acf3bffdbb693f8c9134a1bebc198f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -169,7 +169,7 @@ Friends</h2></td></tr>
 <tr class="separator:aba8d19a917c0bff3a0ab2c135b11b0a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Common attribute base class, with type erasure for its concrete Data instantiation. The instance itself is copyable, even only as a base class - derived classes <a class="el" href="classdependency__graph_1_1TypedAttr.html">TypedAttr</a>, <a class="el" href="classdependency__graph_1_1InAttr.html" title="Input attribute type (constructed by Metadata class) ">InAttr</a> and <a class="el" href="classdependency__graph_1_1OutAttr.html" title="Output attribute type (constructed by Metadata class) ">OutAttr</a> don't hold any data, and are intended mainly as an API layer. </p>
+<div class="textblock"><p>Common attribute base class, with type erasure for its concrete <a class="el" href="classdependency__graph_1_1Data.html">Data</a> instantiation. The instance itself is copyable, even only as a base class - derived classes <a class="el" href="classdependency__graph_1_1TypedAttr.html">TypedAttr</a>, <a class="el" href="classdependency__graph_1_1InAttr.html" title="Input attribute type (constructed by Metadata class) ">InAttr</a> and <a class="el" href="classdependency__graph_1_1OutAttr.html" title="Output attribute type (constructed by Metadata class) ">OutAttr</a> don't hold any data, and are intended mainly as an API layer. </p>
 </div><h2 class="groupheader">Member Enumeration Documentation</h2>
 <a id="a30547b00473bb62f306d3dcb442a219a"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a30547b00473bb62f306d3dcb442a219a">&#9670;&nbsp;</a></span>Category</h2>
@@ -215,8 +215,8 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a id="ae7e788c62861f8301f92b7d607879391"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae7e788c62861f8301f92b7d607879391">&#9670;&nbsp;</a></span>Attr()</h2>
+<a id="acedd2c83f25e34efe0c7ee67ecccc0d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acedd2c83f25e34efe0c7ee67ecccc0d6">&#9670;&nbsp;</a></span>Attr()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -239,7 +239,7 @@ Friends</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &amp;&#160;</td>
+          <td class="paramtype">const <a class="el" href="classdependency__graph_1_1Data.html">Data</a> &amp;&#160;</td>
           <td class="paramname"><em>data</em>, </td>
         </tr>
         <tr>
@@ -281,14 +281,14 @@ Friends</h2></td></tr>
 
 </div>
 </div>
-<a id="a13220825b623c53aa5a54a5ac5cffca1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a13220825b623c53aa5a54a5ac5cffca1">&#9670;&nbsp;</a></span>createData()</h2>
+<a id="abc79adc5784aa9e61a10fa84f523b2a2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abc79adc5784aa9e61a10fa84f523b2a2">&#9670;&nbsp;</a></span>createData()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::unique_ptr&lt; <a class="el" href="classdependency__graph_1_1BaseData.html">BaseData</a> &gt; dependency_graph::Attr::createData </td>
+          <td class="memname"><a class="el" href="classdependency__graph_1_1Data.html">Data</a> dependency_graph::Attr::createData </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -547,7 +547,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Attr.html">Attr</a></li>
-    <li class="footer">Generated on Sun Jan 26 2020 21:00:21 for possumwood by
+    <li class="footer">Generated on Wed Jan 29 2020 23:26:26 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

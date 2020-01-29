@@ -1,7 +1,6 @@
 var searchData=
 [
   ['base',['Base',['../classanim_1_1filter_1_1Base.html',1,'anim::filter::Base'],['../classanim_1_1metric_1_1Base.html',1,'anim::metric::Base']]],
-  ['basedata',['BaseData',['../classdependency__graph_1_1BaseData.html',1,'dependency_graph']]],
   ['basic_5fjson',['basic_json',['../classpossumwood_1_1io_1_1basic__json.html',1,'possumwood::io']]],
   ['binary_5freader',['binary_reader',['../classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html',1,'possumwood::io::basic_json']]],
   ['binary_5fwriter',['binary_writer',['../classpossumwood_1_1io_1_1basic__json_1_1binary__writer.html',1,'possumwood::io::basic_json']]],

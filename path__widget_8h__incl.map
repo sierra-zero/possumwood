@@ -1,11 +1,12 @@
 <map id="src/apps/possumwood/path_widget.h" name="src/apps/possumwood/path_widget.h">
-<area shape="rect" id="node3" href="$dependency__graph_2node_8h.html" title="dependency_graph/node.h" alt="" coords="1507,95,1701,121"/>
-<area shape="rect" id="node8" href="$node__base_8h.html" title="node_base.h" alt="" coords="413,169,517,196"/>
-<area shape="rect" id="node18" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="634,319,731,345"/>
-<area shape="rect" id="node24" href="$attr_8h.html" title="attr.h" alt="" coords="1751,401,1807,427"/>
-<area shape="rect" id="node27" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1682,319,1742,345"/>
-<area shape="rect" id="node11" href="$data_8h.html" title="data.h" alt="" coords="1394,483,1457,509"/>
-<area shape="rect" id="node14" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="245,401,312,427"/>
-<area shape="rect" id="node16" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="337,401,434,427"/>
-<area shape="rect" id="node26" href="$datablock_8h.html" title="datablock.h" alt="" coords="271,244,369,271"/>
+<area shape="rect" id="node3" href="$dependency__graph_2node_8h.html" title="dependency_graph/node.h" alt="" coords="1509,95,1702,121"/>
+<area shape="rect" id="node8" href="$node__base_8h.html" title="node_base.h" alt="" coords="439,169,543,196"/>
+<area shape="rect" id="node21" href="$dependency__graph_2metadata_8h.html" title="metadata.h" alt="" coords="921,319,1018,345"/>
+<area shape="rect" id="node27" href="$attr_8h.html" title="attr.h" alt="" coords="1752,401,1808,427"/>
+<area shape="rect" id="node30" href="$dependency__graph_2port_8h.html" title="port.h" alt="" coords="1683,319,1743,345"/>
+<area shape="rect" id="node11" href="$data_8h.html" title="data.h" alt="" coords="1442,483,1505,509"/>
+<area shape="rect" id="node17" href="$libs_2dependency__graph_2state_8h.html" title="state.h" alt="" coords="296,401,363,427"/>
+<area shape="rect" id="node19" href="$unique__id_8h.html" title="unique_id.h" alt="" coords="387,401,485,427"/>
+<area shape="rect" id="node29" href="$datablock_8h.html" title="datablock.h" alt="" coords="296,244,395,271"/>
+<area shape="rect" id="node16" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1511,557,1615,584"/>
 </map>

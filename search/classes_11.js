@@ -4,7 +4,7 @@ var searchData=
   ['saveableregistration',['SaveableRegistration',['../structdependency__graph_1_1io_1_1SaveableRegistration.html',1,'dependency_graph::io']]],
   ['scopedenable',['ScopedEnable',['../classpossumwood_1_1ScopedEnable.html',1,'possumwood']]],
   ['searchablemenu',['SearchableMenu',['../classSearchableMenu.html',1,'']]],
-  ['selection',['Selection',['../structnode__editor_1_1GraphScene_1_1Selection.html',1,'node_editor::GraphScene::Selection'],['../classdependency__graph_1_1Selection.html',1,'dependency_graph::Selection']]],
+  ['selection',['Selection',['../classdependency__graph_1_1Selection.html',1,'dependency_graph::Selection'],['../structnode__editor_1_1GraphScene_1_1Selection.html',1,'node_editor::GraphScene::Selection']]],
   ['sequence',['Sequence',['../classpossumwood_1_1opencv_1_1Sequence.html',1,'possumwood::opencv']]],
   ['serializer',['serializer',['../classpossumwood_1_1io_1_1basic__json_1_1serializer.html',1,'possumwood::io::basic_json']]],
   ['shader',['Shader',['../classpossumwood_1_1Shader.html',1,'possumwood']]],

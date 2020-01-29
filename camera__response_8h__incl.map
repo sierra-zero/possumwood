@@ -1,10 +1,10 @@
 <map id="src/plugins/opencv/camera_response.h" name="src/plugins/opencv/camera_response.h">
-<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1923,95,2041,121"/>
-<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="156,319,336,345"/>
-<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1617,169,1715,196"/>
-<area shape="rect" id="node14" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="439,244,637,271"/>
-<area shape="rect" id="node20" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="1933,244,2106,271"/>
-<area shape="rect" id="node21" href="$json_8h.html" title="io/json.h" alt="" coords="1478,319,1555,345"/>
-<area shape="rect" id="node17" href="$data_8h.html" title="data.h" alt="" coords="2303,319,2365,345"/>
-<area shape="rect" id="node19" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="513,319,617,345"/>
+<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1243,95,1362,121"/>
+<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2221,319,2401,345"/>
+<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1050,169,1147,196"/>
+<area shape="rect" id="node14" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="797,244,995,271"/>
+<area shape="rect" id="node20" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="599,244,772,271"/>
+<area shape="rect" id="node21" href="$json_8h.html" title="io/json.h" alt="" coords="1540,319,1617,345"/>
+<area shape="rect" id="node17" href="$data_8h.html" title="data.h" alt="" coords="654,319,717,345"/>
+<area shape="rect" id="node19" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="520,393,624,420"/>
 </map>

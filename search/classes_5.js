@@ -2,7 +2,7 @@ var searchData=
 [
   ['face_5fwrapper',['Face_wrapper',['../structpossumwood_1_1CGALItems_1_1Face__wrapper.html',1,'possumwood::CGALItems']]],
   ['factories',['factories',['../classpossumwood_1_1properties_1_1factories.html',1,'possumwood::properties']]],
-  ['factory',['factory',['../classpossumwood_1_1properties_1_1factory.html',1,'possumwood::properties::factory'],['../structdependency__graph_1_1BaseData_1_1Factory.html',1,'dependency_graph::BaseData::Factory&lt; T &gt;']]],
+  ['factory',['factory',['../classpossumwood_1_1properties_1_1factory.html',1,'possumwood::properties::factory'],['../structdependency__graph_1_1Data_1_1Factory.html',1,'dependency_graph::Data::Factory&lt; T &gt;']]],
   ['factory_5ftyped',['factory_typed',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20bool_5fui_20_3e',['factory_typed&lt; bool_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20derived_20_3e',['factory_typed&lt; DERIVED &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],

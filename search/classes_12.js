@@ -62,6 +62,5 @@ var searchData=
   ['type_5ferror',['type_error',['../classpossumwood_1_1io_1_1detail_1_1type__error.html',1,'possumwood::io::detail']]],
   ['typedattr',['TypedAttr',['../classdependency__graph_1_1TypedAttr.html',1,'dependency_graph']]],
   ['typedattr_3c_20void_20_3e',['TypedAttr&lt; void &gt;',['../classdependency__graph_1_1TypedAttr_3_01void_01_4.html',1,'dependency_graph']]],
-  ['typeddata',['TypedData',['../classdependency__graph_1_1TypedData.html',1,'dependency_graph']]],
-  ['typeddata_3c_20void_20_3e',['TypedData&lt; void &gt;',['../structdependency__graph_1_1TypedData_3_01void_01_4.html',1,'dependency_graph']]]
+  ['typedholder',['TypedHolder',['../classdependency__graph_1_1Data_1_1TypedHolder.html',1,'dependency_graph::Data']]]
 ];

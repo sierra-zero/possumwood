@@ -91,12 +91,16 @@ $(document).ready(function(){initNavTree('data_8h.html','');});
 <code>#include &lt;functional&gt;</code><br />
 <code>#include &lt;type_traits&gt;</code><br />
 <code>#include &lt;map&gt;</code><br />
+<code>#include &lt;sstream&gt;</code><br />
+<code>#include &lt;cassert&gt;</code><br />
 <code>#include &lt;boost/noncopyable.hpp&gt;</code><br />
+<code>#include &quot;<a class="el" href="data__traits_8h_source.html">data_traits.h</a>&quot;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for data.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="data_8h__incl.png" border="0" usemap="#src_2libs_2dependency__graph_2data_8h" alt=""/></div>
 <map name="src_2libs_2dependency__graph_2data_8h" id="src_2libs_2dependency__graph_2data_8h">
+<area shape="rect" id="node9" href="data__traits_8h.html" title="data_traits.h" alt="" coords="799,95,903,121"/>
 </map>
 </div>
 </div><div class="textblock"><div class="dynheader">
@@ -160,15 +164,13 @@ This graph shows which files directly or indirectly include this file:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1TypedData.html">dependency_graph::TypedData&lt; T &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Data.html">dependency_graph::Data</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1BaseData.html">dependency_graph::BaseData</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1Data_1_1Factory.html">dependency_graph::Data::Factory&lt; T &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1BaseData_1_1Factory.html">dependency_graph::BaseData::Factory&lt; T &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1Data_1_1Holder.html">dependency_graph::Data::Holder</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1TypedData.html">dependency_graph::TypedData&lt; T &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1TypedData_3_01void_01_4.html">dependency_graph::TypedData&lt; void &gt;</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Data_1_1TypedHolder.html">dependency_graph::Data::TypedHolder&lt; T &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="namespaces"></a>
@@ -178,8 +180,8 @@ Namespaces</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:abe446340cea77d26b117137b56f8a090"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacedependency__graph.html#abe446340cea77d26b117137b56f8a090">dependency_graph::operator&lt;&lt;</a> (std::ostream &amp;out, const BaseData &amp;bd)</td></tr>
-<tr class="separator:abe446340cea77d26b117137b56f8a090"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a3453a0a9c626e0161d501256ec38ae"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacedependency__graph.html#a0a3453a0a9c626e0161d501256ec38ae">dependency_graph::operator&lt;&lt;</a> (std::ostream &amp;out, const Data &amp;bd)</td></tr>
+<tr class="separator:a0a3453a0a9c626e0161d501256ec38ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -187,7 +189,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li><li class="navelem"><a class="el" href="dir_87a455bccb09a92130c26a11a880c98a.html">libs</a></li><li class="navelem"><a class="el" href="dir_2f37f34eeec95f453fe4cb748dff596f.html">dependency_graph</a></li><li class="navelem"><a class="el" href="data_8h.html">data.h</a></li>
-    <li class="footer">Generated on Sun Jan 26 2020 21:00:20 for possumwood by
+    <li class="footer">Generated on Wed Jan 29 2020 23:26:25 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

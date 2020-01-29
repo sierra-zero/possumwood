@@ -1,10 +1,10 @@
 <map id="src/plugins/anim/datatypes/subset_selection.h" name="src/plugins/anim/datatypes/subset_selection.h">
-<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="2480,102,2599,129"/>
-<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2116,333,2296,360"/>
-<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="2380,184,2477,211"/>
-<area shape="rect" id="node13" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="1956,259,2155,285"/>
-<area shape="rect" id="node20" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="2279,259,2453,285"/>
-<area shape="rect" id="node21" href="$json_8h.html" title="io/json.h" alt="" coords="1274,333,1351,360"/>
-<area shape="rect" id="node16" href="$data_8h.html" title="data.h" alt="" coords="2335,333,2397,360"/>
-<area shape="rect" id="node19" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="1914,333,2018,360"/>
+<area shape="rect" id="node5" href="$libs_2actions_2traits_8h.html" title="actions/traits.h" alt="" coords="1313,102,1431,129"/>
+<area shape="rect" id="node7" href="$rtti_8h.html" title="dependency_graph/rtti.h" alt="" coords="2270,333,2450,360"/>
+<area shape="rect" id="node11" href="$libs_2actions_2io_8h.html" title="actions/io.h" alt="" coords="1247,184,1345,211"/>
+<area shape="rect" id="node13" href="$data_8inl.html" title="dependency_graph/data.inl" alt="" coords="626,259,825,285"/>
+<area shape="rect" id="node20" href="$libs_2dependency__graph_2io_8h.html" title="dependency_graph/io.h" alt="" coords="885,259,1059,285"/>
+<area shape="rect" id="node21" href="$json_8h.html" title="io/json.h" alt="" coords="1531,333,1608,360"/>
+<area shape="rect" id="node16" href="$data_8h.html" title="data.h" alt="" coords="694,333,757,360"/>
+<area shape="rect" id="node19" href="$data__traits_8h.html" title="data_traits.h" alt="" coords="559,408,663,435"/>
 </map>

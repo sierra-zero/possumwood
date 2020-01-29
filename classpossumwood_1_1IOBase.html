@@ -122,14 +122,14 @@ Collaboration diagram for possumwood::IOBase:</div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:a2be5dc0d4b9468e3d02eff22d4b2f55c"><td class="memItemLeft" align="right" valign="top">typedef std::function&lt; void(<a class="el" href="namespacepossumwood_1_1io.html#afddf7b55511947aba4cb977ac7dcc78e">possumwood::io::json</a> &amp;, const <a class="el" href="classdependency__graph_1_1BaseData.html">dependency_graph::BaseData</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1IOBase.html#a2be5dc0d4b9468e3d02eff22d4b2f55c">to_fn</a></td></tr>
-<tr class="separator:a2be5dc0d4b9468e3d02eff22d4b2f55c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acf21b5cf8bc8a15deffa17e76083852d"><td class="memItemLeft" align="right" valign="top">typedef std::function&lt; void(const <a class="el" href="namespacepossumwood_1_1io.html#afddf7b55511947aba4cb977ac7dcc78e">possumwood::io::json</a> &amp;, <a class="el" href="classdependency__graph_1_1BaseData.html">dependency_graph::BaseData</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1IOBase.html#acf21b5cf8bc8a15deffa17e76083852d">from_fn</a></td></tr>
-<tr class="separator:acf21b5cf8bc8a15deffa17e76083852d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae28377a83b382b0446c7adc0d1c588bd"><td class="memItemLeft" align="right" valign="top">typedef std::function&lt; void(<a class="el" href="namespacepossumwood_1_1io.html#afddf7b55511947aba4cb977ac7dcc78e">possumwood::io::json</a> &amp;, const <a class="el" href="classdependency__graph_1_1Data.html">dependency_graph::Data</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1IOBase.html#ae28377a83b382b0446c7adc0d1c588bd">to_fn</a></td></tr>
+<tr class="separator:ae28377a83b382b0446c7adc0d1c588bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad33255d89e784facc9849f8be9708c8f"><td class="memItemLeft" align="right" valign="top">typedef std::function&lt; void(const <a class="el" href="namespacepossumwood_1_1io.html#afddf7b55511947aba4cb977ac7dcc78e">possumwood::io::json</a> &amp;, <a class="el" href="classdependency__graph_1_1Data.html">dependency_graph::Data</a> &amp;)&gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1IOBase.html#ad33255d89e784facc9849f8be9708c8f">from_fn</a></td></tr>
+<tr class="separator:ad33255d89e784facc9849f8be9708c8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a3298dbe061c65ad033c2dee6593dd58b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1IOBase.html#a3298dbe061c65ad033c2dee6593dd58b">IOBase</a> (const std::type_index &amp;type, <a class="el" href="classpossumwood_1_1IOBase.html#a2be5dc0d4b9468e3d02eff22d4b2f55c">to_fn</a> <a class="el" href="namespacepossumwood.html#aa07bcdd34d983749b969c871220e3cb4">toJson</a>, <a class="el" href="classpossumwood_1_1IOBase.html#acf21b5cf8bc8a15deffa17e76083852d">from_fn</a> fromJson)</td></tr>
+<tr class="memitem:a3298dbe061c65ad033c2dee6593dd58b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1IOBase.html#a3298dbe061c65ad033c2dee6593dd58b">IOBase</a> (const std::type_index &amp;type, <a class="el" href="classpossumwood_1_1IOBase.html#ae28377a83b382b0446c7adc0d1c588bd">to_fn</a> <a class="el" href="namespacepossumwood.html#aa07bcdd34d983749b969c871220e3cb4">toJson</a>, <a class="el" href="classpossumwood_1_1IOBase.html#ad33255d89e784facc9849f8be9708c8f">from_fn</a> fromJson)</td></tr>
 <tr class="separator:a3298dbe061c65ad033c2dee6593dd58b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3e1f55847240ef7e9b8c73df915ba850"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classpossumwood_1_1IOBase.html#a3e1f55847240ef7e9b8c73df915ba850">~IOBase</a> ()</td></tr>
 <tr class="separator:a3e1f55847240ef7e9b8c73df915ba850"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -142,28 +142,28 @@ Private Attributes</h2></td></tr>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="classpossumwood_1_1IO.html">IO</a> base class, registering all existing <a class="el" href="classpossumwood_1_1IO.html">IO</a> instances / specialisations. Facilitates loading and saving of dependency_graph::Data&lt;T&gt; instances in plugins. </p>
 </div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="acf21b5cf8bc8a15deffa17e76083852d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acf21b5cf8bc8a15deffa17e76083852d">&#9670;&nbsp;</a></span>from_fn</h2>
+<a id="ad33255d89e784facc9849f8be9708c8f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad33255d89e784facc9849f8be9708c8f">&#9670;&nbsp;</a></span>from_fn</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::function&lt;void(const <a class="el" href="namespacepossumwood_1_1io.html#afddf7b55511947aba4cb977ac7dcc78e">possumwood::io::json</a>&amp;, <a class="el" href="classdependency__graph_1_1BaseData.html">dependency_graph::BaseData</a>&amp;)&gt; <a class="el" href="classpossumwood_1_1IOBase.html#acf21b5cf8bc8a15deffa17e76083852d">possumwood::IOBase::from_fn</a></td>
+          <td class="memname">typedef std::function&lt;void(const <a class="el" href="namespacepossumwood_1_1io.html#afddf7b55511947aba4cb977ac7dcc78e">possumwood::io::json</a>&amp;, <a class="el" href="classdependency__graph_1_1Data.html">dependency_graph::Data</a>&amp;)&gt; <a class="el" href="classpossumwood_1_1IOBase.html#ad33255d89e784facc9849f8be9708c8f">possumwood::IOBase::from_fn</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="a2be5dc0d4b9468e3d02eff22d4b2f55c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2be5dc0d4b9468e3d02eff22d4b2f55c">&#9670;&nbsp;</a></span>to_fn</h2>
+<a id="ae28377a83b382b0446c7adc0d1c588bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae28377a83b382b0446c7adc0d1c588bd">&#9670;&nbsp;</a></span>to_fn</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::function&lt;void(<a class="el" href="namespacepossumwood_1_1io.html#afddf7b55511947aba4cb977ac7dcc78e">possumwood::io::json</a>&amp;, const <a class="el" href="classdependency__graph_1_1BaseData.html">dependency_graph::BaseData</a>&amp;)&gt; <a class="el" href="classpossumwood_1_1IOBase.html#a2be5dc0d4b9468e3d02eff22d4b2f55c">possumwood::IOBase::to_fn</a></td>
+          <td class="memname">typedef std::function&lt;void(<a class="el" href="namespacepossumwood_1_1io.html#afddf7b55511947aba4cb977ac7dcc78e">possumwood::io::json</a>&amp;, const <a class="el" href="classdependency__graph_1_1Data.html">dependency_graph::Data</a>&amp;)&gt; <a class="el" href="classpossumwood_1_1IOBase.html#ae28377a83b382b0446c7adc0d1c588bd">possumwood::IOBase::to_fn</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -186,13 +186,13 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="classpossumwood_1_1IOBase.html#a2be5dc0d4b9468e3d02eff22d4b2f55c">to_fn</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="classpossumwood_1_1IOBase.html#ae28377a83b382b0446c7adc0d1c588bd">to_fn</a>&#160;</td>
           <td class="paramname"><em>toJson</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="classpossumwood_1_1IOBase.html#acf21b5cf8bc8a15deffa17e76083852d">from_fn</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="classpossumwood_1_1IOBase.html#ad33255d89e784facc9849f8be9708c8f">from_fn</a>&#160;</td>
           <td class="paramname"><em>fromJson</em>&#160;</td>
         </tr>
         <tr>
@@ -263,7 +263,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacepossumwood.html">possumwood</a></li><li class="navelem"><a class="el" href="classpossumwood_1_1IOBase.html">IOBase</a></li>
-    <li class="footer">Generated on Sun Jan 26 2020 21:00:21 for possumwood by
+    <li class="footer">Generated on Wed Jan 29 2020 23:26:26 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>
