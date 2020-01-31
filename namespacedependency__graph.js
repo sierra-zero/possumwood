@@ -8,6 +8,7 @@ var namespacedependency__graph =
     [ "Data", "classdependency__graph_1_1Data.html", "classdependency__graph_1_1Data" ],
     [ "Datablock", "classdependency__graph_1_1Datablock.html", "classdependency__graph_1_1Datablock" ],
     [ "DataTraits", "structdependency__graph_1_1DataTraits.html", "structdependency__graph_1_1DataTraits" ],
+    [ "DataTraits< T, typename std::enable_if< std::is_convertible< decltype(std::declval< T >()==std::declval< T >()), bool >::value >::type >", "structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html", "structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c" ],
     [ "Graph", "classdependency__graph_1_1Graph.html", "classdependency__graph_1_1Graph" ],
     [ "InAttr", "classdependency__graph_1_1InAttr.html", "classdependency__graph_1_1InAttr" ],
     [ "InAttr< void >", "classdependency__graph_1_1InAttr_3_01void_01_4.html", "classdependency__graph_1_1InAttr_3_01void_01_4" ],

@@ -27,6 +27,7 @@ var annotated_dup =
     [ "MainWindow", "classMainWindow.html", "classMainWindow" ],
     [ "MeshesUI", "classMeshesUI.html", "classMeshesUI" ],
     [ "MeshSubsetEditor", "classMeshSubsetEditor.html", "classMeshSubsetEditor" ],
+    [ "NoncopyableStruct", "structNoncopyableStruct.html", "structNoncopyableStruct" ],
     [ "Options", "classOptions.html", "classOptions" ],
     [ "PathWidget", "classPathWidget.html", "classPathWidget" ],
     [ "PluginsRAII", "classPluginsRAII.html", "classPluginsRAII" ],

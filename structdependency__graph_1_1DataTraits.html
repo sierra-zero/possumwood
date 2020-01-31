@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.13"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>possumwood: dependency_graph::DataTraits&lt; T &gt; Struct Template Reference</title>
+<title>possumwood: dependency_graph::DataTraits&lt; T, ENABLE &gt; Struct Template Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -83,73 +83,41 @@ $(document).ready(function(){initNavTree('structdependency__graph_1_1DataTraits.
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="structdependency__graph_1_1DataTraits-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">dependency_graph::DataTraits&lt; T &gt; Struct Template Reference</div>  </div>
+<div class="title">dependency_graph::DataTraits&lt; T, ENABLE &gt; Struct Template Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
+
+<p>For types that do NOT have equality operator - always assume two instances are NOT the same.  
+ <a href="structdependency__graph_1_1DataTraits.html#details">More...</a></p>
 
 <p><code>#include &lt;<a class="el" href="data__traits_8h_source.html">data_traits.h</a>&gt;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:aa1c7820c3a1bfb11b018695afc559318"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1DataTraits.html#aa1c7820c3a1bfb11b018695afc559318">assignValue</a> (T &amp;dest, const T &amp;src)</td></tr>
-<tr class="separator:aa1c7820c3a1bfb11b018695afc559318"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3d026d27ea766ad4e2b22b773e405f60"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1DataTraits.html#a3d026d27ea766ad4e2b22b773e405f60">isEqual</a> (const T &amp;v1, const T &amp;v2)</td></tr>
-<tr class="separator:a3d026d27ea766ad4e2b22b773e405f60"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adfe2251bb02099c1fe29bfe66a17876e"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1DataTraits.html#adfe2251bb02099c1fe29bfe66a17876e">isNotEqual</a> (const T &amp;v1, const T &amp;v2)</td></tr>
-<tr class="separator:adfe2251bb02099c1fe29bfe66a17876e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa399e3f4ee6541fae610e772cf360d59"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1DataTraits.html#aa399e3f4ee6541fae610e772cf360d59">isEqual</a> (const T &amp;v1, const T &amp;v2)</td></tr>
+<tr class="separator:aa399e3f4ee6541fae610e772cf360d59"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8c9f5f37691ef1a81b5e2970f0fafc0"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structdependency__graph_1_1DataTraits.html#aa8c9f5f37691ef1a81b5e2970f0fafc0">isNotEqual</a> (const T &amp;v1, const T &amp;v2)</td></tr>
+<tr class="separator:aa8c9f5f37691ef1a81b5e2970f0fafc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa1c7820c3a1bfb11b018695afc559318"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa1c7820c3a1bfb11b018695afc559318">&#9670;&nbsp;</a></span>assignValue()</h2>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"><h3>template&lt;typename T, typename ENABLE = void&gt;<br />
+struct dependency_graph::DataTraits&lt; T, ENABLE &gt;</h3>
+
+<p>For types that do NOT have equality operator - always assume two instances are NOT the same. </p>
+</div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="aa399e3f4ee6541fae610e772cf360d59"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa399e3f4ee6541fae610e772cf360d59">&#9670;&nbsp;</a></span>isEqual()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename T &gt; </div>
+template&lt;typename T , typename ENABLE  = void&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static void <a class="el" href="structdependency__graph_1_1DataTraits.html">dependency_graph::DataTraits</a>&lt; T &gt;::assignValue </td>
-          <td>(</td>
-          <td class="paramtype">T &amp;&#160;</td>
-          <td class="paramname"><em>dest</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const T &amp;&#160;</td>
-          <td class="paramname"><em>src</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a3d026d27ea766ad4e2b22b773e405f60"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3d026d27ea766ad4e2b22b773e405f60">&#9670;&nbsp;</a></span>isEqual()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static bool <a class="el" href="structdependency__graph_1_1DataTraits.html">dependency_graph::DataTraits</a>&lt; T &gt;::isEqual </td>
+          <td class="memname">static bool <a class="el" href="structdependency__graph_1_1DataTraits.html">dependency_graph::DataTraits</a>&lt; T, ENABLE &gt;::isEqual </td>
           <td>(</td>
           <td class="paramtype">const T &amp;&#160;</td>
           <td class="paramname"><em>v1</em>, </td>
@@ -175,19 +143,19 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a id="adfe2251bb02099c1fe29bfe66a17876e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adfe2251bb02099c1fe29bfe66a17876e">&#9670;&nbsp;</a></span>isNotEqual()</h2>
+<a id="aa8c9f5f37691ef1a81b5e2970f0fafc0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa8c9f5f37691ef1a81b5e2970f0fafc0">&#9670;&nbsp;</a></span>isNotEqual()</h2>
 
 <div class="memitem">
 <div class="memproto">
 <div class="memtemplate">
-template&lt;typename T &gt; </div>
+template&lt;typename T , typename ENABLE  = void&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static bool <a class="el" href="structdependency__graph_1_1DataTraits.html">dependency_graph::DataTraits</a>&lt; T &gt;::isNotEqual </td>
+          <td class="memname">static bool <a class="el" href="structdependency__graph_1_1DataTraits.html">dependency_graph::DataTraits</a>&lt; T, ENABLE &gt;::isNotEqual </td>
           <td>(</td>
           <td class="paramtype">const T &amp;&#160;</td>
           <td class="paramname"><em>v1</em>, </td>
@@ -222,7 +190,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="structdependency__graph_1_1DataTraits.html">DataTraits</a></li>
-    <li class="footer">Generated on Thu Jan 30 2020 23:43:29 for possumwood by
+    <li class="footer">Generated on Fri Jan 31 2020 00:01:56 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

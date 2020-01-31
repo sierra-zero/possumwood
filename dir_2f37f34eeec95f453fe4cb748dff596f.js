@@ -16,7 +16,8 @@ var dir_2f37f34eeec95f453fe4cb748dff596f =
     [ "data.h", "data_8h.html", "data_8h" ],
     [ "data.inl", "data_8inl.html", null ],
     [ "data_traits.h", "data__traits_8h.html", [
-      [ "DataTraits", "structdependency__graph_1_1DataTraits.html", "structdependency__graph_1_1DataTraits" ]
+      [ "DataTraits", "structdependency__graph_1_1DataTraits.html", "structdependency__graph_1_1DataTraits" ],
+      [ "DataTraits< T, typename std::enable_if< std::is_convertible< decltype(std::declval< T >()==std::declval< T >()), bool >::value >::type >", "structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html", "structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c" ]
     ] ],
     [ "datablock.cpp", "libs_2dependency__graph_2datablock_8cpp.html", null ],
     [ "datablock.h", "datablock_8h.html", [

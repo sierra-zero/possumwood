@@ -188,9 +188,9 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a430249f24ea073de8f931419de3b288b"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
-<tr class="memitem:a430249f24ea073de8f931419de3b288b"><td class="memTemplItemLeft" align="right" valign="top">static void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Node.html#a430249f24ea073de8f931419de3b288b">setInput</a> (const <a class="el" href="classdependency__graph_1_1InAttr.html">InAttr</a>&lt; T &gt; &amp;attr, <a class="el" href="classdependency__graph_1_1Datablock.html">Datablock</a> &amp;data, const T &amp;value)</td></tr>
-<tr class="separator:a430249f24ea073de8f931419de3b288b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f35f13127ff29833a5d40326b9898b9"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a9f35f13127ff29833a5d40326b9898b9"><td class="memTemplItemLeft" align="right" valign="top">static void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Node.html#a9f35f13127ff29833a5d40326b9898b9">setInput</a> (const <a class="el" href="classdependency__graph_1_1InAttr.html">InAttr</a>&lt; T &gt; &amp;attr, <a class="el" href="classdependency__graph_1_1Datablock.html">Datablock</a> &amp;data, typename std::remove_reference&lt; T &gt;::type &amp;&amp;value)</td></tr>
+<tr class="separator:a9f35f13127ff29833a5d40326b9898b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0269561f815ee85e9ad199b4368f0a63"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a0269561f815ee85e9ad199b4368f0a63"><td class="memTemplItemLeft" align="right" valign="top">static const T &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Node.html#a0269561f815ee85e9ad199b4368f0a63">getOutput</a> (const <a class="el" href="classdependency__graph_1_1OutAttr.html">OutAttr</a>&lt; T &gt; &amp;attr, const <a class="el" href="classdependency__graph_1_1Datablock.html">Datablock</a> &amp;data)</td></tr>
 <tr class="separator:a0269561f815ee85e9ad199b4368f0a63"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -323,8 +323,8 @@ template&lt;typename T &gt; </div>
 
 </div>
 </div>
-<a id="a430249f24ea073de8f931419de3b288b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a430249f24ea073de8f931419de3b288b">&#9670;&nbsp;</a></span>setInput()</h2>
+<a id="a9f35f13127ff29833a5d40326b9898b9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f35f13127ff29833a5d40326b9898b9">&#9670;&nbsp;</a></span>setInput()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -349,7 +349,7 @@ template&lt;typename T &gt; </div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const T &amp;&#160;</td>
+          <td class="paramtype">typename std::remove_reference&lt; T &gt;::type &amp;&amp;&#160;</td>
           <td class="paramname"><em>value</em>&#160;</td>
         </tr>
         <tr>
@@ -401,7 +401,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Node.html">Node</a></li>
-    <li class="footer">Generated on Thu Jan 30 2020 23:43:29 for possumwood by
+    <li class="footer">Generated on Fri Jan 31 2020 00:01:56 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

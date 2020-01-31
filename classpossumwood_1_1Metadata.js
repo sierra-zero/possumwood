@@ -2,8 +2,8 @@ var classpossumwood_1_1Metadata =
 [
     [ "Metadata", "classpossumwood_1_1Metadata.html#aee9d6c21a82f005045d6a68da6985f62", null ],
     [ "~Metadata", "classpossumwood_1_1Metadata.html#abc18753cc5a24f64122bce24bf6d7eb4", null ],
-    [ "addAttribute", "classpossumwood_1_1Metadata.html#a6b3c49a197bf798d302c255cd70613cc", null ],
-    [ "addAttribute", "classpossumwood_1_1Metadata.html#a3d47fcde5d1d25676cc3e57b8be87b8a", null ],
+    [ "addAttribute", "classpossumwood_1_1Metadata.html#ae07af385acc5de67452ddaea1838b2cf", null ],
+    [ "addAttribute", "classpossumwood_1_1Metadata.html#ab7e84fbd84aeea0259445196f56fd101", null ],
     [ "addAttribute", "classpossumwood_1_1Metadata.html#ab2cc2a6ca2f02dddea9751008137101b", null ],
     [ "addAttribute", "classpossumwood_1_1Metadata.html#a65428dac9fdf492f1da0dbba3e3a6fb4", null ],
     [ "createDrawable", "classpossumwood_1_1Metadata.html#a5e6d076c2cad321012b32d377f9a6715", null ],
