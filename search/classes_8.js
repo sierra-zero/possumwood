@@ -3,7 +3,7 @@ var searchData=
   ['ignoreidentity',['IgnoreIdentity',['../classanim_1_1filter_1_1IgnoreIdentity.html',1,'anim::filter']]],
   ['inattr',['InAttr',['../classdependency__graph_1_1InAttr.html',1,'dependency_graph']]],
   ['inattr_3c_20possumwood_3a_3alua_3a_3acontext_20_3e',['InAttr&lt; possumwood::lua::Context &gt;',['../classdependency__graph_1_1InAttr.html',1,'dependency_graph']]],
-  ['inattr_3c_20std_3a_3ashared_5fptr_3c_20const_20possumwood_3a_3alua_3a_3astate_20_3e_20_3e',['InAttr&lt; std::shared_ptr&lt; const possumwood::lua::State &gt; &gt;',['../classdependency__graph_1_1InAttr.html',1,'dependency_graph']]],
+  ['inattr_3c_20possumwood_3a_3alua_3a_3astate_20_3e',['InAttr&lt; possumwood::lua::State &gt;',['../classdependency__graph_1_1InAttr.html',1,'dependency_graph']]],
   ['inattr_3c_20std_3a_3astring_20_3e',['InAttr&lt; std::string &gt;',['../classdependency__graph_1_1InAttr.html',1,'dependency_graph']]],
   ['inattr_3c_20void_20_3e',['InAttr&lt; void &gt;',['../classdependency__graph_1_1InAttr_3_01void_01_4.html',1,'dependency_graph']]],
   ['index',['Index',['../classpossumwood_1_1Index.html',1,'possumwood::Index'],['../classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Index.html',1,'possumwood::polymesh::GenericPolymesh::Index']]],

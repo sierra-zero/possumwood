@@ -1,10 +1,15 @@
 var NAVTREEINDEX16 =
 {
+"plugins_2cgal_2properties_8cpp.html":[3,0,0,2,1,10],
+"plugins_2cgal_2properties_8h.html":[3,0,0,2,1,11],
+"plugins_2cgal_2properties_8h_source.html":[3,0,0,2,1,11],
+"plugins_2cgal_2property_8cpp.html":[3,0,0,2,1,12],
+"plugins_2cgal_2property_8h.html":[3,0,0,2,1,13],
 "plugins_2cgal_2property_8h_source.html":[3,0,0,2,1,13],
 "plugins_2lua_2datatypes_2state_8cpp.html":[3,0,0,2,3,0,2],
-"plugins_2lua_2datatypes_2state_8cpp.html#ae09256e46dde153606cd06f43bed852d":[3,0,0,2,3,0,2,0],
+"plugins_2lua_2datatypes_2state_8cpp.html#aad2fc01b78d6be2c6510df64ee7290c2":[3,0,0,2,3,0,2,0],
 "plugins_2lua_2datatypes_2state_8h.html":[3,0,0,2,3,0,3],
-"plugins_2lua_2datatypes_2state_8h.html#ae09256e46dde153606cd06f43bed852d":[3,0,0,2,3,0,3,2],
+"plugins_2lua_2datatypes_2state_8h.html#aad2fc01b78d6be2c6510df64ee7290c2":[3,0,0,2,3,0,3,2],
 "plugins_2lua_2datatypes_2state_8h_source.html":[3,0,0,2,3,0,3],
 "plugins_2opencv_2frame_8cpp.html":[3,0,0,2,5,17],
 "plugins_2opencv_2frame_8cpp.html#aff65c0f35b2db42795fa30e227164d27":[3,0,0,2,5,17,0],
@@ -244,10 +249,5 @@ var NAVTREEINDEX16 =
 "structdependency__graph_1_1DataTraits.html#aa399e3f4ee6541fae610e772cf360d59":[2,0,1,7,0],
 "structdependency__graph_1_1DataTraits.html#aa8c9f5f37691ef1a81b5e2970f0fafc0":[2,0,1,7,1],
 "structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html":[2,0,1,8],
-"structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html#a865637bce1fd651826fa4990d7f14f94":[2,0,1,8,0],
-"structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html#ad79485f5511dcfec93fb1084fc031173":[2,0,1,8,1],
-"structdependency__graph_1_1Data_1_1Factory.html":[2,0,1,5,0],
-"structdependency__graph_1_1Data_1_1Factory.html#afda50e4d4b617f04d9205d3f0c82ccca":[2,0,1,5,0,0],
-"structdependency__graph_1_1Data_1_1Holder.html":[2,0,1,5,1],
-"structdependency__graph_1_1Data_1_1Holder.html#a28ace263c4d338c5312eb444920ef3d7":[2,0,1,5,1,1]
+"structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html#a865637bce1fd651826fa4990d7f14f94":[2,0,1,8,0]
 };
