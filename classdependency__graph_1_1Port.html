@@ -134,6 +134,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a0de3bb78b6f2edd976c5aa289a27c9d1"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a0de3bb78b6f2edd976c5aa289a27c9d1"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Port.html#a0de3bb78b6f2edd976c5aa289a27c9d1">set</a> (const T &amp;value)</td></tr>
 <tr class="separator:a0de3bb78b6f2edd976c5aa289a27c9d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a18a8ceb2d1bbec35f2b1eba7ae105a20"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
+<tr class="memitem:a18a8ceb2d1bbec35f2b1eba7ae105a20"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Port.html#a18a8ceb2d1bbec35f2b1eba7ae105a20">set</a> (T &amp;&amp;value)</td></tr>
+<tr class="separator:a18a8ceb2d1bbec35f2b1eba7ae105a20"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5bc41bb4def46f64eac5495da361bc9f"><td class="memTemplParams" colspan="2">template&lt;typename T &gt; </td></tr>
 <tr class="memitem:a5bc41bb4def46f64eac5495da361bc9f"><td class="memTemplItemLeft" align="right" valign="top">const T &amp;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classdependency__graph_1_1Port.html#a5bc41bb4def46f64eac5495da361bc9f">get</a> ()</td></tr>
 <tr class="separator:a5bc41bb4def46f64eac5495da361bc9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -647,7 +650,7 @@ template&lt;typename T &gt; </div>
 </div>
 </div>
 <a id="a0de3bb78b6f2edd976c5aa289a27c9d1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0de3bb78b6f2edd976c5aa289a27c9d1">&#9670;&nbsp;</a></span>set()</h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a0de3bb78b6f2edd976c5aa289a27c9d1">&#9670;&nbsp;</a></span>set() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -658,6 +661,27 @@ template&lt;typename T &gt; </div>
           <td class="memname">void dependency_graph::Port::set </td>
           <td>(</td>
           <td class="paramtype">const T &amp;&#160;</td>
+          <td class="paramname"><em>value</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>sets a value on the port. Marks all downstream values dirty. </p>
+
+</div>
+</div>
+<a id="a18a8ceb2d1bbec35f2b1eba7ae105a20"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a18a8ceb2d1bbec35f2b1eba7ae105a20">&#9670;&nbsp;</a></span>set() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename T &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void dependency_graph::Port::set </td>
+          <td>(</td>
+          <td class="paramtype">T &amp;&amp;&#160;</td>
           <td class="paramname"><em>value</em></td><td>)</td>
           <td></td>
         </tr>
@@ -977,7 +1001,7 @@ template&lt;typename T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacedependency__graph.html">dependency_graph</a></li><li class="navelem"><a class="el" href="classdependency__graph_1_1Port.html">Port</a></li>
-    <li class="footer">Generated on Fri Jan 31 2020 00:01:56 for possumwood by
+    <li class="footer">Generated on Sun Feb 2 2020 11:35:01 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

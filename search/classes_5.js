@@ -18,7 +18,6 @@ var searchData=
   ['factory_5ftyped_3c_20meshsubseteditor_20_3e',['factory_typed&lt; MeshSubsetEditor &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20skeleton_20_3e',['factory_typed&lt; Skeleton &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20string_5fui_20_3e',['factory_typed&lt; string_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
-  ['factory_5ftyped_3c_20uniforms_20_3e',['factory_typed&lt; Uniforms &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20unsigned_5fui_20_3e',['factory_typed&lt; unsigned_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20vbo_20_3e',['factory_typed&lt; VBO &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],
   ['factory_5ftyped_3c_20vec2_5fui_20_3e',['factory_typed&lt; vec2_ui &gt;',['../classpossumwood_1_1properties_1_1factory__typed.html',1,'possumwood::properties']]],

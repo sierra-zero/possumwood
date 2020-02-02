@@ -248,6 +248,6 @@ var NAVTREEINDEX1 =
 "classTreeWidget.html#a9a1012afd954e293f170dc651bc6d5c7":[2,0,42,7],
 "classTreeWidget.html#ade45909d2965d98564724cbfab06090c":[2,0,42,4],
 "classTreeWidget.html#af35759e6270da6c6da456a98a46d98a1":[2,0,42,10],
-"classUniforms.html":[2,0,43],
-"classUniforms.html#a0910250e744a7bd19a1ecde32e5d35f9":[2,0,43,5]
+"classVBO.html":[2,0,44],
+"classVBO.html#a0ec53e167afc386582468bc5a4cf803b":[2,0,44,6]
 };

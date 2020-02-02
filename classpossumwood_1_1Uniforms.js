@@ -9,15 +9,17 @@ var classpossumwood_1_1Uniforms =
       [ "kPerDraw", "classpossumwood_1_1Uniforms.html#af1b9fa612b41f59d28c7318421413f0eae7eaa9e65a0c15d9cc9fd445d0bbeacd", null ],
       [ "kPerFrame", "classpossumwood_1_1Uniforms.html#af1b9fa612b41f59d28c7318421413f0eafa6a9b62a70baa4f57b8ed263e83a551", null ]
     ] ],
-    [ "Uniforms", "classpossumwood_1_1Uniforms.html#a52fe626a3fcc65f73f5f0668936ac2e3", null ],
-    [ "addTexture", "classpossumwood_1_1Uniforms.html#a4f7980b9c9f0147944d22d1efc76d2b3", null ],
-    [ "addTexture", "classpossumwood_1_1Uniforms.html#a78e63a36b50984ec3772d1c160fa0aa0", null ],
-    [ "addUniform", "classpossumwood_1_1Uniforms.html#a8ecde3c69dd09fd8ac924852affe4650", null ],
-    [ "glslDeclaration", "classpossumwood_1_1Uniforms.html#ab63f0eedf59093719611107190e54b0e", null ],
-    [ "names", "classpossumwood_1_1Uniforms.html#ae072f24debe6c1d8683fff5017570a4f", null ],
-    [ "size", "classpossumwood_1_1Uniforms.html#a9e1b9cb3e577796d8d54933999049d6b", null ],
-    [ "use", "classpossumwood_1_1Uniforms.html#a0a514bf441a9b33c607a8da0897844ef", null ],
+    [ "Uniforms", "classpossumwood_1_1Uniforms.html#aea450ebb88b4f15889de3be76ee6fa8c", null ],
+    [ "addTexture", "classpossumwood_1_1Uniforms.html#a019716c8614f7e51883fc187209fc83c", null ],
+    [ "addTexture", "classpossumwood_1_1Uniforms.html#a6a2c7849204f3337d9edf7eb6f88ba6b", null ],
+    [ "addUniform", "classpossumwood_1_1Uniforms.html#a1d9cbaaaa03f61e9553e7c952a7cad4b", null ],
+    [ "empty", "classpossumwood_1_1Uniforms.html#a12aa4bedd62a6d7fae52690d2fc55304", null ],
+    [ "glslDeclaration", "classpossumwood_1_1Uniforms.html#ab0d6f392d0cdec52fdd9fc69cf45d73c", null ],
+    [ "names", "classpossumwood_1_1Uniforms.html#ad2b253074e8e921831de47626c995667", null ],
+    [ "size", "classpossumwood_1_1Uniforms.html#a863a48529170c5ebf3634cee9515551e", null ],
+    [ "use", "classpossumwood_1_1Uniforms.html#a39f42713a0a47512e1ac80ee130dd1ae", null ],
+    [ "operator<<", "classpossumwood_1_1Uniforms.html#ae8a42e86fe9288ad61b2265e3af87996", null ],
     [ "m_currentTime", "classpossumwood_1_1Uniforms.html#ab5ef5831ce989424587fe887cd45a206", null ],
     [ "m_textures", "classpossumwood_1_1Uniforms.html#a051ec19830409acfee1a4db5ba8aa1c2", null ],
-    [ "m_uniforms", "classpossumwood_1_1Uniforms.html#a3d792bb443f685a8de9348e480ff756b", null ]
+    [ "m_uniforms", "classpossumwood_1_1Uniforms.html#ae62f7d70fe5075ad5ca27ca129b9ba55", null ]
 ];

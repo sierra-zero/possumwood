@@ -43,8 +43,8 @@ var hierarchy =
     [ "anim::constraints::Channel", "classanim_1_1constraints_1_1Channel.html", null ],
     [ "anim::Children< JOINT, CONTAINER >", "classanim_1_1Children.html", null ],
     [ "possumwood::Colours", "classpossumwood_1_1Colours.html", null ],
-    [ "dependency_graph::Nodes::Compare", "structdependency__graph_1_1Nodes_1_1Compare.html", null ],
     [ "dependency_graph::MetadataRegister::Compare", "structdependency__graph_1_1MetadataRegister_1_1Compare.html", null ],
+    [ "dependency_graph::Nodes::Compare", "structdependency__graph_1_1Nodes_1_1Compare.html", null ],
     [ "possumwood::polymesh::GenericBase::Handles::Compare", "structpossumwood_1_1polymesh_1_1GenericBase_1_1Handles_1_1Compare.html", null ],
     [ "dependency_graph::Selection::Connection", "structdependency__graph_1_1Selection_1_1Connection.html", null ],
     [ "anim::constraints::Constraint", "classanim_1_1constraints_1_1Constraint.html", null ],
@@ -285,7 +285,7 @@ var hierarchy =
       [ "possumwood::lua::State", "classpossumwood_1_1lua_1_1State.html", null ],
       [ "possumwood::NetworkCompute", "classpossumwood_1_1NetworkCompute.html", null ],
       [ "possumwood::NodeImplementation", "structpossumwood_1_1NodeImplementation.html", null ],
-      [ "possumwood::Program", "classpossumwood_1_1Program.html", null ],
+      [ "possumwood::Program::Pimpl", "structpossumwood_1_1Program_1_1Pimpl.html", null ],
       [ "possumwood::properties::factories", "classpossumwood_1_1properties_1_1factories.html", null ],
       [ "possumwood::properties::factory", "classpossumwood_1_1properties_1_1factory.html", [
         [ "possumwood::properties::factory_typed< bool_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -302,7 +302,6 @@ var hierarchy =
         [ "possumwood::properties::factory_typed< MeshSubsetEditor >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< Skeleton >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< string_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
-        [ "possumwood::properties::factory_typed< Uniforms >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< unsigned_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< VBO >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
         [ "possumwood::properties::factory_typed< vec2_ui >", "classpossumwood_1_1properties_1_1factory__typed.html", null ],
@@ -358,10 +357,7 @@ var hierarchy =
         [ "possumwood::properties::property< possumwood::polymesh::GenericPolymesh, GenericMeshUI >", "classpossumwood_1_1properties_1_1property.html", [
           [ "GenericMeshUI", "classGenericMeshUI.html", null ]
         ] ],
-        [ "possumwood::properties::property< std::shared_ptr< const possumwood::Uniforms >, Uniforms >", "classpossumwood_1_1properties_1_1property.html", [
-          [ "Uniforms", "classUniforms.html", null ]
-        ] ],
-        [ "possumwood::properties::property< std::shared_ptr< const possumwood::VertexData >, VBO >", "classpossumwood_1_1properties_1_1property.html", [
+        [ "possumwood::properties::property< possumwood::VertexData, VBO >", "classpossumwood_1_1properties_1_1property.html", [
           [ "VBO", "classVBO.html", null ]
         ] ],
         [ "possumwood::properties::property< std::string, string_ui >", "classpossumwood_1_1properties_1_1property.html", [
@@ -372,25 +368,20 @@ var hierarchy =
         ] ]
       ] ],
       [ "possumwood::ScopedEnable", "classpossumwood_1_1ScopedEnable.html", null ],
-      [ "possumwood::Shader", "classpossumwood_1_1Shader.html", [
-        [ "possumwood::FragmentShader", "classpossumwood_1_1FragmentShader.html", null ],
-        [ "possumwood::GeometryShader", "classpossumwood_1_1GeometryShader.html", null ],
-        [ "possumwood::VertexShader", "classpossumwood_1_1VertexShader.html", null ]
-      ] ],
+      [ "possumwood::Shader::Pimpl", "structpossumwood_1_1Shader_1_1Pimpl.html", null ],
       [ "possumwood::Texture", "classpossumwood_1_1Texture.html", null ],
       [ "possumwood::UndoStack", "classpossumwood_1_1UndoStack.html", null ],
       [ "possumwood::VBOBase", "classpossumwood_1_1VBOBase.html", [
         [ "possumwood::VBO< T >", "classpossumwood_1_1VBO.html", null ]
       ] ],
-      [ "possumwood::VertexData", "classpossumwood_1_1VertexData.html", null ],
       [ "Properties::PropertyHolder", "structProperties_1_1PropertyHolder.html", null ],
       [ "Viewport", "classViewport.html", null ]
     ] ],
     [ "NoncopyableStruct", "structNoncopyableStruct.html", null ],
     [ "possumwood::lua::NullModule", "structpossumwood_1_1lua_1_1NullModule.html", null ],
     [ "possumwood::images::OpencvMatWrapper", "classpossumwood_1_1images_1_1OpencvMatWrapper.html", null ],
-    [ "anim::SubsetSelection::Options", "classanim_1_1SubsetSelection_1_1Options.html", null ],
     [ "Options", "classOptions.html", null ],
+    [ "anim::SubsetSelection::Options", "classanim_1_1SubsetSelection_1_1Options.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_adapter< CharType >", "classpossumwood_1_1io_1_1basic__json_1_1output__adapter.html", [
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_stream_adapter< CharType >", "classpossumwood_1_1io_1_1basic__json_1_1output__stream__adapter.html", null ],
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_string_adapter< CharType >", "classpossumwood_1_1io_1_1basic__json_1_1output__string__adapter.html", null ],
@@ -400,8 +391,8 @@ var hierarchy =
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::parser", "classpossumwood_1_1io_1_1basic__json_1_1parser.html", null ],
     [ "PathWidget::Path", "classPathWidget_1_1Path.html", null ],
     [ "lightfields::Pattern", "classlightfields_1_1Pattern.html", null ],
-    [ "lightfields::Raw::Pimpl", "structlightfields_1_1Raw_1_1Pimpl.html", null ],
     [ "lightfields::LensletGraph::Pimpl", "structlightfields_1_1LensletGraph_1_1Pimpl.html", null ],
+    [ "lightfields::Raw::Pimpl", "structlightfields_1_1Raw_1_1Pimpl.html", null ],
     [ "possumwood::opencv::LightfieldSamples::Pimpl", "structpossumwood_1_1opencv_1_1LightfieldSamples_1_1Pimpl.html", null ],
     [ "PluginsRAII", "classPluginsRAII.html", null ],
     [ "possumwood::NodeData::Point", "structpossumwood_1_1NodeData_1_1Point.html", null ],
@@ -416,7 +407,11 @@ var hierarchy =
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::primitive_iterator_t", "classpossumwood_1_1io_1_1basic__json_1_1primitive__iterator__t.html", null ],
     [ "possumwood::io::detail::priority_tag< N >", "structpossumwood_1_1io_1_1detail_1_1priority__tag.html", null ],
     [ "possumwood::io::detail::priority_tag< 0 >", "structpossumwood_1_1io_1_1detail_1_1priority__tag_3_010_01_4.html", null ],
+    [ "possumwood::Program", "classpossumwood_1_1Program.html", null ],
     [ "possumwood::Properties", "classpossumwood_1_1Properties.html", null ],
+    [ "possumwood::properties::property_updater< T, DERIVED, ENABLE >", "structpossumwood_1_1properties_1_1property__updater.html", null ],
+    [ "possumwood::properties::property_updater< T, DERIVED, typename std::enable_if< not std::is_copy_constructible< T >::value >::type >", "structpossumwood_1_1properties_1_1property__updater_3_01T_00_01DERIVED_00_01typename_01std_1_1en47e69a464480f7a459f8bf6a86b60379.html", null ],
+    [ "possumwood::properties::property_updater< T, DERIVED, typename std::enable_if< std::is_copy_constructible< T >::value >::type >", "structpossumwood_1_1properties_1_1property__updater_3_01T_00_01DERIVED_00_01typename_01std_1_1en89669dad3162c0dd501902104a2e3fc8.html", null ],
     [ "possumwood::PropertyBase", "classpossumwood_1_1PropertyBase.html", [
       [ "possumwood::Property< T >", "classpossumwood_1_1Property.html", null ]
     ] ],
@@ -478,6 +473,11 @@ var hierarchy =
     [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "possumwood::opencv::Sequence", "classpossumwood_1_1opencv_1_1Sequence.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classpossumwood_1_1io_1_1basic__json_1_1serializer.html", null ],
+    [ "possumwood::Shader", "classpossumwood_1_1Shader.html", [
+      [ "possumwood::FragmentShader", "classpossumwood_1_1FragmentShader.html", null ],
+      [ "possumwood::GeometryShader", "classpossumwood_1_1GeometryShader.html", null ],
+      [ "possumwood::VertexShader", "classpossumwood_1_1VertexShader.html", null ]
+    ] ],
     [ "dependency_graph::Graph::Signals", "structdependency__graph_1_1Graph_1_1Signals.html", null ],
     [ "anim::Skeleton", "classanim_1_1Skeleton.html", null ],
     [ "SkeletonTest", "structSkeletonTest.html", null ],
@@ -506,6 +506,8 @@ var hierarchy =
     [ "possumwood::Traits< Enum >", "structpossumwood_1_1Traits_3_01Enum_01_4.html", null ],
     [ "possumwood::Traits< Filename >", "structpossumwood_1_1Traits_3_01Filename_01_4.html", null ],
     [ "possumwood::Traits< Font >", "structpossumwood_1_1Traits_3_01Font_01_4.html", null ],
+    [ "possumwood::Traits< FragmentShader >", "structpossumwood_1_1Traits_3_01FragmentShader_01_4.html", null ],
+    [ "possumwood::Traits< GeometryShader >", "structpossumwood_1_1Traits_3_01GeometryShader_01_4.html", null ],
     [ "possumwood::Traits< Imath::Vec2< float > >", "structpossumwood_1_1Traits_3_01Imath_1_1Vec2_3_01float_01_4_01_4.html", null ],
     [ "possumwood::Traits< Imath::Vec2< int > >", "structpossumwood_1_1Traits_3_01Imath_1_1Vec2_3_01int_01_4_01_4.html", null ],
     [ "possumwood::Traits< Imath::Vec2< unsigned > >", "structpossumwood_1_1Traits_3_01Imath_1_1Vec2_3_01unsigned_01_4_01_4.html", null ],
@@ -527,17 +529,15 @@ var hierarchy =
     [ "possumwood::Traits< opencv::LightfieldVignetting >", "structpossumwood_1_1Traits_3_01opencv_1_1LightfieldVignetting_01_4.html", null ],
     [ "possumwood::Traits< opencv::Sequence >", "structpossumwood_1_1Traits_3_01opencv_1_1Sequence_01_4.html", null ],
     [ "possumwood::Traits< polymesh::GenericPolymesh >", "structpossumwood_1_1Traits_3_01polymesh_1_1GenericPolymesh_01_4.html", null ],
-    [ "possumwood::Traits< std::shared_ptr< const FragmentShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01FragmentShader_01_4_01_4.html", null ],
-    [ "possumwood::Traits< std::shared_ptr< const GeometryShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01GeometryShader_01_4_01_4.html", null ],
+    [ "possumwood::Traits< Program >", "structpossumwood_1_1Traits_3_01Program_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const lua::State > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01lua_1_1State_01_4_01_4.html", null ],
-    [ "possumwood::Traits< std::shared_ptr< const Program > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Program_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::shared_ptr< const std::vector< anim::SkinnedMesh > > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01std_1_1vector_3_01anim_1_1SkinnedMesh_01_4_01_4_01_4.html", null ],
-    [ "possumwood::Traits< std::shared_ptr< const Uniforms > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01Uniforms_01_4_01_4.html", null ],
-    [ "possumwood::Traits< std::shared_ptr< const VertexData > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexData_01_4_01_4.html", null ],
-    [ "possumwood::Traits< std::shared_ptr< const VertexShader > >", "structpossumwood_1_1Traits_3_01std_1_1shared__ptr_3_01const_01VertexShader_01_4_01_4.html", null ],
     [ "possumwood::Traits< std::string >", "structpossumwood_1_1Traits_3_01std_1_1string_01_4.html", null ],
     [ "possumwood::Traits< std::vector< cv::Rect > >", "structpossumwood_1_1Traits_3_01std_1_1vector_3_01cv_1_1Rect_01_4_01_4.html", null ],
     [ "possumwood::Traits< T, typename std::enable_if< std::is_arithmetic< T >::value >::type >", "structpossumwood_1_1Traits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__arithmetic_3_0d8c0595ba092f38fa03f72dcf55dd8c7.html", null ],
+    [ "possumwood::Traits< Uniforms >", "structpossumwood_1_1Traits_3_01Uniforms_01_4.html", null ],
+    [ "possumwood::Traits< VertexData >", "structpossumwood_1_1Traits_3_01VertexData_01_4.html", null ],
+    [ "possumwood::Traits< VertexShader >", "structpossumwood_1_1Traits_3_01VertexShader_01_4.html", null ],
     [ "possumwood::Traits< void >", "structpossumwood_1_1Traits_3_01void_01_4.html", null ],
     [ "possumwood::Traits<::lightfields::Pattern >", "structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4.html", null ],
     [ "anim::Transform", "structanim_1_1Transform.html", null ],
@@ -566,6 +566,7 @@ var hierarchy =
     [ "possumwood::polymesh::GenericPolymesh::Vertex", "classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Vertex.html", null ],
     [ "anim::SkinnedVertices::Vertex", "classanim_1_1SkinnedVertices_1_1Vertex.html", null ],
     [ "possumwood::CGALItems::Vertex_wrapper< Refs, Traits >", "structpossumwood_1_1CGALItems_1_1Vertex__wrapper.html", null ],
+    [ "possumwood::VertexData", "classpossumwood_1_1VertexData.html", null ],
     [ "possumwood::VertexExtractor< VAL >", "structpossumwood_1_1VertexExtractor.html", null ],
     [ "possumwood::ViewportState", "classpossumwood_1_1ViewportState.html", null ],
     [ "anim::Skinning::Weight", "structanim_1_1Skinning_1_1Weight.html", null ]

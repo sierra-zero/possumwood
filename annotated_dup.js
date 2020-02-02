@@ -43,7 +43,6 @@ var annotated_dup =
     [ "TimelineWidget", "classTimelineWidget.html", "classTimelineWidget" ],
     [ "Toolbar", "classToolbar.html", "classToolbar" ],
     [ "TreeWidget", "classTreeWidget.html", "classTreeWidget" ],
-    [ "Uniforms", "classUniforms.html", "classUniforms" ],
     [ "unsigned_ui", "classunsigned__ui.html", "classunsigned__ui" ],
     [ "VBO", "classVBO.html", "classVBO" ],
     [ "vec2_ui", "classvec2__ui.html", "classvec2__ui" ],
