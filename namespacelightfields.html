@@ -94,23 +94,61 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1LensletGraph.html">LensletGraph</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Metadata.html">Metadata</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Image metadata holder - instantiated by loading a <a class="el" href="classlightfields_1_1Raw.html">Raw</a> image, but handled as a separate type in Possumwood.  <a href="classlightfields_1_1Metadata.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Pattern.html">Pattern</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Raw.html">Raw</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Samples.html">Samples</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Creates 2D samples for lightfield refocusing (i.e., sampling a 2D plane in 4D space with constant U and V).  <a href="classlightfields_1_1Samples.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:a4c751bd47d5dfe3a0c7fe3a98392b095"><td class="memItemLeft" align="right" valign="top">std::istream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelightfields.html#a4c751bd47d5dfe3a0c7fe3a98392b095">operator&gt;&gt;</a> (std::istream &amp;in, <a class="el" href="structlightfields_1_1Block.html">Block</a> &amp;block)</td></tr>
 <tr class="separator:a4c751bd47d5dfe3a0c7fe3a98392b095"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32749891a4c5adf5b447396e7bc1406c"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelightfields.html#a32749891a4c5adf5b447396e7bc1406c">operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="classlightfields_1_1Metadata.html">Metadata</a> &amp;meta)</td></tr>
+<tr class="separator:a32749891a4c5adf5b447396e7bc1406c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0b0045aaa81b08547243cf44ab81392f"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelightfields.html#a0b0045aaa81b08547243cf44ab81392f">operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="classlightfields_1_1Pattern.html">Pattern</a> &amp;p)</td></tr>
 <tr class="separator:a0b0045aaa81b08547243cf44ab81392f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2cc36c4e7fb309a0d0849081b1e993cc"><td class="memItemLeft" align="right" valign="top">std::istream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelightfields.html#a2cc36c4e7fb309a0d0849081b1e993cc">operator&gt;&gt;</a> (std::istream &amp;in, <a class="el" href="classlightfields_1_1Raw.html">Raw</a> &amp;data)</td></tr>
 <tr class="separator:a2cc36c4e7fb309a0d0849081b1e993cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89f2be885920ca394cab1f761f2de809"><td class="memItemLeft" align="right" valign="top">std::ostream &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacelightfields.html#a89f2be885920ca394cab1f761f2de809">operator&lt;&lt;</a> (std::ostream &amp;out, const <a class="el" href="classlightfields_1_1Samples.html">Samples</a> &amp;f)</td></tr>
+<tr class="separator:a89f2be885920ca394cab1f761f2de809"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
+<a id="a32749891a4c5adf5b447396e7bc1406c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32749891a4c5adf5b447396e7bc1406c">&#9670;&nbsp;</a></span>operator<<() <span class="overload">[1/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::ostream &amp; lightfields::operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">std::ostream &amp;&#160;</td>
+          <td class="paramname"><em>out</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classlightfields_1_1Metadata.html">Metadata</a> &amp;&#160;</td>
+          <td class="paramname"><em>meta</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a0b0045aaa81b08547243cf44ab81392f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0b0045aaa81b08547243cf44ab81392f">&#9670;&nbsp;</a></span>operator<<()</h2>
+<h2 class="memtitle"><span class="permalink"><a href="#a0b0045aaa81b08547243cf44ab81392f">&#9670;&nbsp;</a></span>operator<<() <span class="overload">[2/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -126,6 +164,34 @@ Functions</h2></td></tr>
           <td></td>
           <td class="paramtype">const <a class="el" href="classlightfields_1_1Pattern.html">Pattern</a> &amp;&#160;</td>
           <td class="paramname"><em>p</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a89f2be885920ca394cab1f761f2de809"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a89f2be885920ca394cab1f761f2de809">&#9670;&nbsp;</a></span>operator<<() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::ostream &amp; lightfields::operator&lt;&lt; </td>
+          <td>(</td>
+          <td class="paramtype">std::ostream &amp;&#160;</td>
+          <td class="paramname"><em>out</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="classlightfields_1_1Samples.html">Samples</a> &amp;&#160;</td>
+          <td class="paramname"><em>f</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -199,7 +265,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li>
-    <li class="footer">Generated on Sun Feb 2 2020 14:07:40 for possumwood by
+    <li class="footer">Generated on Sun Feb 16 2020 15:17:09 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

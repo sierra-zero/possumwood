@@ -1,12 +1,11 @@
 var searchData=
 [
   ['labeldistance',['labelDistance',['../classTimeline.html#a365fe535feca08a731b1097cdb215339',1,'Timeline']]],
-  ['lensletgraph',['LensletGraph',['../classlightfields_1_1LensletGraph.html#a6083ed80ac4fcb17cc70b2837f9edfed',1,'lightfields::LensletGraph::LensletGraph(cv::Vec2i sensorSize, int exclusionBorder)'],['../classlightfields_1_1LensletGraph.html#a5e1927a2d6ede86f3b50a7ac10996a3a',1,'lightfields::LensletGraph::LensletGraph(const LensletGraph &amp;)=delete']]],
+  ['lensletgraph',['LensletGraph',['../classlightfields_1_1LensletGraph.html#a9371a4642e7a50966c693caa808e9510',1,'lightfields::LensletGraph::LensletGraph(Imath::V2i sensorSize, int exclusionBorder)'],['../classlightfields_1_1LensletGraph.html#a5e1927a2d6ede86f3b50a7ac10996a3a',1,'lightfields::LensletGraph::LensletGraph(const LensletGraph &amp;)=delete']]],
   ['lenspitch',['lensPitch',['../classlightfields_1_1LensletGraph.html#a8fae737ab00465d7ba587fc4c5f21f2c',1,'lightfields::LensletGraph']]],
   ['level',['level',['../classpossumwood_1_1opencv_1_1BSplineHierarchy.html#ae4c43cea0f28d3107f859ff3123a1398',1,'possumwood::opencv::BSplineHierarchy']]],
   ['lexer',['lexer',['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#abde406b1a279ca16bd9b3c8a25ab49e9',1,'possumwood::io::basic_json::lexer']]],
   ['lexical_5fcast',['lexical_cast',['../namespaceanim.html#a49e4ef6318f18f90d765b4e127e65e76',1,'anim']]],
-  ['lightfieldsamples',['LightfieldSamples',['../classpossumwood_1_1opencv_1_1LightfieldSamples.html#ac50b1229494c7dc4352b4028312f1948',1,'possumwood::opencv::LightfieldSamples::LightfieldSamples()'],['../classpossumwood_1_1opencv_1_1LightfieldSamples.html#ab3b5e14d3ebbcf26b7697fab72fee035',1,'possumwood::opencv::LightfieldSamples::LightfieldSamples(const ::lightfields::Pattern &amp;pattern, float uvOffset, float uvThreshold, float xy_scale)']]],
   ['lightfieldvignetting',['LightfieldVignetting',['../classpossumwood_1_1opencv_1_1LightfieldVignetting.html#ad1b86cfd62c234482a58d6dbef083bb8',1,'possumwood::opencv::LightfieldVignetting::LightfieldVignetting()'],['../classpossumwood_1_1opencv_1_1LightfieldVignetting.html#a5f9ea4d23da4bd71283c2f23c80017f0',1,'possumwood::opencv::LightfieldVignetting::LightfieldVignetting(std::size_t subdiv, const lightfields::Pattern &amp;pattern, const cv::Mat &amp;image)']]],
   ['limitinfluencecount',['limitInfluenceCount',['../classanim_1_1Skinning.html#af67ea98a45923bafce1fd00bf8493e07',1,'anim::Skinning']]],
   ['lineartransition',['LinearTransition',['../classanim_1_1filter_1_1LinearTransition.html#ab5bbf31d01d90743daabe79ef81c0ff9',1,'anim::filter::LinearTransition']]],

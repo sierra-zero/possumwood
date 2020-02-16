@@ -8,7 +8,6 @@ var searchData=
   ['lexicalcasthelper_3c_20boost_3a_3afilesystem_3a_3apath_2c_20std_3a_3astring_20_3e',['LexicalCastHelper&lt; boost::filesystem::path, std::string &gt;',['../structanim_1_1LexicalCastHelper_3_01boost_1_1filesystem_1_1path_00_01std_1_1string_01_4.html',1,'anim']]],
   ['lexicalcasthelper_3c_20float_2c_20std_3a_3astring_20_3e',['LexicalCastHelper&lt; float, std::string &gt;',['../structanim_1_1LexicalCastHelper_3_01float_00_01std_1_1string_01_4.html',1,'anim']]],
   ['lexicalcasthelper_3c_20std_3a_3astring_2c_20std_3a_3avector_3c_20t_20_3e_20_3e',['LexicalCastHelper&lt; std::string, std::vector&lt; T &gt; &gt;',['../structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4.html',1,'anim']]],
-  ['lightfieldsamples',['LightfieldSamples',['../classpossumwood_1_1opencv_1_1LightfieldSamples.html',1,'possumwood::opencv']]],
   ['lightfieldvignetting',['LightfieldVignetting',['../classpossumwood_1_1opencv_1_1LightfieldVignetting.html',1,'possumwood::opencv']]],
   ['lineartransition',['LinearTransition',['../classanim_1_1filter_1_1LinearTransition.html',1,'anim::filter']]],
   ['link',['Link',['../structpossumwood_1_1actions_1_1detail_1_1Link.html',1,'possumwood::actions::detail']]],

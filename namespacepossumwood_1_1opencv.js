@@ -9,7 +9,6 @@ var namespacepossumwood_1_1opencv =
     [ "Exif", "classpossumwood_1_1opencv_1_1Exif.html", "classpossumwood_1_1opencv_1_1Exif" ],
     [ "ExifSequence", "classpossumwood_1_1opencv_1_1ExifSequence.html", "classpossumwood_1_1opencv_1_1ExifSequence" ],
     [ "Frame", "classpossumwood_1_1opencv_1_1Frame.html", "classpossumwood_1_1opencv_1_1Frame" ],
-    [ "LightfieldSamples", "classpossumwood_1_1opencv_1_1LightfieldSamples.html", "classpossumwood_1_1opencv_1_1LightfieldSamples" ],
     [ "LightfieldVignetting", "classpossumwood_1_1opencv_1_1LightfieldVignetting.html", "classpossumwood_1_1opencv_1_1LightfieldVignetting" ],
     [ "Sequence", "classpossumwood_1_1opencv_1_1Sequence.html", "classpossumwood_1_1opencv_1_1Sequence" ]
 ];

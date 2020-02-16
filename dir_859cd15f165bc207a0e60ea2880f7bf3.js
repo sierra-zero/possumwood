@@ -23,14 +23,13 @@ var dir_859cd15f165bc207a0e60ea2880f7bf3 =
     [ "exif_sequence.h", "exif__sequence_8h.html", "exif__sequence_8h" ],
     [ "frame.cpp", "plugins_2opencv_2frame_8cpp.html", "plugins_2opencv_2frame_8cpp" ],
     [ "frame.h", "opencv_2frame_8h.html", "opencv_2frame_8h" ],
-    [ "lightfield_pattern.cpp", "lightfield__pattern_8cpp.html", null ],
-    [ "lightfield_pattern.h", "lightfield__pattern_8h.html", [
-      [ "Traits<::lightfields::Pattern >", "structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4.html", "structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4" ]
-    ] ],
-    [ "lightfield_samples.cpp", "lightfield__samples_8cpp.html", "lightfield__samples_8cpp" ],
-    [ "lightfield_samples.h", "lightfield__samples_8h.html", "lightfield__samples_8h" ],
     [ "lightfield_vignetting.cpp", "lightfield__vignetting_8cpp.html", "lightfield__vignetting_8cpp" ],
     [ "lightfield_vignetting.h", "lightfield__vignetting_8h.html", "lightfield__vignetting_8h" ],
+    [ "lightfields.h", "lightfields_8h.html", [
+      [ "Traits< lightfields::Metadata >", "structpossumwood_1_1Traits_3_01lightfields_1_1Metadata_01_4.html", "structpossumwood_1_1Traits_3_01lightfields_1_1Metadata_01_4" ],
+      [ "Traits< lightfields::Samples >", "structpossumwood_1_1Traits_3_01lightfields_1_1Samples_01_4.html", "structpossumwood_1_1Traits_3_01lightfields_1_1Samples_01_4" ],
+      [ "Traits<::lightfields::Pattern >", "structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4.html", "structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4" ]
+    ] ],
     [ "rectangles.cpp", "rectangles_8cpp.html", "rectangles_8cpp" ],
     [ "rectangles.h", "rectangles_8h.html", "rectangles_8h" ],
     [ "sequence.cpp", "sequence_8cpp.html", "sequence_8cpp" ],

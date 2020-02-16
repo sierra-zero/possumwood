@@ -22,7 +22,7 @@ var searchData=
   ['display_2ecpp',['display.cpp',['../animation_2constraints_2display_8cpp.html',1,'(Global Namespace)'],['../frame_2display_8cpp.html',1,'(Global Namespace)'],['../mesh_2display_8cpp.html',1,'(Global Namespace)']]],
   ['divide_2ecpp',['divide.cpp',['../divide_8cpp.html',1,'']]],
   ['draw_2ecpp',['draw.cpp',['../draw_8cpp.html',1,'']]],
-  ['draw_5fpattern_2ecpp',['draw_pattern.cpp',['../draw__pattern_8cpp.html',1,'']]],
+  ['draw_5fsamples_2ecpp',['draw_samples.cpp',['../draw__samples_8cpp.html',1,'']]],
   ['drawable_2ecpp',['drawable.cpp',['../drawable_8cpp.html',1,'']]],
   ['drawable_2eh',['drawable.h',['../drawable_8h.html',1,'']]],
   ['drawfeatures_2ecpp',['drawFeatures.cpp',['../drawFeatures_8cpp.html',1,'']]],

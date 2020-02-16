@@ -9,7 +9,7 @@ var searchData=
   ['children',['children',['../structSkeletonTest.html#af32ba6cd137051c427efbf50f5e1b814',1,'SkeletonTest::children()'],['../x_8cpp.html#a737b7104bb23005824bff90a3c132bc3',1,'children():&#160;x.cpp']]],
   ['children_5fbegin',['children_begin',['../classanim_1_1Hierarchy_1_1Item.html#ad81c882d96f8583321b2e6e25514db8c',1,'anim::Hierarchy::Item']]],
   ['children_5fend',['children_end',['../classanim_1_1Hierarchy_1_1Item.html#ae905a9de63ce2e1b9551611ea6c23edd',1,'anim::Hierarchy::Item']]],
-  ['color',['color',['../structnode__editor_1_1Node_1_1PortDefinition.html#a70a97280d05ee3d33d4ce99c9a9cdf29',1,'node_editor::Node::PortDefinition::color()'],['../structpossumwood_1_1opencv_1_1LightfieldSamples_1_1Sample.html#a5691532f92649c3e2a5da4d797baa16a',1,'possumwood::opencv::LightfieldSamples::Sample::color()']]],
+  ['color',['color',['../structlightfields_1_1Samples_1_1Sample.html#a60e3aaf82c744cd9e4d6bb5ad0b4a927',1,'lightfields::Samples::Sample::color()'],['../structnode__editor_1_1Node_1_1PortDefinition.html#a70a97280d05ee3d33d4ce99c9a9cdf29',1,'node_editor::Node::PortDefinition::color()']]],
   ['comment',['comment',['../x_8cpp.html#a90111a504a39b0cb956a6c46b172608e',1,'x.cpp']]],
   ['commentstart',['commentStart',['../x_8cpp.html#abe6d8b34a832f08a7980967b1092ec1f',1,'x.cpp']]],
   ['connections',['connections',['../structnode__editor_1_1GraphScene_1_1Selection.html#ac4b44f9d9bf585a6d170487ba177ae2e',1,'node_editor::GraphScene::Selection']]],

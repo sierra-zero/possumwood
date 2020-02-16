@@ -1,7 +1,0 @@
-<map id="src/plugins/opencv/lightfield_samples.h" name="src/plugins/opencv/lightfield_samples.h">
-<area shape="rect" id="node2" href="$lightfield__samples_8cpp.html" title="src/plugins/opencv\l/lightfield_samples.cpp" alt="" coords="5,102,177,143"/>
-<area shape="rect" id="node3" href="$integrate__bezier_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_bezier.cpp" alt="" coords="201,95,397,151"/>
-<area shape="rect" id="node4" href="$integrate__gaussian_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_gaussian.cpp" alt="" coords="421,95,617,151"/>
-<area shape="rect" id="node5" href="$integrate__nearest_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_nearest.cpp" alt="" coords="641,95,837,151"/>
-<area shape="rect" id="node6" href="$samples__refocus_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/samples\l_refocus.cpp" alt="" coords="862,95,1054,151"/>
-</map>

@@ -9,7 +9,7 @@ var searchData=
   ['undo_5fstack_2eh',['undo_stack.h',['../undo__stack_8h.html',1,'']]],
   ['undoaction',['undoAction',['../classAdaptor.html#ad6ace4e0207f7286959f3a02068c3fa7',1,'Adaptor']]],
   ['undoactioncount',['undoActionCount',['../classpossumwood_1_1UndoStack.html#a10da3c8dfa705a0725b5574f4a609e6a',1,'possumwood::UndoStack']]],
-  ['undostack',['UndoStack',['../classpossumwood_1_1UndoStack.html',1,'possumwood::UndoStack'],['../classpossumwood_1_1UndoStack_1_1Action.html#aa511a43d61693c080c90e829de561834',1,'possumwood::UndoStack::Action::UndoStack()'],['../classpossumwood_1_1UndoStack.html#a93498adfabd1a7cd9fc1af4a4bdf6848',1,'possumwood::UndoStack::UndoStack()'],['../classpossumwood_1_1AppCore.html#a8507b9587371ceba672687266fd7104d',1,'possumwood::AppCore::undoStack()']]],
+  ['undostack',['UndoStack',['../classpossumwood_1_1UndoStack.html',1,'possumwood::UndoStack'],['../classpossumwood_1_1AppCore.html#a8507b9587371ceba672687266fd7104d',1,'possumwood::AppCore::undoStack()'],['../classpossumwood_1_1UndoStack_1_1Action.html#aa511a43d61693c080c90e829de561834',1,'possumwood::UndoStack::Action::UndoStack()'],['../classpossumwood_1_1UndoStack.html#a93498adfabd1a7cd9fc1af4a4bdf6848',1,'possumwood::UndoStack::UndoStack()']]],
   ['unescape',['unescape',['../classpossumwood_1_1io_1_1basic__json_1_1json__pointer.html#af61afaa97cfec9a0817b58717cb66d78',1,'possumwood::io::basic_json::json_pointer']]],
   ['unexpect',['unexpect',['../classpossumwood_1_1io_1_1basic__json_1_1parser.html#a00cb2a9906efd90fbcdd13ddec44fbee',1,'possumwood::io::basic_json::parser']]],
   ['unflatten',['unflatten',['../classpossumwood_1_1io_1_1basic__json_1_1json__pointer.html#a6fee21585c67d92ccfb0df2d9be0f490',1,'possumwood::io::basic_json::json_pointer::unflatten()'],['../classpossumwood_1_1io_1_1basic__json.html#a890f2633c37962ef3b8fcd588b04d060',1,'possumwood::io::basic_json::unflatten()']]],
@@ -43,5 +43,6 @@ var searchData=
   ['updatevertexdata',['updateVertexData',['../classpossumwood_1_1GLRenderable.html#aa31609e7b17bbdfc52b44cc2092a2c7d',1,'possumwood::GLRenderable']]],
   ['upvector',['upVector',['../classpossumwood_1_1ViewportState.html#a1c939e0d77abd79a64a351cf0c8c7018',1,'possumwood::ViewportState']]],
   ['use',['use',['../classpossumwood_1_1Texture.html#af340c82f1b98035a94bb54998e21a27e',1,'possumwood::Texture::use()'],['../classpossumwood_1_1Uniforms.html#a39f42713a0a47512e1ac80ee130dd1ae',1,'possumwood::Uniforms::use()'],['../classpossumwood_1_1VBOBase.html#a80d649221a42e9c03a6ce8ead6ad539a',1,'possumwood::VBOBase::use()'],['../classpossumwood_1_1VertexData.html#a3eb49e6995dabe478f9890916dcd8753',1,'possumwood::VertexData::use()']]],
-  ['usefunctor',['useFunctor',['../structpossumwood_1_1Uniforms_1_1UniformHolder.html#aa08a7f9b366a8642f628ba316bc1704f',1,'possumwood::Uniforms::UniformHolder']]]
+  ['usefunctor',['useFunctor',['../structpossumwood_1_1Uniforms_1_1UniformHolder.html#aa08a7f9b366a8642f628ba316bc1704f',1,'possumwood::Uniforms::UniformHolder']]],
+  ['uv',['uv',['../structlightfields_1_1Samples_1_1Sample.html#a5e18bfb14109b4caa2b60a67777d4fcc',1,'lightfields::Samples::Sample']]]
 ];

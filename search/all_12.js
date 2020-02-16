@@ -3,7 +3,7 @@ var searchData=
   ['random_5fwalk_2ecpp',['random_walk.cpp',['../random__walk_8cpp.html',1,'']]],
   ['randomwalk',['randomWalk',['../classanim_1_1MotionGraph.html#a3a45ac318d1f8171ab8b705acf0d4a50',1,'anim::MotionGraph']]],
   ['range',['range',['../classTimeline.html#ab7ee469c04a17068852f189820947a15',1,'Timeline']]],
-  ['raw',['Raw',['../classlightfields_1_1Raw.html',1,'lightfields::Raw'],['../classlightfields_1_1Raw.html#a5bb321c5d1c837995328f89bf0a810c6',1,'lightfields::Raw::Raw()']]],
+  ['raw',['Raw',['../classlightfields_1_1Raw.html',1,'lightfields::Raw'],['../classlightfields_1_1Metadata.html#a6b5530125950d160369d34050fbe03c1',1,'lightfields::Metadata::Raw()'],['../classlightfields_1_1Raw.html#a5bb321c5d1c837995328f89bf0a810c6',1,'lightfields::Raw::Raw()']]],
   ['raw_2ecpp',['raw.cpp',['../raw_8cpp.html',1,'']]],
   ['raw_2eh',['raw.h',['../raw_8h.html',1,'']]],
   ['rbegin',['rbegin',['../classpossumwood_1_1io_1_1basic__json.html#aff24026b71dbe2eefbddef234fea0767',1,'possumwood::io::basic_json::rbegin() noexcept'],['../classpossumwood_1_1io_1_1basic__json.html#aa000a61c5a377257022b1afec75643bb',1,'possumwood::io::basic_json::rbegin() const noexcept']]],

@@ -1,5 +1,8 @@
 var searchData=
 [
+  ['samples_2ecpp',['samples.cpp',['../samples_8cpp.html',1,'']]],
+  ['samples_2eh',['samples.h',['../samples_8h.html',1,'']]],
+  ['samples_5ffrom_5fmetadata_2ecpp',['samples_from_metadata.cpp',['../samples__from__metadata_8cpp.html',1,'']]],
   ['samples_5frefocus_2ecpp',['samples_refocus.cpp',['../samples__refocus_8cpp.html',1,'']]],
   ['script_2ecpp',['script.cpp',['../script_8cpp.html',1,'']]],
   ['searchable_5fmenu_2ecpp',['searchable_menu.cpp',['../searchable__menu_8cpp.html',1,'']]],
