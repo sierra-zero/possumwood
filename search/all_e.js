@@ -4,6 +4,8 @@ var searchData=
   ['name_5fseparator',['name_separator',['../classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a4dce505310c02f95ab4d6433828f088eacc3c64f8ae08c00de1b33f19a4d2913a',1,'possumwood::io::basic_json::lexer']]],
   ['namechanged',['nameChanged',['../classdependency__graph_1_1Graph.html#a95f0fe12f84033a16d58dfc71b565230',1,'dependency_graph::Graph']]],
   ['names',['names',['../classpossumwood_1_1Uniforms.html#ad2b253074e8e921831de47626c995667',1,'possumwood::Uniforms::names()'],['../classpossumwood_1_1VertexData.html#a3e6e8dfe41804363bb15d6b85b5d3671',1,'possumwood::VertexData::names()']]],
+  ['nearest_5fintegration_2ecpp',['nearest_integration.cpp',['../nearest__integration_8cpp.html',1,'']]],
+  ['nearest_5fintegration_2eh',['nearest_integration.h',['../nearest__integration_8h.html',1,'']]],
   ['needsupdate',['needsUpdate',['../structpossumwood_1_1GLRenderable_1_1VBOData.html#ad04b5ad1cd41fdda09fcfe122afbefb1',1,'possumwood::GLRenderable::VBOData']]],
   ['negation',['negation',['../structpossumwood_1_1io_1_1detail_1_1negation.html',1,'possumwood::io::detail']]],
   ['neighbourcount',['neighbourCount',['../lenslet__graph_8cpp.html#aeb2c8eff63d2b3442d88fe7d1141e95b',1,'lenslet_graph.cpp']]],

@@ -1,5 +1,11 @@
 var NAVTREEINDEX10 =
 {
+"classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a2ad8321c1d9ef74c2d0147f6b020ff9b":[2,0,5,2,2,3,2],
+"classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a4bdb2e73cca7fbd23daddfe03d8da798":[2,0,5,2,2,3,6],
+"classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a5fc86381adff9baea0a1b443e7341364":[2,0,5,2,2,3,3],
+"classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a5fd4e3f63745711b49d1065b271747fa":[2,0,5,2,2,3,8],
+"classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a673a79905b3dd7e2bb1200ac6d20c25e":[2,0,5,2,2,3,9],
+"classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a6ca94fe55849f3330f40f8391f8e2784":[2,0,5,2,2,3,4],
 "classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a6f79255ead52552d02214f3ef90a19f8":[2,0,5,2,2,3,5],
 "classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#a893a90875bbc35700de6c092c5170d03":[2,0,5,2,2,3,0],
 "classpossumwood_1_1io_1_1basic__json_1_1input__adapter.html#ada9b507f11370b393f612b86bb7a5796":[2,0,5,2,2,3,7],
@@ -243,11 +249,5 @@ var NAVTREEINDEX10 =
 "classpossumwood_1_1io_1_1detail_1_1other__error.html#a58d044faab7e8f76155b55968e64320e":[2,0,5,2,0,26,1],
 "classpossumwood_1_1io_1_1detail_1_1out__of__range.html":[2,0,5,2,0,27],
 "classpossumwood_1_1io_1_1detail_1_1out__of__range.html#a6df1caa014f72586176dfda01d0a8782":[2,0,5,2,0,27,1],
-"classpossumwood_1_1io_1_1detail_1_1out__of__range.html#aed58bff8042c98f6dca1488b5010ffd4":[2,0,5,2,0,27,0],
-"classpossumwood_1_1io_1_1detail_1_1parse__error.html":[2,0,5,2,0,28],
-"classpossumwood_1_1io_1_1detail_1_1parse__error.html#a0d8899d330889139411388dcc8c9899f":[2,0,5,2,0,28,0],
-"classpossumwood_1_1io_1_1detail_1_1parse__error.html#aa3ef4c7bdab475f52d064ab6cfc5094e":[2,0,5,2,0,28,2],
-"classpossumwood_1_1io_1_1detail_1_1parse__error.html#ad5aaff39b0e863a9c03bf8efb4304206":[2,0,5,2,0,28,1],
-"classpossumwood_1_1io_1_1detail_1_1type__error.html":[2,0,5,2,0,33],
-"classpossumwood_1_1io_1_1detail_1_1type__error.html#a7753f9be87f518e738e9cfaa6d1ea470":[2,0,5,2,0,33,0]
+"classpossumwood_1_1io_1_1detail_1_1out__of__range.html#aed58bff8042c98f6dca1488b5010ffd4":[2,0,5,2,0,27,0]
 };

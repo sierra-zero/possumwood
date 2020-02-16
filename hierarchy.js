@@ -58,6 +58,7 @@ var hierarchy =
     [ "dependency_graph::Datablock", "classdependency__graph_1_1Datablock.html", null ],
     [ "dependency_graph::DataTraits< T, ENABLE >", "structdependency__graph_1_1DataTraits.html", null ],
     [ "dependency_graph::DataTraits< T, typename std::enable_if< std::is_convertible< decltype(std::declval< T >()==std::declval< T >()), bool >::value >::type >", "structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html", null ],
+    [ "lightfields::Depth", "classlightfields_1_1Depth.html", null ],
     [ "possumwood::Description", "classpossumwood_1_1Description.html", null ],
     [ "possumwood::BufferTemplated< T >::Element", "classpossumwood_1_1BufferTemplated_1_1Element.html", null ],
     [ "enable_shared_from_this", null, [
@@ -462,6 +463,7 @@ var hierarchy =
     ] ],
     [ "lightfields::Raw", "classlightfields_1_1Raw.html", null ],
     [ "RenderContext", "classRenderContext.html", null ],
+    [ "lightfields::nearest::Result", "structlightfields_1_1nearest_1_1Result.html", null ],
     [ "reverse_iterator", null, [
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classpossumwood_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
@@ -470,8 +472,8 @@ var hierarchy =
     [ "lightfields::Samples::Sample", "structlightfields_1_1Samples_1_1Sample.html", null ],
     [ "lightfields::Samples", "classlightfields_1_1Samples.html", null ],
     [ "dependency_graph::io::SaveableRegistration", "structdependency__graph_1_1io_1_1SaveableRegistration.html", null ],
-    [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
+    [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "possumwood::opencv::Sequence", "classpossumwood_1_1opencv_1_1Sequence.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classpossumwood_1_1io_1_1basic__json_1_1serializer.html", null ],
     [ "possumwood::Shader", "classpossumwood_1_1Shader.html", [

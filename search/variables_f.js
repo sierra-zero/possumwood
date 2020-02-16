@@ -5,6 +5,7 @@ var searchData=
   ['s_5fpf',['s_pf',['../classpossumwood_1_1properties_1_1property.html#ac19491df7ca8e0f2c3e0014d957a3bfd',1,'possumwood::properties::property']]],
   ['s_5frefresh',['s_refresh',['../classpossumwood_1_1Drawable.html#aee309b843440d7ee4a45fa1f78e35121',1,'possumwood::Drawable']]],
   ['s_5fsaveableregistration',['s_saveableRegistration',['../namespacedependency__graph_1_1io.html#a2fffe1ae812d0d9b1ed69a4f0b7c026d',1,'dependency_graph::io::s_saveableRegistration()'],['../namespacedependency__graph_1_1io.html#a2fffe1ae812d0d9b1ed69a4f0b7c026d',1,'dependency_graph::io::s_saveableRegistration()']]],
+  ['samples',['samples',['../structlightfields_1_1nearest_1_1Result.html#a33f0a1777c02e81bc93d079d750d1e7b',1,'lightfields::nearest::Result']]],
   ['sensorsize',['sensorSize',['../structlightfields_1_1LensletGraph_1_1Pimpl.html#ac0c4b921344be5c1be2c7ea0a87f6668',1,'lightfields::LensletGraph::Pimpl']]],
   ['size',['size',['../structpossumwood_1_1VertexData_1_1VBOHolder.html#a6915fb34c9ae28c34ef36560a04ec64e',1,'possumwood::VertexData::VBOHolder']]],
   ['skeleton',['skeleton',['../structopenanim_1_1RigData.html#a4293272d5655b303a11aef6fccb55760',1,'openanim::RigData']]],

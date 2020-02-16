@@ -16,5 +16,6 @@ var searchData=
   ['array',['array',['../unionpossumwood_1_1io_1_1basic__json_1_1json__value.html#aef9ac9c9cafffb6b4bbc77ea0ae11790',1,'possumwood::io::basic_json::json_value']]],
   ['array_5findex',['array_index',['../classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html#a443d436781229e437a2685e883676e15',1,'possumwood::io::basic_json::iteration_proxy::iteration_proxy_internal']]],
   ['array_5fiterator',['array_iterator',['../structpossumwood_1_1io_1_1basic__json_1_1internal__iterator.html#ab9070524ec2cba9766873818d03ed1b5',1,'possumwood::io::basic_json::internal_iterator']]],
-  ['attrs',['attrs',['../classanim_1_1Hierarchy_1_1Item.html#a01557c4e991b63d35752f65484b3c613',1,'anim::Hierarchy::Item']]]
+  ['attrs',['attrs',['../classanim_1_1Hierarchy_1_1Item.html#a01557c4e991b63d35752f65484b3c613',1,'anim::Hierarchy::Item']]],
+  ['average',['average',['../structlightfields_1_1nearest_1_1Result.html#a4dbff58ae854ff6c8bba05ae627d2eb7',1,'lightfields::nearest::Result']]]
 ];

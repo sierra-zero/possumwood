@@ -24,6 +24,7 @@ var searchData=
   ['instantiatemetadata',['instantiateMetadata',['../namespacedependency__graph.html#ae82707007ef7a6933c70336fa0975f5f',1,'dependency_graph']]],
   ['int_5fui',['int_ui',['../classint__ui.html#a4846197cc458212654921c950acb1073',1,'int_ui']]],
   ['intadditionnode',['intAdditionNode',['../tests_2possumwood_2common_8cpp.html#ae53c796bba5c409b124c09479d1c06cf',1,'intAdditionNode():&#160;common.cpp'],['../tests_2possumwood_2common_8h.html#ae53c796bba5c409b124c09479d1c06cf',1,'intAdditionNode():&#160;common.cpp']]],
+  ['integrate',['integrate',['../namespacelightfields_1_1nearest.html#a5af69b2835d3826ea13c5d03048eb0df',1,'lightfields::nearest']]],
   ['internal_5fiterator',['internal_iterator',['../structpossumwood_1_1io_1_1basic__json_1_1internal__iterator.html#ad9947274c4ec6c224a0a4bb2fdb8c6ba',1,'possumwood::io::basic_json::internal_iterator']]],
   ['interval',['Interval',['../classpossumwood_1_1maths_1_1Interval.html#a32c35aa2d29f67d3731a01c9485e601c',1,'possumwood::maths::Interval']]],
   ['interval_5fui',['interval_ui',['../classinterval__ui.html#ad1ed7d67b7bbff8ce505f991aaf1d762',1,'interval_ui']]],

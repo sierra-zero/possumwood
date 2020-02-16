@@ -1,5 +1,11 @@
 var NAVTREEINDEX13 =
 {
+"convert_8cpp.html":[3,0,0,2,5,0,19],
+"createPattern_8cpp.html":[3,0,0,2,5,0,1,2],
+"create_8cpp.html":[3,0,0,2,0,1,0,1,0],
+"crop_8cpp.html":[3,0,0,2,5,0,20],
+"cube_8cpp.html":[3,0,0,2,4,1,1],
+"data_8cpp.html":[3,0,0,1,1,7],
 "data_8cpp.html#a0a3453a0a9c626e0161d501256ec38ae":[3,0,0,1,1,7,0],
 "data_8h.html":[3,0,0,1,1,8],
 "data_8h.html#a0a3453a0a9c626e0161d501256ec38ae":[3,0,0,1,1,8,4],
@@ -74,6 +80,9 @@ var NAVTREEINDEX13 =
 "dependency__graph_2values_8h.html":[3,0,0,1,1,49],
 "dependency__graph_2values_8h_source.html":[3,0,0,1,1,49],
 "deprecated.html":[0],
+"depth_8cpp.html":[3,0,0,1,2,2],
+"depth_8h.html":[3,0,0,1,2,3],
+"depth_8h_source.html":[3,0,0,1,2,3],
 "description_8cpp.html":[3,0,0,1,3,12],
 "description_8h.html":[3,0,0,1,3,13],
 "description_8h_source.html":[3,0,0,1,3,13],
@@ -240,14 +249,5 @@ var NAVTREEINDEX13 =
 "functions_0x7e.html":[2,3,0,26],
 "functions_a.html":[2,3,0,1],
 "functions_b.html":[2,3,0,2],
-"functions_c.html":[2,3,0,3],
-"functions_d.html":[2,3,0,4],
-"functions_e.html":[2,3,0,5],
-"functions_enum.html":[2,3,4],
-"functions_eval.html":[2,3,5],
-"functions_f.html":[2,3,0,6],
-"functions_func.html":[2,3,1],
-"functions_func.html":[2,3,1,0],
-"functions_func_0x7e.html":[2,3,1,23],
-"functions_func_b.html":[2,3,1,1]
+"functions_c.html":[2,3,0,3]
 };

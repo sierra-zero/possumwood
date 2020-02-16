@@ -47,6 +47,7 @@ var searchData=
   ['int_5fui_2ecpp',['int_ui.cpp',['../int__ui_8cpp.html',1,'']]],
   ['int_5fui_2eh',['int_ui.h',['../int__ui_8h.html',1,'']]],
   ['intadditionnode',['intAdditionNode',['../tests_2possumwood_2common_8cpp.html#ae53c796bba5c409b124c09479d1c06cf',1,'intAdditionNode():&#160;common.cpp'],['../tests_2possumwood_2common_8h.html#ae53c796bba5c409b124c09479d1c06cf',1,'intAdditionNode():&#160;common.cpp']]],
+  ['integrate',['integrate',['../namespacelightfields_1_1nearest.html#a5af69b2835d3826ea13c5d03048eb0df',1,'lightfields::nearest']]],
   ['integrate_5fbezier_2ecpp',['integrate_bezier.cpp',['../integrate__bezier_8cpp.html',1,'']]],
   ['integrate_5fgaussian_2ecpp',['integrate_gaussian.cpp',['../integrate__gaussian_8cpp.html',1,'']]],
   ['integrate_5fmosaic_2ecpp',['integrate_mosaic.cpp',['../integrate__mosaic_8cpp.html',1,'']]],
