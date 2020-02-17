@@ -2,7 +2,7 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
 [
     [ "block.cpp", "block_8cpp.html", "block_8cpp" ],
     [ "block.h", "block_8h.html", "block_8h" ],
-    [ "depth.cpp", "depth_8cpp.html", null ],
+    [ "depth.cpp", "libs_2lightfields_2depth_8cpp.html", null ],
     [ "depth.h", "depth_8h.html", [
       [ "Depth", "classlightfields_1_1Depth.html", "classlightfields_1_1Depth" ]
     ] ],

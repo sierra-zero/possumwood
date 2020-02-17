@@ -54,6 +54,7 @@ var NAVTREEINDEX16 =
 "plugins_2lua_2datatypes_2state_8h_source.html":[3,0,0,2,3,0,3],
 "plugins_2opencv_2frame_8cpp.html":[3,0,0,2,5,17],
 "plugins_2opencv_2frame_8cpp.html#aff65c0f35b2db42795fa30e227164d27":[3,0,0,2,5,17,0],
+"plugins_2opencv_2nodes_2lightfields_2depth_8cpp.html":[3,0,0,2,5,0,7,1],
 "plugins_2opencv_2nodes_2metadata_8cpp.html":[3,0,0,2,5,0,34],
 "plugins_2opencv_2tools_8cpp.html":[3,0,0,2,5,26],
 "plugins_2opencv_2tools_8cpp.html#a2b183a41b3cd66857c2bbc81db19437d":[3,0,0,2,5,26,0],
@@ -156,8 +157,8 @@ var NAVTREEINDEX16 =
 "samples_8h.html":[3,0,0,1,2,15],
 "samples_8h.html#a89f2be885920ca394cab1f761f2de809":[3,0,0,1,2,15,2],
 "samples_8h_source.html":[3,0,0,1,2,15],
-"samples__from__metadata_8cpp.html":[3,0,0,2,5,0,7,9],
-"samples__refocus_8cpp.html":[3,0,0,2,5,0,7,10],
+"samples__from__metadata_8cpp.html":[3,0,0,2,5,0,7,10],
+"samples__refocus_8cpp.html":[3,0,0,2,5,0,7,11],
 "script_8cpp.html":[3,0,0,2,3,1,4],
 "searchable__menu_8cpp.html":[3,0,0,0,1,21],
 "searchable__menu_8h.html":[3,0,0,0,1,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX16 =
 "structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4.html":[2,0,0,15],
 "structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4.html#ad864d17d2c333cefe78567e3cd10c542":[2,0,0,15,0],
 "structanim_1_1MotionGraph_1_1Snippet_1_1Transition.html":[2,0,0,16,0,0],
-"structanim_1_1MotionGraph_1_1Snippet_1_1Transition.html#a32cda45fa9960299175d0db2274de013":[2,0,0,16,0,0,3],
-"structanim_1_1MotionGraph_1_1Snippet_1_1Transition.html#a385d9a7172f34403f82d8b8df97ba273":[2,0,0,16,0,0,2]
+"structanim_1_1MotionGraph_1_1Snippet_1_1Transition.html#a32cda45fa9960299175d0db2274de013":[2,0,0,16,0,0,3]
 };

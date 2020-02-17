@@ -1,5 +1,6 @@
 var NAVTREEINDEX17 =
 {
+"structanim_1_1MotionGraph_1_1Snippet_1_1Transition.html#a385d9a7172f34403f82d8b8df97ba273":[2,0,0,16,0,0,2],
 "structanim_1_1MotionGraph_1_1Snippet_1_1Transition.html#a8e8ee84dc196e7053b59fc310eb1de21":[2,0,0,16,0,0,1],
 "structanim_1_1MotionGraph_1_1Snippet_1_1Transition.html#af44e65b95fb8ef2425126fefee756a20":[2,0,0,16,0,0,0],
 "structanim_1_1Skinning_1_1Weight.html":[2,0,0,22,0],
@@ -94,8 +95,8 @@ var NAVTREEINDEX17 =
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#a3f73cded8632fe9b10a02d59bcf1424a":[2,0,1,0,0,1],
 "structdependency__graph_1_1detail_1_1MetadataAccess.html#ab43af5c6d5a699d6beb02a9248a005d8":[2,0,1,0,0,0],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html":[2,0,1,1,0],
-"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,2],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,0],
+"structdependency__graph_1_1io_1_1SaveableRegistration.html#a2a1c0d45961d39e9cd1f033e63aa5f00":[2,0,1,1,0,2],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,1],
 "structdependency__graph_1_1io_1_1SaveableRegistration.html#a9a5e494f101fd5a364bc208b65a8b425":[2,0,1,1,0,3],
 "structlightfields_1_1Block.html":[2,0,2,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX17 =
 "structpossumwood_1_1Texture_1_1Format.html#ad56f14d3bc48f96da3295695cfb4e309":[2,0,5,64,0,2],
 "structpossumwood_1_1Texture_1_1Format.html#adc07a4f0173e10c5da068eb64fda782b":[2,0,5,64,0,3],
 "structpossumwood_1_1Traits.html":[2,0,5,65],
-"structpossumwood_1_1Traits_3_01Enum_01_4.html":[2,0,5,74],
-"structpossumwood_1_1Traits_3_01Enum_01_4.html#a4386fc0db74011a0f4b3edfaab2bfa88":[2,0,5,74,0]
+"structpossumwood_1_1Traits_3_01Enum_01_4.html":[2,0,5,74]
 };

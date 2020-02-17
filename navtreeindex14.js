@@ -1,6 +1,5 @@
 var NAVTREEINDEX14 =
 {
-"functions_d.html":[2,3,0,4],
 "functions_e.html":[2,3,0,5],
 "functions_enum.html":[2,3,4],
 "functions_eval.html":[2,3,5],
@@ -168,10 +167,10 @@ var NAVTREEINDEX14 =
 "int__ui_8cpp.html":[3,0,0,2,4,2,4],
 "int__ui_8h.html":[3,0,0,2,4,2,5],
 "int__ui_8h_source.html":[3,0,0,2,4,2,5],
-"integrate__bezier_8cpp.html":[3,0,0,2,5,0,7,4],
-"integrate__gaussian_8cpp.html":[3,0,0,2,5,0,7,5],
-"integrate__mosaic_8cpp.html":[3,0,0,2,5,0,7,6],
-"integrate__nearest_8cpp.html":[3,0,0,2,5,0,7,7],
+"integrate__bezier_8cpp.html":[3,0,0,2,5,0,7,5],
+"integrate__gaussian_8cpp.html":[3,0,0,2,5,0,7,6],
+"integrate__mosaic_8cpp.html":[3,0,0,2,5,0,7,7],
+"integrate__nearest_8cpp.html":[3,0,0,2,5,0,7,8],
 "interval_8cpp.html":[3,0,0,2,4,3],
 "interval_8cpp.html#a205dc6a292f34ec221f847ef04f250fe":[3,0,0,2,4,3,0],
 "interval_8h.html":[3,0,0,2,4,4],
@@ -249,5 +248,6 @@ var NAVTREEINDEX14 =
 "json_8h.html#afddf7b55511947aba4cb977ac7dcc78e":[3,0,0,1,0,1,0,69],
 "json_8h_source.html":[3,0,0,1,0,1,0],
 "laplacian__smoothness_8cpp.html":[3,0,0,2,5,0,31],
-"lenslet__graph_8cpp.html":[3,0,0,1,2,4]
+"lenslet__graph_8cpp.html":[3,0,0,1,2,4],
+"lenslet__graph_8cpp.html#a28305710202d1824ace361a5ef4827b7":[3,0,0,1,2,4,2]
 };
