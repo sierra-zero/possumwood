@@ -11,7 +11,7 @@ var searchData=
   ['point',['Point',['../structpossumwood_1_1NodeData_1_1Point.html',1,'possumwood::NodeData']]],
   ['polyextractor',['PolyExtractor',['../structpossumwood_1_1PolyExtractor.html',1,'possumwood']]],
   ['polygon',['Polygon',['../classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Polygon.html',1,'possumwood::polymesh::GenericPolymesh']]],
-  ['polygons',['Polygons',['../classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Polygons.html',1,'possumwood::polymesh::GenericPolymesh::Polygons'],['../classanim_1_1Polygons.html',1,'anim::Polygons']]],
+  ['polygons',['Polygons',['../classanim_1_1Polygons.html',1,'anim::Polygons'],['../classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Polygons.html',1,'possumwood::polymesh::GenericPolymesh::Polygons']]],
   ['port',['Port',['../classdependency__graph_1_1Port.html',1,'dependency_graph::Port'],['../classnode__editor_1_1Port.html',1,'node_editor::Port']]],
   ['portdefinition',['PortDefinition',['../structnode__editor_1_1Node_1_1PortDefinition.html',1,'node_editor::Node']]],
   ['portid',['PortId',['../structdependency__graph_1_1Connections_1_1PortId.html',1,'dependency_graph::Connections']]],

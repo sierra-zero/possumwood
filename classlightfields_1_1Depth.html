@@ -80,6 +80,7 @@ $(document).ready(function(){initNavTree('classlightfields_1_1Depth.html','');})
 
 <div class="header">
   <div class="summary">
+<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="classlightfields_1_1Depth-members.html">List of all members</a>  </div>
@@ -90,16 +91,21 @@ $(document).ready(function(){initNavTree('classlightfields_1_1Depth.html','');})
 
 <p><code>#include &lt;<a class="el" href="depth_8h_source.html">depth.h</a>&gt;</code></p>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="nested-classes"></a>
+Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlightfields_1_1Depth_1_1Result.html">Result</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a675e9ec5f7a43dccfa9cfd34dceed12b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Depth.html#a675e9ec5f7a43dccfa9cfd34dceed12b">Depth</a> ()</td></tr>
 <tr class="separator:a675e9ec5f7a43dccfa9cfd34dceed12b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aea31a240dd766ffd0ee13a33b1f9bc92"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Depth.html#aea31a240dd766ffd0ee13a33b1f9bc92">addLayer</a> (float uv_offset, const cv::Mat &amp;confidence)</td></tr>
+<tr class="memitem:aea31a240dd766ffd0ee13a33b1f9bc92"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Depth.html#aea31a240dd766ffd0ee13a33b1f9bc92">addLayer</a> (float uv_offset, const cv::Mat &amp;<a class="el" href="libs_2lightfields_2depth_8cpp.html#a058b8558da894ebfbef73d1a9b57deaa">confidence</a>)</td></tr>
 <tr class="memdesc:aea31a240dd766ffd0ee13a33b1f9bc92"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adds a layer of correspondences. Can be called multiple times with the same uv_offset - will simply pick the highest level of confidence.  <a href="#aea31a240dd766ffd0ee13a33b1f9bc92">More...</a><br /></td></tr>
 <tr class="separator:aea31a240dd766ffd0ee13a33b1f9bc92"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a28edd3c48185679d1d90160d07453d21"><td class="memItemLeft" align="right" valign="top">cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Depth.html#a28edd3c48185679d1d90160d07453d21">eval</a> () const</td></tr>
-<tr class="memdesc:a28edd3c48185679d1d90160d07453d21"><td class="mdescLeft">&#160;</td><td class="mdescRight">evaluate the confidence levels - returns the highest level per-pixel  <a href="#a28edd3c48185679d1d90160d07453d21">More...</a><br /></td></tr>
-<tr class="separator:a28edd3c48185679d1d90160d07453d21"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af87f394b80772814b4b26df9f53bc280"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structlightfields_1_1Depth_1_1Result.html">Result</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Depth.html#af87f394b80772814b4b26df9f53bc280">eval</a> () const</td></tr>
+<tr class="memdesc:af87f394b80772814b4b26df9f53bc280"><td class="mdescLeft">&#160;</td><td class="mdescRight">evaluate the confidence levels - returns the highest level per-pixel  <a href="#af87f394b80772814b4b26df9f53bc280">More...</a><br /></td></tr>
+<tr class="separator:af87f394b80772814b4b26df9f53bc280"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afab1a06799646f5f8fd240402441ae7b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Depth.html#afab1a06799646f5f8fd240402441ae7b">empty</a> () const</td></tr>
 <tr class="separator:afab1a06799646f5f8fd240402441ae7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -174,14 +180,14 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a28edd3c48185679d1d90160d07453d21"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a28edd3c48185679d1d90160d07453d21">&#9670;&nbsp;</a></span>eval()</h2>
+<a id="af87f394b80772814b4b26df9f53bc280"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af87f394b80772814b4b26df9f53bc280">&#9670;&nbsp;</a></span>eval()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">cv::Mat lightfields::Depth::eval </td>
+          <td class="memname"><a class="el" href="structlightfields_1_1Depth_1_1Result.html">Depth::Result</a> lightfields::Depth::eval </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -226,7 +232,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1Depth.html">Depth</a></li>
-    <li class="footer">Generated on Mon Feb 17 2020 10:11:28 for possumwood by
+    <li class="footer">Generated on Tue Feb 18 2020 00:40:54 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

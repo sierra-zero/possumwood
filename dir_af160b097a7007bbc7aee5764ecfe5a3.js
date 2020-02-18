@@ -2,9 +2,10 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
 [
     [ "block.cpp", "block_8cpp.html", "block_8cpp" ],
     [ "block.h", "block_8h.html", "block_8h" ],
-    [ "depth.cpp", "libs_2lightfields_2depth_8cpp.html", null ],
+    [ "depth.cpp", "libs_2lightfields_2depth_8cpp.html", "libs_2lightfields_2depth_8cpp" ],
     [ "depth.h", "depth_8h.html", [
-      [ "Depth", "classlightfields_1_1Depth.html", "classlightfields_1_1Depth" ]
+      [ "Depth", "classlightfields_1_1Depth.html", "classlightfields_1_1Depth" ],
+      [ "Result", "structlightfields_1_1Depth_1_1Result.html", "structlightfields_1_1Depth_1_1Result" ]
     ] ],
     [ "lenslet_graph.cpp", "lenslet__graph_8cpp.html", "lenslet__graph_8cpp" ],
     [ "lenslet_graph.h", "lenslet__graph_8h.html", [
