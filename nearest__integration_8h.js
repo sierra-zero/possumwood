@@ -1,6 +1,5 @@
 var nearest__integration_8h =
 [
-    [ "Result", "structlightfields_1_1nearest_1_1Result.html", "structlightfields_1_1nearest_1_1Result" ],
-    [ "correspondence", "nearest__integration_8h.html#a99e0ae73753e114f436dd494419cb456", null ],
-    [ "integrate", "nearest__integration_8h.html#a5af69b2835d3826ea13c5d03048eb0df", null ]
+    [ "correspondence", "nearest__integration_8h.html#a220ab94cc997abc391f557cc1baa19fc", null ],
+    [ "integrate", "nearest__integration_8h.html#a8580a767a799b3298e0c283f027127c7", null ]
 ];

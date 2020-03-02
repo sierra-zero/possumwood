@@ -2,6 +2,8 @@ var searchData=
 [
   ['gamma_2ecpp',['gamma.cpp',['../gamma_8cpp.html',1,'']]],
   ['gaussian_5fblur_2ecpp',['gaussian_blur.cpp',['../gaussian__blur_8cpp.html',1,'']]],
+  ['gaussian_5fintegration_2ecpp',['gaussian_integration.cpp',['../gaussian__integration_8cpp.html',1,'']]],
+  ['gaussian_5fintegration_2eh',['gaussian_integration.h',['../gaussian__integration_8h.html',1,'']]],
   ['generic_5farray_2ecpp',['generic_array.cpp',['../generic__array_8cpp.html',1,'']]],
   ['generic_5farray_2eh',['generic_array.h',['../generic__array_8h.html',1,'']]],
   ['generic_5farray_2einl',['generic_array.inl',['../generic__array_8inl.html',1,'']]],
@@ -90,9 +92,12 @@ var searchData=
   ['goback',['goBack',['../classPathWidget.html#aeea7ad7f79ea2d754a2061ee602fad45',1,'PathWidget']]],
   ['goforward',['goForward',['../classPathWidget.html#ab6bc24d1e2b717eb9e29d868c9054303',1,'PathWidget']]],
   ['gotopath',['goToPath',['../classPathWidget.html#a5a901f2b6e110891ce480b4a205226ba',1,'PathWidget']]],
-  ['graph',['Graph',['../classdependency__graph_1_1Graph.html',1,'dependency_graph::Graph'],['../classdependency__graph_1_1Nodes.html#afab89afd724f1b07b1aaad6bdc61c47a',1,'dependency_graph::Nodes::Graph()'],['../classdependency__graph_1_1Graph.html#a098a4f75243e716b7329a887f57d3dd4',1,'dependency_graph::Graph::Graph()'],['../classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc',1,'Adaptor::graph()'],['../classpossumwood_1_1AppCore.html#a2083d8216a119f347e238c3b19286d13',1,'possumwood::AppCore::graph()'],['../classdependency__graph_1_1NodeBase.html#ae8156ca80f20b208eedbddd2292b9b32',1,'dependency_graph::NodeBase::graph() const'],['../classdependency__graph_1_1NodeBase.html#a8d000a810c35806069f67f9825e43c3e',1,'dependency_graph::NodeBase::graph()']]],
-  ['graph_2ecpp',['graph.cpp',['../graph_8cpp.html',1,'']]],
-  ['graph_2eh',['graph.h',['../graph_8h.html',1,'']]],
+  ['graph',['Graph',['../classlightfields_1_1Graph.html',1,'lightfields::Graph'],['../classdependency__graph_1_1Graph.html',1,'dependency_graph::Graph'],['../classdependency__graph_1_1Nodes.html#afab89afd724f1b07b1aaad6bdc61c47a',1,'dependency_graph::Nodes::Graph()'],['../classdependency__graph_1_1Graph.html#a098a4f75243e716b7329a887f57d3dd4',1,'dependency_graph::Graph::Graph()'],['../classlightfields_1_1Graph.html#a02de67ccc0f87f3b92b03af5685b3267',1,'lightfields::Graph::Graph()'],['../classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc',1,'Adaptor::graph()'],['../classpossumwood_1_1AppCore.html#a2083d8216a119f347e238c3b19286d13',1,'possumwood::AppCore::graph()'],['../classdependency__graph_1_1NodeBase.html#ae8156ca80f20b208eedbddd2292b9b32',1,'dependency_graph::NodeBase::graph() const'],['../classdependency__graph_1_1NodeBase.html#a8d000a810c35806069f67f9825e43c3e',1,'dependency_graph::NodeBase::graph()']]],
+  ['graph_2ecpp',['graph.cpp',['../dependency__graph_2graph_8cpp.html',1,'(Global Namespace)'],['../lightfields_2graph_8cpp.html',1,'(Global Namespace)']]],
+  ['graph_2eh',['graph.h',['../dependency__graph_2graph_8h.html',1,'(Global Namespace)'],['../lightfields_2graph_8h.html',1,'(Global Namespace)']]],
+  ['graph2d',['Graph2D',['../classlightfields_1_1Graph2D.html',1,'lightfields::Graph2D'],['../classlightfields_1_1Graph2D.html#ac6554312a816726604174ce445663b75',1,'lightfields::Graph2D::Graph2D()']]],
+  ['graph_5f2d_2ecpp',['graph_2d.cpp',['../graph__2d_8cpp.html',1,'']]],
+  ['graph_5f2d_2eh',['graph_2d.h',['../graph__2d_8h.html',1,'']]],
   ['graph_5fconnections_2ecpp',['graph_connections.cpp',['../graph__connections_8cpp.html',1,'']]],
   ['graph_5finstantiation_2ecpp',['graph_instantiation.cpp',['../graph__instantiation_8cpp.html',1,'']]],
   ['graph_5fscene_2ecpp',['graph_scene.cpp',['../graph__scene_8cpp.html',1,'']]],
@@ -107,5 +112,8 @@ var searchData=
   ['grid',['Grid',['../classpossumwood_1_1Grid.html',1,'possumwood::Grid'],['../classpossumwood_1_1Grid.html#ac5503086b727a591ad8bc963d5dbf0d2',1,'possumwood::Grid::Grid()']]],
   ['grid_2ecpp',['grid.cpp',['../apps_2possumwood_2grid_8cpp.html',1,'(Global Namespace)'],['../plugins_2polymesh_2nodes_2grid_8cpp.html',1,'(Global Namespace)']]],
   ['grid_2eh',['grid.h',['../grid_8h.html',1,'']]],
+  ['grid2d',['Grid2D',['../classlightfields_1_1Grid2D.html',1,'lightfields::Grid2D'],['../classlightfields_1_1Grid2D.html#a4a8c1e1b62088d183c08e1bc244f35da',1,'lightfields::Grid2D::Grid2D()']]],
+  ['grid_5f2d_2ecpp',['grid_2d.cpp',['../grid__2d_8cpp.html',1,'']]],
+  ['grid_5f2d_2eh',['grid_2d.h',['../grid__2d_8h.html',1,'']]],
   ['group',['group',['../classpossumwood_1_1Config_1_1Item.html#ac41da2cf6fbfab2c7122d7806ea6df23',1,'possumwood::Config::Item']]]
 ];

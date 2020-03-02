@@ -15,6 +15,7 @@ var searchData=
   ['integrate_5fgaussian_2ecpp',['integrate_gaussian.cpp',['../integrate__gaussian_8cpp.html',1,'']]],
   ['integrate_5fmosaic_2ecpp',['integrate_mosaic.cpp',['../integrate__mosaic_8cpp.html',1,'']]],
   ['integrate_5fnearest_2ecpp',['integrate_nearest.cpp',['../integrate__nearest_8cpp.html',1,'']]],
+  ['integration_2eh',['integration.h',['../integration_8h.html',1,'']]],
   ['interval_2ecpp',['interval.cpp',['../interval_8cpp.html',1,'(Global Namespace)'],['../nodes_2interval_8cpp.html',1,'(Global Namespace)'],['../ui_2interval_8cpp.html',1,'(Global Namespace)']]],
   ['interval_2eh',['interval.h',['../interval_8h.html',1,'(Global Namespace)'],['../ui_2interval_8h.html',1,'(Global Namespace)']]],
   ['inverse_5fdft_2ecpp',['inverse_dft.cpp',['../inverse__dft_8cpp.html',1,'']]],
