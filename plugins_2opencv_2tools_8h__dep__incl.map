@@ -34,12 +34,11 @@
 <area shape="rect" id="node34" href="$integrate__nearest_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/integrate\l_nearest.cpp" alt="" coords="6566,95,6762,151"/>
 <area shape="rect" id="node35" href="$mosaic__superres_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/mosaic\l_superres.cpp" alt="" coords="6787,95,6971,151"/>
 <area shape="rect" id="node36" href="$samples__from__metadata_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/samples\l_from_metadata.cpp" alt="" coords="6995,95,7187,151"/>
-<area shape="rect" id="node37" href="$st__graphcut_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/st\l_graphcut.cpp" alt="" coords="7211,95,7360,151"/>
-<area shape="rect" id="node38" href="$vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="7384,95,7587,151"/>
-<area shape="rect" id="node39" href="$merge_8cpp.html" title="src/plugins/opencv\l/nodes/merge.cpp" alt="" coords="7611,102,7754,143"/>
-<area shape="rect" id="node40" href="$multiply_8cpp.html" title="src/plugins/opencv\l/nodes/multiply.cpp" alt="" coords="7778,102,7926,143"/>
-<area shape="rect" id="node41" href="$split_8cpp.html" title="src/plugins/opencv\l/nodes/split.cpp" alt="" coords="7950,102,8093,143"/>
-<area shape="rect" id="node42" href="$subtract_8cpp.html" title="src/plugins/opencv\l/nodes/subtract.cpp" alt="" coords="8117,102,8267,143"/>
-<area shape="rect" id="node43" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="8291,102,8434,143"/>
-<area shape="rect" id="node44" href="$plugins_2opencv_2tools_8cpp.html" title="src/plugins/opencv\l/tools.cpp" alt="" coords="8458,102,8601,143"/>
+<area shape="rect" id="node37" href="$vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="7211,95,7413,151"/>
+<area shape="rect" id="node38" href="$merge_8cpp.html" title="src/plugins/opencv\l/nodes/merge.cpp" alt="" coords="7438,102,7581,143"/>
+<area shape="rect" id="node39" href="$multiply_8cpp.html" title="src/plugins/opencv\l/nodes/multiply.cpp" alt="" coords="7605,102,7753,143"/>
+<area shape="rect" id="node40" href="$split_8cpp.html" title="src/plugins/opencv\l/nodes/split.cpp" alt="" coords="7777,102,7919,143"/>
+<area shape="rect" id="node41" href="$subtract_8cpp.html" title="src/plugins/opencv\l/nodes/subtract.cpp" alt="" coords="7944,102,8093,143"/>
+<area shape="rect" id="node42" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="8118,102,8261,143"/>
+<area shape="rect" id="node43" href="$plugins_2opencv_2tools_8cpp.html" title="src/plugins/opencv\l/tools.cpp" alt="" coords="8285,102,8427,143"/>
 </map>

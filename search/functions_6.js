@@ -45,12 +45,10 @@ var searchData=
   ['goback',['goBack',['../classPathWidget.html#aeea7ad7f79ea2d754a2061ee602fad45',1,'PathWidget']]],
   ['goforward',['goForward',['../classPathWidget.html#ab6bc24d1e2b717eb9e29d868c9054303',1,'PathWidget']]],
   ['gotopath',['goToPath',['../classPathWidget.html#a5a901f2b6e110891ce480b4a205226ba',1,'PathWidget']]],
-  ['graph',['Graph',['../classdependency__graph_1_1Graph.html#a098a4f75243e716b7329a887f57d3dd4',1,'dependency_graph::Graph::Graph()'],['../classlightfields_1_1Graph.html#a02de67ccc0f87f3b92b03af5685b3267',1,'lightfields::Graph::Graph()'],['../classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc',1,'Adaptor::graph()'],['../classpossumwood_1_1AppCore.html#a2083d8216a119f347e238c3b19286d13',1,'possumwood::AppCore::graph()'],['../classdependency__graph_1_1NodeBase.html#ae8156ca80f20b208eedbddd2292b9b32',1,'dependency_graph::NodeBase::graph() const'],['../classdependency__graph_1_1NodeBase.html#a8d000a810c35806069f67f9825e43c3e',1,'dependency_graph::NodeBase::graph()']]],
-  ['graph2d',['Graph2D',['../classlightfields_1_1Graph2D.html#ac6554312a816726604174ce445663b75',1,'lightfields::Graph2D']]],
+  ['graph',['Graph',['../classdependency__graph_1_1Graph.html#a098a4f75243e716b7329a887f57d3dd4',1,'dependency_graph::Graph::Graph()'],['../classAdaptor.html#ad9101caff9d30030dcc950f9d456f6fc',1,'Adaptor::graph()'],['../classpossumwood_1_1AppCore.html#a2083d8216a119f347e238c3b19286d13',1,'possumwood::AppCore::graph()'],['../classdependency__graph_1_1NodeBase.html#ae8156ca80f20b208eedbddd2292b9b32',1,'dependency_graph::NodeBase::graph() const'],['../classdependency__graph_1_1NodeBase.html#a8d000a810c35806069f67f9825e43c3e',1,'dependency_graph::NodeBase::graph()']]],
   ['graphscene',['GraphScene',['../classnode__editor_1_1GraphScene.html#a9f4618283fb8c5f76003e62b997f3592',1,'node_editor::GraphScene']]],
   ['graphwidget',['GraphWidget',['../classnode__editor_1_1GraphWidget.html#addc5ea0d08f7443334e989f9119c42e0',1,'node_editor::GraphWidget::GraphWidget()'],['../classAdaptor.html#abe4df5967289b4474e2363326f90bfad',1,'Adaptor::graphWidget()']]],
   ['greet',['greet',['../dummy_8cpp.html#abdc1c66a57eb903c930c15fda5801994',1,'dummy.cpp']]],
   ['grid',['Grid',['../classpossumwood_1_1Grid.html#ac5503086b727a591ad8bc963d5dbf0d2',1,'possumwood::Grid']]],
-  ['grid2d',['Grid2D',['../classlightfields_1_1Grid2D.html#a4a8c1e1b62088d183c08e1bc244f35da',1,'lightfields::Grid2D']]],
   ['group',['group',['../classpossumwood_1_1Config_1_1Item.html#ac41da2cf6fbfab2c7122d7806ea6df23',1,'possumwood::Config::Item']]]
 ];

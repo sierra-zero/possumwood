@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['h_5findex',['h_index',['../classlightfields_1_1Graph2D.html#a042ac726e0e70fa3591c7f618185c4e0',1,'lightfields::Graph2D']]],
   ['halfedgeproperties',['halfedgeProperties',['../classpossumwood_1_1Mesh.html#a5d0ee5f4bbe316a363f9b3bee15c904f',1,'possumwood::Mesh::halfedgeProperties() const'],['../classpossumwood_1_1Mesh.html#a519603c67e7edb30d23229dc76873013',1,'possumwood::Mesh::halfedgeProperties()']]],
   ['handle',['Handle',['../classpossumwood_1_1polymesh_1_1GenericBase_1_1Handle.html#ae503f49a391c51d788edc4e5318008ff',1,'possumwood::polymesh::GenericBase::Handle::Handle()'],['../classpossumwood_1_1polymesh_1_1GenericBase_1_1Handle.html#a4dfc2bc789f937572a7ece54b3774df2',1,'possumwood::polymesh::GenericBase::Handle::Handle(const std::string &amp;n, const std::type_index &amp;type, std::size_t index)']]],
   ['handles',['Handles',['../classpossumwood_1_1polymesh_1_1GenericBase_1_1Handles.html#ae8f8906da8fa2cef85279df92e5b0a39',1,'possumwood::polymesh::GenericBase::Handles::Handles()'],['../classpossumwood_1_1polymesh_1_1GenericBase.html#a32a1729e029dc69910deb95f0efafa89',1,'possumwood::polymesh::GenericBase::handles()'],['../classpossumwood_1_1polymesh_1_1GenericBase.html#a0a901407331db7d3c927f283895d7c97',1,'possumwood::polymesh::GenericBase::handles() const']]],
@@ -13,6 +12,5 @@ var searchData=
   ['height',['height',['../classpossumwood_1_1ViewportState.html#a1cf039b35fa8bfe09dda7aedfd1420e5',1,'possumwood::ViewportState::height()'],['../classanim_1_1MotionMap.html#ad5cec519ad8bdb2ee9632e0bfa576a00',1,'anim::MotionMap::height()'],['../classanim_1_1ui_1_1MotionMap.html#a03b45063311dde76d439e3b8699fde26',1,'anim::ui::MotionMap::height()'],['../classpossumwood_1_1images_1_1OpencvMatWrapper.html#ab71a944a2178c26fa09d773f87f83998',1,'possumwood::images::OpencvMatWrapper::height()'],['../classpossumwood_1_1Font.html#a0c8bc78364965cada027de35c1393b5a',1,'possumwood::Font::height()']]],
   ['holder',['Holder',['../classpossumwood_1_1lua_1_1Variable_1_1Holder.html#a643b9b19dfa32a5eb57f18811cc0ee92',1,'possumwood::lua::Variable::Holder']]],
   ['holderbase',['HolderBase',['../structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html#a8f173cf073801c7549fe8727c7aaeb1a',1,'possumwood::lua::Variable::HolderBase::HolderBase()=default'],['../structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html#a3a6800e23f43b69060aa844b2aad39d1',1,'possumwood::lua::Variable::HolderBase::HolderBase(const HolderBase &amp;)=delete']]],
-  ['horizontalflow',['horizontalFlow',['../classlightfields_1_1Graph.html#ae99eb8d5d84a9ab4a54bc3fb0107c398',1,'lightfields::Graph']]],
   ['html',['html',['../classpossumwood_1_1Description.html#a26656c5daae1485c5320704c14096c97',1,'possumwood::Description']]]
 ];

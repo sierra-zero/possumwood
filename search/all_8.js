@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['h_5findex',['h_index',['../classlightfields_1_1Graph2D.html#a042ac726e0e70fa3591c7f618185c4e0',1,'lightfields::Graph2D']]],
   ['halfedge',['Halfedge',['../structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html#afb481782589ba5c2bf17dbd84f6a5660',1,'possumwood::CGALItems::Halfedge_wrapper']]],
   ['halfedge_5fwrapper',['Halfedge_wrapper',['../structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html',1,'possumwood::CGALItems']]],
   ['halfedgeproperties',['halfedgeProperties',['../classpossumwood_1_1Mesh.html#a5d0ee5f4bbe316a363f9b3bee15c904f',1,'possumwood::Mesh::halfedgeProperties() const'],['../classpossumwood_1_1Mesh.html#a519603c67e7edb30d23229dc76873013',1,'possumwood::Mesh::halfedgeProperties()']]],
@@ -22,6 +21,5 @@ var searchData=
   ['hierarchy_2eh',['hierarchy.h',['../hierarchy_8h.html',1,'']]],
   ['holder',['Holder',['../classpossumwood_1_1lua_1_1Variable_1_1Holder.html',1,'possumwood::lua::Variable::Holder&lt; T &gt;'],['../structdependency__graph_1_1Data_1_1Holder.html',1,'dependency_graph::Data::Holder'],['../classpossumwood_1_1lua_1_1Variable_1_1Holder.html#a643b9b19dfa32a5eb57f18811cc0ee92',1,'possumwood::lua::Variable::Holder::Holder()']]],
   ['holderbase',['HolderBase',['../structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html',1,'possumwood::lua::Variable::HolderBase'],['../structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html#a8f173cf073801c7549fe8727c7aaeb1a',1,'possumwood::lua::Variable::HolderBase::HolderBase()=default'],['../structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html#a3a6800e23f43b69060aa844b2aad39d1',1,'possumwood::lua::Variable::HolderBase::HolderBase(const HolderBase &amp;)=delete']]],
-  ['horizontalflow',['horizontalFlow',['../classlightfields_1_1Graph.html#ae99eb8d5d84a9ab4a54bc3fb0107c398',1,'lightfields::Graph']]],
   ['html',['html',['../classpossumwood_1_1Description.html#a26656c5daae1485c5320704c14096c97',1,'possumwood::Description']]]
 ];
