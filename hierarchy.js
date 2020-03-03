@@ -60,6 +60,10 @@ var hierarchy =
     [ "dependency_graph::DataTraits< T, typename std::enable_if< std::is_convertible< decltype(std::declval< T >()==std::declval< T >()), bool >::value >::type >", "structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html", null ],
     [ "lightfields::Depth", "classlightfields_1_1Depth.html", null ],
     [ "possumwood::Description", "classpossumwood_1_1Description.html", null ],
+    [ "lightfields::Graph2D::Direction", "classlightfields_1_1Graph2D_1_1Direction.html", null ],
+    [ "lightfields::Graph::Edge", "structlightfields_1_1Graph_1_1Edge.html", null ],
+    [ "lightfields::Graph2D::Edge", "classlightfields_1_1Graph2D_1_1Edge.html", null ],
+    [ "lightfields::Grid2D::Edge", "classlightfields_1_1Grid2D_1_1Edge.html", null ],
     [ "possumwood::BufferTemplated< T >::Element", "classpossumwood_1_1BufferTemplated_1_1Element.html", null ],
     [ "enable_shared_from_this", null, [
       [ "dependency_graph::Metadata", "classdependency__graph_1_1Metadata.html", [
@@ -127,6 +131,9 @@ var hierarchy =
     [ "possumwood::GLSLTraits< std::vector< Imath::Matrix44< T > > >", "structpossumwood_1_1GLSLTraits_3_01std_1_1vector_3_01Imath_1_1Matrix44_3_01T_01_4_01_4_01_4.html", null ],
     [ "possumwood::GLSLTraits< unsigned >", "structpossumwood_1_1GLSLTraits_3_01unsigned_01_4.html", null ],
     [ "possumwood::Font::Glyph", "structpossumwood_1_1Font_1_1Glyph.html", null ],
+    [ "lightfields::Graph", "classlightfields_1_1Graph.html", null ],
+    [ "lightfields::Graph2D", "classlightfields_1_1Graph2D.html", null ],
+    [ "lightfields::Grid2D", "classlightfields_1_1Grid2D.html", null ],
     [ "possumwood::CGALItems::Halfedge_wrapper< Refs, Traits >", "structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html", null ],
     [ "HalfedgeDS_face_base", null, [
       [ "possumwood::CGALFace< Refs >", "structpossumwood_1_1CGALFace.html", null ]
@@ -170,9 +177,9 @@ var hierarchy =
     [ "possumwood::io::detail::is_compatible_integer_type_impl< true, RealIntegerType, CompatibleNumberIntegerType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308.html", null ],
     [ "possumwood::io::detail::is_compatible_object_type< BasicJsonType, CompatibleObjectType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type.html", null ],
     [ "possumwood::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01RealType_00_01CompatibleObjectType_01_4.html", null ],
+    [ "dependency_graph::NodesIterator< ITERATOR >::Item", "structdependency__graph_1_1NodesIterator_1_1Item.html", null ],
     [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
     [ "Options::Item", "structOptions_1_1Item.html", null ],
-    [ "dependency_graph::NodesIterator< ITERATOR >::Item", "structdependency__graph_1_1NodesIterator_1_1Item.html", null ],
     [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
@@ -391,6 +398,7 @@ var hierarchy =
     ] ],
     [ "possumwood::lua::Extract< T, HOLDER >::Params", "structpossumwood_1_1lua_1_1Extract_1_1Params.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::parser", "classpossumwood_1_1io_1_1basic__json_1_1parser.html", null ],
+    [ "lightfields::Graph::Path", "structlightfields_1_1Graph_1_1Path.html", null ],
     [ "PathWidget::Path", "classPathWidget_1_1Path.html", null ],
     [ "lightfields::Pattern", "classlightfields_1_1Pattern.html", null ],
     [ "lightfields::LensletGraph::Pimpl", "structlightfields_1_1LensletGraph_1_1Pimpl.html", null ],
@@ -469,14 +477,15 @@ var hierarchy =
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classpossumwood_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
     [ "openanim::RigData", "structopenanim_1_1RigData.html", null ],
-    [ "lightfields::Samples::Sample", "structlightfields_1_1Samples_1_1Sample.html", null ],
     [ "lightfields::Pattern::Sample", "structlightfields_1_1Pattern_1_1Sample.html", null ],
+    [ "lightfields::Samples::Sample", "structlightfields_1_1Samples_1_1Sample.html", null ],
     [ "lightfields::Samples", "classlightfields_1_1Samples.html", null ],
     [ "dependency_graph::io::SaveableRegistration", "structdependency__graph_1_1io_1_1SaveableRegistration.html", null ],
-    [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
+    [ "node_editor::GraphScene::Selection", "structnode__editor_1_1GraphScene_1_1Selection.html", null ],
     [ "possumwood::opencv::Sequence", "classpossumwood_1_1opencv_1_1Sequence.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::serializer", "classpossumwood_1_1io_1_1basic__json_1_1serializer.html", null ],
+    [ "lightfields::Graph::SetComparator", "structlightfields_1_1Graph_1_1SetComparator.html", null ],
     [ "possumwood::Shader", "classpossumwood_1_1Shader.html", [
       [ "possumwood::FragmentShader", "classpossumwood_1_1FragmentShader.html", null ],
       [ "possumwood::GeometryShader", "classpossumwood_1_1GeometryShader.html", null ],
