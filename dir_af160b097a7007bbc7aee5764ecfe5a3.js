@@ -1,5 +1,9 @@
 var dir_af160b097a7007bbc7aee5764ecfe5a3 =
 [
+    [ "bfs_visitors.cpp", "bfs__visitors_8cpp.html", null ],
+    [ "bfs_visitors.h", "bfs__visitors_8h.html", [
+      [ "BFSVisitors", "classlightfields_1_1BFSVisitors.html", "classlightfields_1_1BFSVisitors" ]
+    ] ],
     [ "block.cpp", "block_8cpp.html", "block_8cpp" ],
     [ "block.h", "block_8h.html", "block_8h" ],
     [ "depth.cpp", "libs_2lightfields_2depth_8cpp.html", "libs_2lightfields_2depth_8cpp" ],
@@ -13,7 +17,6 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     [ "graph.h", "lightfields_2graph_8h.html", [
       [ "Graph", "classlightfields_1_1Graph.html", "classlightfields_1_1Graph" ],
       [ "Edge", "structlightfields_1_1Graph_1_1Edge.html", "structlightfields_1_1Graph_1_1Edge" ],
-      [ "SetComparator", "structlightfields_1_1Graph_1_1SetComparator.html", "structlightfields_1_1Graph_1_1SetComparator" ],
       [ "Path", "structlightfields_1_1Graph_1_1Path.html", "structlightfields_1_1Graph_1_1Path" ]
     ] ],
     [ "graph_2d.cpp", "graph__2d_8cpp.html", null ],
@@ -43,5 +46,6 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     [ "raw.cpp", "raw_8cpp.html", "raw_8cpp" ],
     [ "raw.h", "raw_8h.html", "raw_8h" ],
     [ "samples.cpp", "samples_8cpp.html", "samples_8cpp" ],
-    [ "samples.h", "samples_8h.html", "samples_8h" ]
+    [ "samples.h", "samples_8h.html", "samples_8h" ],
+    [ "vec2.h", "libs_2lightfields_2vec2_8h.html", "libs_2lightfields_2vec2_8h" ]
 ];

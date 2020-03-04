@@ -1,5 +1,8 @@
 var NAVTREEINDEX2 =
 {
+"classTreeWidget.html#af35759e6270da6c6da456a98a46d98a1":[2,0,42,10],
+"classVBO.html":[2,0,44],
+"classVBO.html#a0ec53e167afc386582468bc5a4cf803b":[2,0,44,6],
 "classVBO.html#a32aaf6971ce6afef618a0b516a3c0cb8":[2,0,44,5],
 "classVBO.html#a4cfee7fb6e443a9984ab98cb5d976383":[2,0,44,2],
 "classVBO.html#a8316eff57abaeb870e4213c1418a6369":[2,0,44,4],
@@ -246,8 +249,5 @@ var NAVTREEINDEX2 =
 "classanim_1_1Polygons.html#adb3e1ab93a61f03fe420b75566aafc7c":[2,0,0,18,9],
 "classanim_1_1Polygons.html#af2330d236aae7d1151ae3d9135671d41":[2,0,0,18,11],
 "classanim_1_1Polygons.html#af56d4b3209b25d80b3b96b8e69fb8fa5":[2,0,0,18,2],
-"classanim_1_1Polygons.html#aff438a753deae835aab1454bb796098e":[2,0,0,18,10],
-"classanim_1_1Skeleton.html":[2,0,0,19],
-"classanim_1_1Skeleton.html#a0fdde3c8fdd0d9109182e7e0deb37ac8":[2,0,0,19,18],
-"classanim_1_1Skeleton.html#a19f5006eed8abacba4ba30073e220de3":[2,0,0,19,20]
+"classanim_1_1Polygons.html#aff438a753deae835aab1454bb796098e":[2,0,0,18,10]
 };

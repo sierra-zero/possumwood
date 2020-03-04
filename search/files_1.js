@@ -1,6 +1,8 @@
 var searchData=
 [
   ['background_2ecpp',['background.cpp',['../background_8cpp.html',1,'']]],
+  ['bfs_5fvisitors_2ecpp',['bfs_visitors.cpp',['../bfs__visitors_8cpp.html',1,'']]],
+  ['bfs_5fvisitors_2eh',['bfs_visitors.h',['../bfs__visitors_8h.html',1,'']]],
   ['blend_2ecpp',['blend.cpp',['../blend_8cpp.html',1,'']]],
   ['block_2ecpp',['block.cpp',['../block_8cpp.html',1,'']]],
   ['block_2eh',['block.h',['../block_8h.html',1,'']]],

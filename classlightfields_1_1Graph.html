@@ -96,8 +96,9 @@ Collaboration diagram for lightfields::Graph:</div>
 <div class="dyncontent">
 <div class="center"><img src="classlightfields_1_1Graph__coll__graph.png" border="0" usemap="#lightfields_1_1Graph_coll__map" alt="Collaboration graph"/></div>
 <map name="lightfields_1_1Graph_coll__map" id="lightfields_1_1Graph_coll__map">
-<area shape="rect" id="node2" href="classlightfields_1_1Graph2D.html" title="A simple representation of an implicit 2D graph with 4&#45;neighbourhood. " alt="" coords="5,5,156,32"/>
-<area shape="rect" id="node3" href="classlightfields_1_1Grid2D.html" title="lightfields::Grid2D" alt="" coords="181,5,319,32"/>
+<area shape="rect" id="node2" href="classlightfields_1_1Graph2D.html" title="A simple representation of an implicit 2D graph with 4&#45;neighbourhood. " alt="" coords="75,109,225,136"/>
+<area shape="rect" id="node3" href="structlightfields_1_1Vec2.html" title="lightfields::Vec2\&lt;\l int \&gt;" alt="" coords="82,5,218,47"/>
+<area shape="rect" id="node4" href="classlightfields_1_1Grid2D.html" title="lightfields::Grid2D" alt="" coords="250,109,389,136"/>
 </map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -107,15 +108,13 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlightfields_1_1Graph_1_1Path.html">Path</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structlightfields_1_1Graph_1_1SetComparator.html">SetComparator</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a02de67ccc0f87f3b92b03af5685b3267"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a02de67ccc0f87f3b92b03af5685b3267">Graph</a> (const Imath::V2i &amp;size, int n_link_value)</td></tr>
-<tr class="separator:a02de67ccc0f87f3b92b03af5685b3267"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afb01531427d318367a02d04150b57055"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#afb01531427d318367a02d04150b57055">setValue</a> (const Imath::V2i &amp;pos, int source_weight, int sink_weight)</td></tr>
-<tr class="separator:afb01531427d318367a02d04150b57055"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98d808de5721da81a908282ba3237933"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a98d808de5721da81a908282ba3237933">Graph</a> (const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;size, int n_link_value)</td></tr>
+<tr class="separator:a98d808de5721da81a908282ba3237933"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64d0f7979a6f007f132348b645c20615"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a64d0f7979a6f007f132348b645c20615">setValue</a> (const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;pos, int source_weight, int sink_weight)</td></tr>
+<tr class="separator:a64d0f7979a6f007f132348b645c20615"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa29267ff040af8bae046e81b56dd9f76"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#aa29267ff040af8bae046e81b56dd9f76">solve</a> ()</td></tr>
 <tr class="separator:aa29267ff040af8bae046e81b56dd9f76"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9ed839ed4a9c6c23e155a8b03426f3cb"><td class="memItemLeft" align="right" valign="top">cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a9ed839ed4a9c6c23e155a8b03426f3cb">minCut</a> () const</td></tr>
@@ -131,10 +130,10 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:a42a3053b2c103da51168cea3f3f93e20"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a42a3053b2c103da51168cea3f3f93e20">v2i</a> (const Imath::V2i &amp;<a class="el" href="obj_8cpp.html#ac8859e8c1ce357c4c8b37bbb1936ba1c">v</a>) const</td></tr>
-<tr class="separator:a42a3053b2c103da51168cea3f3f93e20"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4eb75d8e3ffaf06b1a903043206be83e"><td class="memItemLeft" align="right" valign="top">Imath::V2i&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a4eb75d8e3ffaf06b1a903043206be83e">i2v</a> (std::size_t <a class="el" href="obj_8cpp.html#ac8859e8c1ce357c4c8b37bbb1936ba1c">v</a>) const</td></tr>
-<tr class="separator:a4eb75d8e3ffaf06b1a903043206be83e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a811d5ab7d6a1c59424b4ae0f124b7cf1"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a811d5ab7d6a1c59424b4ae0f124b7cf1">v2i</a> (const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;<a class="el" href="obj_8cpp.html#ac8859e8c1ce357c4c8b37bbb1936ba1c">v</a>) const</td></tr>
+<tr class="separator:a811d5ab7d6a1c59424b4ae0f124b7cf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a7f3a939839e0928b1bb198f221652f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a0a7f3a939839e0928b1bb198f221652f">i2v</a> (std::size_t <a class="el" href="obj_8cpp.html#ac8859e8c1ce357c4c8b37bbb1936ba1c">v</a>) const</td></tr>
+<tr class="separator:a0a7f3a939839e0928b1bb198f221652f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac3f7dfc92963d0a78e435e5fa87feb0f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#ac3f7dfc92963d0a78e435e5fa87feb0f">bfs_2</a> (<a class="el" href="structlightfields_1_1Graph_1_1Path.html">Path</a> &amp;path, std::size_t &amp;offset) const</td></tr>
 <tr class="separator:ac3f7dfc92963d0a78e435e5fa87feb0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a18a546e5f02eecb8130efef5a5ce2126"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a18a546e5f02eecb8130efef5a5ce2126">flow</a> (const <a class="el" href="structlightfields_1_1Graph_1_1Path.html">Path</a> &amp;path) const</td></tr>
@@ -142,8 +141,8 @@ Private Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:af9e75728c534749a01fef315bded1843"><td class="memItemLeft" align="right" valign="top">Imath::V2i&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#af9e75728c534749a01fef315bded1843">m_size</a></td></tr>
-<tr class="separator:af9e75728c534749a01fef315bded1843"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a837fed614598a313edc6e14a943c4770"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a837fed614598a313edc6e14a943c4770">m_size</a></td></tr>
+<tr class="separator:a837fed614598a313edc6e14a943c4770"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a752314bd53bd53c38fa6e490386ead64"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlightfields_1_1Grid2D.html">Grid2D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a752314bd53bd53c38fa6e490386ead64">m_sourceLinks</a></td></tr>
 <tr class="separator:a752314bd53bd53c38fa6e490386ead64"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3098b4833d45f4048ab38dcdf83ae884"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlightfields_1_1Grid2D.html">Grid2D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a3098b4833d45f4048ab38dcdf83ae884">m_sinkLinks</a></td></tr>
@@ -152,8 +151,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:a5a23b3060a8083130b447c1ffd4b8260"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a02de67ccc0f87f3b92b03af5685b3267"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a02de67ccc0f87f3b92b03af5685b3267">&#9670;&nbsp;</a></span>Graph()</h2>
+<a id="a98d808de5721da81a908282ba3237933"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a98d808de5721da81a908282ba3237933">&#9670;&nbsp;</a></span>Graph()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -161,7 +160,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">lightfields::Graph::Graph </td>
           <td>(</td>
-          <td class="paramtype">const Imath::V2i &amp;&#160;</td>
+          <td class="paramtype">const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;&#160;</td>
           <td class="paramname"><em>size</em>, </td>
         </tr>
         <tr>
@@ -261,8 +260,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a4eb75d8e3ffaf06b1a903043206be83e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4eb75d8e3ffaf06b1a903043206be83e">&#9670;&nbsp;</a></span>i2v()</h2>
+<a id="a0a7f3a939839e0928b1bb198f221652f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a7f3a939839e0928b1bb198f221652f">&#9670;&nbsp;</a></span>i2v()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -271,7 +270,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Imath::V2i lightfields::Graph::i2v </td>
+          <td class="memname"><a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> lightfields::Graph::i2v </td>
           <td>(</td>
           <td class="paramtype">std::size_t&#160;</td>
           <td class="paramname"><em>v</em></td><td>)</td>
@@ -304,8 +303,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="afb01531427d318367a02d04150b57055"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afb01531427d318367a02d04150b57055">&#9670;&nbsp;</a></span>setValue()</h2>
+<a id="a64d0f7979a6f007f132348b645c20615"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64d0f7979a6f007f132348b645c20615">&#9670;&nbsp;</a></span>setValue()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -313,7 +312,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">void lightfields::Graph::setValue </td>
           <td>(</td>
-          <td class="paramtype">const Imath::V2i &amp;&#160;</td>
+          <td class="paramtype">const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;&#160;</td>
           <td class="paramname"><em>pos</em>, </td>
         </tr>
         <tr>
@@ -389,8 +388,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a42a3053b2c103da51168cea3f3f93e20"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a42a3053b2c103da51168cea3f3f93e20">&#9670;&nbsp;</a></span>v2i()</h2>
+<a id="a811d5ab7d6a1c59424b4ae0f124b7cf1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a811d5ab7d6a1c59424b4ae0f124b7cf1">&#9670;&nbsp;</a></span>v2i()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -401,7 +400,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">std::size_t lightfields::Graph::v2i </td>
           <td>(</td>
-          <td class="paramtype">const Imath::V2i &amp;&#160;</td>
+          <td class="paramtype">const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;&#160;</td>
           <td class="paramname"><em>v</em></td><td>)</td>
           <td> const</td>
         </tr>
@@ -477,8 +476,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="af9e75728c534749a01fef315bded1843"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af9e75728c534749a01fef315bded1843">&#9670;&nbsp;</a></span>m_size</h2>
+<a id="a837fed614598a313edc6e14a943c4770"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a837fed614598a313edc6e14a943c4770">&#9670;&nbsp;</a></span>m_size</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -487,7 +486,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Imath::V2i lightfields::Graph::m_size</td>
+          <td class="memname"><a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> lightfields::Graph::m_size</td>
         </tr>
       </table>
   </td>
@@ -531,7 +530,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1Graph.html">Graph</a></li>
-    <li class="footer">Generated on Tue Mar 3 2020 19:24:50 for possumwood by
+    <li class="footer">Generated on Wed Mar 4 2020 15:09:02 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

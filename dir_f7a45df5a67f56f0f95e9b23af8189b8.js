@@ -22,7 +22,7 @@ var dir_f7a45df5a67f56f0f95e9b23af8189b8 =
       [ "unsigned_ui", "classunsigned__ui.html", "classunsigned__ui" ]
     ] ],
     [ "vec2.cpp", "ui_2vec2_8cpp.html", null ],
-    [ "vec2.h", "ui_2vec2_8h.html", [
+    [ "vec2.h", "plugins_2maths_2ui_2vec2_8h.html", [
       [ "vec2_ui", "classvec2__ui.html", "classvec2__ui" ]
     ] ],
     [ "vec2u.cpp", "vec2u_8cpp.html", null ],
