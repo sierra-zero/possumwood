@@ -96,9 +96,9 @@ Collaboration diagram for lightfields::Graph:</div>
 <div class="dyncontent">
 <div class="center"><img src="classlightfields_1_1Graph__coll__graph.png" border="0" usemap="#lightfields_1_1Graph_coll__map" alt="Collaboration graph"/></div>
 <map name="lightfields_1_1Graph_coll__map" id="lightfields_1_1Graph_coll__map">
-<area shape="rect" id="node2" href="classlightfields_1_1Graph2D.html" title="A simple representation of an implicit 2D graph with 4&#45;neighbourhood. " alt="" coords="75,109,225,136"/>
-<area shape="rect" id="node3" href="structlightfields_1_1Vec2.html" title="lightfields::Vec2\&lt;\l int \&gt;" alt="" coords="82,5,218,47"/>
-<area shape="rect" id="node4" href="classlightfields_1_1Grid2D.html" title="lightfields::Grid2D" alt="" coords="250,109,389,136"/>
+<area shape="rect" id="node2" href="classlightfields_1_1NLinks.html" title="A simple representation of an implicit 2D graph with 4&#45;neighbourhood. " alt="" coords="74,109,212,136"/>
+<area shape="rect" id="node3" href="structlightfields_1_1Vec2.html" title="lightfields::Vec2\&lt;\l int \&gt;" alt="" coords="75,5,211,47"/>
+<area shape="rect" id="node4" href="classlightfields_1_1TLinks.html" title="lightfields::TLinks" alt="" coords="236,109,372,136"/>
 </map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -143,12 +143,12 @@ Private Member Functions</h2></td></tr>
 Private Attributes</h2></td></tr>
 <tr class="memitem:a837fed614598a313edc6e14a943c4770"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a837fed614598a313edc6e14a943c4770">m_size</a></td></tr>
 <tr class="separator:a837fed614598a313edc6e14a943c4770"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a752314bd53bd53c38fa6e490386ead64"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlightfields_1_1Grid2D.html">Grid2D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a752314bd53bd53c38fa6e490386ead64">m_sourceLinks</a></td></tr>
-<tr class="separator:a752314bd53bd53c38fa6e490386ead64"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3098b4833d45f4048ab38dcdf83ae884"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlightfields_1_1Grid2D.html">Grid2D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a3098b4833d45f4048ab38dcdf83ae884">m_sinkLinks</a></td></tr>
-<tr class="separator:a3098b4833d45f4048ab38dcdf83ae884"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5a23b3060a8083130b447c1ffd4b8260"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlightfields_1_1Graph2D.html">Graph2D</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a5a23b3060a8083130b447c1ffd4b8260">m_nLinks</a></td></tr>
-<tr class="separator:a5a23b3060a8083130b447c1ffd4b8260"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4d5afaf1a45a11c7ecbe471c452236a8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlightfields_1_1TLinks.html">TLinks</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a4d5afaf1a45a11c7ecbe471c452236a8">m_sourceLinks</a></td></tr>
+<tr class="separator:a4d5afaf1a45a11c7ecbe471c452236a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a63722695a3f691b100181bd5523b67f1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlightfields_1_1TLinks.html">TLinks</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a63722695a3f691b100181bd5523b67f1">m_sinkLinks</a></td></tr>
+<tr class="separator:a63722695a3f691b100181bd5523b67f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afecf964150bf347933231e8219a8ed30"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlightfields_1_1NLinks.html">NLinks</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#afecf964150bf347933231e8219a8ed30">m_nLinks</a></td></tr>
+<tr class="separator:afecf964150bf347933231e8219a8ed30"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a98d808de5721da81a908282ba3237933"></a>
@@ -432,8 +432,8 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a5a23b3060a8083130b447c1ffd4b8260"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5a23b3060a8083130b447c1ffd4b8260">&#9670;&nbsp;</a></span>m_nLinks</h2>
+<a id="afecf964150bf347933231e8219a8ed30"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afecf964150bf347933231e8219a8ed30">&#9670;&nbsp;</a></span>m_nLinks</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -442,7 +442,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classlightfields_1_1Graph2D.html">Graph2D</a> lightfields::Graph::m_nLinks</td>
+          <td class="memname"><a class="el" href="classlightfields_1_1NLinks.html">NLinks</a> lightfields::Graph::m_nLinks</td>
         </tr>
       </table>
   </td>
@@ -454,8 +454,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a3098b4833d45f4048ab38dcdf83ae884"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3098b4833d45f4048ab38dcdf83ae884">&#9670;&nbsp;</a></span>m_sinkLinks</h2>
+<a id="a63722695a3f691b100181bd5523b67f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a63722695a3f691b100181bd5523b67f1">&#9670;&nbsp;</a></span>m_sinkLinks</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -464,7 +464,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classlightfields_1_1Grid2D.html">Grid2D</a> lightfields::Graph::m_sinkLinks</td>
+          <td class="memname"><a class="el" href="classlightfields_1_1TLinks.html">TLinks</a> lightfields::Graph::m_sinkLinks</td>
         </tr>
       </table>
   </td>
@@ -498,8 +498,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a752314bd53bd53c38fa6e490386ead64"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a752314bd53bd53c38fa6e490386ead64">&#9670;&nbsp;</a></span>m_sourceLinks</h2>
+<a id="a4d5afaf1a45a11c7ecbe471c452236a8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d5afaf1a45a11c7ecbe471c452236a8">&#9670;&nbsp;</a></span>m_sourceLinks</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -508,7 +508,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classlightfields_1_1Grid2D.html">Grid2D</a> lightfields::Graph::m_sourceLinks</td>
+          <td class="memname"><a class="el" href="classlightfields_1_1TLinks.html">TLinks</a> lightfields::Graph::m_sourceLinks</td>
         </tr>
       </table>
   </td>
@@ -530,7 +530,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1Graph.html">Graph</a></li>
-    <li class="footer">Generated on Wed Mar 4 2020 16:13:53 for possumwood by
+    <li class="footer">Generated on Wed Mar 4 2020 22:57:48 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

@@ -1,5 +1,5 @@
 <map id="lightfields::Graph" name="lightfields::Graph">
-<area shape="rect" id="node2" href="$classlightfields_1_1Graph2D.html" title="A simple representation of an implicit 2D graph with 4&#45;neighbourhood. " alt="" coords="75,109,225,136"/>
-<area shape="rect" id="node3" href="$structlightfields_1_1Vec2.html" title="lightfields::Vec2\&lt;\l int \&gt;" alt="" coords="82,5,218,47"/>
-<area shape="rect" id="node4" href="$classlightfields_1_1Grid2D.html" title="lightfields::Grid2D" alt="" coords="250,109,389,136"/>
+<area shape="rect" id="node2" href="$classlightfields_1_1NLinks.html" title="A simple representation of an implicit 2D graph with 4&#45;neighbourhood. " alt="" coords="74,109,212,136"/>
+<area shape="rect" id="node3" href="$structlightfields_1_1Vec2.html" title="lightfields::Vec2\&lt;\l int \&gt;" alt="" coords="75,5,211,47"/>
+<area shape="rect" id="node4" href="$classlightfields_1_1TLinks.html" title="lightfields::TLinks" alt="" coords="236,109,372,136"/>
 </map>

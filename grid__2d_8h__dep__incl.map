@@ -1,7 +1,0 @@
-<map id="src/libs/lightfields/grid_2d.h" name="src/libs/lightfields/grid_2d.h">
-<area shape="rect" id="node2" href="$lightfields_2graph_8h.html" title="src/libs/lightfields\l/graph.h" alt="" coords="332,95,468,136"/>
-<area shape="rect" id="node5" href="$grid__2d_8cpp.html" title="src/libs/lightfields\l/grid_2d.cpp" alt="" coords="499,191,635,233"/>
-<area shape="rect" id="node3" href="$lightfields_2graph_8cpp.html" title="src/libs/lightfields\l/graph.cpp" alt="" coords="5,191,141,233"/>
-<area shape="rect" id="node4" href="$graph__2d_8cpp.html" title="src/libs/lightfields\l/graph_2d.cpp" alt="" coords="165,191,301,233"/>
-<area shape="rect" id="node6" href="$st__graphcut_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/st\l_graphcut.cpp" alt="" coords="325,184,475,240"/>
-</map>

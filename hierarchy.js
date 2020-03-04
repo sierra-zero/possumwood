@@ -61,10 +61,10 @@ var hierarchy =
     [ "dependency_graph::DataTraits< T, typename std::enable_if< std::is_convertible< decltype(std::declval< T >()==std::declval< T >()), bool >::value >::type >", "structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html", null ],
     [ "lightfields::Depth", "classlightfields_1_1Depth.html", null ],
     [ "possumwood::Description", "classpossumwood_1_1Description.html", null ],
-    [ "lightfields::Graph2D::Direction", "classlightfields_1_1Graph2D_1_1Direction.html", null ],
+    [ "lightfields::NLinks::Direction", "classlightfields_1_1NLinks_1_1Direction.html", null ],
     [ "lightfields::Graph::Edge", "structlightfields_1_1Graph_1_1Edge.html", null ],
-    [ "lightfields::Graph2D::Edge", "classlightfields_1_1Graph2D_1_1Edge.html", null ],
-    [ "lightfields::Grid2D::Edge", "classlightfields_1_1Grid2D_1_1Edge.html", null ],
+    [ "lightfields::NLinks::Edge", "classlightfields_1_1NLinks_1_1Edge.html", null ],
+    [ "lightfields::TLinks::Edge", "classlightfields_1_1TLinks_1_1Edge.html", null ],
     [ "possumwood::BufferTemplated< T >::Element", "classpossumwood_1_1BufferTemplated_1_1Element.html", null ],
     [ "enable_shared_from_this", null, [
       [ "dependency_graph::Metadata", "classdependency__graph_1_1Metadata.html", [
@@ -133,8 +133,6 @@ var hierarchy =
     [ "possumwood::GLSLTraits< unsigned >", "structpossumwood_1_1GLSLTraits_3_01unsigned_01_4.html", null ],
     [ "possumwood::Font::Glyph", "structpossumwood_1_1Font_1_1Glyph.html", null ],
     [ "lightfields::Graph", "classlightfields_1_1Graph.html", null ],
-    [ "lightfields::Graph2D", "classlightfields_1_1Graph2D.html", null ],
-    [ "lightfields::Grid2D", "classlightfields_1_1Grid2D.html", null ],
     [ "possumwood::CGALItems::Halfedge_wrapper< Refs, Traits >", "structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html", null ],
     [ "HalfedgeDS_face_base", null, [
       [ "possumwood::CGALFace< Refs >", "structpossumwood_1_1CGALFace.html", null ]
@@ -220,6 +218,7 @@ var hierarchy =
     [ "possumwood::images::Module", "structpossumwood_1_1images_1_1Module.html", null ],
     [ "anim::MotionGraph", "classanim_1_1MotionGraph.html", null ],
     [ "anim::MotionMap", "classanim_1_1MotionMap.html", null ],
+    [ "lightfields::NLinks", "classlightfields_1_1NLinks.html", null ],
     [ "dependency_graph::NodeBase", "classdependency__graph_1_1NodeBase.html", [
       [ "dependency_graph::Network", "classdependency__graph_1_1Network.html", [
         [ "dependency_graph::Graph", "classdependency__graph_1_1Graph.html", null ]
@@ -402,8 +401,8 @@ var hierarchy =
     [ "lightfields::Graph::Path", "structlightfields_1_1Graph_1_1Path.html", null ],
     [ "PathWidget::Path", "classPathWidget_1_1Path.html", null ],
     [ "lightfields::Pattern", "classlightfields_1_1Pattern.html", null ],
-    [ "lightfields::Raw::Pimpl", "structlightfields_1_1Raw_1_1Pimpl.html", null ],
     [ "lightfields::LensletGraph::Pimpl", "structlightfields_1_1LensletGraph_1_1Pimpl.html", null ],
+    [ "lightfields::Raw::Pimpl", "structlightfields_1_1Raw_1_1Pimpl.html", null ],
     [ "PluginsRAII", "classPluginsRAII.html", null ],
     [ "possumwood::NodeData::Point", "structpossumwood_1_1NodeData_1_1Point.html", null ],
     [ "possumwood::PolyExtractor< VAL >", "structpossumwood_1_1PolyExtractor.html", null ],
@@ -505,6 +504,7 @@ var hierarchy =
     [ "TestStruct", "structTestStruct.html", null ],
     [ "possumwood::Uniforms::TextureHolder", "structpossumwood_1_1Uniforms_1_1TextureHolder.html", null ],
     [ "Timeline::TickSkip", "structTimeline_1_1TickSkip.html", null ],
+    [ "lightfields::TLinks", "classlightfields_1_1TLinks.html", null ],
     [ "possumwood::io::detail::to_json_fn", "structpossumwood_1_1io_1_1detail_1_1to__json__fn.html", null ],
     [ "anim::Tokenizer::Token", "structanim_1_1Tokenizer_1_1Token.html", null ],
     [ "possumwood::Traits< T, ENABLE >", "structpossumwood_1_1Traits.html", null ],

@@ -14,8 +14,8 @@ var classlightfields_1_1Graph =
     [ "sourceFlow", "classlightfields_1_1Graph.html#a0b9a9e0449dea9aabfce4c95e336b768", null ],
     [ "v2i", "classlightfields_1_1Graph.html#a811d5ab7d6a1c59424b4ae0f124b7cf1", null ],
     [ "verticalFlow", "classlightfields_1_1Graph.html#adf6f59234f0413fec51ab06d88bbcda4", null ],
-    [ "m_nLinks", "classlightfields_1_1Graph.html#a5a23b3060a8083130b447c1ffd4b8260", null ],
-    [ "m_sinkLinks", "classlightfields_1_1Graph.html#a3098b4833d45f4048ab38dcdf83ae884", null ],
+    [ "m_nLinks", "classlightfields_1_1Graph.html#afecf964150bf347933231e8219a8ed30", null ],
+    [ "m_sinkLinks", "classlightfields_1_1Graph.html#a63722695a3f691b100181bd5523b67f1", null ],
     [ "m_size", "classlightfields_1_1Graph.html#a837fed614598a313edc6e14a943c4770", null ],
-    [ "m_sourceLinks", "classlightfields_1_1Graph.html#a752314bd53bd53c38fa6e490386ead64", null ]
+    [ "m_sourceLinks", "classlightfields_1_1Graph.html#a4d5afaf1a45a11c7ecbe471c452236a8", null ]
 ];
