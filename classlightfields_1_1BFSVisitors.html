@@ -81,6 +81,7 @@ $(document).ready(function(){initNavTree('classlightfields_1_1BFSVisitors.html',
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="classlightfields_1_1BFSVisitors-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -89,22 +90,43 @@ $(document).ready(function(){initNavTree('classlightfields_1_1BFSVisitors.html',
 <div class="contents">
 
 <p><code>#include &lt;<a class="el" href="bfs__visitors_8h_source.html">bfs_visitors.h</a>&gt;</code></p>
+<div class="dynheader">
+Collaboration diagram for lightfields::BFSVisitors:</div>
+<div class="dyncontent">
+<div class="center"><img src="classlightfields_1_1BFSVisitors__coll__graph.png" border="0" usemap="#lightfields_1_1BFSVisitors_coll__map" alt="Collaboration graph"/></div>
+<map name="lightfields_1_1BFSVisitors_coll__map" id="lightfields_1_1BFSVisitors_coll__map">
+<area shape="rect" id="node2" href="structlightfields_1_1Vec2.html" title="lightfields::Vec2\&lt;\l int \&gt;" alt="" coords="21,5,157,47"/>
+</map>
+<center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a8f0991fee644ddff50c9076cee21fdc1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#a8f0991fee644ddff50c9076cee21fdc1">BFSVisitors</a> (std::size_t count)</td></tr>
-<tr class="separator:a8f0991fee644ddff50c9076cee21fdc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adc08655bb54b2ee41bda4fff8df857f0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#adc08655bb54b2ee41bda4fff8df857f0">visited</a> (std::size_t index) const</td></tr>
-<tr class="separator:adc08655bb54b2ee41bda4fff8df857f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac0dc5289b81abb10bbbd03f3a44bb0c4"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#ac0dc5289b81abb10bbbd03f3a44bb0c4">parent</a> (std::size_t index) const</td></tr>
-<tr class="separator:ac0dc5289b81abb10bbbd03f3a44bb0c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac7e543e1f6b66de843e0e05f561387a2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#ac7e543e1f6b66de843e0e05f561387a2">visit</a> (std::size_t index, std::size_t <a class="el" href="classlightfields_1_1BFSVisitors.html#ac0dc5289b81abb10bbbd03f3a44bb0c4">parent</a>)</td></tr>
-<tr class="separator:ac7e543e1f6b66de843e0e05f561387a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaff1e584a3d55746829f5b68f1d505a9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#aaff1e584a3d55746829f5b68f1d505a9">BFSVisitors</a> (const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;size, std::size_t layer_count)</td></tr>
+<tr class="separator:aaff1e584a3d55746829f5b68f1d505a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9105e3e9c9211760c67d588bc3c2984a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#a9105e3e9c9211760c67d588bc3c2984a">visited</a> (const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;index) const</td></tr>
+<tr class="separator:a9105e3e9c9211760c67d588bc3c2984a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a435f0341a36352ecbe5bf230ddf78bd1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structlightfields_1_1Index.html">Index</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#a435f0341a36352ecbe5bf230ddf78bd1">parent</a> (const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;index) const</td></tr>
+<tr class="separator:a435f0341a36352ecbe5bf230ddf78bd1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6172b69d642c87f6cbe2122de65bb2bd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#a6172b69d642c87f6cbe2122de65bb2bd">visit</a> (const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;index, const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;<a class="el" href="classlightfields_1_1BFSVisitors.html#a435f0341a36352ecbe5bf230ddf78bd1">parent</a>)</td></tr>
+<tr class="separator:a6172b69d642c87f6cbe2122de65bb2bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9e523419e6b825e7f548a01c39ae096f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#a9e523419e6b825e7f548a01c39ae096f">clear</a> ()</td></tr>
 <tr class="separator:a9e523419e6b825e7f548a01c39ae096f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a208d22825f55a2b718f95ab66a4a3ab3"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#a208d22825f55a2b718f95ab66a4a3ab3">vec2index</a> (const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;<a class="el" href="obj_8cpp.html#ac8859e8c1ce357c4c8b37bbb1936ba1c">v</a>) const</td></tr>
+<tr class="separator:a208d22825f55a2b718f95ab66a4a3ab3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54e360ba6c9e1cc4337017ffd0e37a63"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structlightfields_1_1Index.html">Index</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#a54e360ba6c9e1cc4337017ffd0e37a63">index2vec</a> (std::size_t i) const</td></tr>
+<tr class="separator:a54e360ba6c9e1cc4337017ffd0e37a63"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
+<tr class="memitem:a18f7dc6befb160fccf87b1b46254bc1d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#a18f7dc6befb160fccf87b1b46254bc1d">m_size</a></td></tr>
+<tr class="separator:a18f7dc6befb160fccf87b1b46254bc1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb68413816df4344a3c2b4e4d9e31e03"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#adb68413816df4344a3c2b4e4d9e31e03">m_layerCount</a></td></tr>
+<tr class="separator:adb68413816df4344a3c2b4e4d9e31e03"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3d2eebe8ab16b185c8a937a9d6e9353a"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#a3d2eebe8ab16b185c8a937a9d6e9353a">m_layerSize</a></td></tr>
+<tr class="separator:a3d2eebe8ab16b185c8a937a9d6e9353a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a61a486a93d60d7b339ee35f02d4b08f0"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#a61a486a93d60d7b339ee35f02d4b08f0">m_stage</a></td></tr>
 <tr class="separator:a61a486a93d60d7b339ee35f02d4b08f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae9d09edc38b0fdcff35db2973cf5b909"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1BFSVisitors.html#ae9d09edc38b0fdcff35db2973cf5b909">m_mask</a></td></tr>
@@ -115,8 +137,8 @@ Private Attributes</h2></td></tr>
 <tr class="separator:aab10987372d98c54e0d87add9f08605f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a8f0991fee644ddff50c9076cee21fdc1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f0991fee644ddff50c9076cee21fdc1">&#9670;&nbsp;</a></span>BFSVisitors()</h2>
+<a id="aaff1e584a3d55746829f5b68f1d505a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaff1e584a3d55746829f5b68f1d505a9">&#9670;&nbsp;</a></span>BFSVisitors()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -124,9 +146,19 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">lightfields::BFSVisitors::BFSVisitors </td>
           <td>(</td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>count</em></td><td>)</td>
+          <td class="paramtype">const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;&#160;</td>
+          <td class="paramname"><em>size</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>layer_count</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -151,16 +183,42 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="ac0dc5289b81abb10bbbd03f3a44bb0c4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac0dc5289b81abb10bbbd03f3a44bb0c4">&#9670;&nbsp;</a></span>parent()</h2>
+<a id="a54e360ba6c9e1cc4337017ffd0e37a63"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54e360ba6c9e1cc4337017ffd0e37a63">&#9670;&nbsp;</a></span>index2vec()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="structlightfields_1_1Index.html">Index</a> lightfields::BFSVisitors::index2vec </td>
+          <td>(</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>i</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a435f0341a36352ecbe5bf230ddf78bd1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a435f0341a36352ecbe5bf230ddf78bd1">&#9670;&nbsp;</a></span>parent()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::size_t lightfields::BFSVisitors::parent </td>
+          <td class="memname"><a class="el" href="structlightfields_1_1Index.html">Index</a> lightfields::BFSVisitors::parent </td>
           <td>(</td>
-          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
           <td class="paramname"><em>index</em></td><td>)</td>
           <td> const</td>
         </tr>
@@ -169,8 +227,34 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="ac7e543e1f6b66de843e0e05f561387a2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac7e543e1f6b66de843e0e05f561387a2">&#9670;&nbsp;</a></span>visit()</h2>
+<a id="a208d22825f55a2b718f95ab66a4a3ab3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a208d22825f55a2b718f95ab66a4a3ab3">&#9670;&nbsp;</a></span>vec2index()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t lightfields::BFSVisitors::vec2index </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
+          <td class="paramname"><em>v</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6172b69d642c87f6cbe2122de65bb2bd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6172b69d642c87f6cbe2122de65bb2bd">&#9670;&nbsp;</a></span>visit()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -178,13 +262,13 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">void lightfields::BFSVisitors::visit </td>
           <td>(</td>
-          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
           <td class="paramname"><em>index</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
           <td class="paramname"><em>parent</em>&#160;</td>
         </tr>
         <tr>
@@ -197,8 +281,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="adc08655bb54b2ee41bda4fff8df857f0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adc08655bb54b2ee41bda4fff8df857f0">&#9670;&nbsp;</a></span>visited()</h2>
+<a id="a9105e3e9c9211760c67d588bc3c2984a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9105e3e9c9211760c67d588bc3c2984a">&#9670;&nbsp;</a></span>visited()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -206,7 +290,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool lightfields::BFSVisitors::visited </td>
           <td>(</td>
-          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
           <td class="paramname"><em>index</em></td><td>)</td>
           <td> const</td>
         </tr>
@@ -216,6 +300,50 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
+<a id="adb68413816df4344a3c2b4e4d9e31e03"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb68413816df4344a3c2b4e4d9e31e03">&#9670;&nbsp;</a></span>m_layerCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t lightfields::BFSVisitors::m_layerCount</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3d2eebe8ab16b185c8a937a9d6e9353a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3d2eebe8ab16b185c8a937a9d6e9353a">&#9670;&nbsp;</a></span>m_layerSize</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t lightfields::BFSVisitors::m_layerSize</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="ae9d09edc38b0fdcff35db2973cf5b909"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae9d09edc38b0fdcff35db2973cf5b909">&#9670;&nbsp;</a></span>m_mask</h2>
 
@@ -249,6 +377,28 @@ Private Attributes</h2></td></tr>
       <table class="memname">
         <tr>
           <td class="memname">std::size_t lightfields::BFSVisitors::m_shift</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a18f7dc6befb160fccf87b1b46254bc1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a18f7dc6befb160fccf87b1b46254bc1d">&#9670;&nbsp;</a></span>m_size</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> lightfields::BFSVisitors::m_size</td>
         </tr>
       </table>
   </td>
@@ -314,7 +464,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1BFSVisitors.html">BFSVisitors</a></li>
-    <li class="footer">Generated on Wed Mar 4 2020 23:01:42 for possumwood by
+    <li class="footer">Generated on Sun Mar 8 2020 20:32:52 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

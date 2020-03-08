@@ -3,7 +3,7 @@
 <area shape="rect" id="node3" href="$dependency__graph_2metadata_8h.html" title="src/libs/dependency\l_graph/metadata.h" alt="" coords="1680,95,1831,136"/>
 <area shape="rect" id="node6" href="$libs_2possumwood__sdk_2properties_2property_8h.html" title="src/libs/possumwood\l_sdk/properties/property.h" alt="" coords="2011,631,2201,672"/>
 <area shape="rect" id="node30" href="$node__base_8h.html" title="src/libs/dependency\l_graph/node_base.h" alt="" coords="1787,273,1939,315"/>
-<area shape="rect" id="node39" href="$index_8h.html" title="src/libs/possumwood\l_sdk/index.h" alt="" coords="940,452,1099,493"/>
+<area shape="rect" id="node39" href="$possumwood__sdk_2index_8h.html" title="src/libs/possumwood\l_sdk/index.h" alt="" coords="940,452,1099,493"/>
 <area shape="rect" id="node48" href="$dependency__graph_2connections_8h.html" title="src/libs/dependency\l_graph/connections.h" alt="" coords="949,273,1109,315"/>
 <area shape="rect" id="node50" href="$unique__id_8cpp.html" title="src/libs/dependency\l_graph/unique_id.cpp" alt="" coords="2517,95,2677,136"/>
 <area shape="rect" id="node4" href="$actions_8h.html" title="src/libs/actions/actions.h" alt="" coords="1913,549,2096,575"/>

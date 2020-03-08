@@ -156,6 +156,7 @@ var hierarchy =
     [ "possumwood::lua::Variable::HolderBase", "structpossumwood_1_1lua_1_1Variable_1_1HolderBase.html", [
       [ "possumwood::lua::Variable::Holder< T >", "classpossumwood_1_1lua_1_1Variable_1_1Holder.html", null ]
     ] ],
+    [ "lightfields::Index", "structlightfields_1_1Index.html", null ],
     [ "possumwood::Index", "classpossumwood_1_1Index.html", null ],
     [ "possumwood::polymesh::GenericPolymesh::Index", "classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Index.html", null ],
     [ "possumwood::IndexExtractor< VAL >", "structpossumwood_1_1IndexExtractor.html", null ],
@@ -389,8 +390,8 @@ var hierarchy =
     [ "NoncopyableStruct", "structNoncopyableStruct.html", null ],
     [ "possumwood::lua::NullModule", "structpossumwood_1_1lua_1_1NullModule.html", null ],
     [ "possumwood::images::OpencvMatWrapper", "classpossumwood_1_1images_1_1OpencvMatWrapper.html", null ],
-    [ "anim::SubsetSelection::Options", "classanim_1_1SubsetSelection_1_1Options.html", null ],
     [ "Options", "classOptions.html", null ],
+    [ "anim::SubsetSelection::Options", "classanim_1_1SubsetSelection_1_1Options.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_adapter< CharType >", "classpossumwood_1_1io_1_1basic__json_1_1output__adapter.html", [
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_stream_adapter< CharType >", "classpossumwood_1_1io_1_1basic__json_1_1output__stream__adapter.html", null ],
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::output_string_adapter< CharType >", "classpossumwood_1_1io_1_1basic__json_1_1output__string__adapter.html", null ],
@@ -398,11 +399,11 @@ var hierarchy =
     ] ],
     [ "possumwood::lua::Extract< T, HOLDER >::Params", "structpossumwood_1_1lua_1_1Extract_1_1Params.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::parser", "classpossumwood_1_1io_1_1basic__json_1_1parser.html", null ],
-    [ "lightfields::Graph::Path", "structlightfields_1_1Graph_1_1Path.html", null ],
+    [ "lightfields::Graph::Path", "classlightfields_1_1Graph_1_1Path.html", null ],
     [ "PathWidget::Path", "classPathWidget_1_1Path.html", null ],
     [ "lightfields::Pattern", "classlightfields_1_1Pattern.html", null ],
-    [ "lightfields::LensletGraph::Pimpl", "structlightfields_1_1LensletGraph_1_1Pimpl.html", null ],
     [ "lightfields::Raw::Pimpl", "structlightfields_1_1Raw_1_1Pimpl.html", null ],
+    [ "lightfields::LensletGraph::Pimpl", "structlightfields_1_1LensletGraph_1_1Pimpl.html", null ],
     [ "PluginsRAII", "classPluginsRAII.html", null ],
     [ "possumwood::NodeData::Point", "structpossumwood_1_1NodeData_1_1Point.html", null ],
     [ "possumwood::PolyExtractor< VAL >", "structpossumwood_1_1PolyExtractor.html", null ],

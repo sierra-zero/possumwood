@@ -40,6 +40,6 @@ var searchData=
   ['frommetadata',['fromMetadata',['../classlightfields_1_1Pattern.html#a5db368d3aa36c8dcf7dce9b9e3fc95bd',1,'lightfields::Pattern']]],
   ['frompattern',['fromPattern',['../classlightfields_1_1Samples.html#abd001e3389e4c58374f4dc93001296d8',1,'lightfields::Samples']]],
   ['fromport',['fromPort',['../classnode__editor_1_1ConnectedEdge.html#a8976c8276c142e35d6fdde5d2c1c2187',1,'node_editor::ConnectedEdge::fromPort() const'],['../classnode__editor_1_1ConnectedEdge.html#a71fbd5606c4dfdf998943ddc3d7bbb4c',1,'node_editor::ConnectedEdge::fromPort()']]],
-  ['front',['front',['../classpossumwood_1_1io_1_1basic__json.html#a7f9099285293166322f96d54e413b183',1,'possumwood::io::basic_json::front()'],['../classpossumwood_1_1io_1_1basic__json.html#aeace7da1039f91023437bc98d9f4dbda',1,'possumwood::io::basic_json::front() const'],['../classanim_1_1Animation.html#a2be73508201cd5ed8a6b41949c934821',1,'anim::Animation::front()']]],
+  ['front',['front',['../classpossumwood_1_1io_1_1basic__json.html#a7f9099285293166322f96d54e413b183',1,'possumwood::io::basic_json::front()'],['../classpossumwood_1_1io_1_1basic__json.html#aeace7da1039f91023437bc98d9f4dbda',1,'possumwood::io::basic_json::front() const'],['../classlightfields_1_1Graph_1_1Path.html#a7d3d31d72ed7bbe9bc1cd070dc224b15',1,'lightfields::Graph::Path::front()'],['../classanim_1_1Animation.html#a2be73508201cd5ed8a6b41949c934821',1,'anim::Animation::front()']]],
   ['fullname',['fullName',['../classdependency__graph_1_1Port.html#a936756705b5ede6144ef7f8a037344de',1,'dependency_graph::Port']]]
 ];

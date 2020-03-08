@@ -17,7 +17,10 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     [ "graph.h", "lightfields_2graph_8h.html", [
       [ "Graph", "classlightfields_1_1Graph.html", "classlightfields_1_1Graph" ],
       [ "Edge", "structlightfields_1_1Graph_1_1Edge.html", "structlightfields_1_1Graph_1_1Edge" ],
-      [ "Path", "structlightfields_1_1Graph_1_1Path.html", "structlightfields_1_1Graph_1_1Path" ]
+      [ "Path", "classlightfields_1_1Graph_1_1Path.html", "classlightfields_1_1Graph_1_1Path" ]
+    ] ],
+    [ "index.h", "lightfields_2index_8h.html", [
+      [ "Index", "structlightfields_1_1Index.html", "structlightfields_1_1Index" ]
     ] ],
     [ "integration.h", "integration_8h.html", [
       [ "IntegrationResult", "structlightfields_1_1IntegrationResult.html", "structlightfields_1_1IntegrationResult" ]

@@ -41,7 +41,7 @@ var dir_bbeb1387f6037c41dcaa5423e7174c79 =
       [ "VBOData", "structpossumwood_1_1GLRenderable_1_1VBOData.html", "structpossumwood_1_1GLRenderable_1_1VBOData" ]
     ] ],
     [ "index.cpp", "index_8cpp.html", null ],
-    [ "index.h", "index_8h.html", [
+    [ "index.h", "possumwood__sdk_2index_8h.html", [
       [ "Index", "classpossumwood_1_1Index.html", "classpossumwood_1_1Index" ],
       [ "Item", "structpossumwood_1_1Index_1_1Item.html", "structpossumwood_1_1Index_1_1Item" ]
     ] ],

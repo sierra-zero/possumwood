@@ -1,9 +1,12 @@
 <map id="src/libs/lightfields/vec2.h" name="src/libs/lightfields/vec2.h">
-<area shape="rect" id="node2" href="$n__links_8h.html" title="src/libs/lightfields\l/n_links.h" alt="" coords="141,95,277,136"/>
-<area shape="rect" id="node8" href="$t__links_8h.html" title="src/libs/lightfields\l/t_links.h" alt="" coords="301,95,437,136"/>
-<area shape="rect" id="node3" href="$lightfields_2graph_8h.html" title="src/libs/lightfields\l/graph.h" alt="" coords="248,184,384,225"/>
-<area shape="rect" id="node5" href="$n__links_8cpp.html" title="src/libs/lightfields\l/n_links.cpp" alt="" coords="5,281,141,322"/>
-<area shape="rect" id="node4" href="$lightfields_2graph_8cpp.html" title="src/libs/lightfields\l/graph.cpp" alt="" coords="165,281,301,322"/>
-<area shape="rect" id="node6" href="$t__links_8cpp.html" title="src/libs/lightfields\l/t_links.cpp" alt="" coords="499,281,635,322"/>
-<area shape="rect" id="node7" href="$st__graphcut_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/st\l_graphcut.cpp" alt="" coords="325,273,475,329"/>
+<area shape="rect" id="node2" href="$lightfields_2index_8h.html" title="src/libs/lightfields\l/index.h" alt="" coords="191,95,327,136"/>
+<area shape="rect" id="node10" href="$n__links_8h.html" title="src/libs/lightfields\l/n_links.h" alt="" coords="351,95,487,136"/>
+<area shape="rect" id="node11" href="$t__links_8h.html" title="src/libs/lightfields\l/t_links.h" alt="" coords="511,95,647,136"/>
+<area shape="rect" id="node3" href="$bfs__visitors_8h.html" title="src/libs/lightfields\l/bfs_visitors.h" alt="" coords="165,184,301,225"/>
+<area shape="rect" id="node6" href="$lightfields_2graph_8h.html" title="src/libs/lightfields\l/graph.h" alt="" coords="431,184,567,225"/>
+<area shape="rect" id="node4" href="$bfs__visitors_8cpp.html" title="src/libs/lightfields\l/bfs_visitors.cpp" alt="" coords="5,281,141,322"/>
+<area shape="rect" id="node5" href="$lightfields_2graph_8cpp.html" title="src/libs/lightfields\l/graph.cpp" alt="" coords="165,281,301,322"/>
+<area shape="rect" id="node7" href="$n__links_8cpp.html" title="src/libs/lightfields\l/n_links.cpp" alt="" coords="325,281,461,322"/>
+<area shape="rect" id="node8" href="$t__links_8cpp.html" title="src/libs/lightfields\l/t_links.cpp" alt="" coords="659,281,795,322"/>
+<area shape="rect" id="node9" href="$st__graphcut_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/st\l_graphcut.cpp" alt="" coords="485,273,635,329"/>
 </map>
