@@ -1,4 +1,5 @@
 <map id="src/libs/lightfields/bfs_visitors.h" name="src/libs/lightfields/bfs_visitors.h">
-<area shape="rect" id="node3" href="$lightfields_2index_8h.html" title="index.h" alt="" coords="92,95,163,121"/>
-<area shape="rect" id="node5" href="$libs_2lightfields_2vec2_8h.html" title="vec2.h" alt="" coords="139,169,204,196"/>
+<area shape="rect" id="node4" href="$graph__path_8h.html" title="graph_path.h" alt="" coords="123,95,229,121"/>
+<area shape="rect" id="node5" href="$lightfields_2index_8h.html" title="index.h" alt="" coords="141,169,211,196"/>
+<area shape="rect" id="node7" href="$libs_2lightfields_2vec2_8h.html" title="vec2.h" alt="" coords="187,244,253,271"/>
 </map>

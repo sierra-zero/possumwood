@@ -1,5 +1,7 @@
 var NAVTREEINDEX19 =
 {
+"structpossumwood_1_1Traits_3_01void_01_4.html":[2,0,5,110],
+"structpossumwood_1_1Traits_3_01void_01_4.html#af8c72939773e490a195a88b5adaf4b9b":[2,0,5,110,0],
 "structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4.html":[2,0,5,111],
 "structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4.html#a7d533abdc81bac4d0706e51a139ae500":[2,0,5,111,0],
 "structpossumwood_1_1UndoStack_1_1Action_1_1Data.html":[2,0,5,112,0,0],
@@ -197,9 +199,9 @@ var NAVTREEINDEX19 =
 "subset__selection_8h.html#a6ff6d3473a2a2ce18f5fea97b56fd1b8":[3,0,0,2,0,0,35,4],
 "subset__selection_8h_source.html":[3,0,0,2,0,0,35],
 "subtract_8cpp.html":[3,0,0,2,5,0,39],
-"t__links_8cpp.html":[3,0,0,1,2,26],
-"t__links_8h.html":[3,0,0,1,2,27],
-"t__links_8h_source.html":[3,0,0,1,2,27],
+"t__links_8cpp.html":[3,0,0,1,2,28],
+"t__links_8h.html":[3,0,0,1,2,29],
+"t__links_8h_source.html":[3,0,0,1,2,29],
 "tests_2anim_2main_8cpp.html":[3,0,0,3,0,0],
 "tests_2anim_2main_8cpp.html#a139f00d2466d591f60b8d6a73c8273f1":[3,0,0,3,0,0,0],
 "tests_2anim_2main_8cpp.html#a6b2a3852db8bb19ab6909bac01859985":[3,0,0,3,0,0,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX19 =
 "tests_2dependency__graph_2io_8cpp.html":[3,0,0,3,1,10],
 "tests_2dependency__graph_2io_8cpp.html#a8caab334d7431e9db03bce78e02c67eb":[3,0,0,3,1,10,0],
 "tests_2dependency__graph_2main_8cpp.html":[3,0,0,3,1,11],
-"tests_2dependency__graph_2main_8cpp.html#a139f00d2466d591f60b8d6a73c8273f1":[3,0,0,3,1,11,0],
-"tests_2dependency__graph_2main_8cpp.html#a6b2a3852db8bb19ab6909bac01859985":[3,0,0,3,1,11,1],
-"tests_2possumwood_2actions_8cpp.html":[3,0,0,3,2,0]
+"tests_2dependency__graph_2main_8cpp.html#a139f00d2466d591f60b8d6a73c8273f1":[3,0,0,3,1,11,0]
 };
