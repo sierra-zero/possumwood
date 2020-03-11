@@ -23,7 +23,6 @@ var searchData=
   ['glsltraits_3c_20unsigned_20_3e',['GLSLTraits&lt; unsigned &gt;',['../structpossumwood_1_1GLSLTraits_3_01unsigned_01_4.html',1,'possumwood']]],
   ['glyph',['Glyph',['../structpossumwood_1_1Font_1_1Glyph.html',1,'possumwood::Font']]],
   ['graph',['Graph',['../classlightfields_1_1Graph.html',1,'lightfields::Graph'],['../classdependency__graph_1_1Graph.html',1,'dependency_graph::Graph']]],
-  ['graphpath',['GraphPath',['../classlightfields_1_1GraphPath.html',1,'lightfields']]],
   ['graphscene',['GraphScene',['../classnode__editor_1_1GraphScene.html',1,'node_editor']]],
   ['graphwidget',['GraphWidget',['../classnode__editor_1_1GraphWidget.html',1,'node_editor']]],
   ['grid',['Grid',['../classpossumwood_1_1Grid.html',1,'possumwood']]]

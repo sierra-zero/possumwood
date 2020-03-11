@@ -15,12 +15,7 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     [ "gaussian_integration.h", "gaussian__integration_8h.html", "gaussian__integration_8h" ],
     [ "graph.cpp", "lightfields_2graph_8cpp.html", "lightfields_2graph_8cpp" ],
     [ "graph.h", "lightfields_2graph_8h.html", [
-      [ "Graph", "classlightfields_1_1Graph.html", "classlightfields_1_1Graph" ],
-      [ "Edge", "structlightfields_1_1Graph_1_1Edge.html", "structlightfields_1_1Graph_1_1Edge" ]
-    ] ],
-    [ "graph_path.cpp", "graph__path_8cpp.html", null ],
-    [ "graph_path.h", "graph__path_8h.html", [
-      [ "GraphPath", "classlightfields_1_1GraphPath.html", "classlightfields_1_1GraphPath" ]
+      [ "Graph", "classlightfields_1_1Graph.html", "classlightfields_1_1Graph" ]
     ] ],
     [ "index.h", "lightfields_2index_8h.html", [
       [ "Index", "structlightfields_1_1Index.html", "structlightfields_1_1Index" ]

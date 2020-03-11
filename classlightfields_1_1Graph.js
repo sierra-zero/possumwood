@@ -1,12 +1,10 @@
 var classlightfields_1_1Graph =
 [
-    [ "Edge", "structlightfields_1_1Graph_1_1Edge.html", "structlightfields_1_1Graph_1_1Edge" ],
     [ "Graph", "classlightfields_1_1Graph.html#a92cc4ba056cc8ed6a9ca67b1690e2770", null ],
     [ "debug", "classlightfields_1_1Graph.html#ac051ad545e79c7658881bd58840c6748", null ],
-    [ "doFlow", "classlightfields_1_1Graph.html#a79226ecb120a4f34cbaa92d525180c9a", null ],
-    [ "flow", "classlightfields_1_1Graph.html#a41f069746a81a8ff2e6a457a18cdb10d", null ],
-    [ "i2v", "classlightfields_1_1Graph.html#a0a7f3a939839e0928b1bb198f221652f", null ],
-    [ "iterate", "classlightfields_1_1Graph.html#a0a958c9550ecfd71a95438d1f55e6af3", null ],
+    [ "doFlow", "classlightfields_1_1Graph.html#a05a073b798d70574038aec8e1783d630", null ],
+    [ "flow", "classlightfields_1_1Graph.html#a2de8bd4779f3a14883ff140483e088c1", null ],
+    [ "iterate", "classlightfields_1_1Graph.html#a868aab10e98fe1ac0bd3ec913a1f6715", null ],
     [ "minCut", "classlightfields_1_1Graph.html#a9ed839ed4a9c6c23e155a8b03426f3cb", null ],
     [ "n_flow", "classlightfields_1_1Graph.html#af1788199da4311b37d67cd5468ad0832", null ],
     [ "setValue", "classlightfields_1_1Graph.html#a3802bcf2f08c658559e1f80b63591833", null ],
