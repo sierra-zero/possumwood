@@ -25,10 +25,11 @@
 <area shape="rect" id="node26" href="$resize_8cpp.html" title="src/plugins/opencv\l/nodes/resize.cpp" alt="" coords="4751,102,4893,143"/>
 <area shape="rect" id="node27" href="$add__exif_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/add\l_exif.cpp" alt="" coords="4917,95,5076,151"/>
 <area shape="rect" id="node28" href="$add__frame_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/add\l_frame.cpp" alt="" coords="5100,95,5259,151"/>
-<area shape="rect" id="node29" href="$get__frame_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/get\l_frame.cpp" alt="" coords="5283,95,5439,151"/>
-<area shape="rect" id="node30" href="$plugins_2polymesh_2nodes_2grid_8cpp.html" title="src/plugins/polymesh\l/nodes/grid.cpp" alt="" coords="5463,102,5623,143"/>
-<area shape="rect" id="node31" href="$polymesh_2nodes_2loader_8cpp.html" title="src/plugins/polymesh\l/nodes/loader.cpp" alt="" coords="5647,102,5807,143"/>
-<area shape="rect" id="node32" href="$nodes_2font_8cpp.html" title="src/plugins/render\l/nodes/font.cpp" alt="" coords="5831,102,5970,143"/>
-<area shape="rect" id="node33" href="$text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="5995,102,6199,143"/>
+<area shape="rect" id="node29" href="$sequence_2convert_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/convert.cpp" alt="" coords="5283,102,5494,143"/>
+<area shape="rect" id="node30" href="$get__frame_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/get\l_frame.cpp" alt="" coords="5519,95,5675,151"/>
+<area shape="rect" id="node31" href="$plugins_2polymesh_2nodes_2grid_8cpp.html" title="src/plugins/polymesh\l/nodes/grid.cpp" alt="" coords="5699,102,5859,143"/>
+<area shape="rect" id="node32" href="$polymesh_2nodes_2loader_8cpp.html" title="src/plugins/polymesh\l/nodes/loader.cpp" alt="" coords="5883,102,6043,143"/>
+<area shape="rect" id="node33" href="$nodes_2font_8cpp.html" title="src/plugins/render\l/nodes/font.cpp" alt="" coords="6067,102,6206,143"/>
+<area shape="rect" id="node34" href="$text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="6231,102,6435,143"/>
 <area shape="rect" id="node4" href="$ui_2filename_8cpp.html" title="src/libs/possumwood\l_sdk/ui/filename.cpp" alt="" coords="239,199,397,240"/>
 </map>

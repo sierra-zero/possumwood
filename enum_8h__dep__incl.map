@@ -24,9 +24,10 @@
 <area shape="rect" id="node25" href="$vignetting__mosaic_8cpp.html" title="src/plugins/opencv\l/nodes/lightfields/vignetting\l_mosaic.cpp" alt="" coords="4560,95,4763,151"/>
 <area shape="rect" id="node26" href="$dense_8cpp.html" title="src/plugins/opencv\l/nodes/optical_flow\l/dense.cpp" alt="" coords="4787,95,4933,151"/>
 <area shape="rect" id="node27" href="$resize_8cpp.html" title="src/plugins/opencv\l/nodes/resize.cpp" alt="" coords="4958,102,5101,143"/>
-<area shape="rect" id="node28" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="5125,102,5267,143"/>
-<area shape="rect" id="node29" href="$threshold_8cpp.html" title="src/plugins/opencv\l/nodes/threshold.cpp" alt="" coords="5292,102,5449,143"/>
-<area shape="rect" id="node30" href="$plugins_2render_2nodes_2uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="5473,102,5671,143"/>
-<area shape="rect" id="node31" href="$text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="5695,102,5899,143"/>
+<area shape="rect" id="node28" href="$sequence_2convert_8cpp.html" title="src/plugins/opencv\l/nodes/sequence/convert.cpp" alt="" coords="5125,102,5336,143"/>
+<area shape="rect" id="node29" href="$opencv_2nodes_2texture_8cpp.html" title="src/plugins/opencv\l/nodes/texture.cpp" alt="" coords="5359,102,5502,143"/>
+<area shape="rect" id="node30" href="$threshold_8cpp.html" title="src/plugins/opencv\l/nodes/threshold.cpp" alt="" coords="5527,102,5684,143"/>
+<area shape="rect" id="node31" href="$plugins_2render_2nodes_2uniforms_2frame_8cpp.html" title="src/plugins/render\l/nodes/uniforms/frame.cpp" alt="" coords="5708,102,5905,143"/>
+<area shape="rect" id="node32" href="$text_8cpp.html" title="src/plugins/render\l/nodes/vertex_data/text.cpp" alt="" coords="5930,102,6134,143"/>
 <area shape="rect" id="node4" href="$enum__ui_8cpp.html" title="src/libs/possumwood\l_sdk/ui/enum_ui.cpp" alt="" coords="219,199,378,240"/>
 </map>

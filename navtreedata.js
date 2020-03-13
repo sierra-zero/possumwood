@@ -54,15 +54,15 @@ var NAVTREEINDEX =
 "classpossumwood_1_1Uniforms.html#ab5ef5831ce989424587fe887cd45a206",
 "classpossumwood_1_1io_1_1basic__json.html#ad2cb325ee1134794dc03bbe75ddf335c",
 "classpossumwood_1_1io_1_1basic__json_1_1output__string__adapter.html",
-"classpossumwood_1_1opencv_1_1Frame.html#a27cf3f7951f9f370915c1725ad7ae9c7",
-"classstring__ui.html#a9bf00a2468da9131e626b733ac55f465",
-"drawable_8cpp.html",
-"int__ui_8h_source.html",
-"namespaceanim.html",
-"rtti_8cpp.html#a4989451f8b2a3f805852c1c0d7041720",
-"structnode__editor_1_1GraphScene_1_1Selection.html",
-"structpossumwood_1_1Uniforms_1_1UniformHolder.html#a6126587ba9a55f3a131b3b73a43f66bb",
-"tests_2possumwood_2io_8cpp.html#a2fffe1ae812d0d9b1ed69a4f0b7c026d"
+"classpossumwood_1_1opencv_1_1Frame.html#a175b0465d09a0a6be41b25abf8d7fb13",
+"classpossumwood_1_1properties_1_1property__base.html#a252e3ae2d5bf69c1cfc925407d506f68",
+"dir_d7f6cb5d899bdd5d2c6ff9a592af788f.html",
+"index.html",
+"min_8cpp.html",
+"rectangles_8h.html#ad73c4140e6cec7acf1d83f34c709bcba",
+"structlightfields_1_1Pattern_1_1Sample.html#a291f8ba395f25a344035e1c921ae9385",
+"structpossumwood_1_1Traits_3_1_1lightfields_1_1Pattern_01_4.html#a7d533abdc81bac4d0706e51a139ae500",
+"tests_2possumwood_2actions_8cpp.html#ad15daf8ee9f3a1f9e3afed1698861084"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

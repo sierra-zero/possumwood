@@ -7,6 +7,7 @@ var searchData=
   ['make_5fvec2_2ecpp',['make_vec2.cpp',['../make__vec2_8cpp.html',1,'']]],
   ['make_5fvec3_2ecpp',['make_vec3.cpp',['../make__vec3_8cpp.html',1,'']]],
   ['max_2ecpp',['max.cpp',['../max_8cpp.html',1,'']]],
+  ['max_5findex_2ecpp',['max_index.cpp',['../max__index_8cpp.html',1,'']]],
   ['merge_2ecpp',['merge.cpp',['../merge_8cpp.html',1,'']]],
   ['merge_5fdebevec_2ecpp',['merge_debevec.cpp',['../merge__debevec_8cpp.html',1,'']]],
   ['merge_5fmertens_2ecpp',['merge_mertens.cpp',['../merge__mertens_8cpp.html',1,'']]],

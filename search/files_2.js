@@ -46,7 +46,7 @@ var searchData=
   ['constraints_2eh',['constraints.h',['../constraints_8h.html',1,'']]],
   ['context_2ecpp',['context.cpp',['../context_8cpp.html',1,'']]],
   ['context_2eh',['context.h',['../context_8h.html',1,'']]],
-  ['convert_2ecpp',['convert.cpp',['../convert_8cpp.html',1,'']]],
+  ['convert_2ecpp',['convert.cpp',['../convert_8cpp.html',1,'(Global Namespace)'],['../sequence_2convert_8cpp.html',1,'(Global Namespace)']]],
   ['create_2ecpp',['create.cpp',['../create_8cpp.html',1,'']]],
   ['createpattern_2ecpp',['createPattern.cpp',['../createPattern_8cpp.html',1,'']]],
   ['crop_2ecpp',['crop.cpp',['../crop_8cpp.html',1,'']]],
