@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['edge',['Edge',['../classlightfields_1_1NLinks_1_1Edge.html',1,'lightfields::NLinks::Edge'],['../classlightfields_1_1TLinks_1_1Edge.html',1,'lightfields::TLinks::Edge'],['../classnode__editor_1_1Edge.html',1,'node_editor::Edge']]],
+  ['edge',['Edge',['../classnode__editor_1_1Edge.html',1,'node_editor']]],
   ['editor',['Editor',['../classpossumwood_1_1Editor.html',1,'possumwood']]],
   ['element',['Element',['../classpossumwood_1_1BufferTemplated_1_1Element.html',1,'possumwood::BufferTemplated']]],
   ['enum',['Enum',['../classpossumwood_1_1Enum.html',1,'possumwood']]],

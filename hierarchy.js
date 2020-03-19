@@ -1,7 +1,9 @@
 var hierarchy =
 [
+    [ "lightfields::Bitfield::Accessor", "classlightfields_1_1Bitfield_1_1Accessor.html", null ],
     [ "Action", "classAction.html", null ],
     [ "possumwood::UndoStack::Action", "classpossumwood_1_1UndoStack_1_1Action.html", null ],
+    [ "lightfields::ActiveQueue", "classlightfields_1_1ActiveQueue.html", null ],
     [ "possumwood::io::adl_serializer< typename, typename >", "structpossumwood_1_1io_1_1adl__serializer.html", null ],
     [ "anim::Animation", "classanim_1_1Animation.html", null ],
     [ "possumwood::polymesh::ArrayBase", "structpossumwood_1_1polymesh_1_1ArrayBase.html", [
@@ -32,6 +34,7 @@ var hierarchy =
     [ "lightfields::BFSVisitors", "classlightfields_1_1BFSVisitors.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_reader", "classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::binary_writer", "classpossumwood_1_1io_1_1basic__json_1_1binary__writer.html", null ],
+    [ "lightfields::Bitfield", "classlightfields_1_1Bitfield.html", null ],
     [ "lightfields::Block", "structlightfields_1_1Block.html", null ],
     [ "possumwood::opencv::BSpline< DEGREE >", "classpossumwood_1_1opencv_1_1BSpline.html", null ],
     [ "possumwood::opencv::BSpline< 4 >", "classpossumwood_1_1opencv_1_1BSpline.html", null ],
@@ -61,9 +64,7 @@ var hierarchy =
     [ "dependency_graph::DataTraits< T, typename std::enable_if< std::is_convertible< decltype(std::declval< T >()==std::declval< T >()), bool >::value >::type >", "structdependency__graph_1_1DataTraits_3_01T_00_01typename_01std_1_1enable__if_3_01std_1_1is__confb595470cbc60740a6c1a5bf72dc0f1c.html", null ],
     [ "lightfields::Depth", "classlightfields_1_1Depth.html", null ],
     [ "possumwood::Description", "classpossumwood_1_1Description.html", null ],
-    [ "lightfields::NLinks::Direction", "classlightfields_1_1NLinks_1_1Direction.html", null ],
-    [ "lightfields::NLinks::Edge", "classlightfields_1_1NLinks_1_1Edge.html", null ],
-    [ "lightfields::TLinks::Edge", "classlightfields_1_1TLinks_1_1Edge.html", null ],
+    [ "lightfields::Link::Direction", "classlightfields_1_1Link_1_1Direction.html", null ],
     [ "possumwood::BufferTemplated< T >::Element", "classpossumwood_1_1BufferTemplated_1_1Element.html", null ],
     [ "enable_shared_from_this", null, [
       [ "dependency_graph::Metadata", "classdependency__graph_1_1Metadata.html", [
@@ -176,11 +177,12 @@ var hierarchy =
     [ "possumwood::io::detail::is_compatible_integer_type_impl< true, RealIntegerType, CompatibleNumberIntegerType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308.html", null ],
     [ "possumwood::io::detail::is_compatible_object_type< BasicJsonType, CompatibleObjectType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type.html", null ],
     [ "possumwood::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01RealType_00_01CompatibleObjectType_01_4.html", null ],
-    [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
     [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
-    [ "Options::Item", "structOptions_1_1Item.html", null ],
-    [ "dependency_graph::NodesIterator< ITERATOR >::Item", "structdependency__graph_1_1NodesIterator_1_1Item.html", null ],
     [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
+    [ "lightfields::ActiveQueue::Item", "structlightfields_1_1ActiveQueue_1_1Item.html", null ],
+    [ "dependency_graph::NodesIterator< ITERATOR >::Item", "structdependency__graph_1_1NodesIterator_1_1Item.html", null ],
+    [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
+    [ "Options::Item", "structOptions_1_1Item.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
     [ "iterator", null, [
@@ -205,6 +207,7 @@ var hierarchy =
     [ "anim::LexicalCastHelper< float, std::string >", "structanim_1_1LexicalCastHelper_3_01float_00_01std_1_1string_01_4.html", null ],
     [ "anim::LexicalCastHelper< std::string, std::vector< T > >", "structanim_1_1LexicalCastHelper_3_01std_1_1string_00_01std_1_1vector_3_01T_01_4_01_4.html", null ],
     [ "possumwood::opencv::LightfieldVignetting", "classpossumwood_1_1opencv_1_1LightfieldVignetting.html", null ],
+    [ "lightfields::Link", "classlightfields_1_1Link.html", null ],
     [ "possumwood::actions::detail::Link", "structpossumwood_1_1actions_1_1detail_1_1Link.html", null ],
     [ "possumwood::Mesh", "classpossumwood_1_1Mesh.html", null ],
     [ "possumwood::Meshes", "classpossumwood_1_1Meshes.html", null ],

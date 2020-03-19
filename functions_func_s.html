@@ -208,7 +208,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 : <a class="el" href="classdependency__graph_1_1NodeBase.html#a08117e63252622a983c0cef55b9b263f">dependency_graph::NodeBase</a>
 </li>
 <li>setCapacity()
-: <a class="el" href="classlightfields_1_1TLinks_1_1Edge.html#a5ddd6f559e98193cec24395aab150994">lightfields::TLinks::Edge</a>
+: <a class="el" href="classlightfields_1_1Link.html#ace90d16faf631712a9a53d9136a4856b">lightfields::Link</a>
 </li>
 <li>setClipboardContent()
 : <a class="el" href="classpossumwood_1_1Clipboard.html#ad07bb176ff339a669f23bd7c2d3218d1">possumwood::Clipboard</a>
@@ -366,7 +366,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 , <a class="el" href="classTimeline.html#ae65b8e45c2601e8841ab69764ff2cac2">Timeline</a>
 </li>
 <li>Shader()
-: <a class="el" href="classpossumwood_1_1Shader.html#a77e429318cd9e710dfa6a82ac9cb0bc9">possumwood::Shader</a>
+: <a class="el" href="classpossumwood_1_1Shader.html#ab88dbc2a40eef9df459fe420a061a4b5">possumwood::Shader</a>
 </li>
 <li>shape()
 : <a class="el" href="classnode__editor_1_1Edge.html#ae583dc87cf4da6c09c7ea896a490854f">node_editor::Edge</a>
@@ -403,6 +403,8 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 , <a class="el" href="classdependency__graph_1_1Connections.html#afe33ec2779f151459035cd4f62770c09">dependency_graph::Connections</a>
 , <a class="el" href="classdependency__graph_1_1Nodes.html#aab7b92bad79d80c1f99ce4433ab3a093">dependency_graph::Nodes</a>
 , <a class="el" href="classdependency__graph_1_1State.html#a559cdc8f2650764b4ad965eb150faf1a">dependency_graph::State</a>
+, <a class="el" href="classlightfields_1_1ActiveQueue.html#a564dc20a8f07011d202097060213924e">lightfields::ActiveQueue</a>
+, <a class="el" href="classlightfields_1_1Bitfield.html#a449dc70cf04cf8e7666b2c73947d8239">lightfields::Bitfield</a>
 , <a class="el" href="classlightfields_1_1Samples.html#a285b98f0186ff1e976a3d3c434ca393d">lightfields::Samples</a>
 , <a class="el" href="classlightfields_1_1TLinks.html#a9cf199bafb38923241e658270c838a46">lightfields::TLinks</a>
 , <a class="el" href="classPathWidget_1_1Path.html#ace12f36f3379f5351f1022128f11a5f3">PathWidget::Path</a>
@@ -430,7 +432,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 : <a class="el" href="classanim_1_1FrameEditorData.html#a7d26895537e34b2d24945c55fba850ea">anim::FrameEditorData</a>
 </li>
 <li>Skeleton()
-: <a class="el" href="classanim_1_1Skeleton.html#af01a02f1ce9ae4c801cd6e66ccf7407f">anim::Skeleton</a>
+: <a class="el" href="classanim_1_1Skeleton.html#a1b2f7b1dffb95878bbba694ea3b0e4f2">anim::Skeleton</a>
 , <a class="el" href="classSkeleton.html#af01a02f1ce9ae4c801cd6e66ccf7407f">Skeleton</a>
 </li>
 <li>SkinnedMesh()
@@ -441,9 +443,6 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 </li>
 <li>Snippet()
 : <a class="el" href="classanim_1_1MotionGraph_1_1Snippet.html#a4116890b563a351ab0cb83221dfe663c">anim::MotionGraph::Snippet</a>
-</li>
-<li>solve()
-: <a class="el" href="classlightfields_1_1Graph.html#aa29267ff040af8bae046e81b56dd9f76">lightfields::Graph</a>
 </li>
 <li>source()
 : <a class="el" href="classdependency__graph_1_1AttrMap.html#a39700004e1e61a49c4e73dea9c92185a">dependency_graph::AttrMap</a>
@@ -465,7 +464,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 : <a class="el" href="classdependency__graph_1_1AttrMap.html#abca46e859831bb2ea9b0ec0606b29a26">dependency_graph::AttrMap</a>
 </li>
 <li>Stack()
-: <a class="el" href="classStack.html#a2d639646ae48234fd0f22c5f65d6fff2">Stack</a>
+: <a class="el" href="classStack.html#a7504fa8c25e5bc5d23926475334f3255">Stack</a>
 </li>
 <li>startFrame()
 : <a class="el" href="classanim_1_1constraints_1_1Constraint.html#a1ed40bf38c40f49ddc1acb6e4fd1b0af">anim::constraints::Constraint</a>
@@ -505,13 +504,13 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 : <a class="el" href="classstring__ui.html#a9bf00a2468da9131e626b733ac55f465">string_ui</a>
 </li>
 <li>strtof()
-: <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a7008e0b8d51562d24c044f43f4f3865c">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::lexer</a>
+: <a class="el" href="classpossumwood_1_1io_1_1basic__json_1_1lexer.html#a0acc2724207bdbc0a669d8f390d625a8">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;::lexer</a>
 </li>
 <li>SubsetSelection()
 : <a class="el" href="classanim_1_1SubsetSelection.html#aad75ba5497ada4050fab0adc3fda72d5">anim::SubsetSelection</a>
 </li>
 <li>swap()
-: <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#a7234e139768c9b7950c8b363a671b47c">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
+: <a class="el" href="classpossumwood_1_1io_1_1basic__json.html#a66abb959457c31ca005e88d28d4280a8">possumwood::io::basic_json&lt; ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer &gt;</a>
 </li>
 </ul>
 </div><!-- contents -->
@@ -519,7 +518,7 @@ $(document).ready(function(){initNavTree('functions_func_s.html','');});
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Fri Mar 13 2020 02:26:11 for possumwood by
+    <li class="footer">Generated on Thu Mar 19 2020 13:51:34 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

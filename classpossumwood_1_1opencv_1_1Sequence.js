@@ -7,6 +7,7 @@ var classpossumwood_1_1opencv_1_1Sequence =
     [ "back", "classpossumwood_1_1opencv_1_1Sequence.html#a12203a59015f7bb4c664baa2b3b8e666", null ],
     [ "begin", "classpossumwood_1_1opencv_1_1Sequence.html#a07894fb042f00a04070ab091a5cd94d3", null ],
     [ "begin", "classpossumwood_1_1opencv_1_1Sequence.html#abc0da375aa5217f3958e5af33b05f742", null ],
+    [ "clone", "classpossumwood_1_1opencv_1_1Sequence.html#a199aa1542f35d184d1b3b24c519942b1", null ],
     [ "cols", "classpossumwood_1_1opencv_1_1Sequence.html#ae3c9be00da291fdf3777cd2703b59177", null ],
     [ "empty", "classpossumwood_1_1opencv_1_1Sequence.html#a634c9489db6a9578edd6b94ab55d0dac", null ],
     [ "end", "classpossumwood_1_1opencv_1_1Sequence.html#a7069eda0fc2f309927cfb540d0f1d649", null ],

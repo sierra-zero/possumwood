@@ -5,6 +5,7 @@ var searchData=
   ['bfsvisitors',['BFSVisitors',['../classlightfields_1_1BFSVisitors.html',1,'lightfields']]],
   ['binary_5freader',['binary_reader',['../classpossumwood_1_1io_1_1basic__json_1_1binary__reader.html',1,'possumwood::io::basic_json']]],
   ['binary_5fwriter',['binary_writer',['../classpossumwood_1_1io_1_1basic__json_1_1binary__writer.html',1,'possumwood::io::basic_json']]],
+  ['bitfield',['Bitfield',['../classlightfields_1_1Bitfield.html',1,'lightfields']]],
   ['block',['Block',['../structlightfields_1_1Block.html',1,'lightfields']]],
   ['bool_5fui',['bool_ui',['../classbool__ui.html',1,'']]],
   ['bspline',['BSpline',['../classpossumwood_1_1opencv_1_1BSpline.html',1,'possumwood::opencv']]],

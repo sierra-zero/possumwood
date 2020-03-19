@@ -105,8 +105,10 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a92cc4ba056cc8ed6a9ca67b1690e2770"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3802bcf2f08c658559e1f80b63591833"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a3802bcf2f08c658559e1f80b63591833">setValue</a> (const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;pos, const std::vector&lt; int &gt; &amp;values)</td></tr>
 <tr class="separator:a3802bcf2f08c658559e1f80b63591833"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa29267ff040af8bae046e81b56dd9f76"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#aa29267ff040af8bae046e81b56dd9f76">solve</a> ()</td></tr>
-<tr class="separator:aa29267ff040af8bae046e81b56dd9f76"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0608dabaab53830cf19187b3a987c4e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#ae0608dabaab53830cf19187b3a987c4e">edmondsKarpSolve</a> ()</td></tr>
+<tr class="separator:ae0608dabaab53830cf19187b3a987c4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af6753be2672071d981d86a26afa63683"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#af6753be2672071d981d86a26afa63683">pushRelabelSolve</a> ()</td></tr>
+<tr class="separator:af6753be2672071d981d86a26afa63683"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9ed839ed4a9c6c23e155a8b03426f3cb"><td class="memItemLeft" align="right" valign="top">cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a9ed839ed4a9c6c23e155a8b03426f3cb">minCut</a> () const</td></tr>
 <tr class="separator:a9ed839ed4a9c6c23e155a8b03426f3cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac051ad545e79c7658881bd58840c6748"><td class="memItemLeft" align="right" valign="top">std::vector&lt; cv::Mat &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#ac051ad545e79c7658881bd58840c6748">debug</a> () const</td></tr>
@@ -116,12 +118,24 @@ Public Member Functions</h2></td></tr>
 Private Member Functions</h2></td></tr>
 <tr class="memitem:a811d5ab7d6a1c59424b4ae0f124b7cf1"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a811d5ab7d6a1c59424b4ae0f124b7cf1">v2i</a> (const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;<a class="el" href="obj_8cpp.html#ac8859e8c1ce357c4c8b37bbb1936ba1c">v</a>) const</td></tr>
 <tr class="separator:a811d5ab7d6a1c59424b4ae0f124b7cf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae645f7683551e2b5e690145ba2916880"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structlightfields_1_1Index.html">Index</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#ae645f7683551e2b5e690145ba2916880">val2index</a> (std::size_t value) const</td></tr>
+<tr class="separator:ae645f7683551e2b5e690145ba2916880"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8c8207d087edc953c00bac3ffc2278b"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#ad8c8207d087edc953c00bac3ffc2278b">index2val</a> (const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;i) const</td></tr>
+<tr class="separator:ad8c8207d087edc953c00bac3ffc2278b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a868aab10e98fe1ac0bd3ec913a1f6715"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a868aab10e98fe1ac0bd3ec913a1f6715">iterate</a> (const tbb::blocked_range2d&lt; int &gt; &amp;range)</td></tr>
 <tr class="separator:a868aab10e98fe1ac0bd3ec913a1f6715"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2de8bd4779f3a14883ff140483e088c1"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a2de8bd4779f3a14883ff140483e088c1">flow</a> (const <a class="el" href="classlightfields_1_1BFSVisitors.html">BFSVisitors</a> &amp;visitors, const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;end) const</td></tr>
 <tr class="separator:a2de8bd4779f3a14883ff140483e088c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a05a073b798d70574038aec8e1783d630"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a05a073b798d70574038aec8e1783d630">doFlow</a> (const <a class="el" href="classlightfields_1_1BFSVisitors.html">BFSVisitors</a> &amp;visitors, const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;end, int value)</td></tr>
 <tr class="separator:a05a073b798d70574038aec8e1783d630"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5c2d65a1411d9af492ecfe6ba9c358e2"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a5c2d65a1411d9af492ecfe6ba9c358e2">pushHoriz</a> (const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;<a class="el" href="lightfields_2graph_8cpp.html#aec150004b933e47b7fb5e311277f7fe7">current</a>, const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;next, const std::vector&lt; int &gt; &amp;label, int &amp;excess, <a class="el" href="classlightfields_1_1ActiveQueue.html">ActiveQueue</a> &amp;queue)</td></tr>
+<tr class="separator:a5c2d65a1411d9af492ecfe6ba9c358e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af15d3712d678af3c33d6c20e956509dc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#af15d3712d678af3c33d6c20e956509dc">pushVertDown</a> (const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;<a class="el" href="lightfields_2graph_8cpp.html#aec150004b933e47b7fb5e311277f7fe7">current</a>, const std::vector&lt; int &gt; &amp;label, int &amp;excess, <a class="el" href="classlightfields_1_1ActiveQueue.html">ActiveQueue</a> &amp;queue)</td></tr>
+<tr class="separator:af15d3712d678af3c33d6c20e956509dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a24915b4905f2d648b5eb2684d7eec3e5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a24915b4905f2d648b5eb2684d7eec3e5">pushVertUp</a> (const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;<a class="el" href="lightfields_2graph_8cpp.html#aec150004b933e47b7fb5e311277f7fe7">current</a>, const std::vector&lt; int &gt; &amp;label, int &amp;excess, <a class="el" href="classlightfields_1_1ActiveQueue.html">ActiveQueue</a> &amp;queue)</td></tr>
+<tr class="separator:a24915b4905f2d648b5eb2684d7eec3e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a605c92a438222210e61abd96ac546923"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#a605c92a438222210e61abd96ac546923">relabel</a> (const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;<a class="el" href="lightfields_2graph_8cpp.html#aec150004b933e47b7fb5e311277f7fe7">current</a>, std::vector&lt; int &gt; &amp;label) const</td></tr>
+<tr class="separator:a605c92a438222210e61abd96ac546923"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abd67dfcec3978db1affbe16debafaa9c"><td class="memItemLeft" align="right" valign="top">cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#abd67dfcec3978db1affbe16debafaa9c">t_flow</a> (const <a class="el" href="classlightfields_1_1TLinks.html">TLinks</a> &amp;t) const</td></tr>
 <tr class="separator:abd67dfcec3978db1affbe16debafaa9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af1788199da4311b37d67cd5468ad0832"><td class="memItemLeft" align="right" valign="top">cv::Mat&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1Graph.html#af1788199da4311b37d67cd5468ad0832">n_flow</a> (const <a class="el" href="classlightfields_1_1NLinks.html">NLinks</a> &amp;t) const</td></tr>
@@ -231,6 +245,23 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="ae0608dabaab53830cf19187b3a987c4e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae0608dabaab53830cf19187b3a987c4e">&#9670;&nbsp;</a></span>edmondsKarpSolve()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lightfields::Graph::edmondsKarpSolve </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a2de8bd4779f3a14883ff140483e088c1"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a2de8bd4779f3a14883ff140483e088c1">&#9670;&nbsp;</a></span>flow()</h2>
 
@@ -256,6 +287,32 @@ Private Attributes</h2></td></tr>
           <td></td>
           <td>)</td>
           <td></td><td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad8c8207d087edc953c00bac3ffc2278b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8c8207d087edc953c00bac3ffc2278b">&#9670;&nbsp;</a></span>index2val()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::size_t lightfields::Graph::index2val </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
+          <td class="paramname"><em>i</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -336,6 +393,209 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a5c2d65a1411d9af492ecfe6ba9c358e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5c2d65a1411d9af492ecfe6ba9c358e2">&#9670;&nbsp;</a></span>pushHoriz()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool lightfields::Graph::pushHoriz </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
+          <td class="paramname"><em>current</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
+          <td class="paramname"><em>next</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::vector&lt; int &gt; &amp;&#160;</td>
+          <td class="paramname"><em>label</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int &amp;&#160;</td>
+          <td class="paramname"><em>excess</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classlightfields_1_1ActiveQueue.html">ActiveQueue</a> &amp;&#160;</td>
+          <td class="paramname"><em>queue</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af6753be2672071d981d86a26afa63683"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af6753be2672071d981d86a26afa63683">&#9670;&nbsp;</a></span>pushRelabelSolve()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lightfields::Graph::pushRelabelSolve </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af15d3712d678af3c33d6c20e956509dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af15d3712d678af3c33d6c20e956509dc">&#9670;&nbsp;</a></span>pushVertDown()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool lightfields::Graph::pushVertDown </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
+          <td class="paramname"><em>current</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::vector&lt; int &gt; &amp;&#160;</td>
+          <td class="paramname"><em>label</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int &amp;&#160;</td>
+          <td class="paramname"><em>excess</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classlightfields_1_1ActiveQueue.html">ActiveQueue</a> &amp;&#160;</td>
+          <td class="paramname"><em>queue</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a24915b4905f2d648b5eb2684d7eec3e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a24915b4905f2d648b5eb2684d7eec3e5">&#9670;&nbsp;</a></span>pushVertUp()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool lightfields::Graph::pushVertUp </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
+          <td class="paramname"><em>current</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::vector&lt; int &gt; &amp;&#160;</td>
+          <td class="paramname"><em>label</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">int &amp;&#160;</td>
+          <td class="paramname"><em>excess</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classlightfields_1_1ActiveQueue.html">ActiveQueue</a> &amp;&#160;</td>
+          <td class="paramname"><em>queue</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a605c92a438222210e61abd96ac546923"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a605c92a438222210e61abd96ac546923">&#9670;&nbsp;</a></span>relabel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool lightfields::Graph::relabel </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="structlightfields_1_1Index.html">Index</a> &amp;&#160;</td>
+          <td class="paramname"><em>current</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::vector&lt; int &gt; &amp;&#160;</td>
+          <td class="paramname"><em>label</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="a3802bcf2f08c658559e1f80b63591833"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a3802bcf2f08c658559e1f80b63591833">&#9670;&nbsp;</a></span>setValue()</h2>
 
@@ -358,23 +618,6 @@ Private Attributes</h2></td></tr>
           <td></td>
           <td>)</td>
           <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aa29267ff040af8bae046e81b56dd9f76"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa29267ff040af8bae046e81b56dd9f76">&#9670;&nbsp;</a></span>solve()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void lightfields::Graph::solve </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -421,6 +664,32 @@ Private Attributes</h2></td></tr>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="namespacelightfields.html#a5ba6be2c627e7220964297f5eaf95b40">V2i</a> &amp;&#160;</td>
           <td class="paramname"><em>v</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae645f7683551e2b5e690145ba2916880"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae645f7683551e2b5e690145ba2916880">&#9670;&nbsp;</a></span>val2index()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="structlightfields_1_1Index.html">Index</a> lightfields::Graph::val2index </td>
+          <td>(</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>value</em></td><td>)</td>
           <td> const</td>
         </tr>
       </table>
@@ -510,7 +779,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1Graph.html">Graph</a></li>
-    <li class="footer">Generated on Fri Mar 13 2020 02:26:09 for possumwood by
+    <li class="footer">Generated on Thu Mar 19 2020 13:51:32 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

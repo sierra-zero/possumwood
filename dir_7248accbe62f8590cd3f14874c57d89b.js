@@ -12,7 +12,7 @@ var dir_7248accbe62f8590cd3f14874c57d89b =
     [ "mosaic_superres.cpp", "mosaic__superres_8cpp.html", null ],
     [ "samples_from_metadata.cpp", "samples__from__metadata_8cpp.html", null ],
     [ "samples_refocus.cpp", "samples__refocus_8cpp.html", null ],
-    [ "st_graphcut.cpp", "st__graphcut_8cpp.html", null ],
+    [ "st_graphcut.cpp", "st__graphcut_8cpp.html", "st__graphcut_8cpp" ],
     [ "vignetting_create.cpp", "vignetting__create_8cpp.html", null ],
     [ "vignetting_mosaic.cpp", "vignetting__mosaic_8cpp.html", null ]
 ];

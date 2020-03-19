@@ -156,6 +156,7 @@ var menudata={children:[
 {text:"g",url:"functions_rela.html#index_g"},
 {text:"h",url:"functions_rela.html#index_h"},
 {text:"i",url:"functions_rela.html#index_i"},
+{text:"l",url:"functions_rela.html#index_l"},
 {text:"m",url:"functions_rela.html#index_m"},
 {text:"n",url:"functions_rela.html#index_n"},
 {text:"o",url:"functions_rela.html#index_o"},
