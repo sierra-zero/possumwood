@@ -8,6 +8,7 @@ var namespacelightfields =
     [ "Graph", "classlightfields_1_1Graph.html", "classlightfields_1_1Graph" ],
     [ "Index", "structlightfields_1_1Index.html", "structlightfields_1_1Index" ],
     [ "IntegrationResult", "structlightfields_1_1IntegrationResult.html", "structlightfields_1_1IntegrationResult" ],
+    [ "Labels", "classlightfields_1_1Labels.html", "classlightfields_1_1Labels" ],
     [ "LensletGraph", "classlightfields_1_1LensletGraph.html", "classlightfields_1_1LensletGraph" ],
     [ "Link", "classlightfields_1_1Link.html", "classlightfields_1_1Link" ],
     [ "Metadata", "classlightfields_1_1Metadata.html", "classlightfields_1_1Metadata" ],

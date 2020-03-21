@@ -123,15 +123,21 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:ad6778fe890062f1ac49ed4e19e5c602b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab40b17c51ef789820ee8dd28405209cb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1ActiveQueue.html#ab40b17c51ef789820ee8dd28405209cb">isActive</a> (std::size_t index) const</td></tr>
 <tr class="separator:ab40b17c51ef789820ee8dd28405209cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca0880c2e289037dbf675eef9c09bd37"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1ActiveQueue.html#aca0880c2e289037dbf675eef9c09bd37">relabel</a> (const <a class="el" href="classlightfields_1_1Labels.html">Labels</a> &amp;l)</td></tr>
+<tr class="separator:aca0880c2e289037dbf675eef9c09bd37"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a569e0ad6d652246ee86beac0539d2263"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1ActiveQueue.html#a569e0ad6d652246ee86beac0539d2263">excess</a> (std::size_t index) const</td></tr>
+<tr class="separator:a569e0ad6d652246ee86beac0539d2263"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a11041fd5e2a9e953a184bac3dada7514"><td class="memItemLeft" align="right" valign="top">std::queue&lt; std::size_t &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1ActiveQueue.html#a11041fd5e2a9e953a184bac3dada7514">m_queue</a></td></tr>
-<tr class="separator:a11041fd5e2a9e953a184bac3dada7514"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19e25342dad97a5885751ab7f329fb3d"><td class="memItemLeft" align="right" valign="top">std::priority_queue&lt; <a class="el" href="structlightfields_1_1ActiveQueue_1_1Item.html">Item</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1ActiveQueue.html#a19e25342dad97a5885751ab7f329fb3d">m_queue</a></td></tr>
+<tr class="separator:a19e25342dad97a5885751ab7f329fb3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aefdf462ea1e3c13d9b7cdd1476fa7443"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classlightfields_1_1Bitfield.html">Bitfield</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1ActiveQueue.html#aefdf462ea1e3c13d9b7cdd1476fa7443">m_active</a></td></tr>
 <tr class="separator:aefdf462ea1e3c13d9b7cdd1476fa7443"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:add87236c396f688d98b18c9ad20d349f"><td class="memItemLeft" align="right" valign="top">std::vector&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1ActiveQueue.html#add87236c396f688d98b18c9ad20d349f">m_excess</a></td></tr>
 <tr class="separator:add87236c396f688d98b18c9ad20d349f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e359d003ff214f3a900e53bdc7137a7"><td class="memItemLeft" align="right" valign="top">std::vector&lt; unsigned &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlightfields_1_1ActiveQueue.html#a4e359d003ff214f3a900e53bdc7137a7">m_labels</a></td></tr>
+<tr class="separator:a4e359d003ff214f3a900e53bdc7137a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>a "unique" priority queue with excess per active item </p>
@@ -189,6 +195,24 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a569e0ad6d652246ee86beac0539d2263"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a569e0ad6d652246ee86beac0539d2263">&#9670;&nbsp;</a></span>excess()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int lightfields::ActiveQueue::excess </td>
+          <td>(</td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>index</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <a id="ab40b17c51ef789820ee8dd28405209cb"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ab40b17c51ef789820ee8dd28405209cb">&#9670;&nbsp;</a></span>isActive()</h2>
 
@@ -235,6 +259,24 @@ Private Attributes</h2></td></tr>
           <td>(</td>
           <td class="paramtype">const <a class="el" href="structlightfields_1_1ActiveQueue_1_1Item.html">Item</a> &amp;&#160;</td>
           <td class="paramname"><em>i</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aca0880c2e289037dbf675eef9c09bd37"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aca0880c2e289037dbf675eef9c09bd37">&#9670;&nbsp;</a></span>relabel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void lightfields::ActiveQueue::relabel </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="classlightfields_1_1Labels.html">Labels</a> &amp;&#160;</td>
+          <td class="paramname"><em>l</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -304,8 +346,8 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a11041fd5e2a9e953a184bac3dada7514"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a11041fd5e2a9e953a184bac3dada7514">&#9670;&nbsp;</a></span>m_queue</h2>
+<a id="a4e359d003ff214f3a900e53bdc7137a7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e359d003ff214f3a900e53bdc7137a7">&#9670;&nbsp;</a></span>m_labels</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -314,7 +356,29 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::queue&lt;std::size_t&gt; lightfields::ActiveQueue::m_queue</td>
+          <td class="memname">std::vector&lt;unsigned&gt; lightfields::ActiveQueue::m_labels</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a19e25342dad97a5885751ab7f329fb3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a19e25342dad97a5885751ab7f329fb3d">&#9670;&nbsp;</a></span>m_queue</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::priority_queue&lt;<a class="el" href="structlightfields_1_1ActiveQueue_1_1Item.html">Item</a>&gt; lightfields::ActiveQueue::m_queue</td>
         </tr>
       </table>
   </td>
@@ -336,7 +400,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespacelightfields.html">lightfields</a></li><li class="navelem"><a class="el" href="classlightfields_1_1ActiveQueue.html">ActiveQueue</a></li>
-    <li class="footer">Generated on Thu Mar 19 2020 13:52:58 for possumwood by
+    <li class="footer">Generated on Sat Mar 21 2020 17:18:38 for possumwood by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

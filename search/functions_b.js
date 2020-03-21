@@ -1,6 +1,7 @@
 var searchData=
 [
   ['labeldistance',['labelDistance',['../classTimeline.html#a365fe535feca08a731b1097cdb215339',1,'Timeline']]],
+  ['labels',['Labels',['../classlightfields_1_1Labels.html#ab29a801cbab2396f4f8fa1cb0541f0f8',1,'lightfields::Labels']]],
   ['lensletgraph',['LensletGraph',['../classlightfields_1_1LensletGraph.html#a9371a4642e7a50966c693caa808e9510',1,'lightfields::LensletGraph::LensletGraph(Imath::V2i sensorSize, int exclusionBorder)'],['../classlightfields_1_1LensletGraph.html#a5e1927a2d6ede86f3b50a7ac10996a3a',1,'lightfields::LensletGraph::LensletGraph(const LensletGraph &amp;)=delete']]],
   ['lenspitch',['lensPitch',['../classlightfields_1_1LensletGraph.html#a8fae737ab00465d7ba587fc4c5f21f2c',1,'lightfields::LensletGraph']]],
   ['level',['level',['../classpossumwood_1_1opencv_1_1BSplineHierarchy.html#ae4c43cea0f28d3107f859ff3123a1398',1,'possumwood::opencv::BSplineHierarchy']]],

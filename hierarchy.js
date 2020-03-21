@@ -107,6 +107,7 @@ var hierarchy =
     [ "anim::FrameEditorData", "classanim_1_1FrameEditorData.html", null ],
     [ "anim::constraints::Frames", "classanim_1_1constraints_1_1Frames.html", null ],
     [ "possumwood::io::detail::from_json_fn", "structpossumwood_1_1io_1_1detail_1_1from__json__fn.html", null ],
+    [ "lightfields::Labels::Gap", "structlightfields_1_1Labels_1_1Gap.html", null ],
     [ "possumwood::polymesh::GenericBase", "classpossumwood_1_1polymesh_1_1GenericBase.html", [
       [ "possumwood::polymesh::GenericContainer< Index >", "classpossumwood_1_1polymesh_1_1GenericContainer.html", [
         [ "possumwood::polymesh::GenericPolymesh::Indices", "classpossumwood_1_1polymesh_1_1GenericPolymesh_1_1Indices.html", null ]
@@ -177,12 +178,12 @@ var hierarchy =
     [ "possumwood::io::detail::is_compatible_integer_type_impl< true, RealIntegerType, CompatibleNumberIntegerType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__integer__type__impl_3_01true_00_01RealIntege3495931e99017846a23f4a323f48c308.html", null ],
     [ "possumwood::io::detail::is_compatible_object_type< BasicJsonType, CompatibleObjectType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type.html", null ],
     [ "possumwood::io::detail::is_compatible_object_type_impl< true, RealType, CompatibleObjectType >", "structpossumwood_1_1io_1_1detail_1_1is__compatible__object__type__impl_3_01true_00_01RealType_00_01CompatibleObjectType_01_4.html", null ],
-    [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
-    [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "lightfields::ActiveQueue::Item", "structlightfields_1_1ActiveQueue_1_1Item.html", null ],
-    [ "dependency_graph::NodesIterator< ITERATOR >::Item", "structdependency__graph_1_1NodesIterator_1_1Item.html", null ],
     [ "possumwood::Config::Item", "classpossumwood_1_1Config_1_1Item.html", null ],
     [ "Options::Item", "structOptions_1_1Item.html", null ],
+    [ "dependency_graph::NodesIterator< ITERATOR >::Item", "structdependency__graph_1_1NodesIterator_1_1Item.html", null ],
+    [ "SkeletonTest::Item", "structSkeletonTest_1_1Item.html", null ],
+    [ "anim::Hierarchy::Item", "classanim_1_1Hierarchy_1_1Item.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >", "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::iteration_proxy< IteratorType >::iteration_proxy_internal", "classpossumwood_1_1io_1_1basic__json_1_1iteration__proxy_1_1iteration__proxy__internal.html", null ],
     [ "iterator", null, [
@@ -198,6 +199,7 @@ var hierarchy =
     [ "anim::JointMappingEditorData", "classanim_1_1JointMappingEditorData.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_pointer", "classpossumwood_1_1io_1_1basic__json_1_1json__pointer.html", null ],
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_value", "unionpossumwood_1_1io_1_1basic__json_1_1json__value.html", null ],
+    [ "lightfields::Labels", "classlightfields_1_1Labels.html", null ],
     [ "possumwood::opencv::CalibrationPoints::Layer", "classpossumwood_1_1opencv_1_1CalibrationPoints_1_1Layer.html", null ],
     [ "lightfields::LensletGraph", "classlightfields_1_1LensletGraph.html", null ],
     [ "std::less<::possumwood::io::detail::value_t >", "structstd_1_1less_3_1_1possumwood_1_1io_1_1detail_1_1value__t_01_4.html", null ],
@@ -428,6 +430,7 @@ var hierarchy =
     ] ],
     [ "possumwood::PropertyItem", "classpossumwood_1_1PropertyItem.html", null ],
     [ "possumwood::PropertyKey", "classpossumwood_1_1PropertyKey.html", null ],
+    [ "lightfields::Labels::Proxy", "classlightfields_1_1Labels_1_1Proxy.html", null ],
     [ "QDialog", null, [
       [ "ConfigDialog", "classConfigDialog.html", null ],
       [ "ErrorDialog", "classErrorDialog.html", null ],

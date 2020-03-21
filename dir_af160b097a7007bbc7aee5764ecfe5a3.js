@@ -31,6 +31,12 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     [ "integration.h", "integration_8h.html", [
       [ "IntegrationResult", "structlightfields_1_1IntegrationResult.html", "structlightfields_1_1IntegrationResult" ]
     ] ],
+    [ "labels.cpp", "labels_8cpp.html", null ],
+    [ "labels.h", "labels_8h.html", [
+      [ "Labels", "classlightfields_1_1Labels.html", "classlightfields_1_1Labels" ],
+      [ "Proxy", "classlightfields_1_1Labels_1_1Proxy.html", "classlightfields_1_1Labels_1_1Proxy" ],
+      [ "Gap", "structlightfields_1_1Labels_1_1Gap.html", "structlightfields_1_1Labels_1_1Gap" ]
+    ] ],
     [ "lenslet_graph.cpp", "lenslet__graph_8cpp.html", "lenslet__graph_8cpp" ],
     [ "lenslet_graph.h", "lenslet__graph_8h.html", [
       [ "LensletGraph", "classlightfields_1_1LensletGraph.html", "classlightfields_1_1LensletGraph" ]

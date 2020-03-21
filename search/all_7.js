@@ -1,6 +1,8 @@
 var searchData=
 [
   ['gamma_2ecpp',['gamma.cpp',['../gamma_8cpp.html',1,'']]],
+  ['gap',['Gap',['../structlightfields_1_1Labels_1_1Gap.html',1,'lightfields::Labels']]],
+  ['gaps',['gaps',['../classlightfields_1_1Labels.html#a79df08a57edf72c63127c96fbedd7931',1,'lightfields::Labels']]],
   ['gaussian_5fblur_2ecpp',['gaussian_blur.cpp',['../gaussian__blur_8cpp.html',1,'']]],
   ['gaussian_5fintegration_2ecpp',['gaussian_integration.cpp',['../gaussian__integration_8cpp.html',1,'']]],
   ['gaussian_5fintegration_2eh',['gaussian_integration.h',['../gaussian__integration_8h.html',1,'']]],

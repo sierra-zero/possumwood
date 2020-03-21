@@ -26,6 +26,7 @@ var searchData=
   ['evaluateoption',['evaluateOption',['../apps_2possumwood__cli_2main_8cpp.html#a47103616c75c5f4fd575c1e6d46549b2',1,'main.cpp']]],
   ['evaluateoptions',['evaluateOptions',['../apps_2possumwood__cli_2main_8cpp.html#afa6e64641343744026c34df74ef9f43e',1,'main.cpp']]],
   ['exception',['exception',['../classpossumwood_1_1io_1_1detail_1_1exception.html#a835d5db1bfcfe14f0c358b1c225264a2',1,'possumwood::io::detail::exception']]],
+  ['excess',['excess',['../classlightfields_1_1ActiveQueue.html#a569e0ad6d652246ee86beac0539d2263',1,'lightfields::ActiveQueue']]],
   ['execute',['execute',['../classpossumwood_1_1UndoStack.html#ab090be41384a7ee7c669f3e50b31b09e',1,'possumwood::UndoStack']]],
   ['exif',['Exif',['../classpossumwood_1_1opencv_1_1Exif.html#a3ae5d15ed33fafc9e0623bfc7690c7da',1,'possumwood::opencv::Exif::Exif()'],['../classpossumwood_1_1opencv_1_1Exif.html#ab6156eff76b512b26c40afe4bbf506df',1,'possumwood::opencv::Exif::Exif(float exposure, float f, float iso)']]],
   ['expand',['expand',['../classExpressionExpansion.html#acb2e490cc89a8f508391734dbfc66c06',1,'ExpressionExpansion']]],
