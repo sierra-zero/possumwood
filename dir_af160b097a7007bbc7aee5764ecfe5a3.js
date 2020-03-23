@@ -21,12 +21,12 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
       [ "Depth", "classlightfields_1_1Depth.html", "classlightfields_1_1Depth" ],
       [ "Result", "structlightfields_1_1Depth_1_1Result.html", "structlightfields_1_1Depth_1_1Result" ]
     ] ],
+    [ "edmonds_karp.cpp", "edmonds__karp_8cpp.html", "edmonds__karp_8cpp" ],
+    [ "edmonds_karp.h", "edmonds__karp_8h.html", [
+      [ "EdmondsKarp", "structlightfields_1_1EdmondsKarp.html", "structlightfields_1_1EdmondsKarp" ]
+    ] ],
     [ "gaussian_integration.cpp", "gaussian__integration_8cpp.html", "gaussian__integration_8cpp" ],
     [ "gaussian_integration.h", "gaussian__integration_8h.html", "gaussian__integration_8h" ],
-    [ "graph.cpp", "lightfields_2graph_8cpp.html", "lightfields_2graph_8cpp" ],
-    [ "graph.h", "lightfields_2graph_8h.html", [
-      [ "Graph", "classlightfields_1_1Graph.html", "classlightfields_1_1Graph" ]
-    ] ],
     [ "grid.cpp", "libs_2lightfields_2grid_8cpp.html", null ],
     [ "grid.h", "libs_2lightfields_2grid_8h.html", [
       [ "Grid", "classlightfields_1_1Grid.html", "classlightfields_1_1Grid" ]
@@ -60,6 +60,10 @@ var dir_af160b097a7007bbc7aee5764ecfe5a3 =
     [ "nearest_integration.h", "nearest__integration_8h.html", "nearest__integration_8h" ],
     [ "pattern.cpp", "pattern_8cpp.html", "pattern_8cpp" ],
     [ "pattern.h", "pattern_8h.html", "pattern_8h" ],
+    [ "push_relabel.cpp", "push__relabel_8cpp.html", null ],
+    [ "push_relabel.h", "push__relabel_8h.html", [
+      [ "PushRelabel", "structlightfields_1_1PushRelabel.html", "structlightfields_1_1PushRelabel" ]
+    ] ],
     [ "raw.cpp", "raw_8cpp.html", "raw_8cpp" ],
     [ "raw.h", "raw_8h.html", "raw_8h" ],
     [ "samples.cpp", "samples_8cpp.html", "samples_8cpp" ],

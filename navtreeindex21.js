@@ -1,9 +1,5 @@
 var NAVTREEINDEX21 =
 {
-"void__ports_8cpp.html#ad54aba406dfd2b5ebe63ee4670e67bd9":[3,0,0,3,1,15,2],
-"x_8cpp.html":[3,0,0,2,0,1,2,3],
-"x_8cpp.html#a005994c05b177e8a2b63ac4d98a0e567":[3,0,0,2,0,1,2,3,12],
-"x_8cpp.html#a09e330c62beeb9089b8ac77de80ff71f":[3,0,0,2,0,1,2,3,6],
 "x_8cpp.html#a1c885b6a376ed93131f8011fd49742c6":[3,0,0,2,0,1,2,3,14],
 "x_8cpp.html#a6799c2a8292dc00069067209a5265af5":[3,0,0,2,0,1,2,3,5],
 "x_8cpp.html#a737b7104bb23005824bff90a3c132bc3":[3,0,0,2,0,1,2,3,7],
