@@ -23,7 +23,7 @@ var dir_c7d5d0c4de69cf1ad6ffe9148da53313 =
     [ "gl_init.cpp", "gl__init_8cpp.html", "gl__init_8cpp" ],
     [ "gl_init.h", "gl__init_8h.html", "gl__init_8h" ],
     [ "grid.cpp", "apps_2possumwood_2grid_8cpp.html", null ],
-    [ "grid.h", "grid_8h.html", [
+    [ "grid.h", "apps_2possumwood_2grid_8h.html", [
       [ "Grid", "classpossumwood_1_1Grid.html", "classpossumwood_1_1Grid" ]
     ] ],
     [ "main.cpp", "apps_2possumwood_2main_8cpp.html", "apps_2possumwood_2main_8cpp" ],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX5 =
 {
+"classdependency__graph_1_1NodeBase.html#a5cb51454fd01a864caf11fd49b3b2fb0":[2,0,1,18,22],
+"classdependency__graph_1_1NodeBase.html#a5d5b5ed36051978d3d1206371db3f9a7":[2,0,1,18,3],
 "classdependency__graph_1_1NodeBase.html#a64d46d72a70cb3420249c54262643255":[2,0,1,18,5],
 "classdependency__graph_1_1NodeBase.html#a6817f9e9aef7af50049c9b947ea1c08d":[2,0,1,18,20],
 "classdependency__graph_1_1NodeBase.html#a6a26a103c2c3a1262d74d68bd8906c71":[2,0,1,18,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX5 =
 "classlightfields_1_1Bitfield.html":[2,0,2,2],
 "classlightfields_1_1Bitfield.html#a306b3fc54b1bdf52f7edf60f9c3b0930":[2,0,2,2,7],
 "classlightfields_1_1Bitfield.html#a3ceb73918be4a823c022a1836f8660b9":[2,0,2,2,3],
-"classlightfields_1_1Bitfield.html#a449dc70cf04cf8e7666b2c73947d8239":[2,0,2,2,5],
-"classlightfields_1_1Bitfield.html#a796f2c2162d916de9e54462c3030e269":[2,0,2,2,4],
-"classlightfields_1_1Bitfield.html#ac0bca8ed2a1b4a37cb8df825f4054a3a":[2,0,2,2,2]
+"classlightfields_1_1Bitfield.html#a449dc70cf04cf8e7666b2c73947d8239":[2,0,2,2,5]
 };

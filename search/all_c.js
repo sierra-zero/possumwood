@@ -9,6 +9,7 @@ var searchData=
   ['laplacian_5fsmoothness_2ecpp',['laplacian_smoothness.cpp',['../laplacian__smoothness_8cpp.html',1,'']]],
   ['last_5ftoken',['last_token',['../classpossumwood_1_1io_1_1basic__json_1_1parser.html#af55379ae9a2d580081ab36f73a0004d2',1,'possumwood::io::basic_json::parser']]],
   ['layer',['Layer',['../classpossumwood_1_1opencv_1_1CalibrationPoints_1_1Layer.html',1,'possumwood::opencv::CalibrationPoints']]],
+  ['layercount',['layerCount',['../classlightfields_1_1Grid.html#a76c3b65c1e71378ff49292ab69fab224',1,'lightfields::Grid']]],
   ['lenscenter',['lensCenter',['../structlightfields_1_1Pattern_1_1Sample.html#a291f8ba395f25a344035e1c921ae9385',1,'lightfields::Pattern::Sample']]],
   ['lenslet_5fgraph_2ecpp',['lenslet_graph.cpp',['../lenslet__graph_8cpp.html',1,'']]],
   ['lenslet_5fgraph_2eh',['lenslet_graph.h',['../lenslet__graph_8h.html',1,'']]],

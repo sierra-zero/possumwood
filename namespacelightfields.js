@@ -6,6 +6,7 @@ var namespacelightfields =
     [ "Block", "structlightfields_1_1Block.html", "structlightfields_1_1Block" ],
     [ "Depth", "classlightfields_1_1Depth.html", "classlightfields_1_1Depth" ],
     [ "Graph", "classlightfields_1_1Graph.html", "classlightfields_1_1Graph" ],
+    [ "Grid", "classlightfields_1_1Grid.html", "classlightfields_1_1Grid" ],
     [ "Index", "structlightfields_1_1Index.html", "structlightfields_1_1Index" ],
     [ "IntegrationResult", "structlightfields_1_1IntegrationResult.html", "structlightfields_1_1IntegrationResult" ],
     [ "Labels", "classlightfields_1_1Labels.html", "classlightfields_1_1Labels" ],

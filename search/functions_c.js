@@ -25,7 +25,7 @@ var searchData=
   ['metadataregister',['MetadataRegister',['../classdependency__graph_1_1MetadataRegister.html#a9a8bebc107b7376f92c4f44f524f7c86',1,'dependency_graph::MetadataRegister']]],
   ['middleclicked',['middleClicked',['../classnode__editor_1_1GraphScene.html#ab09be6df52ea923734a89bc0d27834ca',1,'node_editor::GraphScene']]],
   ['min',['min',['../classanim_1_1MotionMap.html#a7ccf096e7b8406e9cea919e4358fb5c7',1,'anim::MotionMap::min()'],['../classpossumwood_1_1maths_1_1Interval.html#a42fd280262ee194341c86a0187673225',1,'possumwood::maths::Interval::min()']]],
-  ['mincut',['minCut',['../classlightfields_1_1Graph.html#a9ed839ed4a9c6c23e155a8b03426f3cb',1,'lightfields::Graph']]],
+  ['mincut',['minCut',['../classlightfields_1_1Grid.html#ae674bac761c2ace18835ecc42f135d54',1,'lightfields::Grid']]],
   ['minwidth',['minWidth',['../classnode__editor_1_1Port.html#a5ef2f918733cbd8a46a1e2adb4199854',1,'node_editor::Port']]],
   ['modelview',['modelview',['../classpossumwood_1_1ViewportState.html#aa34783ab3e705014882108f7ad3d86cd',1,'possumwood::ViewportState']]],
   ['modules',['modules',['../classpossumwood_1_1lua_1_1Context.html#a67b4d6b3394d1b8fa68861835da35727',1,'possumwood::lua::Context']]],

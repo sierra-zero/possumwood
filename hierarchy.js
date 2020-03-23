@@ -134,6 +134,7 @@ var hierarchy =
     [ "possumwood::GLSLTraits< unsigned >", "structpossumwood_1_1GLSLTraits_3_01unsigned_01_4.html", null ],
     [ "possumwood::Font::Glyph", "structpossumwood_1_1Font_1_1Glyph.html", null ],
     [ "lightfields::Graph", "classlightfields_1_1Graph.html", null ],
+    [ "lightfields::Grid", "classlightfields_1_1Grid.html", null ],
     [ "possumwood::CGALItems::Halfedge_wrapper< Refs, Traits >", "structpossumwood_1_1CGALItems_1_1Halfedge__wrapper.html", null ],
     [ "HalfedgeDS_face_base", null, [
       [ "possumwood::CGALFace< Refs >", "structpossumwood_1_1CGALFace.html", null ]
@@ -405,8 +406,8 @@ var hierarchy =
     [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::parser", "classpossumwood_1_1io_1_1basic__json_1_1parser.html", null ],
     [ "PathWidget::Path", "classPathWidget_1_1Path.html", null ],
     [ "lightfields::Pattern", "classlightfields_1_1Pattern.html", null ],
-    [ "lightfields::LensletGraph::Pimpl", "structlightfields_1_1LensletGraph_1_1Pimpl.html", null ],
     [ "lightfields::Raw::Pimpl", "structlightfields_1_1Raw_1_1Pimpl.html", null ],
+    [ "lightfields::LensletGraph::Pimpl", "structlightfields_1_1LensletGraph_1_1Pimpl.html", null ],
     [ "PluginsRAII", "classPluginsRAII.html", null ],
     [ "possumwood::NodeData::Point", "structpossumwood_1_1NodeData_1_1Point.html", null ],
     [ "possumwood::PolyExtractor< VAL >", "structpossumwood_1_1PolyExtractor.html", null ],
@@ -482,8 +483,8 @@ var hierarchy =
       [ "possumwood::io::basic_json< ObjectType, ArrayType, StringType, BooleanType, NumberIntegerType, NumberUnsignedType, NumberFloatType, AllocatorType, JSONSerializer >::json_reverse_iterator< Base >", "classpossumwood_1_1io_1_1basic__json_1_1json__reverse__iterator.html", null ]
     ] ],
     [ "openanim::RigData", "structopenanim_1_1RigData.html", null ],
-    [ "lightfields::Pattern::Sample", "structlightfields_1_1Pattern_1_1Sample.html", null ],
     [ "lightfields::Samples::Sample", "structlightfields_1_1Samples_1_1Sample.html", null ],
+    [ "lightfields::Pattern::Sample", "structlightfields_1_1Pattern_1_1Sample.html", null ],
     [ "lightfields::Samples", "classlightfields_1_1Samples.html", null ],
     [ "dependency_graph::io::SaveableRegistration", "structdependency__graph_1_1io_1_1SaveableRegistration.html", null ],
     [ "dependency_graph::Selection", "classdependency__graph_1_1Selection.html", null ],
