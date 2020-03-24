@@ -1,5 +1,6 @@
 var NAVTREEINDEX8 =
 {
+"classpossumwood_1_1Enum.html#aff091db1a4dfd0c9f24059cdee5c3505":[2,0,5,28,3],
 "classpossumwood_1_1Filename.html":[2,0,5,29],
 "classpossumwood_1_1Filename.html#a024570e8b3b85a8e6388b427f44f1a7b":[2,0,5,29,8],
 "classpossumwood_1_1Filename.html#a113ae7dccb31273204ed4871596d550d":[2,0,5,29,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX8 =
 "classpossumwood_1_1Shader.html#a41851e3d7e244738aed7732bf2af36ec":[2,0,5,62,9],
 "classpossumwood_1_1Shader.html#a77e429318cd9e710dfa6a82ac9cb0bc9":[2,0,5,62,2],
 "classpossumwood_1_1Shader.html#a9d8709544c30abea7c8d825feedbe6f8":[2,0,5,62,6],
-"classpossumwood_1_1Shader.html#ab88dbc2a40eef9df459fe420a061a4b5":[2,0,5,62,1],
-"classpossumwood_1_1Shader.html#ac9e92b8da997eb5b66f87d609b5985f3":[2,0,5,62,7]
+"classpossumwood_1_1Shader.html#ab88dbc2a40eef9df459fe420a061a4b5":[2,0,5,62,1]
 };

@@ -59,7 +59,7 @@ var searchData=
   ['noncopyablestruct',['NoncopyableStruct',['../structNoncopyableStruct.html',1,'NoncopyableStruct'],['../structNoncopyableStruct.html#a9df88efe4d7d9a6745b2fddec1bbda88',1,'NoncopyableStruct::NoncopyableStruct()'],['../structNoncopyableStruct.html#a38956ed061090d564b4dad6dfda8b0eb',1,'NoncopyableStruct::NoncopyableStruct(const NoncopyableStruct &amp;)=delete'],['../structNoncopyableStruct.html#ae0762444de4d2f4a1310954a64c0379d',1,'NoncopyableStruct::NoncopyableStruct(NoncopyableStruct &amp;&amp;)=default']]],
   ['normal_2ecpp',['normal.cpp',['../normal_8cpp.html',1,'']]],
   ['normalize',['normalize',['../classanim_1_1Skinning.html#a721d8ec00e823381525ad4ed39bb1e25',1,'anim::Skinning']]],
-  ['normalize_2ecpp',['normalize.cpp',['../normalize_8cpp.html',1,'']]],
+  ['normalize_2ecpp',['normalize.cpp',['../normalize_8cpp.html',1,'(Global Namespace)'],['../sequence_2normalize_8cpp.html',1,'(Global Namespace)']]],
   ['normals',['normals',['../classanim_1_1SkinnedMesh.html#a6f33019be893f543f0676064d918e818',1,'anim::SkinnedMesh::normals()'],['../classanim_1_1SkinnedMesh.html#ae438c5519109abbcbac92652ece94273',1,'anim::SkinnedMesh::normals() const']]],
   ['normals_5fgenerator_2ecpp',['normals_generator.cpp',['../normals__generator_8cpp.html',1,'']]],
   ['not_2ecpp',['not.cpp',['../not_8cpp.html',1,'']]],

@@ -31,6 +31,7 @@ var searchData=
   ['compute_5fdirty_2ecpp',['compute_dirty.cpp',['../compute__dirty_8cpp.html',1,'']]],
   ['concat_2ecpp',['concat.cpp',['../concat_8cpp.html',1,'']]],
   ['concat_5f3_2ecpp',['concat_3.cpp',['../concat__3_8cpp.html',1,'']]],
+  ['confidence_2ecpp',['confidence.cpp',['../confidence_8cpp.html',1,'']]],
   ['config_2ecpp',['config.cpp',['../config_8cpp.html',1,'']]],
   ['config_2eh',['config.h',['../config_8h.html',1,'']]],
   ['config_2einl',['config.inl',['../config_8inl.html',1,'']]],
